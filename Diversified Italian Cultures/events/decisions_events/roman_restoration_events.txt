@@ -3318,3 +3318,165 @@ roman_restoration.0175 = {
 		name = roman_restoration.0175.a
 	}
 }
+
+### Diversified Italian Cultures Western Roman
+roman_restoration.0180 = {
+	type = character_event
+	title = roman_restoration.0180.t
+	desc = {
+		desc = roman_restoration.0180.desc # Introduction.
+		first_valid = {
+			# Doing it as Christians.
+			triggered_desc = {
+				trigger = {
+					NOT = {
+						faith.religion = faith:hellenic_pagan.religion
+					}
+				}
+				desc = roman_restoration.0001.desc.christians
+			}
+			# Doing it as Hellenics
+			triggered_desc = {
+				trigger = {
+					faith.religion = faith:hellenic_pagan.religion
+				}
+				desc = roman_restoration.0001.desc.hellenics
+			}
+		}
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		save_scope_as = scoped_emperor
+		create_western_roman_empire_scripted_effect = yes
+	}
+
+	option = {
+		name = roman_restoration.0180.a
+		set_nickname_effect = { NICKNAME = nick_the_glorious }
+		# Send narrative fluff to other players (if any).
+		every_player = {
+			limit = {
+				NOT = { this = root }
+				is_within_diplo_range = { CHARACTER = root }
+			}
+			trigger_event = roman_restoration.0181
+		}
+	}
+}
+
+# Players informed of (Italian) Roman Empire being reborn.
+roman_restoration.0181 = {
+	type = character_event
+	title = roman_restoration.0181.t
+	desc = {
+		first_valid = {
+			# Reaction of the Byzantines (if they are even still around)
+			triggered_desc = {
+				trigger = {
+					OR = {
+						has_title = title:e_byzantium
+						any_liege_or_above = {
+							has_title = title:e_byzantium
+						}
+					}
+				}
+				desc = roman_restoration.0181.desc.byzantines
+			}
+			# Everybody else.
+			triggered_desc = {
+				trigger = {
+					NOR = {
+						has_title = title:e_byzantium
+						any_liege_or_above = {
+							has_title = title:e_byzantium
+						}
+					}
+				}
+				desc = roman_restoration.0181.desc.others
+			}
+			first_valid = {
+				# Regular.
+				triggered_desc = {
+					trigger = {
+						NOT = {
+							scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+							faith.religion = faith:catholic.religion
+						}
+					}
+					desc = roman_restoration.0002.desc.christians
+				}
+				# Christians freaking out.
+				triggered_desc = {
+					trigger = {
+						scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+						faith.religion = faith:catholic.religion
+					}
+					desc = roman_restoration.0002.desc.hellenics
+				}
+			}
+		}
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_bold
+	}
+
+	option = { # Regular
+		name = roman_restoration.0002.a
+		trigger = {
+			NOT = {
+				scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+				faith.religion = faith:catholic.religion
+			}
+			NOR = {
+				has_title = title:e_byzantium
+				has_title = title:e_hre
+			}
+		}
+	}
+	option = { # Regular vs Byzantium/HRE
+		name = roman_restoration.0002.b
+		trigger = {
+			NOT = {
+				scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+				faith.religion = faith:catholic.religion
+			}
+			OR = {
+				has_title = title:e_byzantium
+				has_title = title:e_hre
+			}
+		}
+	}
+	option = { # Crazy Hellenics
+		name = roman_restoration.0002.c
+		trigger = {
+			scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+			faith.religion = faith:catholic.religion
+			NOR = {
+				has_title = title:e_byzantium
+				has_title = title:e_hre
+			}
+		}
+	}
+	option = { # Crazy Hellenics vs Byzantium/HRE
+		name = roman_restoration.0002.d
+		trigger = {
+			scope:scoped_emperor = { faith.religion = faith:hellenic_pagan.religion }
+			faith.religion = faith:catholic.religion
+			OR = {
+				has_title = title:e_byzantium
+				has_title = title:e_hre
+			}
+		}
+		stress_impact = {
+			zealous = minor_stress_impact_gain
+		}
+	}
+}

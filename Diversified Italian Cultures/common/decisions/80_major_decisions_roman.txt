@@ -72,7 +72,7 @@ restore_roman_empire_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -151,7 +151,7 @@ restore_roman_empire_holy_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -254,7 +254,7 @@ restore_roman_empire_italian_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -334,7 +334,7 @@ mend_the_great_schism_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -359,7 +359,7 @@ set_capital_constantinople_decision = {
 		has_title = title:e_byzantium
 		NOT = { capital_county = { this = title:c_byzantion } }
 		OR = {
-			title:c_byzantion.holder = { 	
+			title:c_byzantion.holder = {
 				any_liege_or_above = { this = root }
 			}
 			title:c_byzantion.holder = { this = root }
@@ -393,7 +393,7 @@ set_capital_constantinople_decision = {
 		}
 		set_realm_capital = title:c_byzantion
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -418,7 +418,7 @@ set_capital_rome_decision = {
 		has_title = title:e_roman_empire
 		NOT = { capital_county = { this = title:c_roma } }
 		OR = {
-			title:c_roma.holder = { 	
+			title:c_roma.holder = {
 				any_liege_or_above = { this = root }
 			}
 			title:c_roma.holder = { this = root }
@@ -452,7 +452,7 @@ set_capital_rome_decision = {
 		}
 		set_realm_capital = title:c_roma
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -496,7 +496,7 @@ establish_iconoclast_patriarchate_decision = {
 			id = roman_restoration.0120
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -547,7 +547,7 @@ restore_ecumenical_patriarchate_decision = {
 			id = roman_restoration.0122
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -605,7 +605,7 @@ restore_papacy_decision = {
 			id = roman_restoration.0124
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -643,20 +643,20 @@ restore_pope_in_rome_decision = {
 		highest_held_title_tier > 3 #Only Kings and Emperors
 		NOT = { capital_county = { this = title:c_roma } }
 		OR = {
-			title:c_roma.holder = { 	
+			title:c_roma.holder = {
 				any_liege_or_above = { this = root }
 			}
 			title:c_roma.holder = { this = root }
 		}
 		NOT = { title:c_roma.holder = { has_title = title:k_papal_state } }
 		title:k_papal_state.holder = {
-			NOT = { 	
+			NOT = {
 				has_opinion_modifier = { #Not accepting it if you conquered it yourself.
 					target = root
 					modifier = declared_war
 				}
 			}
-			NOT = { 	
+			NOT = {
 				has_opinion_modifier = { #Not accepting it if you conquered it yourself.
 					target = root
 					modifier = revoked_title
@@ -696,7 +696,7 @@ restore_pope_in_rome_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -786,7 +786,7 @@ dismantle_papacy_decision = { #For Muslims and Pagans.
 			id = roman_restoration.0130
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -874,7 +874,7 @@ unify_italian_empire_decision = {
 			}
 		}
 	}
-	
+
 	ai_potential = {
 		always = yes
 	}
@@ -944,7 +944,7 @@ dismantle_holy_pretender_decision = {
 			id = roman_restoration.0160
 		}
 	}
-	
+
 	ai_potential = {
 		has_trait = ambitious
 	}
@@ -997,7 +997,7 @@ dismantle_byz_pretender_decision = {
 		completely_controls = title:d_athens
 		completely_controls = title:d_achaia
 	}
-	
+
 	is_valid_showing_failures_only = {
 		is_capable_adult = yes
 		is_imprisoned = no
@@ -1015,9 +1015,130 @@ dismantle_byz_pretender_decision = {
 			id = roman_restoration.0170
 		}
 	}
-	
+
 	ai_potential = {
 		has_trait = ambitious
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+### Diversified Italian Cultures -- Restore Western Empire
+restore_western_roman_empire_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = restore_western_roman_empire_decision_desc
+	selection_tooltip = restore_western_roman_empire_decision_tooltip
+	major = yes
+
+	ai_check_interval = 120
+
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+
+		NOT = { has_title = title:e_byzantium } #Prioritize the real one.
+		NOT = { has_title = title:e_hre } #And the second fiddle.
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_roman_empire
+			}
+		}
+		OR = {
+			culture = culture:italian
+			culture = culture:roman
+			culture = culture:ligurian
+			culture = culture:lombard
+			culture = culture:piedmontese
+			culture = culture:venetian
+			culture = culture:emilian
+			culture = culture:romagnol
+			culture = culture:tuscan
+			culture = culture:sardinian
+			culture = culture:mediano
+			culture = culture:pugliese
+			culture = culture:sicilian
+      culture = culture:catalan
+      culture = culture:basque
+      culture = culture:castilian
+      culture = culture:galician
+      culture = culture:english
+      culture = culture:occitan
+      culture = culture:french
+      culture = culture:baranis
+      culture = culture:andalusian
+      culture = culture:norman
+      culture = culture:maghrebi
+      culture = culture:croatian
+      culture = culture:serbian
+      culture = culture:bosnian
+      culture = culture:portuguese
+      culture = culture:visigothic
+      culture = culture:romanesque
+		}
+
+		OR = {
+			has_government = feudal_government
+			has_government = republic_government
+			has_government = clan_government
+		}
+	}
+
+	is_valid = {
+		prestige_level >= max_prestige_level
+		completely_controls = title:d_latium
+		completely_controls = title:d_venice
+		completely_controls = title:d_romagna
+		completely_controls = title:d_sicily
+		completely_controls = title:d_genoa
+		completely_controls = title:d_capua
+		completely_controls = title:d_apulia
+		completely_controls = title:d_dauphine
+		completely_controls = title:d_provence
+		completely_controls = title:d_sevilla
+		completely_controls = title:d_valois
+		completely_controls = title:d_aquitaine
+		completely_controls = title:d_tunis
+		completely_controls = title:d_croatia
+		completely_controls = title:d_murcia
+    completely_controls = title:d_barcelona
+    completely_controls = title:d_alger
+    completely_controls = title:d_rif
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+		OR = {
+			faith.religion = faith:catholic.religion #Either Christian
+			faith.religion = faith:hellenic_pagan.religion #Or Hellenic
+      faith.religion = faith:islam.religion #Or Muslim
+			culture = culture:roman
+		}
+	}
+
+	effect = {
+		custom_tooltip = restore_western_roman_empire_decision_effect_tooltip
+		show_as_tooltip = {
+			create_western_roman_empire_scripted_effect = yes
+		}
+		trigger_event = {
+			id = roman_restoration.0180
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_western_roman_empire
+			}
+		}
+	}
+
+	ai_potential = {
+		always = yes
 	}
 
 	ai_will_do = {
