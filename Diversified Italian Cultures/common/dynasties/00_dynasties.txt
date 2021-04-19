@@ -24423,3 +24423,16 @@ maginfritidi = {
 887754647={ prefix = "dynnp_d_" name = "dynn_Recupito" culture = pugliese }
 887754648={ prefix = "dynnp_d_" name = "dynn_Rosa" culture = pugliese }
 887754649={ prefix = "dynnp_d_" name = "dynn_Tegora" culture = pugliese }
+
+##Roman Emperors for Histories
+
+98765432101 = { name = "dynn_Anicius" culture = "roman" }
+98765432102 = { name = "dynn_Eparchius" culture = "roman" }
+98765432103 = { name = "dynn_Valerius" culture = "roman" }
+98765432104 = { name = "dynn_Severus" culture = "roman" }
+98765432105 = { name = "dynn_Procopius" culture = "roman" }
+98765432106 = { name = "dynn_Nepos" culture = "roman" }
+98765432107 = { name = "dynn_Flavius" culture = "roman" }
+98765432108 = { name = "dynn_Ardaburid" culture = "roman" }
+98765432109 = { name = "dynn_Romanus" culture = "roman" }
+

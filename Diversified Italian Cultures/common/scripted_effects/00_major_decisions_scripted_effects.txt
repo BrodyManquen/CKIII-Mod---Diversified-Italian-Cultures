@@ -1920,7 +1920,7 @@ create_western_roman_empire_scripted_effect = {
 				limit = {
 					tier = tier_kingdom
 				}
-				set_de_jure_liege_title = title:e_wester_roman_empire
+				set_de_jure_liege_title = title:e_western_roman_empire
 
 			}
 		}

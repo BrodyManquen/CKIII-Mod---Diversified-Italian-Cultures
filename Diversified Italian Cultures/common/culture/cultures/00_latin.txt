@@ -4835,6 +4835,15 @@
 			"dynn_Angelid"
 			"dynn_Laskarid"
 			"dynn_Palaiologan"
+			"dynn_Anicius"
+			"dynn_Eparchius"
+			"dynn_Valerius"
+			"dynn_Severus"
+			"dynn_Procopius"
+			"dynn_Nepos"
+			"dynn_Romanus"
+			"dynn_Ardaburid"
+			"dynn_Flavius"
 		}
 
 		male_names = {

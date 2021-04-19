@@ -3329,18 +3329,22 @@ roman_restoration.0180 = {
 			# Doing it as Christians.
 			triggered_desc = {
 				trigger = {
-					NOT = {
-						faith.religion = faith:hellenic_pagan.religion
-					}
+					faith.religion = faith:christian.religion
 				}
-				desc = roman_restoration.0001.desc.christians
+				desc = western_roman_restoration.0001.desc.christians
 			}
 			# Doing it as Hellenics
 			triggered_desc = {
 				trigger = {
 					faith.religion = faith:hellenic_pagan.religion
 				}
-				desc = roman_restoration.0001.desc.hellenics
+				desc = western_roman_restoration.0001.desc.hellenics
+			}
+			triggered_desc = {
+				trigger = {
+					faith.religion = faith:islam.religion
+				}
+				desc = western_roman_restoration.0001.desc.muslims
 			}
 		}
 	}
