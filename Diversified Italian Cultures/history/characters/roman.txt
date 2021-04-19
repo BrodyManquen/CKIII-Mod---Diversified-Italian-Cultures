@@ -21,7 +21,25 @@
 		death = "457.1.27"
 	}
 }
-
+7051901 = {
+	name = "Aelia Flaccilla"
+	religion = "orthodox"
+	female = yes
+	culture = "roman"
+	trait = humble
+	trait = generous
+	trait = compassionate
+	trait = education_diplomacy_2
+	356.3.31 = {
+		birth = "356.3.31"
+	}
+	375.6.15 = {
+		add_spouse = 70534
+	}
+	386.6.15 = {
+		death = "386.6.15"
+	}
+}
 70519 = {
 	name = "Arcadius"
 	# Flavius Arcadius Augustus
@@ -36,7 +54,7 @@
 	trait = shy
 	trait = education_stewardship_1
 	father = 70534
-
+	mother = 7051901
 	377.12.1 = {
 		birth = "377.12.1"
 	}
@@ -236,12 +254,129 @@
 	trait = gregarious
 	trait = education_stewardship_1
 	father = 70519
-
+	mother = 7053304
 	401.4.10 = {
 		birth = "401.4.10"
 	}
+	421.6.7 = {
+		add_spouse = 7053302
+	}
 	450.7.28 = {
 		death = "450.7.28"
+	}
+}
+
+7053301 = {
+	name = "Licinia Eudoxia"
+	# Licinia Eudoxia
+	female = yes
+	dynasty = 1022191
+	martial = 4
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 8
+	religion = "orthodox"
+	culture = "roman"
+	trait = honest
+	trait = gregarious
+	trait = education_diplomacy_2
+	father = 70533
+	mother = 7053302
+	422.6.15 = {
+		birth = "422.6.15"
+	}
+	437.10.29 = {
+		add_spouse = 145229
+	}
+	455.3.17 = {
+		add_spouse = 01010101020003
+	}
+	493.6.15 = {
+		death = "493.6.15"
+	}
+}
+
+7053302 = {
+	name = "Aelia Eudocia"
+	# Aelia Eudocia
+	female = yes
+	religion = "orthodox"
+	culture = "greek"
+	trait = honest
+	trait = compassionate
+	trait = patient
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = scholar
+	trait = poet
+	trait = education_learning_4
+	father = 7053303
+	400.6.15 = {
+		birth = "400.6.15"
+	}
+	421.6.7 = {
+		add_spouse = 70533
+	}
+	460.6.15 = {
+		death = "460.6.15"
+	}
+}
+
+7053303 = {
+	name = "Leontius"
+	# Aelia Eudocia's father
+	religion = "hellenic_pagan"
+	culture = "greek"
+	trait = honest
+	trait = compassionate
+	trait = zealous
+	trait = intellect_good_2
+	trait = scholar
+	trait = education_learning_4
+	370.6.15 = {
+		birth = "370.6.15"
+	}
+	420.6.15 = {
+		death = "420.6.15"
+	}
+}
+
+7053304 = {
+	name = "Aelia Eudoxia"
+	# Aelia Eudocia
+	female = yes
+	religion = "catholic"
+	culture = "roman"
+	trait = honest
+	trait = compassionate
+	trait = patient
+	trait = education_learning_2
+	father = 7053305
+	375.6.15 = {
+		birth = "375.6.15"
+	}
+	395.4.27 = {
+		add_spouse = 70519
+	}
+	404.10.6 = {
+		death = "404.10.6"
+	}
+}
+
+7053305 = {
+	name = "Flavius Bauto"
+	# Aelia Eudoxia's father
+	religion = "catholic"
+	culture = "frankish"
+	trait = callous
+	trait = brave
+	trait = patient
+	trait = education_martial_3
+	340.6.15 = {
+		birth = "340.6.15"
+	}
+	385.6.15 = {
+		death = "385.6.15"
 	}
 }
 
@@ -308,9 +443,9 @@
 0022002200184 = {
 	name = "Iohannes"
 	# Iohannes
+	dynasty = 10222420
 	religion = "catholic"
 	culture = "roman"
-	dynasty = 98765432109
 	trait = brave
 	trait = compassionate
 	trait = just
@@ -326,7 +461,7 @@
 01010101020003  = {
 	name = "Petronius Probus"
 	# Petronius Maximus
-	dynasty = 98765432101
+	dynasty = 10222340
 	religion = "catholic"
 	culture = "roman"
 	trait = arrogant
@@ -336,6 +471,9 @@
 	345.6.15 = {
 		birth = "345.6.15"
 	}
+	455.4.17 = {
+		add_spouse = 7053301
+	}
 	400.6.15 = {
 		death = "400.6.15"
 	}
@@ -344,7 +482,7 @@
 01010101020002  = {
 	name = "Probinus"
 	# Petronius Maximus
-	dynasty = 98765432101
+	dynasty = 10222340
 	religion = "catholic"
 	culture = "roman"
 	father = 01010101020003
@@ -362,7 +500,7 @@
 0101010102  = {
 	name = "Petronius Maximus"
 	# Petronius Maximus
-	dynasty = 98765432101
+	dynasty = 10222340
 	religion = "catholic"
 	culture = "roman"
 	trait = brave
@@ -372,6 +510,9 @@
 	397.6.15 = {
 		birth = "397.6.15"
 	}
+	419.6.15 = {
+		add_spouse = 10222340
+	}
 	455.5.31 = {
 		death = "455.5.31"
 	}
@@ -380,7 +521,7 @@
 010101010201  = {
 	name = "Palladius"
 	# Palladius
-	dynasty = 98765432101
+	dynasty = 10222340
 	religion = "catholic"
 	culture = "roman"
 	trait = diligent
@@ -399,10 +540,10 @@
 010101010301 = {
 	name = "Philagrius"
 	# Avitus' father
-	dynasty = 98765432102
+	dynasty = 10222350
 	religion = "catholic"
 	culture = "roman"
-	trait = charitable
+	trait = generous
 	trait = just
 	trait = temperate
 	trait = education_stewardship_3
@@ -419,9 +560,9 @@
 	# Avitus' father
 	religion = "catholic"
 	culture = "roman"
-	dynasty = 98765432102
+	dynasty = 10222350
 	father = 010101010301
-	trait = charitable
+	trait = generous
 	trait = just
 	trait = temperate
 	trait = education_stewardship_3
@@ -436,16 +577,19 @@
 010101010303 = {
 	name = "Eparchia"
 	# Avitus' sister possibly mother of Palladius
-	dynasty = 98765432102
+	dynasty = 10222350
 	female = yes
 	religion = "catholic"
 	culture = "roman"
 	father = 010101010302
-	trait = charitable
+	trait = generous
 	trait = gregarious
 	trait = education_diplomacy_2
 	397.6.15 = {
 		birth = "397.6.15"
+	}
+	419.6.15 = {
+		add_spouse = 10222340
 	}
 	457.6.15 = {
 		death = "460.6.15"
@@ -455,11 +599,11 @@
 0101010103  = {
 	name = "Avitus"
 	# Avitus
-	dynasty = 98765432102
+	dynasty = 10222350
 	religion = "catholic"
 	culture = "roman"       ##Really was Gallo-Roman which was significant because detractors used anti-foreigner rhetoric to whip up people to depose him after he gave many jobs to Gallo-Romans over Italian Romans
 	father = 010101010302
-	trait = charitable
+	trait = generous
 	trait = trusting
 	trait = education_martial_2
 	390.6.15 = {
@@ -473,11 +617,11 @@
 10101010304 = {
 	name = "Agricola"
 	# Avitus' son
-	dynasty = 98765432102
+	dynasty = 10222350
 	religion = "catholic"
 	culture = "roman"
 	father = 0101010103
-	trait = charitable
+	trait = generous
 	trait = gregarious
 	trait = education_diplomacy_2
 	415.6.15 = {
@@ -491,7 +635,7 @@
 10101010305 = {
 	name = "Ecdicius Avitus"
 	# Avitus' son
-	dynasty = 98765432102
+	dynasty = 10222350
 	religion = "catholic"
 	culture = "roman"
 	father = 0101010103
@@ -510,7 +654,7 @@
 10101010306 = {
 	name = "Papianilla"
 	# Avitus' daughter
-	dynasty = 98765432102
+	dynasty = 10222350
 	female = yes
 	religion = "catholic"
 	culture = "roman"
@@ -530,7 +674,7 @@
 0101010104  = {
 	name = "Maiorianus"
 	# Majorian
-	dynasty = 98765432103
+	dynasty = 10222360
 	religion = "catholic"
 	culture = "roman"
 	trait = brave
@@ -549,7 +693,7 @@
 0101010105  = {
 	name = "Libius Severus"
 	# Severus III
-	dynasty = 98765432104
+	dynasty = 10222370
 	religion = "catholic"
 	culture = "roman"
 	trait = zealous
@@ -567,7 +711,7 @@
 0101010106  = {
 	name = "Anthemius"
 	# Anthemius
-	dynasty = 98765432105
+	dynasty = 10222380
 	religion = "catholic"
 	culture = "roman"
 	trait = strategist
@@ -588,7 +732,7 @@
 010101010602  = {
 	name = "Alypia"
 	# Anthemius's daughter
-	dynasty = 98765432105
+	dynasty = 10222380
 	female = yes
 	father = 0101010106
 	mother = 010101010601
@@ -609,7 +753,7 @@
 010101010603  = {
 	name = "Anthemiolus"
 	# Anthemius's son
-	dynasty = 98765432105
+	dynasty = 10222380
 	father = 0101010106
 	mother = 010101010601
 	religion = "catholic"
@@ -629,7 +773,7 @@
 010101010604  = {
 	name = "Marcianus"
 	# Anthemius's son
-	dynasty = 98765432105
+	dynasty = 10222380
 	father = 0101010106
 	mother = 010101010601
 	religion = "catholic"
@@ -649,7 +793,7 @@
 010101010605  = {
 	name = "Procopius Anthemius"
 	# Anthemius's son
-	dynasty = 98765432105
+	dynasty = 10222380
 	father = 0101010106
 	mother = 010101010601
 	religion = "catholic"
@@ -669,7 +813,7 @@
 010101010606  = {
 	name = "Romulus"
 	# Anthemius's son
-	dynasty = 98765432105
+	dynasty = 10222380
 	father = 0101010106
 	mother = 010101010601
 	religion = "catholic"
@@ -721,6 +865,7 @@
 	trait = diligent
 	trait = education_learning_2
 	father = 145229
+	mother = 7053301
 	440.6.15 = {
 		birth = "440.6.15"
 	}
@@ -735,7 +880,7 @@
 0101010107  = {
 	name = "Olybrius"
 	# Olybrius
-	dynasty = 98765432101
+	dynasty = 10222340
 	religion = "catholic"
 	culture = "roman"
 	trait = arrogant
@@ -755,7 +900,7 @@
 010101010702  = {
 	name = "Anicia Juliana"
 	# Olybrius' daughter
-	dynasty = 98765432101
+	dynasty = 10222340
 	female = yes
 	father = 0101010107
 	mother = 010101010701
@@ -778,7 +923,7 @@
 0101010107999  = {
 	name = "Flavius Olybrius"
 	# Olybrius' daughter
-	dynasty = 98765432107
+	dynasty = 102223400
 	father = 010101010709
 	mother = 010101010702
 	religion = "catholic"
@@ -798,7 +943,7 @@
 010101010703  = {
 	name = "Areobindus"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432107
+	dynasty = 102223400
 	religion = "catholic"
 	culture = "visigothic"
 	trait = diligent
@@ -816,7 +961,7 @@
 010101010704  = {
 	name = "Dagalaifus"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432107
+	dynasty = 102223400
 	father = 010101010703
 	religion = "catholic"
 	culture = "visigothic"
@@ -838,7 +983,7 @@
 010101010709  = {
 	name = "Areobindus Dagalaifus"
 	# Husband of Anicia Juliana
-	dynasty = 98765432107
+	dynasty = 102223400
 	father = 010101010704
 	mother = 010101010705
 	religion = "catholic"
@@ -861,7 +1006,7 @@
 010101010705  = {
 	name = "Godisthea"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432108
+	dynasty = 102223410
 	female = yes
 	father = 010101010706
 	religion = "catholic"
@@ -884,7 +1029,7 @@
 010101010706  = {
 	name = "Ardabur"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432108
+	dynasty = 102223410
 	father = 010101010707
 	religion = "catholic"
 	culture = "alan"
@@ -903,7 +1048,7 @@
 010101010707  = {
 	name = "Aspar"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432108
+	dynasty = 102223410
 	father = 010101010708
 	religion = "catholic"
 	culture = "alan"
@@ -923,7 +1068,7 @@
 010101010708  = {
 	name = "Ardabur"
 	# Ancestor of husband of Anicia Juliana
-	dynasty = 98765432108
+	dynasty = 102223410
 	religion = "catholic"
 	culture = "alan"
 	trait = diligent
@@ -941,6 +1086,7 @@
 0101010108  = {
 	name = "Glycerius"
 	# Glycerius
+	dynasty = 10222420
 	religion = "catholic"
 	culture = "roman"
 	trait = content
@@ -955,9 +1101,9 @@
 }
 
 0101010109 = {
-	name = "Julius"
+	name = "Julius Nepos"
 	# Julius Nepos
-	dynasty = 98765432106
+	dynasty = 10222420
 	religion = "catholic"
 	culture = "roman"
 	trait = arrogant
@@ -976,7 +1122,7 @@
 010101010901 = {
 	name = "Nepotianus"
 	# Julius Nepos' father Nepotianus
-	dynasty = 98765432106
+	dynasty = 10222420
 	religion = "catholic"
 	culture = "roman"
 	trait = humble
@@ -1020,6 +1166,9 @@
 	father = 145228
 	419.7.2 = {
 		birth = "419.7.2"
+	}
+	437.10.29 = {
+		add_spouse = 7053301
 	}
 	455.3.16 = {
 		death = "455.3.16"
@@ -3446,6 +3595,7 @@
 	religion = "catholic"
 	culture = "roman"
 	father = 145229
+	mother = 7053301
 	438.1.1 = {
 		birth = yes
 	}

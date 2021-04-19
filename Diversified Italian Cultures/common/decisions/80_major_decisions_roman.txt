@@ -821,22 +821,6 @@ unify_italian_empire_decision = {
 		culture = culture:mediano
 		culture = culture:pugliese
 		culture = culture:sicilian
-		culture = culture:catalan
-		culture = culture:basque
-		culture = culture:castilian
-		culture = culture:galician
-		culture = culture:english
-		culture = culture:occitan
-		culture = culture:french
-		culture = culture:baranis
-		culture = culture:andalusian
-		culture = culture:norman
-		culture = culture:maghrebi
-		culture = culture:croatian
-		culture = culture:serbian
-		culture = culture:bosnian
-		culture = culture:portuguese
-		culture = culture:visigothic
 		culture = culture:romanesque
 		}
 		is_ruler = yes
@@ -1055,7 +1039,6 @@ restore_western_roman_empire_decision = {
 	is_shown = {
 		is_ruler = yes
 		is_landed = yes
-		has_title = e_italy
 		NOT = { has_title = title:e_byzantium } #Prioritize the real one.
 		NOT = { has_title = title:e_hre } #And the second fiddle.
 		NOT = {  #Can only do it once.
@@ -1096,10 +1079,6 @@ restore_western_roman_empire_decision = {
       culture = culture:visigothic
       culture = culture:romanesque
 		}
-		is_target_in_global_variable_list = { #Only available after unifying Italy.
-			name = unavailable_unique_decisions
-			target = flag:flag_unified_italian_empire
-		}
 		OR = {
 			has_government = feudal_government
 			has_government = republic_government
@@ -1133,12 +1112,6 @@ restore_western_roman_empire_decision = {
 		is_capable_adult = yes
 		is_imprisoned = no
 		is_independent_ruler = yes
-		OR = {
-			faith.religion = faith:catholic.religion #Either Christian
-			faith.religion = faith:hellenic_pagan.religion #Or Hellenic
-      faith.religion = faith:islam.religion #Or Muslim
-			culture = culture:roman
-		}
 	}
 
 	effect = {

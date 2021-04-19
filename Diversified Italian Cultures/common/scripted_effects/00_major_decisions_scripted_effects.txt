@@ -1936,10 +1936,9 @@ create_western_roman_empire_scripted_effect = {
 			change = scope:change
 		}
 		set_variable = {
-			name = variable_restored_italy #Used for flavor later.
+			name = variable_western_roman_empire #Used for flavor later.
 			value = yes
 		}
-		copy_title_history = title:e_italy
 	}
 	resolve_title_and_vassal_change = scope:change
 	hidden_effect = { set_primary_title_to = title:e_western_roman_empire }

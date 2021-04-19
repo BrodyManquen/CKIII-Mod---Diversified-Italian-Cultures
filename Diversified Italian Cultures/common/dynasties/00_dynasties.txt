@@ -6981,7 +6981,7 @@
 }
 516 = {
 	name = "dynn_Contarini"
-	culture = "italian"
+	culture = "cisalpine"
 }
 520 = {
 	prefix = "dynnp_di"
@@ -7665,6 +7665,11 @@
 	culture = "swedish"
 	motto = dynn_Oltner_motto
 }
+874 = {
+	name = "dynn_Anward"
+	culture = "swedish"
+	motto = dynn_Anward_motto
+}
 885 = {
 	name = "dynn_Frary"
 	culture = "anglo_saxon"
@@ -7919,7 +7924,7 @@
 }
 7184 = {
 	name = "dynn_Landolfidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 7186 = {
 	prefix = "dynnp_di"
@@ -9857,8 +9862,9 @@
 	culture = "italian"
 }
 100357 = {
-	name = "dynn_Collalto"
-	culture = "cisalpine"
+	prefix = "dynnp_di"
+	name = "dynn_Treviso"
+	culture = "italian"
 }
 100358 = {
 	prefix = "dynnp_d_"
@@ -9868,11 +9874,10 @@
 100368 = {
 	prefix = "dynnp_von"
 	name = "dynn_Danzig"
-	culture = "prussian"
+	culture = "saxon"
 }
 100370 = {
-	prefix = "dynnp_von"
-	name = "dynn_Marienburg"
+	name = "dynn_Pomesania"
 	culture = "prussian"
 }
 100371 = {
@@ -9986,8 +9991,7 @@
 	culture = "lithuanian"
 }
 100427 = {
-	prefix = "dynnp_von"
-	name = "dynn_Finckenstein"
+	name = "dynn_WA_rmi"
 	culture = "prussian"
 }
 100462 = {
@@ -10027,7 +10031,7 @@
 	culture = "vlach"
 }
 100542 = {
-	name = "dynn_Gutkeled"
+	name = "dynn_KU_rA_id"
 	culture = "cuman"
 }
 100543 = {
@@ -10652,6 +10656,10 @@
 }
 101682 = {
 	name = "dynn_Dukljanin"
+	culture = "serbian"
+}
+2000041 = { #Fictional filler dynasty
+	name = "dynn_Dragosovic"
 	culture = "serbian"
 }
 101685 = {
@@ -11558,7 +11566,7 @@
 }
 1022143 = {
 	name = "dynn_Petringi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1022144 = {
 	name = "dynn_Vaklikas"
@@ -13160,168 +13168,168 @@
 }
 1044031 = {
 	name = "dynn_Gausian"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044032
 # 1044036
 1044037 = {
 	name = "dynn_Nordepertidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044038 = {
 	name = "dynn_Gaiduldling"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044039
 # 1044041
 1044042 = {
 	name = "dynn_Hermenricidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044043
 1044044 = {
 	name = "dynn_Siconidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044045 = {
 	name = "dynn_Beleoingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044046
 1044047 = {
 	name = "dynn_Arioldling"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044048 = {
 	name = "dynn_Harodingian"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044049
 1044050 = {
 	name = "dynn_Billoingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044051 = {
 	name = "dynn_Ansprandling"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044052 = {
 	name = "dynn_Munichingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044053 = {
 	name = "dynn_Desideridi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044054 = {
 	name = "dynn_Alachisling"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044059 = {
 	name = "dynn_Wechtaringi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044060 = {
 	name = "dynn_Ansfridingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044061 = {
 	name = "dynn_Theodingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044062
 1044063 = {
 	name = "dynn_Ursingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044064 = {
 	name = "dynn_Ademingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044065 = {
 	name = "dynn_Adalbertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044066 = {
 	name = "dynn_Walpertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044067 = {
 	name = "dynn_Tachipertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044068 = {
 	name = "dynn_Teduericingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044069 = {
 	name = "dynn_Daufingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044070 = {
 	name = "dynn_Rodoaldingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044071 = {
 	name = "dynn_Gandulfingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044072 = {
 	name = "dynn_Maioingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044073 = {
 	name = "dynn_Paldonidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044074 = {
 	name = "dynn_Varbertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044075 = {
 	name = "dynn_Paldoling"
-	culture = "langobard"
+	culture = "lombard"
 }
 #1044076 = {
 #	name = "dynn_Tatingi"
-#	culture = "langobard"
+#	culture = "lombard"
 #}
 1044077 = {
 	name = "dynn_Lambertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044078 = {
 	name = "dynn_Engelbertingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044079 = {
 	name = "dynn_Liutfredingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044080 = {
 	name = "dynn_Gaidoaldingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044081 = {
 	name = "dynn_Tasoingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044082 = {
 	name = "dynn_Petringi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044083 = {
 	name = "dynn_Faroaldingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1044084 = {
 	name = "dynn_Liutprandingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 # 1044085
 1044086 = {
 	name = "dynn_Roderissingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 1022261 = {
 	name = "dynn_Kameniatis"
@@ -18428,42 +18436,42 @@ salimid = {
 }
 1062609 = {
 	name = "dynn_Adaloaldidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 anawas = {
 	name = "dynn_Anawas"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 audelaisidi = {
 	name = "dynn_Audelaisidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 balsamidi = {
 	name = "dynn_Balsamidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 1062594 = {
 	name = "dynn_Faroaldingi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 godescalcidi = {
 	name = "dynn_Godescalcidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 grimoaldidi = {
 	name = "dynn_Grimoaldidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 paldefridi = {
 	name = "dynn_Paldefridi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 loreto = {
@@ -19958,6 +19966,42 @@ wadensten1234 = { #Easter Egg
 	motto = dynn_lohmander_motto
 }
 
+easteregg_dynasty_0064 = { #Fictitious
+	name = "dynn_Harris"
+	culture = anglo_saxon
+	motto = dynn_Harris_motto
+}
+
+easteregg_dynasty_0065 = { #Fictitious
+	name = "dynn_Cywinski"
+	culture = prussian
+	motto = dynn_Cywinski_motto
+}
+
+easteregg_dynasty_0066 = { #Fictitious
+	name = "dynn_Kaltsogiannis"
+	culture = greek
+	motto = dynn_Kaltsogiannis_motto
+}
+
+easteregg_dynasty_0067 = { #Fictitious
+	name = "dynn_Springmountain"
+	culture = norse
+	motto = dynn_Springmountain_motto
+}
+
+easteregg_dynasty_0068 = { #Fictitious
+	name = "dynn_CederslA_tt"
+	culture = norse
+	motto = dynn_CederslA_tt_motto
+}
+
+easteregg_dynasty_0069 = { #Fictitious
+    name = "dynn_Borg"
+    culture = swedish
+    motto = dynn_Borg_motto
+}
+
 #1062023 = {		# Placeholder TODO_CD
 #	name = "Krems"
 #	culture = "franconian"
@@ -20529,8 +20573,7 @@ wadensten1234 = { #Easter Egg
 	culture = "french"
 }
 2001322 = {
-	prefix = "dynnp_de"
-	name = "dynn_La_Chatre"	#de La Châtre
+	name = "dynn_Deols"	#Déols
 	culture = "french"
 }
 brynffenigl1234 = {
@@ -20617,6 +20660,34 @@ sami_mainioed = {
 	name = "dynn_Mainioed"
 	culture = "sami"
 }
+#Fictional
+sami_viggoed = {
+	name = "dynn_Viggoed"
+	culture = "sami"
+}
+#Fictional
+sami_sombio = {
+	name = "dynn_Sombio"
+	culture = "sami"
+}
+#Fictional
+sami_suadigil = {
+	name = "dynn_SuA_digil"
+	culture = "sami"
+}
+#Fictional
+sami_mohkku = {
+	name = "dynn_Mohkkued"
+	culture = "sami"
+}
+sami_jochmoch = {
+	name = "dynn_Jochmoch"
+	culture = "sami"
+}
+sami_warager = {
+	name = "dynn_Warager"
+	culture = "sami"
+}
 zanche = {
 	name = "dynn_Zanche"
 	culture = "sardinian"
@@ -20624,6 +20695,10 @@ zanche = {
 guldtupp = {
 	name = "dynn_Guldtupp"
 	culture = "swedish"
+}
+norwegian_ormslev = {
+	name = "dynn_Ormslev"
+	culture = "norwegian"
 }
 
 # CATALAN
@@ -20693,7 +20768,7 @@ camposampiero = {
 carcano = {
 	prefix = "dynnp_da"
 	name = "dynn_Carcano"
-	culture = "lombard"
+	culture = "cisalpine"
 }
 castelcampo = {
 	prefix = "dynnp_di"
@@ -20740,7 +20815,7 @@ faletti = {
 flavon = {
 	prefix = "dynnp_di"
 	name = "dynn_Flavon"
-	culture = "lombard"
+	culture = "cisalpine"
 }
 fosdinovo = {
 	prefix = "dynnp_di"
@@ -20762,7 +20837,7 @@ guaracco = {
 intimiano = {
 	prefix = "dynnp_da"
 	name = "dynn_Intimiano"
-	culture = "lombard"
+	culture = "cisalpine"
 }
 1040093 = {
 	prefix = "dynnp_d_"
@@ -21005,10 +21080,10 @@ fucecchio = {
 	culture = "italian"
 }
 
-# langobard
+# LOMBARD
 maginfritidi = {
 	name = "dynn_Maginfritidi"
-	culture = "langobard"
+	culture = "lombard"
 }
 
 # SICILIAN
@@ -21025,8 +21100,120 @@ maginfritidi = {
 	name = "dynn_Unale_of_Naples"
 	culture = "sicilian"
 }
+#
 
-# TOSCANO
+2000024 = { #Fictional
+	name = "dynn_Farisid"
+	culture = "kurdish"
+}
+2001323 = {
+	name = "dynn_Redari"
+	culture = "polabian"
+}
+2001324 = {	#Fictional
+	name = "dynn_Tolgag"
+	culture = "cuman"
+}
+2001325 = {	#Fictional
+	name = "dynn_Sokortal"
+	culture = "cuman"
+}
+
+# WELSH
+welsh_ap_bleddri = {
+	prefix = "dynnp_ap"
+	name = "dynn_bleddri"
+	culture = "welsh"
+}
+
+# POLABIAN
+2001326 = {	#Fictional, based on Lutici tribe
+	name = "dynn_Lutici"
+	culture = "polabian"
+}
+2000025 = {
+	name = "dynn_Skallawa"
+	culture = "prussian"
+}
+
+# SOMALI
+somali_bali = {	#Fictional
+	name = "dynn_Bali"
+	culture = "somali"
+}
+
+somali_gidaya = {	#Fictional
+	name = "dynn_gidaya"
+	culture = "somali"
+}
+
+somali_ganale = {	#Fictional
+	name = "dynn_ganale"
+	culture = "somali"
+}
+
+#Fictional Sami
+sami_skolti = {
+	name = "dynn_skolti"
+	culture = sami
+}
+
+sami_suontile = {
+	name = "dynn_suontile"
+	culture = sami
+}
+
+sami_vuovi = {
+	name = "dynn_vuovi"
+	culture = sami
+}
+
+sami_kittali = {
+	name = "dynn_kittali"
+	culture = sami
+}
+#End of Fictional Sami
+
+norse_roden = { #Fictional dynasty for Rurik's family.
+	name = "dynn_Roden"
+	culture = norse
+}
+10222340 = {
+	name = "dynn_Anicius"
+	culture = "roman"
+  }
+10222350 = {
+	name = "dynn_Eparchius"
+	culture = "roman"
+	}
+10222360 = {
+	name = "dynn_Valerius"
+	culture = "roman"
+}
+10222370 = {
+	name = "dynn_Severus"
+	culture = "roman"
+	}
+10222380 = {
+	name = "dynn_Procopius"
+	culture = "roman"
+}
+10222390 = {
+	name = "dynn_Nepos"
+	culture = "roman"
+}
+10222400 = {
+	name = "dynn_Flavius"
+	culture = "roman"
+}
+10222410 = {
+	name = "dynn_Ardaburid"
+	culture = "roman"
+}
+10222420 = {
+	name = "dynn_Romanus"
+	culture = "roman"
+}
 8800000={name = "dynn_Abadinghi" culture = "toscano" }
 8800001={name = "dynn_Abati" culture = "toscano" }
 8800002={name = "dynn_Abbruciati" culture = "toscano" }
@@ -22924,8 +23111,6 @@ maginfritidi = {
 8801894={name = "dynn_Zeni" culture = "toscano" }
 8801895={name = "dynn_Zerini" culture = "toscano" }
 8801896={name = "dynn_Zuccheri" culture = "toscano" }
-
-#Venetian
 7773331={name = "dynn_Adoldo" culture = "venetian" }
 7773332={name = "dynn_Alberti" culture = "venetian" }
 7773333={name = "dynn_Alberto" culture = "venetian" }
@@ -23162,7 +23347,6 @@ maginfritidi = {
 7773563={name ="dynn_della_Cava" culture = "venetian" }
 7773564={name ="dynn_Della_Scalla" culture = "venetian" }
 7773565={name ="dynn_Di_Pigli" culture = "venetian" }
-#lombard
 62500001={name = "dynn_Astolfi" culture =lombard" }
 62500002={name = "dynn_Allegri" culture =lombard" }
 62500003={name = "dynn_Beccaria" culture =lombard" }
@@ -23284,8 +23468,6 @@ maginfritidi = {
 62500120={name = "dynn_Volta" culture =lombard" }
 62500121={name = "dynn_Zoia" culture =lombard" }
 62500122={name = "dynn_Zorlon" culture =lombard" }
-
-
 62500123={ prefix = "dynnp_di" name = "dynn_Liegi" culture =lombard" }
 62500124={ prefix = "dynnp_di" name = "dynn_Grumbach" culture =lombard" }
 62500125={ prefix = "dynnp_di" name = "dynn_Dixe" culture =lombard" }
@@ -23339,8 +23521,6 @@ maginfritidi = {
 62500173={ prefix = "dynnp_da" name = "dynn_Sesto" culture =lombard" }
 62500174={ prefix = "dynnp_da" name = "dynn_Correggio" culture =lombard" }
 62500175={ prefix = "dynnp_da" name = "dynn_Bagno" culture =lombard" }
-
-#piedmontese
 63500001={ prefix = "dynnp_da" name = "dynn_Coni" culture =piedmontese" }
 63500003={ prefix = "dynnp_da" name = "dynn_Nuara" culture =piedmontese" }
 63500004={ prefix = "dynnp_da" name = "dynn_Verbania" culture =piedmontese" }
@@ -23470,9 +23650,6 @@ maginfritidi = {
 63500128={name = "dynn_Vercellino" culture =piedmontese" }
 63500129={name = "dynn_Versen" culture =piedmontese" }
 63500130={name = "dynn_Vinassa" culture =piedmontese" }
-
-
-#ligurian
 6450000={name = "dynn_Adorno" culture =ligurian }
 6450001={name = "dynn_Airolo" culture =ligurian }
 6450002={name = "dynn_Appiani" culture =ligurian }
@@ -23593,8 +23770,6 @@ maginfritidi = {
 6450117={name = "dynn_Brignoe" culture =ligurian }
 6450118={name = "dynn_Genti" culture =ligurian }
 6450119={name = "dynn_Saera" culture =ligurian }
-
-##Emilian
 7450000={name = "dynn_Abaco" culture =emilian }
 7450001={name = "dynn_Albergati" culture =emilian }
 7450002={name = "dynn_Aldrovandini" culture =emilian }
@@ -23856,9 +24031,6 @@ maginfritidi = {
 7450258={prefix = "degli" name = "dynn_Esposti" culture = emilian}
 7450259={prefix = "del" name = "dynn_Virgilio" culture = emilian}
 7450260={prefix = "dalla" name = "dynn_Piazza" culture = emilian}
-
-
-##Romagnan
 7450261={name = "dynn_Abaco" culture =romagnol}
 7450262={name = "dynn_Albergati" culture =romagnol}
 7450263={name = "dynn_Aldrovandini" culture =romagnol}
@@ -24120,7 +24292,6 @@ maginfritidi = {
 7450519={prefix = "degli" name = "dynn_Esposti" culture = romagnol}
 7450520={prefix = "del" name = "dynn_Virgilio" culture = romagnol}
 7450521={prefix = "dalla" name = "dynn_Piazza" culture = romagnol}
-##Meridiano
 99001122330={name = "dynn_Amai" culture =mediano}
 99001122331={name = "dynn_Arcione" culture =mediano}
 99001122332={name = "dynn_Artes" culture =mediano}
@@ -24270,8 +24441,6 @@ maginfritidi = {
 99001122476={prefix = "di" name = "dynn_Gottifredi" culture =mediano}
 99001122477={prefix = "di" name = "dynn_Lucca" culture =mediano}
 99001122478={prefix = "di" name = "dynn_Santo_Ambrogio" culture =mediano}
-
-###Pugliese
 887754501={name = "dynn_Ambrello "culture = pugliese }
 887754502={name = "dynn_Argagnaru "culture = pugliese }
 887754503={name = "dynn_Barcha "culture = pugliese }
@@ -24351,8 +24520,6 @@ maginfritidi = {
 887754577={name = "dynn_Stefania "culture = pugliese }
 887754578={name = "dynn_Testa "culture = pugliese }
 887754579={name = "dynn_Vitiellu "culture = pugliese }
-
-
 887754580={ prefix = "dynnp_d_" name = "dynn_Aniello" culture = pugliese }
 887754581={ prefix = "dynnp_d_" name = "dynn_Algerio" culture = pugliese }
 887754582={ prefix = "dynnp_d_" name = "dynn_Autubiellu" culture = pugliese }
@@ -24423,16 +24590,3 @@ maginfritidi = {
 887754647={ prefix = "dynnp_d_" name = "dynn_Recupito" culture = pugliese }
 887754648={ prefix = "dynnp_d_" name = "dynn_Rosa" culture = pugliese }
 887754649={ prefix = "dynnp_d_" name = "dynn_Tegora" culture = pugliese }
-
-##Roman Emperors for Histories
-
-98765432101 = { name = "dynn_Anicius" culture = "roman" }
-98765432102 = { name = "dynn_Eparchius" culture = "roman" }
-98765432103 = { name = "dynn_Valerius" culture = "roman" }
-98765432104 = { name = "dynn_Severus" culture = "roman" }
-98765432105 = { name = "dynn_Procopius" culture = "roman" }
-98765432106 = { name = "dynn_Nepos" culture = "roman" }
-98765432107 = { name = "dynn_Flavius" culture = "roman" }
-98765432108 = { name = "dynn_Ardaburid" culture = "roman" }
-98765432109 = { name = "dynn_Romanus" culture = "roman" }
-

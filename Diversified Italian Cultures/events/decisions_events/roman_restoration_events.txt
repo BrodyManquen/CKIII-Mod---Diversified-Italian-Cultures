@@ -3358,6 +3358,35 @@ roman_restoration.0180 = {
 		play_music_cue = "mx_cue_epic_sacral_moment"
 		save_scope_as = scoped_emperor
 		create_western_roman_empire_scripted_effect = yes
+		hidden_effect = {
+			title:d_istria = { # Bite Croatia.
+				set_de_jure_liege_title = title:k_italy
+			}
+			title:d_krain = {
+				set_de_jure_liege_title = title:k_italy
+			}
+			title:d_tyrol = {
+				set_de_jure_liege_title = title:k_italy
+			}
+			title:d_carinthia = {
+				set_de_jure_liege_title = title:k_italy
+			}
+			title:k_sicily = { # Then shift all Kingdoms.
+				set_de_jure_liege_title = title:e_italy
+			}
+			title:k_italy = {
+				set_de_jure_liege_title = title:e_italy
+			}
+			title:k_venice = {
+				set_de_jure_liege_title = title:e_italy
+			}
+			title:k_croatia = {
+				set_de_jure_liege_title = title:e_italy
+			}
+			title:k_serbia = {
+				set_de_jure_liege_title = title:e_italy
+			}
+		}
 	}
 
 	option = {
