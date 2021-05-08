@@ -3371,20 +3371,29 @@ roman_restoration.0180 = {
 			title:d_carinthia = {
 				set_de_jure_liege_title = title:k_italy
 			}
+			title:d_viennois = {
+				set_de_jure_liege_title = title:e_western_roman_empire
+			}
+			title:d_provence = {
+				set_de_jure_liege_title = title:e_western_roman_empire
+			}
+			title:d_savoy = {
+				set_de_jure_liege_title = title:e_western_roman_empire
+			}
 			title:k_sicily = { # Then shift all Kingdoms.
-				set_de_jure_liege_title = title:e_italy
+				set_de_jure_liege_title = title:e_western_roman_empire
 			}
 			title:k_italy = {
-				set_de_jure_liege_title = title:e_italy
+				set_de_jure_liege_title = title:e_western_roman_empire
 			}
 			title:k_venice = {
-				set_de_jure_liege_title = title:e_italy
+				set_de_jure_liege_title = title:e_western_roman_empire
 			}
 			title:k_croatia = {
-				set_de_jure_liege_title = title:e_italy
+				set_de_jure_liege_title = title:e_western_roman_empire
 			}
 			title:k_serbia = {
-				set_de_jure_liege_title = title:e_italy
+				set_de_jure_liege_title = title:e_western_roman_empire
 			}
 		}
 	}

@@ -276,6 +276,11 @@
  set_capital_rome_decision_desc:0 "Rome is the ancestral capital of the Roman Empire and as such she rightfully belongs to me."
  set_capital_rome_decision_tooltip:0 "Restore Rome as the capital of your Empire."
 
+ set_capital_rome_as_western_decision:0 "Reclaim Rome"
+ set_capital_rome_as_western_decision_confirm:0 "Restore the true seat of the Empire!"
+ set_capital_rome_as_western_decision_desc:0 "Rome is the ancestral capital of the Roman Empire and as such she rightfully belongs to me."
+ set_capital_rome_as_western_decision_tooltip:0 "Restore Rome as the capital of your Empire."
+
  establish_iconoclast_patriarchate_decision:0 "Establish Iconoclast Patriarchate"
  establish_iconoclast_patriarchate_decision_confirm:0 "For a purer Church!"
  establish_iconoclast_patriarchate_decision_desc:0 "Only a pious and influential ruler that holds sway over Constantinople could cleanse the Ecumenical Patriarchate and restore it to a purer form, devoid of idolatry and corruption."

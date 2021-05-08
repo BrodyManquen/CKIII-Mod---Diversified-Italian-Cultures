@@ -9374,7 +9374,7 @@ e_roman_empire = {
 }
 
 e_western_roman_empire = {
-	color = { 168 11 101 }
+	color = { 235 26 26 }
 	color2 = { 254 254 21 }
 	
 	capital = c_roma # Rome
