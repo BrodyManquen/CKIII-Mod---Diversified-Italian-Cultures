@@ -1,0 +1,17 @@
+Diversified Italian Cultures is a project to create more unique cultures in Italy, especially for 1066 and later start dates.
+Until modern times, there was no real concept of a unified Italian language and culture, though there was a sense of a shared Roman heritage. This mod changes the Italian peninsula so that regional Italian diversity is represented in terms of language groups, which more-or-less coincide with regional variation in traditions, cuisine, etc.
+
+Current features:
+- Removes Cisalpine and Italian cultures from map
+- Adds 9 new cultures to the Latin group, resulting in 11 total
+- Updates character and dynasty histories so that landholders and major dynasties have proper culture
+- Adds 3 ethnicities to give variation in appearance between Northern, Central, and Southern Italians.
+
+Future plans: 
+- Events related to specific Italian regions/cultures
+- Unique innovations to certain Italian cultures
+- Localization of Italian names and titles into vernaculars
+- Rework 867 start (currently, only 1066 is fleshed out)
+- Cultural genesis events (for 867 start)
+
+Updated for Version 1.3

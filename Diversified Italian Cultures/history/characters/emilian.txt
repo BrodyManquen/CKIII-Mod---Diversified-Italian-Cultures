@@ -1,0 +1,2315 @@
+2009 = {
+	name = "Oberto" # Oberto (I) di Parma, Count of Parma (1073-1096) and Bastia (1073-1077)
+	dynasty_house = house_parma
+	martial = 2
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = honest
+	trait = education_martial_1
+
+	father = 71285
+
+	1034.1.1 = {
+		birth = yes
+	}
+	1096.1.1 = {
+		death = yes
+	}
+}
+
+7756 = {
+	name = "Bonifacio" # Bonifacio di Canossa
+	dynasty_house = house_canossa
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 7926
+	mother = 7927
+
+	985.1.1 = {
+		birth = yes
+	}
+	1010.1.1 = {
+		add_spouse = cisalpine0237
+	}
+	1037.6.1 = {
+		add_spouse = 7755
+	}
+	1052.5.6 = {
+		death = "1052.5.6"
+	}
+}
+
+7757 = {
+	name = "Matilda" # Matilda di Canossa, Duchess of Toscana, MVP
+	dna = 7757_duchess_matilda
+	female = yes
+	dynasty_house = house_canossa
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 10
+	disallow_random_traits = yes
+	religion = "catholic"
+	culture = "emilian"
+	trait = diligent
+	trait = calm
+	trait = zealous
+	trait = education_diplomacy_3
+
+	father = 7756
+	mother = 7755
+
+	1046.3.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	1065.1.1 = {
+		effect = {
+			add_character_modifier = {
+				modifier = matilda_of_canossa_modifier
+			}
+		}
+	}
+	1115.7.24 = {
+		death = {
+			death_reason = death_gout_ridden
+		}
+	}
+}
+
+7758 = {
+	name = "Federico" # Federico di Canossa
+	dynasty_house = house_canossa
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 7756
+	mother = 7755
+
+	1044.1.1 = {
+		birth = yes
+	}
+	1055.7.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+71283 = {
+	name = "Giuditta" # Giuditta di Parma, spouse of Alberto Obertenghi
+	dynasty_house = house_parma
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = paranoid
+	trait = sadistic
+	trait = education_intrigue_1
+
+	father = 2009
+
+	1056.1.1 = {
+		birth = yes
+	}
+	1094.1.1 = {
+		death = yes
+	}
+}
+
+71284 = {
+	name = "Oberto" # Oberto (II) di Parma, Count of Parma (1096)
+	dynasty_house = house_parma
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = chaste
+	trait = just
+	trait = education_diplomacy_3
+
+	father = 2009
+
+	1055.1.1 = {
+		birth = yes
+	}
+	1096.6.1 = {
+		death = yes
+	}
+}
+
+71285 = {
+	name = "Arduino" # Arduino di Parma, Count of Parma (1052-1073) and Bastia (1062-1073)
+	dynasty_house = house_parma
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = zealous
+	trait = hunter_1
+	trait = education_martial_2
+
+	father = italian0027
+
+	1011.1.1 = {
+		birth = yes
+	}
+	1073.1.1 = {
+		death = yes
+	}
+}
+
+71286 = {
+	name = "Oberto" # Oberto de Ghiberti
+	dynasty_house = house_ghiberti
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = content
+	trait = honest
+	trait = education_diplomacy_1
+
+	father = italian0024
+
+	1033.1.1 = {
+		birth = yes
+	}
+	1081.1.1 = {
+		death = yes
+	}
+}
+
+71287 = {
+	name = "Alberto" # Alberto de Ghiberti, Count of Parma (1096-1101)
+	dynasty_house = house_ghiberti
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = temperate
+	trait = calm
+	trait = education_martial_1
+
+	father = 71286
+
+	1055.1.1 = {
+		birth = yes
+	}
+	1101.1.1 = {
+		death = yes
+	}
+}
+
+71288 = {
+	name = "Ghiberto" # Ghiberto de Ghiberti, Count of Parma (1101-1111)
+	dynasty_house = house_ghiberti
+	martial = 6
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = gregarious
+	trait = education_stewardship_2
+
+	father = 71286
+
+	1057.1.1 = {
+		birth = yes
+	}
+	1073.1.1 = {
+		add_trait = scholar	#Add adult trait
+	}
+	1111.1.1 = {
+		death = yes
+	}
+}
+
+71289 = {
+	name = "Raniero" # Raniero de Ghiberti
+	dynasty_house = house_ghiberti
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = ambitious
+	sexuality = homosexual
+	trait = education_stewardship_4
+
+	father = 71286
+
+	1059.1.1 = {
+		birth = yes
+	}
+	1084.5.23 = {
+		death = yes
+	}
+}
+73530 = {
+	name = "Guiberto"
+	dynasty = 12253
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_learning_3
+	1029.1.1 = {
+		birth = "1029.1.1"
+	}
+	1100.9.8 = {
+		death = "1100.9.8"
+	}
+}
+italian0018 = {
+	name = "Baratto" # Baratto di Lucca, descendence not in game
+	dynasty = 101556
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_martial_2
+
+	father = italian0016
+
+	985.1.1 = {
+		birth = yes
+	}
+	1042.1.1 = {
+		death = yes
+	}
+}
+italian0021 = {
+	name = "Alberto" # Alberto di Lucca, Count of Parma (998-1015)
+	dynasty = 101556
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_diplomacy_2
+
+	father = italian0019
+
+	967.1.1 = {
+		birth = yes
+	}
+	1015.10.4 = {
+		death = yes
+	}
+}
+
+italian0022 = {
+	name = "Ghiberto" # Ghiberto de Lucca
+	dynasty = 101556
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_martial_1
+
+	father = italian0021
+
+	988.1.1 = {
+		birth = yes
+	}
+	1015.10.4 = {
+		death = yes
+	}
+}
+
+italian0023 = {
+	name = "Sigifredo" # Sigifredo de Lucca
+	dynasty = 101556
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_intrigue_1
+
+	father = italian0021
+
+	990.1.1 = {
+		birth = yes
+	}
+	1015.10.4 = {
+		death = yes
+	}
+}
+
+italian0024 = {
+	name = "Alberto" # Alberto de Ghiberti, placeholder
+	dynasty_house = house_ghiberti
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_stewardship_2
+
+	father = italian0022
+
+	1010.1.1 = {
+		birth = yes
+	}
+	1051.1.1 = {
+		death = yes
+	}
+}
+italian0026 = {
+	name = "Guifredo" # Guifredo di Parma
+	dynasty_house = house_parma
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_martial_1
+
+	father = italian0025
+	mother = cisalpine0724
+
+	947.1.1 = {
+		birth = yes
+	}
+	1020.1.1 = {
+		death = yes
+	}
+}
+
+italian0027 = {
+	name = "Guido" # Guido di Parma
+	dynasty_house = house_parma
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_stewardship_2
+
+	father = italian0026
+
+	985.1.1 = {
+		birth = yes
+	}
+	1052.1.1 = {
+		death = yes
+	}
+}
+italian0031 = {
+	name = "Tedald" # Tedaldo di Canossa
+	dynasty_house = house_canossa
+	religion = "catholic"
+	culture = "emilian"
+	trait = celibate
+	trait = theologian
+	trait = education_learning_2
+
+	father = 7926
+	mother = 7927
+
+	990.1.1 = {
+		birth = yes
+	}
+	1036.1.1 = {
+		death = yes
+	}
+}
+
+italian0032 = {
+	name = "Corrado" # Corrado di Canossa
+	dynasty_house = house_canossa
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_martial_2
+
+	father = 7926
+	mother = 7927
+
+	987.1.1 = {
+		birth = yes
+	}
+	1021.1.1 = {
+		death = yes
+	}
+}
+
+italian0033 = {
+	name = "Maria" # Maria di Canossa, spouse of Ugo of Lombardia
+	dynasty_house = house_canossa
+	female = yes
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_diplomacy_1
+
+	father = 7926
+	mother = 7927
+
+	988.1.1 = {
+		birth = yes
+	}
+	1039.1.1 = {
+		death = yes
+	}
+}
+italian0034 = {
+	name = "Beatrice" # Beatrice di Canossa
+	dynasty_house = house_canossa
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 7756
+	mother = 7755
+
+	1041.1.1 = {
+		birth = yes
+	}
+	1053.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167991 = {
+	name = "Ugo"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167987
+	995.1.1 = {
+		birth = "995.1.1"
+	}
+	1056.1.14 = {
+		death = "1056.1.14"
+	}
+}
+
+167992 = {
+	name = "Ubaldo"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167987
+	997.1.1 = {
+		birth = "997.1.1"
+	}
+	1030.1.1 = {
+		death = "1030.1.1"
+	}
+}
+
+167993 = {
+	name = "Willa"
+	female = yes
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167987
+	999.1.1 = {
+		birth = "999.1.1"
+	}
+	1061.1.1 = {
+		death = "1061.1.1"
+	}
+}
+
+167994 = {
+	name = "Ugo"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167991
+	1025.1.1 = {
+		birth = "1025.1.1"
+	}
+	1075.1.1 = {
+		add_spouse = 70627
+	}
+	1091.12.10 = {
+		death = "1091.12.10"
+	}
+}
+
+167995 = {
+	name = "Alberto"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167991
+	1027.1.1 = {
+		birth = "1027.1.1"
+	}
+	1085.1.1 = {
+		death = "1085.1.1"
+	}
+}
+
+167997 = {
+	name = "Ubaldo"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167991
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1097.1.1 = {
+		death = "1097.1.1"
+	}
+}
+
+167998 = {
+	name = "Adelasia"
+	female = yes
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167991
+	1032.1.1 = {
+		birth = "1032.1.1"
+	}
+	1082.1.1 = {
+		death = "1082.1.1"
+	}
+}
+
+167999 = {
+	name = "Uberto"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167995
+	1057.1.1 = {
+		birth = "1057.1.1"
+	}
+	1139.1.1 = {
+		death = "1139.1.1"
+	}
+}
+
+168000 = {
+	name = "Enrico"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167995
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1085.1.1 = {
+		death = "1085.1.1"
+	}
+}
+
+168001 = {
+	name = "Ugo"
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167999
+	1077.1.1 = {
+		birth = "1077.1.1"
+	}
+	1139.1.1 = {
+		death = "1139.1.1"
+	}
+}
+
+168007 = {
+	name = "Matilda"
+	female = yes
+	dynasty = 9566
+	religion = "catholic"
+	culture = "emilian"
+	father = 167994
+	mother = 70627
+	1076.1.1 = {
+		birth = "1076.1.1"
+	}
+
+	1099.1.1 = {
+		death = "1099.1.1"
+	}
+}
+
+223595 = {
+	name = "Azzo" # Azzo d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = arrogant
+	trait = diligent
+	trait = education_diplomacy_3
+
+	father = 223597
+
+	1125.1.1 = {
+		birth = yes
+	}
+	1193.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+223596 = {
+	name = "Azzo" # Azzo (I) d'Este, Duke of Romagna (1209-1212)
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = diligent
+	trait = calm
+	trait = education_intrigue_3
+
+	father = 223595
+
+	1170.1.1 = {
+		birth = yes
+	}
+	1192.1.1 = {
+		add_spouse = 213115
+	}
+	1204.2.22 = {
+		add_spouse = 223594
+	}
+	1212.11.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+223597 = {
+	name = "Obizzo" # Obizzo (I) d'Este, Duke of Lombardia (1128-1193), Count of Luni (1128-1193) and Podestá of Padua (1177-1178)
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = zealous
+	trait = diligent
+	trait = education_intrigue_1
+
+	father = 20299
+
+	1109.1.1 = {
+		birth = yes
+	}
+	1193.12.25 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+223598 = {
+	name = "Agnese" # Agnese d'Este, wife of Ezzelino of Treviso
+	female = yes
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = humble
+	trait = gluttonous
+	trait = education_diplomacy_3
+
+	father = 223595
+
+	1175.1.1 = {
+		birth = yes
+	}
+	1233.1.1 = {
+		death = yes
+	}
+}
+
+463200 = {
+	name = "Obizzo" # Obizzo d'Este, Count of Modena (1336-1352)
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = lustful
+	trait = calm
+	trait = education_martial_2
+
+	father = 70678
+	mother = 70679
+
+	1294.7.14 = {
+		birth = yes
+	}
+	1317.5.1 = {
+		add_spouse = 463201
+	}
+	1347.1.1 = {
+		add_spouse = 463199
+	}
+	1352.3.20 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+463202 = {
+	name = "Rinaldo" # Rinaldo d'Este
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_martial_1
+
+	trait = bastard
+	father = 463200
+
+	1323.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		death = yes
+	}
+}
+
+463204 = {
+	name = "Aldobrandino" # Aldobrandino d'Este
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+
+	trait = bastard
+	father = 463200
+	mother = 463199
+
+	1335.9.14 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1361.11.3 = {
+		death = yes
+	}
+}
+
+463205 = {
+	name = "Beatrice" # Beatrice d'Este, will marry Valdemar I of Anhalt-Zerbst
+	female = yes
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_stewardship_2
+
+	trait = bastard
+	father = 463200
+	mother = 463199
+
+	1332.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}
+
+463206 = {
+	name = "Alda" # Alda d'Este, will marry Ludovico II Gonzaga
+	female = yes
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "emilian"
+
+	trait = bastard
+	father = 463200
+	mother = 463199
+
+	1333.7.18 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1381.9.24 = {
+		death = yes
+	}
+}
+
+cisalpine0143 = {
+	name = "Maria" # Maria d'Este
+	dynasty_house = house_este
+	female = yes
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70642
+
+	1138.1.1 = {
+		birth = yes
+	}
+	1163.9.27 = {
+		death = yes
+	}
+}
+
+cisalpine0144 = {
+	name = "Aluisa" # Aluisa d'Este
+	dynasty_house = house_este
+	female = yes
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70642
+
+	1140.1.1 = {
+		birth = yes
+	}
+	1163.9.27 = {
+		death = yes
+	}
+}
+
+cisalpine0145 = {
+	name = "Bonifazio" # Bonifazio d'Este
+	dynasty_house = house_este
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70658
+
+	1211.1.1 = {
+		birth = yes
+	}
+	1215.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+cisalpine0146 = {
+	name = "Alisia" # Alessina d'Este
+	female = yes
+	dynasty_house = house_este
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70658
+
+	1213.1.1 = {
+		birth = yes
+	}
+	1263.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0147 = {
+	name = "Contardo" # Contardo d'Este, Templar Knight, Catholic Saint
+	dynasty_house = house_este
+	religion = "catholic"
+	culture = "emilian"
+	trait = devoted
+	trait = blademaster_3
+	trait = education_martial_4
+
+	father = 70658
+
+	1213.1.1 = {
+		birth = yes
+	}
+	1263.1.1 = {
+		death = yes
+		trait = saint
+	}
+}
+
+cisalpine0148 = {
+	name = "Orsina" # Orsina d'Este
+	dynasty_house = house_este
+	female = yes
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70692
+	mother = 70693
+
+	1327.1.1 = {
+		birth = yes
+	}
+	1377.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0151 = {
+	name = "Giovanni" # Giovanni d'Este
+	dynasty_house = house_este
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_diplomacy_1
+
+	trait = bastard
+	father = 463200
+
+	1325.1.1 = {
+		birth = yes
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+
+70642 = {
+	name = "Bonifazio" # Bonifazio d'Este
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = strong
+	trait = gregarious
+	trait = education_martial_2
+
+	father = 20299
+
+	1113.1.1 = {
+		birth = yes
+	}
+	1163.9.27 = {
+		death = yes
+	}
+}
+
+70643 = {
+	name = "Bonifazio" # Bonifazio d'Este
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = trusting
+	trait = honest
+	trait = education_stewardship_2
+
+	father = 70644
+
+	1139.1.1 = {
+		birth = yes
+	}
+	1190.1.1 = {
+		death = yes
+	}
+}
+
+70644 = {
+	name = "Folco" # Folco d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = deceitful
+	trait = craven
+	trait = education_martial_1
+
+	father = 20299
+
+	1115.1.1 = {
+		birth = yes
+	}
+	1172.1.1 = {
+		death = yes
+	}
+}
+
+70645 = {
+	name = "Alberto" # Alberto d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_diplomacy_2
+
+	father = 20299
+
+	1117.1.1 = {
+		birth = yes
+	}
+	1184.4.10 = {
+		death = yes
+	}
+}
+
+70646 = {
+	name = "Adelasia" # Adelasia d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 3
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = weak
+	trait = education_diplomacy_1
+
+	father = 70645
+
+	1140.1.1 = {
+		birth = yes
+	}
+	1193.7.15 = {
+		death = yes
+	}
+}
+
+70647 = {
+	name = "Auremplasia" # Auremplasia d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = intellect_good_1
+	trait = humble
+	trait = education_stewardship_1
+
+	father = 70645
+
+	1142.1.1 = {
+		birth = yes
+	}
+	1193.7.15 = {
+		death = yes
+	}
+}
+
+70648 = {
+	name = "Azzo" # Azzo d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = gluttonous
+	trait = education_martial_1
+
+	father = 20299
+
+	1111.1.1 = {
+		birth = yes
+	}
+	1145.1.1 = {
+		death = yes
+	}
+}
+
+70649 = {
+	name = "Beatrice" # Beatrice d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 3
+	religion = "catholic"
+	culture = "emilian"
+	trait = temperate
+	trait = dwarf
+	trait = education_diplomacy_3
+
+	father = 20299
+
+	1119.1.1 = {
+		birth = yes
+	}
+	1170.1.1 = {
+		death = yes
+	}
+}
+
+70650 = {
+	name = "Bonifazio" # Bonifazio d'Este
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = arrogant
+	trait = blademaster_1
+	trait = education_martial_2
+
+	father = 223597
+
+	1185.1.1 = {
+		birth = yes
+	}
+	1228.6.7 = {
+		death = yes
+	}
+}
+
+70651 = {
+	name = "Garsenda" # Garsenda d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = chaste
+	trait = strong
+	trait = education_intrigue_1
+
+	father = 223597
+
+	1187.1.1 = {
+		birth = yes
+	}
+	1237.1.1 = {
+		death = yes
+	}
+}
+
+70652 = {
+	name = "Froa" # Froa d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = greedy
+	sexuality = homosexual
+	trait = education_stewardship_1
+
+	father = 223597
+
+	1189.1.1 = {
+		birth = yes
+	}
+	1239.1.1 = {
+		death = yes
+	}
+}
+
+70653 = {
+	name = "Adelaida" # Adelaida d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = cynical
+	trait = arbitrary
+	trait = education_intrigue_2
+
+	father = 223597
+
+	1191.1.1 = {
+		birth = yes
+	}
+	1241.1.1 = {
+		death = yes
+	}
+}
+
+70654 = {
+	name = "Tommasina" # Tommasina d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = generous
+	trait = clubfooted
+	trait = education_diplomacy_2
+
+	father = 223597
+
+	1193.1.1 = {
+		birth = yes
+	}
+	1243.1.1 = {
+		death = yes
+	}
+}
+
+70658 = {
+	name = "Aldobrandino" # Aldobrandino (I) d'Este, Duke of Romagna (1212-1215)
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = scholar
+	trait = calm
+	trait = education_stewardship_4
+
+	father = 223596
+
+	1190.1.1 = {
+		birth = yes
+	}
+	1215.10.10 = {
+		death = {
+			death_reason = death_poison
+		}
+	}
+}
+
+70660 = {
+	name = "Beatrice" # Beatrice d'Este, Abbess
+	female = yes
+	dynasty_house = house_este
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = craven
+	trait = arrogant
+	trait = devoted
+	trait = mystic_3
+	trait = education_learning_1
+
+	father = 223596
+	mother = 213115
+
+	1192.1.1 = {
+		birth = yes
+	}
+	1226.5.10 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70661 = {
+	name = "Azzo" # Azzo II d'Este, Duke of Romagna (1212-1222 & 1240-1264)
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = cynical
+	trait = hunter_1
+	trait = education_intrigue_3
+
+	father = 223596
+	mother = 223594
+
+	1205.1.1 = {
+		birth = yes
+	}
+	1238.1.1 = {
+		add_spouse = 70723
+	}
+	1264.2.17 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70662 = {
+	name = "Rinaldo" # Rinaldo d'Este
+	dynasty_house = house_este
+	martial = 4
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = just
+	trait = shy
+	trait = education_stewardship_1
+
+	father = 70661
+
+	1230.1.1 = {
+		birth = yes
+	}
+	1246.1.1 = {
+		add_spouse = 70663
+	}
+	1251.1.1 = {
+		death = {
+			death_reason = death_poison
+		}
+	}
+}
+
+70665 = {
+	name = "Beatrice" # Beatrice d'Este, Nun
+	dynasty_house = house_este
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = zealous
+	trait = mystic_2
+	trait = devoted
+	trait = education_learning_2
+
+	father = 70661
+
+	1226.1.1 = {
+		birth = yes
+	}
+	1262.1.18 = {
+		death = yes
+	}
+}
+
+70666 = {
+	name = "Costanza" # Costanza d'Este, wife of Guglielmo Pallavicini
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = wrathful
+	trait = gregarious
+	trait = education_diplomacy_2
+
+	father = 70661
+
+	1226.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}
+
+70667 = {
+	name = "Cubitosa" # Cubitosa d'Este, wife of Isnardo of Ajaccio
+	dynasty_house = house_este
+	female = yes
+	martial = 3
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = trusting
+	trait = beauty_bad_2
+	trait = education_stewardship_2
+
+	father = 70661
+
+	1228.1.1 = {
+		birth = yes
+	}
+	1301.1.1 = {
+		death = yes
+	}
+}
+
+70669 = {
+	name = "Obizzo" # Obizzo (II) d'Este, Duke of Romagna (1264-1293), Count of Modena (1288-1293)
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = reveler_1
+	trait = bastard
+	trait = education_stewardship_4
+	father = 70662
+	1247.1.1 = {
+		birth = "1247.1.1"
+	}
+	1252.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1263.1.1 = {
+		add_spouse = 70673
+	}
+	1289.7.28 = {
+		add_spouse = 70800
+	}
+	1293.2.20 = {
+		death = "1293.2.20"
+	}
+}
+
+70670 = {
+	name = "Costanza" # Costanza d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = cynical
+	trait = education_stewardship_2
+
+	father = 70662
+	trait = bastard
+
+	1249.1.1 = {
+		birth = yes
+	}
+	1252.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+
+70672 = {
+	name = "Pietro" # Pietro d'Este, Abbot
+	dynasty_house = house_este
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = education_learning_1
+	trait = devoted
+
+	father = 70662
+	trait = bastard
+
+	1250.1.1 = {
+		birth = yes
+	}
+	1252.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1304.1.1 = {
+		death = yes
+	}
+}
+
+70674 = {
+	name = "Azzo" # Azzo (III) d'Este, Duke of Romagna (1293-1308)
+	dynasty_house = house_este
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = ambitious
+	trait = deceitful
+	trait = education_intrigue_4
+
+	father = 70669
+	mother = 70673
+
+	1263.1.1 = {
+		birth = yes
+	}
+	1282.1.1 = {
+		add_spouse = 70857
+	}
+	1305.4.1 = {
+		add_spouse = 70681
+	}
+	1308.1.31 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70675 = {
+	name = "Maddalena" # Maddalena d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = content
+	trait = humble
+	trait = education_diplomacy_2
+
+	father = 70669
+	mother = 70673
+
+	1267.1.1 = {
+		birth = yes
+	}
+	1337.9.1 = {
+		death = yes
+	}
+}
+
+70678 = {
+	name = "Aldobrandino" # Aldobrandino (II) d'Este, Duke of Romagna (1317-1326) and Count of Modena (1293-1306)
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = content
+	trait = education_diplomacy_1
+
+	father = 70669
+	mother = 70673
+
+	1269.1.1 = {
+		birth = yes
+	}
+	1289.1.1 = {
+		add_spouse = 70679
+	}
+	1306.1.1 = {
+		add_pressed_claim = c_modena
+	}
+	1308.1.31 = {
+		add_pressed_claim = d_romagna
+	}
+	1310.1.1 = {
+		add_pressed_claim = c_ferrara
+	}
+	1317.1.1 = {
+		remove_claim = d_romagna
+	}
+	1326.7.26 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70680 = {
+	name = "Francesco" # Francesco d'Este, Lord of Reggio (1293-1306)
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = ambitious
+	trait = blademaster_1
+	trait = education_martial_1
+
+	father = 70669
+	mother = 70673
+
+	1270.1.1 = {
+		birth = yes
+	}
+	1288.1.1 = {
+		add_spouse = 70858
+	}
+	1308.1.31 = {
+		add_pressed_claim = d_romagna
+	}
+	1312.8.23 = {
+		death = yes
+	}
+}
+
+70682 = {
+	name = "Rizzardo" # Rizzardo d'Este
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = beauty_good_1
+	trait = greedy
+	trait = education_martial_1
+
+	father = 70674
+	trait = bastard
+
+	1284.1.1 = {
+		birth = yes
+	}
+	1299.1.1 = {
+		death = yes
+	}
+}
+
+70683 = {
+	name = "Pietro" # Pietro d'Este
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = cynical
+	trait = shy
+	trait = education_martial_3
+
+	father = 70674
+	trait = bastard
+
+	1286.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+
+70684 = {
+	name = "Costanza" # Costanza d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 3
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = cynical
+	trait = hunter_1
+	trait = education_diplomacy_1
+
+	father = 70674
+	trait = bastard
+
+	1282.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		death = yes
+	}
+}
+
+70686 = {
+	name = "Fresco" # Francesco d'Este 'Fresco', Duke of Romagna (1308)
+	dynasty_house = house_este
+	martial = 4
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = arbitrary
+	trait = education_intrigue_4
+
+	father = 70674
+	trait = bastard
+
+	1280.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		add_spouse = 70687
+	}
+	1312.1.1 = {
+		death = yes
+	}
+}
+
+70689 = {
+	name = "Folco" # Folco (II) d'Este, Duke of Romagna (1308-1309)
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = humble
+	trait = greedy
+	trait = education_stewardship_1
+
+	father = 70686
+	mother = 70687
+
+	1301.1.1 = {
+		birth = yes
+	}
+	1309.1.1 = {
+		add_pressed_claim = d_romagna
+		add_pressed_claim = c_ferrara
+	}
+	1351.1.1 = {
+		death = yes
+	}
+}
+
+70690 = {
+	name = "Azzo" # Azzo d'Este
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = diligent
+	trait = beauty_bad_2
+	trait = education_martial_1
+
+	father = 70680
+	mother = 70858
+
+	1289.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		add_spouse = 70691
+	}
+	1318.6.24 = {
+		death = yes
+	}
+}
+
+70692 = {
+	name = "Bertoldo" # Bertoldo d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = arrogant
+	trait = beauty_good_1
+	trait = education_diplomacy_1
+
+	father = 70680
+	mother = 70858
+
+	1291.1.1 = {
+		birth = yes
+	}
+	1324.1.1 = {
+		add_spouse = 70693
+	}
+	1339.7.1 = {
+		add_spouse = 70694
+	}
+	1342.6.6 = {
+		add_spouse = 70788
+	}
+	1343.7.21 = {
+		death = yes
+	}
+}
+
+70695 = {
+	name = "Francesco" # Francesco d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	trait = generous
+	trait = deceitful
+	trait = education_intrigue_2
+
+	father = 70692
+	mother = 70693
+
+	1325.1.1 = {
+		birth = yes
+	}
+	1384.12.13 = {
+		death = yes
+	}
+}
+
+70696 = {
+	name = "Giacopina" # Giacopina d'Este, wife of Enrico Scrofegni
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = gluttonous
+	trait = education_stewardship_1
+
+	father = 70680
+	mother = 70858
+
+	1293.1.1 = {
+		birth = yes
+	}
+	1352.1.1 = {
+		death = yes
+	}
+}
+
+70698 = {
+	name = "Giovanna" # Giovanna d'Este, wife of Simone Guido de Battifolle
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = just
+	trait = shy
+	trait = education_stewardship_4
+
+	father = 70680
+	mother = 70858
+
+	1295.1.1 = {
+		birth = yes
+	}
+	1355.1.1 = {
+		death = yes
+	}
+}
+
+70700 = {
+	name = "Rinaldo" # Rinaldo d'Este, Duke of Romagna (1326-1335)
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = calm
+	trait = ambitious
+	trait = education_diplomacy_4
+
+	father = 70678
+	mother = 70679
+
+	1290.1.1 = {
+		birth = yes
+	}
+	1310.1.1 = {
+		add_spouse = 70701
+	}
+	1319.4.1 = {
+		add_spouse = cisalpine0149
+	}
+	1335.12.31 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+
+70702 = {
+	name = "Beatrice" # Beatrice d'Este, will marry of Jacques of Piedmont
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = arrogant
+	trait = greedy
+	trait = education_stewardship_2
+
+	father = 70700
+	mother = cisalpine0149
+
+	1320.1.1 = {
+		birth = yes
+	}
+	1339.2.10 = {
+		death = yes
+	}
+}
+
+70703 = {
+	name = "Obizzo" # Obizzo d'Este
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = zealous
+	trait = theologian
+	trait = education_learning_2
+
+	father = 70700
+	trait = bastard
+
+	1321.1.1 = {
+		birth = yes
+	}
+	1344.1.1 = {
+		remove_trait = bastard
+	}
+	1380.1.1 = {
+		death = yes
+	}
+}
+
+70704 = {
+	name = "Aldobrandino" # Aldobrandino d'Este, Bishop
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = theologian
+	trait = education_learning_4
+
+	father = 70700
+	trait = bastard
+
+	1325.1.1 = {
+		birth = yes
+	}
+	1344.1.1 = {
+		remove_trait = bastard
+	}
+	1381.10.30 = {
+		death = yes
+	}
+}
+
+70705 = {
+	name = "Giacoma" # Giacoma d'Este
+	dynasty_house = house_este
+	female = yes
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = greedy
+	trait = education_stewardship_2
+
+	father = 70700
+	trait = bastard
+
+	1329.1.1 = {
+		birth = yes
+	}
+	1344.1.1 = {
+		remove_trait = bastard
+	}
+	1400.1.1 = {
+		death = yes
+	}
+}
+
+70707 = {
+	name = "Azzo" # Azzo d'Este
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+
+	trait = bastard
+	father = 70700
+
+	1332.1.1 = {
+		birth = yes
+	}
+	1371.3.7 = {
+		death = yes
+	}
+}
+
+70709 = {
+	name = "NiccolO_" # Niccolo (I) d'Este, Duke of Romagna (1335-1344)
+	dynasty_house = house_este
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "emilian"
+	trait = brave
+	trait = gluttonous
+	trait = education_stewardship_3
+
+	father = 70678
+	mother = 70679
+
+	1292.1.1 = {
+		birth = yes
+	}
+	1332.1.21 = {
+		add_spouse = 70819
+	}
+	1344.5.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70710 = {
+	name = "Rinaldo" # Rinaldo d'Este
+	dynasty_house = house_este
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "emilian"
+	trait = greedy
+	trait = trusting
+	trait = education_intrigue_3
+
+	father = 70709
+	mother = 70819
+
+	1333.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = yes
+	}
+}
+
+70711 = {
+	name = "Alisa" # Alisa d'Este, wife of Rinaldo of Mantua
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = scholar
+	trait = arbitrary
+	trait = education_diplomacy_2
+
+	father = 70678
+	mother = 70679
+
+	1300.1.1 = {
+		birth = yes
+	}
+	1329.1.1 = {
+		death = yes
+	}
+}
+
+70713 = {
+	name = "Elisa" # Elisa d'Este, will marry Guido III of Ravenna
+	dynasty_house = house_este
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = lazy
+	trait = education_diplomacy_3
+
+	father = 463200
+	mother = 463199
+	trait = bastard
+
+	1337.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	1390.1.1 = {
+		death = yes
+	}
+}
+
+71302 = {
+	name = "Obizzino" # Obizzino di Parodi
+	dynasty_house = house_este
+	martial = 3
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "emilian"
+	sexuality = homosexual
+	trait = education_intrigue_3
+
+	father = 71300
+
+	1185.1.1 = {
+		birth = yes
+	}
+	1224.1.1 = {
+		death = yes
+	}
+}
+
+98025 = {
+	name = "Beatrice" # Beatrice d'Este, wife of András II of Hungary
+	female = yes
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70658
+
+	1215.1.1 = {
+		birth = yes
+	}
+	1236.1.1 = {
+		trait = devoted
+	}
+	1245.5.7 = {
+		death = "1245.5.7"
+	}
+}
+
+463142 = {
+	name = "Beatrice" # Beatrice d'Este, wife of Nino Visconti di Gallura and Galeazzo I of Lombardia
+	female = yes
+	dynasty_house = house_este
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "emilian"
+	trait = arrogant
+	trait = education_stewardship_2
+
+	father = 70669
+	mother = 70673
+
+	1268.1.1 = {
+		birth = yes
+	}
+	1334.9.15 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+cisalpine0150 = {
+	name = "Jacopa" # Jacopa d'Este
+	dynasty_house = house_este
+	female = yes
+	religion = "catholic"
+	culture = "emilian"
+
+	father = 70709
+	mother = 70819
+
+	1335.1.1 = {
+		birth = yes
+	}
+	1385.1.1 = {
+		death = yes
+	}
+}

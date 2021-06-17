@@ -174,18 +174,30 @@ yearly_global_pulse = {
 				current_date >= 900.1.1
 			}
 			random = {
-				chance = 10
+				chance = 5       # 5% chance
 				modifier = {
-					add = 20 # 30% chance
+					add = 10 # 15% chance
 					current_date >= 910.1.1
 				}
 				modifier = {
-					add = 30 # 60% chance
+					add = 10 # 25% chance
 					current_date >= 920.1.1
 				}
 				modifier = {
-					add = 40 # 100% chance
+					add = 20 # 45% chance
 					current_date >= 935.1.1
+				}
+				modifier = {
+					add = 20 # 65% chance
+					current_date >= 945.1.1
+				}
+				modifier = {
+					add = 20 # 85% chance
+					current_date >= 960.1.1
+				}
+				modifier = {
+					add = 15 # 100% chance
+					current_date >= 970.1.1
 				}
 				set_global_variable = {
 					name = italian_culture_split

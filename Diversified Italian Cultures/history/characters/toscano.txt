@@ -1,0 +1,6941 @@
+2022 = {
+	name = "Anselmo"
+	dynasty = 624
+	religion = "catholic"
+	culture = "toscano"
+	1020.1.1 = {
+		birth = "1020.1.1"
+	}
+	1088.1.1 = {
+		death = "1088.1.1"
+	}
+}
+
+20321 = {
+	name = "Ottone"
+	religion = "catholic"
+	culture = "toscano"
+	1140.1.1 = {
+		birth = "1140.1.1"
+	}
+	1199.1.1 = {
+		death = "1199.1.1"
+	}
+}
+
+20323 = {
+	name = "Gentile"
+	dynasty = 13026 #d'Appiano
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "toscano"
+	trait = education_diplomacy_2
+	1029.1.1 = {
+		birth = "1029.1.1"
+	}
+	1085.1.1 = {
+		death = "1085.1.1"
+	}
+}
+
+213013 = {
+	name = "Sergio"
+	religion = "catholic"
+	culture = "toscano"
+	1079.1.1 = {
+		birth = "1079.1.1"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+
+213017 = {
+	name = "Martino"
+	religion = "catholic"
+	culture = "toscano"
+	1148.1.1 = {
+		birth = "1148.1.1"
+	}
+	1221.1.1 = {
+		death = "1221.1.1"
+	}
+}
+
+213018 = {
+	name = "Giovanni"
+	religion = "catholic"
+	culture = "toscano"
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1188.1.1 = {
+		death = "1188.1.1"
+	}
+}
+
+463320 = {
+	name = "Gabriele"
+	religion = "catholic"
+	culture = "toscano"
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1197.9.28 = {
+		death = "1197.9.28"
+	}
+}
+
+463450 = {
+	name = "Bonifacio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73455
+	1289.1.1 = {
+		birth = "1289.1.1"
+	}
+	1340.1.1 = {
+		death = "1340.1.1"
+	}
+}
+
+71177 = {
+	name = "Guelfo"
+	dynasty = 13031 #della Gherardesca
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1251.1.1 = {
+		add_spouse = 71173
+	}
+	1295.1.1 = {
+		death = "1295.1.1"
+	}
+}
+
+73406 = {
+	name = "Ildebrando"
+	religion = "catholic"
+	culture = "toscano"
+	1152.1.1 = {
+		birth = "1152.1.1"
+	}
+	1205.1.1 = {
+		death = "1205.1.1"
+	}
+}
+
+
+73407 = {
+	name = "Amedeo"
+	religion = "catholic"
+	culture = "toscano"
+	1166.1.1 = {
+		birth = "1166.1.1"
+	}
+	1221.1.1 = {
+		death = "1221.1.1"
+	}
+}
+
+73408 = {
+	name = "Pagano"
+	religion = "catholic"
+	culture = "toscano"
+	1185.1.1 = {
+		birth = "1185.1.1"
+	}
+	1240.1.1 = {
+		death = "1240.1.1"
+	}
+}
+
+73409 = {
+	name = "Andrea"
+	religion = "catholic"
+	culture = "toscano"
+	1206.1.1 = {
+		birth = "1206.1.1"
+	}
+	1250.1.1 = {
+		death = "1250.1.1"
+	}
+}
+
+73410 = {
+	name = "Cesare"
+	religion = "catholic"
+	culture = "toscano"
+	1215.1.1 = {
+		birth = "1215.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+73411 = {
+	name = "Agostino"
+	religion = "catholic"
+	culture = "toscano"
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	}
+}
+
+73412 = {
+	name = "Giovanni"
+	religion = "catholic"
+	culture = "toscano"
+	1257.1.1 = {
+		birth = "1257.1.1"
+	}
+	1313.1.1 = {
+		death = "1313.1.1"
+	}
+}
+
+73413 = {
+	name = "Davide"
+	religion = "catholic"
+	culture = "toscano"
+	1282.1.1 = {
+		birth = "1282.1.1"
+	}
+	1338.1.1 = {
+		death = "1338.1.1"
+	}
+}
+
+73414 = {
+	name = "Ettore"
+	religion = "catholic"
+	culture = "toscano"
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1103.1.1 = {
+		death = "1103.1.1"
+	}
+}
+
+73415 = {
+	name = "Lucio"
+	religion = "catholic"
+	culture = "toscano"
+	1069.1.1 = {
+		birth = "1069.1.1"
+	}
+	1124.1.1 = {
+		death = "1124.1.1"
+	}
+}
+
+73416 = {
+	name = "Giacinto"
+	religion = "catholic"
+	culture = "toscano"
+	1088.1.1 = {
+		birth = "1088.1.1"
+	}
+	1143.1.1 = {
+		death = "1143.1.1"
+	}
+}
+
+73417 = {
+	name = "Constanzo"
+	religion = "catholic"
+	culture = "toscano"
+	1105.1.1 = {
+		birth = "1105.1.1"
+	}
+	1166.1.1 = {
+		death = "1166.1.1"
+	}
+}
+
+73418 = {
+	name = "Sebastiano"
+	religion = "catholic"
+	culture = "toscano"
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1198.1.1 = {
+		death = "1198.1.1"
+	}
+}
+
+73419 = {
+	name = "Gherardo"
+	religion = "catholic"
+	culture = "toscano"
+	1158.1.1 = {
+		birth = "1158.1.1"
+	}
+	1212.1.1 = {
+		death = "1212.1.1"
+	}
+}
+
+73420 = {
+	name = "Gregorio"
+	religion = "catholic"
+	culture = "toscano"
+	1171.1.1 = {
+		birth = "1171.1.1"
+	}
+	1225.1.1 = {
+		death = "1225.1.1"
+	}
+}
+
+73421 = {
+	name = "Giuseppe"
+	religion = "catholic"
+	culture = "toscano"
+	1191.1.1 = {
+		birth = "1191.1.1"
+	}
+	1248.1.1 = {
+		death = "1248.1.1"
+	}
+}
+
+73422 = {
+	name = "Carlo"
+	religion = "catholic"
+	culture = "toscano"
+	1212.1.1 = {
+		birth = "1212.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+
+73423 = {
+	name = "Alessandro"
+	religion = "catholic"
+	culture = "toscano"
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1296.1.1 = {
+		death = "1296.1.1"
+	}
+}
+
+73424 = {
+	name = "Fabrizio"
+	religion = "catholic"
+	culture = "toscano"
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1314.1.1 = {
+		death = "1314.1.1"
+	}
+}
+
+73426 = {
+	name = "Castruccio"
+	dynasty = 101817
+	religion = "catholic"
+	culture = "toscano"
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1328.9.1 = {
+		death = "1328.9.1"
+	}
+}
+
+73427 = {
+	name = "Enrico"
+	dynasty = 101817
+	religion = "catholic"
+	culture = "toscano"
+	father = 73426
+	1284.1.1 = {
+		birth = "1284.1.1"
+	}
+	1328.11.1 = {
+		death = "1328.11.1"
+	}
+}
+
+73428 = {
+	name = "Francesco"
+	dynasty = 101817
+	religion = "catholic"
+	culture = "toscano"
+	father = 73426
+	1286.1.1 = {
+		birth = "1286.1.1"
+	}
+	1329.4.1 = {
+		death = "1329.4.1"
+	}
+}
+
+73436 = {
+	name = "Gherardo"
+	religion = "catholic"
+	culture = "toscano"
+	1180.1.1 = {
+		birth = "1180.1.1"
+	}
+	1238.1.1 = {
+		death = "1238.1.1"
+	}
+}
+
+73437 = {
+	name = "Marino"
+	religion = "catholic"
+	culture = "toscano"
+	1205.1.1 = {
+		birth = "1205.1.1"
+	}
+	1261.1.1 = {
+		death = "1261.1.1"
+	}
+}
+
+73438 = {
+	name = "Ercole"
+	religion = "catholic"
+	culture = "toscano"
+	1231.1.1 = {
+		birth = "1231.1.1"
+	}
+	1281.1.1 = {
+		death = "1281.1.1"
+	}
+}
+
+73439 = {
+	name = "Carlo"
+	religion = "catholic"
+	culture = "toscano"
+	1238.1.1 = {
+		birth = "1238.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+73440 = {
+	name = "Gaspare"
+	religion = "catholic"
+	culture = "toscano"
+	1257.1.1 = {
+		birth = "1257.1.1"
+	}
+	1315.1.1 = {
+		death = "1315.1.1"
+	}
+}
+
+73441 = {
+	name = "Camillo"
+	religion = "catholic"
+	culture = "toscano"
+	1275.1.1 = {
+		birth = "1275.1.1"
+	}
+	1326.1.1 = {
+		death = "1326.1.1"
+	}
+}
+
+73442 = {
+	name = "Lazzaro"
+	religion = "catholic"
+	culture = "toscano"
+	1046.1.1 = {
+		birth = "1046.1.1"
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+
+73443 = {
+	name = "Francesco"
+	religion = "catholic"
+	culture = "toscano"
+	1066.1.1 = {
+		birth = "1066.1.1"
+	}
+	1122.1.1 = {
+		death = "1122.1.1"
+	}
+}
+
+73444 = {
+	name = "Serafino"
+	religion = "catholic"
+	culture = "toscano"
+	1087.1.1 = {
+		birth = "1087.1.1"
+	}
+	1149.1.1 = {
+		death = "1149.1.1"
+	}
+}
+
+73445 = {
+	name = "Umberto"
+	religion = "catholic"
+	culture = "toscano"
+	1111.1.1 = {
+		birth = "1111.1.1"
+	}
+	1169.1.1 = {
+		death = "1169.1.1"
+	}
+}
+
+73446 = {
+	name = "Lorenzo"
+	religion = "catholic"
+	culture = "toscano"
+	1152.1.1 = {
+		birth = "1152.1.1"
+	}
+	1207.1.1 = {
+		death = "1207.1.1"
+	}
+}
+
+73447 = {
+	name = "Aurelio"
+	religion = "catholic"
+	culture = "toscano"
+	1168.1.1 = {
+		birth = "1168.1.1"
+	}
+	1221.1.1 = {
+		death = "1221.1.1"
+	}
+}
+
+73448 = {
+	name = "Onorio"
+	religion = "catholic"
+	culture = "toscano"
+	1183.1.1 = {
+		birth = "1183.1.1"
+	}
+	1234.1.1 = {
+		death = "1234.1.1"
+	}
+}
+
+73449 = {
+	name = "Giorgio"
+	religion = "catholic"
+	culture = "toscano"
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1258.1.1 = {
+		death = "1258.1.1"
+	}
+}
+
+73450 = {
+	name = "Massimo"
+	religion = "catholic"
+	culture = "toscano"
+	1221.1.1 = {
+		birth = "1221.1.1"
+	}
+	1285.1.1 = {
+		death = "1285.1.1"
+	}
+}
+
+73451 = {
+	name = "Raniero"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 463450
+	1316.1.1 = {
+		birth = "1316.1.1"
+	}
+	1347.1.1 = {
+		death = "1347.1.1"
+	}
+}
+
+73452 = {
+	name = "Raniero"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73455
+	1284.1.1 = {
+		birth = "1284.1.1"
+	}
+	1325.1.1 = {
+		death = "1325.1.1"
+	}
+}
+
+73453 = {
+	name = "Enrico"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	1239.1.1 = {
+		birth = "1239.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+73454 = {
+	name = "Ugolino"
+	# Count of Donoratico in Dante's Inferno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73462
+	mother = 180185
+	1218.1.1 = {
+		birth = "1218.1.1"
+	}
+	1245.1.1 = {
+		add_spouse = 180186
+	}
+	1258.1.1 = {
+		add_spouse = 180187
+	}
+	1289.3.1 = {
+		death = "1289.3.1"
+	}
+}
+
+73455 = {
+	name = "Gaddo"
+	# starved to death
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	mother = 180186
+	1248.1.1 = {
+		birth = "1248.1.1"
+	}
+	1289.3.1 = {
+		death = "1289.3.1"
+	}
+}
+
+73456 = {
+	name = "Ugoccione"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	1246.1.1 = {
+		birth = "1246.1.1"
+	}
+	1289.3.1 = {
+		death = "1289.3.1"
+	}
+}
+73457 = {
+	name = "Ugolino"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73456
+	1270.1.1 = {
+		birth = "1270.1.1"
+	}
+	1289.3.1 = {
+		death = "1289.3.1"
+	}
+}
+
+73458 = {
+	name = "Anselmuccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73456
+	1272.1.1 = {
+		birth = "1272.1.1"
+	}
+	1289.3.1 = {
+		death = "1289.3.1"
+	}
+}
+
+73459 = {
+	name = "Erminia"
+	# wife of Giovanni Visconti, Giudice of Gallura
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73462
+	mother = 180185
+	1227.1.1 = {
+		birth = "1227.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+73460 = {
+	name = "Ugolino"
+	# Giudice of Gallura
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 73461
+	mother = 73459
+	1246.1.1 = {
+		birth = "1246.1.1"
+	}
+	1295.1.1 = {
+		add_spouse = 463142
+	}
+	1298.1.9 = {
+		death = "1298.1.9"
+	}
+}
+
+73461 = {
+	name = "Giovanni"
+	# Giudice of Gallura
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 71166
+	mother = 71162
+	1229.1.1 = {
+		birth = "1229.1.1"
+	}
+	1245.1.1 = {
+		add_spouse = 73459
+	}
+	1275.1.1 = {
+		death = "1275.1.1"
+	}
+}
+
+73462 = {
+	name = "Guelfo"
+	# Count of Settimo and Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180046
+	mother = 180509
+	1192.1.1 = {
+		birth = "1192.1.1"
+	}
+	1217.1.1 = {
+		add_spouse = 180185
+	}
+	1247.1.1 = {
+		death = "1247.1.1"
+	}
+}
+
+73463 = {
+	name = "Ruggiero"
+	dynasty = 12248
+	religion = "catholic"
+	culture = "toscano"
+	1221.1.1 = {
+		birth = "1221.1.1"
+	}
+	1288.7.1 = {
+		death = "1288.7.1"
+	}
+}
+
+73464 = {
+	name = "Gualtiero"
+	dynasty = 12249
+	religion = "catholic"
+	culture = "toscano"
+	1234.1.1 = {
+		birth = "1234.1.1"
+	}
+	1289.1.1 = {
+		death = "1289.1.1"
+	}
+}
+
+73465 = {
+	name = "Amedeo"
+	religion = "catholic"
+	culture = "toscano"
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	1312.1.1 = {
+		death = "1312.1.1"
+	}
+}
+
+73596 = {
+	name = "Margherita"
+	female = yes
+	religion = "catholic"
+	culture = "toscano"
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	1324.1.1 = {
+		death = "1324.1.1"
+	}
+}
+
+73597 = {
+	name = "Pandolfo"
+	dynasty = 13059
+	religion = "catholic"
+	culture = "toscano"
+	father = 73595
+	mother = 73596
+	1273.1.1 = {
+		birth = "1273.1.1"
+	}
+	1298.1.1 = {
+		add_spouse = 73599
+	}
+	1326.4.10 = {
+		death = "1326.4.10"
+	}
+}
+
+73598 = {
+	name = "Margherita"
+	female = yes
+	dynasty = 13059
+	religion = "catholic"
+	culture = "toscano"
+	father = 73595
+	mother = 73596
+	1278.1.1 = {
+		birth = "1278.1.1"
+	}
+	1353.1.1 = {
+		death = "1353.1.1"
+	}
+}
+
+73599 = {
+	name = "Taddea"
+	female = yes
+	religion = "catholic"
+	culture = "toscano"
+	1280.1.1 = {
+		birth = "1280.1.1"
+	}
+	1342.1.1 = {
+		death = "1342.1.1"
+	}
+}
+#d'Appiano
+
+167400 = {
+	name = "Guarnito"
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167411
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1255.1.1 = {
+		death = "1255.1.1"
+	}
+}
+
+
+167401 = {
+	name = "Jacopo"
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167400
+	1230.1.1 = {
+		birth = "1230.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+
+
+167402 = {
+	name = "Benvenuto"
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167401
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1330.1.1 = {
+		death = "1330.1.1"
+	}
+}
+
+
+
+
+167403 = {
+	name = "Vanni"
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167402
+	1290.1.1 = {
+		birth = "1290.1.1"
+	}
+	1355.5.20 = {
+		death = "1355.5.20"
+	}
+}
+
+
+
+167404 = {
+	name = "Jacopo"
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167403
+	1322.1.1 = {
+		birth = "1322.1.1"
+	}
+	1398.9.5 = {
+		death = "1398.9.5"
+	}
+}
+
+
+167405 = {
+	name = "Jacopo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 20323
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+	1105.1.1 = {
+		death = "1105.1.1"
+	}
+}
+
+
+
+
+167406 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 20323
+	1052.1.1 = {
+		birth = "1052.1.1"
+	}
+	1110.1.1 = {
+		death = "1110.1.1"
+	}
+}
+
+
+167407 = {
+	name = "Leonardo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167405
+	1080.1.1 = {
+		birth = "1080.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+
+
+
+167408 = {
+	name = "Gentile"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167407
+	1105.1.1 = {
+		birth = "1105.1.1"
+	}
+	1160.1.1 = {
+		death = "1160.1.1"
+	}
+}
+
+
+
+167409 = {
+	name = "Guarnito"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167408
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1190.1.1 = {
+		death = "1190.1.1"
+	}
+}
+
+
+167410 = {
+	name = "Jacopo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167409
+	1155.1.1 = {
+		birth = "1155.1.1"
+	}
+	1220.1.1 = {
+		death = "1220.1.1"
+	}
+}
+
+
+
+167411 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167410
+	1180.1.1 = {
+		birth = "1180.1.1"
+	}
+	1230.1.1 = {
+		death = "1230.1.1"
+	}
+}
+
+
+
+167412 = {
+	name = "Violante"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 20323
+	1048.1.1 = {
+		birth = "1048.1.1"
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+
+
+
+
+167413 = {
+	name = "Tomasina"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 20323
+	1055.1.1 = {
+		birth = "1055.1.1"
+	}
+	1105.1.1 = {
+		death = "1105.1.1"
+	}
+}
+
+
+
+167414 = {
+	name = "Leonardo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167405
+	1085.1.1 = {
+		birth = "1085.1.1"
+	}
+	1135.1.1 = {
+		death = "1135.1.1"
+	}
+}
+
+
+
+167415 = {
+	name = "Gentile"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167405
+	1090.1.1 = {
+		birth = "1090.1.1"
+	}
+	1150.1.1 = {
+		death = "1150.1.1"
+	}
+}
+
+
+
+167416 = {
+	name = "Bianca"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167407
+	1110.1.1 = {
+		birth = "1110.1.1"
+	}
+	1160.1.1 = {
+		death = "1160.1.1"
+	}
+}
+
+
+
+167417 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167408
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+
+
+
+167418 = {
+	name = "Vittorio"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	trait = bastard
+	father = 167408
+	1140.1.1 = {
+		birth = "1140.1.1"
+	}
+	1195.1.1 = {
+		death = "1195.1.1"
+	}
+}
+
+
+
+
+167419 = {
+	name = "Ludovico"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167409
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+
+167420 = {
+	name = "Isabella"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167409
+	1165.1.1 = {
+		birth = "1165.1.1"
+	}
+	1215.1.1 = {
+		death = "1215.1.1"
+	}
+}
+
+
+
+
+167421 = {
+	name = "Vanni"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167410
+	1184.1.1 = {
+		birth = "1184.1.1"
+	}
+	1220.1.1 = {
+		death = "1220.1.1"
+	}
+}
+
+
+167422 = {
+	name = "Gentile"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167411
+	1205.1.1 = {
+		birth = "1205.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+
+
+167423 = {
+	name = "Jacopo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167411
+	1210.1.1 = {
+		birth = "1210.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+
+
+167424 = {
+	name = "Polissena"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167400
+	1225.1.1 = {
+		birth = "1225.1.1"
+	}
+	1275.1.1 = {
+		death = "1275.1.1"
+	}
+}
+
+
+
+167425 = {
+	name = "Elena"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167400
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+
+
+167426 = {
+	name = "Leonardo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167401
+	1265.1.1 = {
+		birth = "1265.1.1"
+	}
+	1310.1.1 = {
+		death = "1310.1.1"
+	}
+}
+
+
+
+167427 = {
+	name = "Ludovico"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167402
+	1295.1.1 = {
+		birth = "1295.1.1"
+	}
+	1345.1.1 = {
+		death = "1345.1.1"
+	}
+}
+
+
+
+167428 = {
+	name = "Gentile"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167427
+	1320.1.1 = {
+		birth = "1320.1.1"
+	}
+	1370.1.1 = {
+		death = "1370.1.1"
+	}
+}
+
+
+
+
+167429 = {
+	name = "Gerardo"
+	#placeholder
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167418
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+
+167430 = {
+	name = "Vittoria"
+	#placeholder
+	female = yes
+	dynasty = 13026
+	religion = "catholic"
+	culture = "toscano"
+	father = 167417
+	1165.1.1 = {
+		birth = "1165.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+
+# Caetani
+
+
+
+167441 = {
+	name = "Orso"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167487
+	1110.1.1 = {
+		birth = "1110.1.1"
+	}
+	1167.1.1 = {
+		death = "1167.1.1"
+	}
+}
+
+
+
+167442 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167441
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1167.1.1 = {
+		death = "1167.1.1"
+	}
+}
+
+
+
+167443 = {
+	name = "Gregorio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167441
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1190.1.1 = {
+		death = "1190.1.1"
+	}
+}
+
+
+
+167444 = {
+	name = "Aldobrandino"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167441
+	1140.1.1 = {
+		birth = "1140.1.1"
+	}
+	1223.11.1 = {
+		death = "1223.11.1"
+	}
+}
+
+
+
+
+167445 = {
+	name = "Limpiade"
+	female = yes
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167441
+	1145.1.1 = {
+		birth = "1145.1.1"
+	}
+	1195.1.1 = {
+		death = "1195.1.1"
+	}
+}
+
+
+167446 = {
+	name = "Bartolomeo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167442
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+167447 = {
+	name = "Pietro"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167442
+	1161.1.1 = {
+		birth = "1161.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+
+
+167448 = {
+	name = "Tomasso"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167442
+	1163.1.1 = {
+		birth = "1163.1.1"
+	}
+	1220.1.1 = {
+		death = "1220.1.1"
+	}
+}
+
+
+
+
+167449 = {
+	name = "Giacomo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167442
+	1164.1.1 = {
+		birth = "1164.1.1"
+	}
+	1214.1.1 = {
+		death = "1214.1.1"
+	}
+}
+
+
+
+167450 = {
+	name = "Ruggero"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167442
+	1165.1.1 = {
+		birth = "1165.1.1"
+	}
+	1215.1.1 = {
+		death = "1215.1.1"
+	}
+}
+
+
+
+
+167451 = {
+	name = "Constanza"
+	female = yes
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167442
+	1166.1.1 = {
+		birth = "1166.1.1"
+	}
+	1216.1.1 = {
+		death = "1216.1.1"
+	}
+}
+
+
+
+167452 = {
+	name = "Goffredo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167448
+	1183.1.1 = {
+		birth = "1183.1.1"
+	}
+	1233.1.1 = {
+		death = "1233.1.1"
+	}
+}
+
+
+
+167453 = {
+	name = "Mattia"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167446
+	1190.1.1 = {
+		birth = "1190.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+
+
+167454 = {
+	name = "Goffredo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167453
+	1210.1.1 = {
+		birth = "1210.1.1"
+	}
+	1275.1.1 = {
+		death = "1275.1.1"
+	}
+}
+
+
+
+167455 = {
+	name = "Pietro"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167453
+	1212.1.1 = {
+		birth = "1212.1.1"
+	}
+	1265.1.1 = {
+		death = "1265.1.1"
+	}
+}
+
+
+
+167456 = {
+	name = "Atenolfo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167453
+	1214.1.1 = {
+		birth = "1214.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+
+
+
+167457 = {
+	name = "Giacomo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167456
+	1230.1.1 = {
+		birth = "1230.1.1"
+	}
+	1280.1.1 = {
+		death = "1280.1.1"
+	
+	}
+}
+
+
+
+167458 = {
+	name = "Benedetto"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167457
+	1246.1.1 = {
+		birth = "1246.1.1"
+	}
+	1296.12.14 = {
+		death = "1296.12.14"
+	
+	}
+}
+
+
+
+167459 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167457
+	1248.1.1 = {
+		birth = "1248.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	
+	}
+}
+
+
+
+167460 = {
+	name = "Goffredo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167454
+	1226.1.1 = {
+		birth = "1226.1.1"
+	}
+	1296.1.1 = {
+		death = "1296.1.1"
+	}
+}
+
+
+
+167461 = {
+	name = "Pietro"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167460
+	1246.1.1 = {
+		birth = "1246.1.1"
+	}
+	1308.1.1 = {
+		death = "1308.1.1"
+	}
+}
+
+
+
+167462 = {
+	name = "Francesco"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = celibate
+	father = 167460
+	1247.1.1 = {
+		birth = "1247.1.1"
+	}
+	1317.5.16 = {
+		death = "1317.5.16"
+	}
+}
+
+
+
+167469 = {
+	name = "Goffredo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167461
+	1284.1.1 = {
+		birth = "1284.1.1"
+	}
+	1335.6.1 = {
+		death = "1335.6.1"
+	}
+}
+
+
+
+167470 = {
+	name = "Benedetto"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167461
+	1265.1.1 = {
+		birth = "1265.1.1"
+	}
+	1322.1.1 = {
+		death = "1322.1.1"
+	}
+}
+
+
+
+167471 = {
+	name = "Francesco"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167461
+	1286.1.1 = {
+		birth = "1286.1.1"
+	}
+	1317.5.16 = {
+		death = "1317.5.16"
+	}
+}
+
+
+
+167463 = {
+	name = "Francesca"
+	female = yes
+	dynasty = 622 #Caetani
+	culture = "toscano"
+	culture = "italian"
+	father = 167461
+	1275.1.1 = {
+		birth = "1275.1.1"
+	}
+	1325.1.1 = {
+		death = "1325.1.1"
+	}
+}
+
+
+
+
+167464 = {
+	name = "Niccolo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167469
+	1310.1.1 = {
+		birth = "1310.1.1"
+	}
+	1335.1.1 = {
+		add_spouse = 167468
+	}
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+
+
+
+167465 = {
+	name = "Giacobello"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167469
+	1319.1.1 = {
+		birth = "1319.1.1"
+	}
+	1360.8.1 = {
+		death = "1360.8.1"
+	}
+}
+
+
+
+
+167466 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167469
+	1323.1.1 = {
+		birth = "1323.1.1"
+	}
+	1362.6.1 = {
+		death = "1362.6.1"
+	}
+}
+
+
+
+
+167467 = {
+	name = "Onorato"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167464
+	mother = 167468
+	1336.1.1 = {
+		birth = "1336.1.1"
+	}
+	1400.4.20 = {
+		death = "1400.4.20"
+	}
+}
+
+
+
+167468 = {
+	name = "Giacoma"
+	female = yes
+	dynasty = 2 #Orsini
+	religion = "catholic"
+	culture = "toscano"
+	father = 478504
+	1315.1.1 = {
+		birth = "1315.1.1"
+	}
+	1363.2.2 = {
+		death = "1363.2.2"
+	}
+}
+
+
+
+167472 = {
+	name = "Docibile"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	840.1.1 = {
+		birth = "840.1.1"
+	}
+	914.1.1 = {
+		death = "914.1.1"
+	}
+}
+
+
+
+167473 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167472
+	860.1.1 = {
+		birth = "860.1.1"
+	}
+	934.1.1 = {
+		death = "934.1.1"
+	}
+}
+
+
+
+167474 = {
+	name = "Docibile"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167472
+	880.1.1 = {
+		birth = "880.1.1"
+	}
+	954.1.1 = {
+		death = "954.1.1"
+	}
+}
+
+
+
+167475 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167474
+	910.1.1 = {
+		birth = "910.1.1"
+	}
+	962.3.1 = {
+		death = "962.3.1"
+	}
+}
+
+
+
+167476 = {
+	name = "Gregorio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167474
+	933.1.1 = {
+		birth = "933.1.1"
+	}
+	981.2.1 = {
+		death = "981.2.1"
+	}
+}
+
+
+
+167477 = {
+	name = "Marino"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167474
+	930.1.1 = {
+		birth = "930.1.1"
+	}
+	984.10.1 = {
+		death = "984.10.1"
+	}
+}
+
+
+
+167478 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167477
+	955.1.1 = {
+		birth = "955.1.1"
+	}
+	1008.1.1 = {
+		death = "1008.1.1"
+	}
+}
+
+
+
+167479 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167478
+	980.1.1 = {
+		birth = "980.1.1"
+	}
+	1012.1.1 = {
+		death = "1012.1.1"
+	}
+}
+
+
+
+167480 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167479
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1040.1.1 = {
+		death = "1040.1.1"
+	}
+}
+
+
+
+167481 = {
+	name = "Leone"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167474
+	935.1.1 = {
+		birth = "935.1.1"
+	}
+	959.1.1 = {
+		death = "959.1.1"
+	}
+}
+
+
+
+
+167482 = {
+	name = "Docibile"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	trait = legitimized_bastard
+	father = 167481
+	955.1.1 = {
+		birth = "955.1.1"
+	}
+	1012.8.1 = {
+		death = "1012.8.1"
+	}
+}
+
+
+
+167483 = {
+	name = "Leone"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167482
+	985.1.1 = {
+		birth = "985.1.1"
+	}
+	1042.1.2 = {
+		death = "1042.1.2"
+	}
+}
+
+
+
+167484 = {
+	name = "Ugo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167482
+	990.1.1 = {
+		birth = "990.1.1"
+	}
+	1040.1.1 = {
+		death = "1040.1.1"
+	}
+}
+
+
+
+167485 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167484
+	1020.1.1 = {
+		birth = "1020.1.1"
+	}
+	1079.5.1 = {
+		death = "1079.5.1"
+	}
+}
+
+
+
+167486 = {
+	name = "Ugo"
+	#placeholder
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167485
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+
+
+167487 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167486
+	1080.1.1 = {
+		birth = "1080.1.1"
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+
+
+
+167488 = {
+	name = "Docibile"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167483
+	1005.1.1 = {
+		birth = "1005.1.1"
+	}
+	1056.10.1 = {
+		death = "1056.10.1"
+	}
+}
+
+
+
+167489 = {
+	name = "Leone"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167488
+	1025.1.1 = {
+		birth = "1025.1.1"
+	}
+	1064.4.1 = {
+		death = "1064.4.1"
+	}
+}
+
+
+
+167490 = {
+	name = "Atenolfo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167489
+	1055.1.1 = {
+		birth = "1055.1.1"
+	}
+	1128.1.1 = {
+		death = "1128.1.1"
+	}
+}
+
+
+
+167491 = {
+	name = "Alberico"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167490
+	1085.1.1 = {
+		birth = "1085.1.1"
+	}
+	1159.1.1 = {
+		death = "1159.1.1"
+	}
+}
+
+167492 = {
+	name = "Docibile"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167489
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1128.3.1 = {
+		death = "1128.3.1"
+	}
+}
+
+
+167493 = {
+	name = "Landolfo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167492
+	1090.1.1 = {
+		birth = "1090.1.1"
+	}
+	1157.1.1 = {
+		death = "1157.1.1"
+	}
+}
+
+
+
+167494 = {
+	name = "Marino"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167477
+	960.1.1 = {
+		birth = "960.1.1"
+	}
+	1008.7.1 = {
+		death = "1008.7.1"
+	}
+}
+
+
+
+167495 = {
+	name = "Cresenzio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167494
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1069.1.1 = {
+		death = "1069.1.1"
+	}
+}
+
+
+
+167496 = {
+	name = "Cresenzio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167495
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1069.1.1 = {
+		death = "1069.1.1"
+	}
+}
+
+
+
+167497 = {
+	name = "Marino"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167495
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1121.1.1 = {
+		death = "1121.1.1"
+	}
+}
+
+
+
+167498 = {
+	name = "Cresenzio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167497
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1121.12.1 = {
+		death = "1121.12.1"
+	}
+}
+
+
+
+167499 = {
+	name = "Cresenzio"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167498
+	1090.1.1 = {
+		birth = "1090.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+
+167500 = {
+	name = "Giovanni"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167499
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1190.1.1 = {
+		death = "1190.1.1"
+	}
+}
+
+
+
+167501 = {
+	name = "Landolfo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167488
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1064.10.1 = {
+		death = "1064.10.1"
+	}
+}
+
+
+167502 = {
+	name = "Pandolfo"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167501
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1135.1.1 = {
+		death = "1135.1.1"
+	}
+}
+
+
+
+
+167503 = {
+	name = "Ranieri"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167483
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1070.5.1 = {
+		death = "1070.5.1"
+	}
+}
+
+
+
+
+167504 = {
+	name = "Ranieri"
+	dynasty = 622 #Caetani
+	religion = "catholic"
+	culture = "toscano"
+	father = 167503
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+	1125.1.1 = {
+		death = "1125.1.1"
+	}
+}
+
+#Alliata
+
+
+
+167505 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1050.1.1 = {
+		death = "1050.1.1"
+	}
+}
+
+
+
+
+167506 = {
+	name = "Benedetto"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167505
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1080.1.1 = {
+		death = "1080.1.1"
+	}
+}
+
+
+
+
+167507 = {
+	name = "Giacomo"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167505
+	1035.1.1 = {
+		birth = "1035.1.1"
+	}
+	1085.1.1 = {
+		death = "1085.1.1"
+	}
+}
+
+
+
+
+167508 = {
+	name = "Antonio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167506
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1115.1.1 = {
+		death = "1115.1.1"
+	}
+}
+
+
+
+167509 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167508
+	1085.1.1 = {
+		birth = "1085.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+
+
+
+
+167510 = {
+	name = "Nicola"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167509
+	1110.1.1 = {
+		birth = "1110.1.1"
+	}
+	1170.1.1 = {
+		death = "1170.1.1"
+	}
+}
+
+
+
+167511 = {
+	name = "Benedetto"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167510
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1185.1.1 = {
+		death = "1185.1.1"
+	}
+}
+
+
+
+167512 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167510
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1215.1.1 = {
+		death = "1215.1.1"
+	}
+}
+
+
+
+
+167513 = {
+	name = "Giuseppe"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167512
+	1190.1.1 = {
+		birth = "1190.1.1"
+	}
+	1250.1.1 = {
+		death = "1250.1.1"
+	}
+}
+
+
+
+167514 = {
+	name = "Filippo"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167513
+	1215.1.1 = {
+		birth = "1215.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+
+
+
+167515 = {
+	name = "Francesco"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167514
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	}
+}
+
+
+167516 = {
+	name = "Mariano"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167515
+	1270.1.1 = {
+		birth = "1270.1.1"
+	}
+	1320.1.1 = {
+		death = "1320.1.1"
+	}
+}
+
+
+
+
+167517 = {
+	name = "Filippo"
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167516
+	1290.1.1 = {
+		birth = "1290.1.1"
+	}
+	1330.1.1 = {
+		death = "1330.1.1"
+	}
+}
+
+
+
+
+167518 = {
+	name = "Nicola"
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167517
+	1312.1.1 = {
+		birth = "1312.1.1"
+	}
+	1365.1.1 = {
+		death = "1365.1.1"
+	}
+}
+
+
+
+167519 = {
+	name = "Gerardo"
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167517
+	1317.1.1 = {
+		birth = "1317.1.1"
+	}
+	1367.1.1 = {
+		death = "1367.1.1"
+	}
+}
+
+
+
+
+167520 = {
+	name = "Mariano"
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167517
+	1320.1.1 = {
+		birth = "1320.1.1"
+	}
+	1370.1.1 = {
+		death = "1370.1.1"
+	}
+}
+
+
+
+167521 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167506
+	1062.1.1 = {
+		birth = "1062.1.1"
+	}
+	1112.1.1 = {
+		death = "1112.1.1"
+	}
+}
+
+
+
+167522 = {
+	name = "Antonella"
+	#placeholder
+	female = yes
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167507
+	1055.1.1 = {
+		birth = "1055.1.1"
+	}
+	1105.1.1 = {
+		death = "1105.1.1"
+	}
+}
+
+
+
+
+
+
+167523 = {
+	name = "Paola"
+	#placeholder
+	female = yes
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167508
+	1090.1.1 = {
+		birth = "1090.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+
+
+
+
+167524 = {
+	name = "Benedetto"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167509
+	1115.1.1 = {
+		birth = "1115.1.1"
+	}
+	1165.1.1 = {
+		death = "1165.1.1"
+	}
+}
+
+
+
+167525 = {
+	name = "Ottobono"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167524
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+
+
+
+167526 = {
+	name = "Giacinta"
+	female = yes
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167524
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+
+
+
+167527 = {
+	name = "Ettore"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167512
+	1195.1.1 = {
+		birth = "1195.1.1"
+	}
+	1250.1.1 = {
+		death = "1250.1.1"
+	}
+}
+
+
+
+167528 = {
+	name = "Marco"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167512
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+
+
+
+167529 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167528
+	1230.1.1 = {
+		birth = "1230.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+
+
+167530 = {
+	name = "Damiano"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167529
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1310.1.1 = {
+		death = "1310.1.1"
+	}
+}
+
+
+
+167531 = {
+	name = "Silvano"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167529
+	1265.1.1 = {
+		birth = "1265.1.1"
+	}
+	1320.1.1 = {
+		death = "1320.1.1"
+	}
+}
+
+
+
+167532 = {
+	name = "Dazio"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167531
+	1295.1.1 = {
+		birth = "1295.1.1"
+	}
+	1345.1.1 = {
+		death = "1345.1.1"
+	}
+}
+
+
+
+167533 = {
+	name = "Ludovico"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167531
+	1300.1.1 = {
+		birth = "1300.1.1"
+	}
+	1350.1.1 = {
+		death = "1350.1.1"
+	}
+}
+
+167534 = {
+	name = "Benedetto"
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167532
+	1315.1.1 = {
+		birth = "1315.1.1"
+	}
+	1365.1.1 = {
+		death = "1365.1.1"
+	}
+}
+
+167535 = {
+	name = "Filippa"
+	female = yes
+	#placeholder
+	dynasty = 9521 #Alliata
+	religion = "catholic"
+	culture = "toscano"
+	father = 167532
+	1320.1.1 = {
+		birth = "1320.1.1"
+	}
+	1370.1.1 = {
+		death = "1370.1.1"
+	}
+}
+167554 = {
+	name = "Alberto"
+	dynasty = 13028
+	
+	religion = "catholic"
+	culture = "toscano"
+	father = 70924
+	1220.1.1 = {
+		birth = "1220.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+
+167559 = {
+	name = "Carlo"
+	#placeholder
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 71828
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+167560 = {
+	name = "Carlo"
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167559
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1310.1.1 = {
+		death = "1310.1.1"
+	}
+}
+
+167561 = {
+	name = "Federigo"
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167559
+	1265.1.1 = {
+		birth = "1265.1.1"
+	}
+	1315.1.1 = {
+		death = "1315.1.1"
+	}
+}
+
+167562 = {
+	name = "Teodoro"
+	#placeholder
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167560
+	1299.1.1 = {
+		birth = "1299.1.1"
+	}
+	1350.1.1 = {
+		death = "1350.1.1"
+	}
+}
+
+167563 = {
+	name = "Ugo"
+	#placeholder
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167560
+	1304.1.1 = {
+		birth = "1304.1.1"
+	}
+	1354.1.1 = {
+		death = "1354.1.1"
+	}
+}
+
+167564 = {
+	name = "Ottobuono"
+	#placeholder
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167560
+	1306.1.1 = {
+		birth = "1306.1.1"
+	}
+	1356.1.1 = {
+		death = "1356.1.1"
+	}
+}
+
+167565 = {
+	name = "Tedisio"
+	#placeholder
+	dynasty = 13028
+
+	religion = "catholic"
+	culture = "toscano"
+	father = 167561
+	1310.1.1 = {
+		birth = "1310.1.1"
+	}
+	1360.1.1 = {
+		death = "1360.1.1"
+	}
+}
+
+182000 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = "toscano"
+	father = 167668
+	mother = 167669
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1066.1.1 = {
+		add_spouse = 167659
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+180000 = {
+	name = "Ghisolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	900.1.1 = {
+		birth = "900.1.1"
+	}
+	958.1.1 = {
+		death = "958.1.1"
+	}
+}
+180001 = {
+	name = "Gerardo"
+	# Gerardo I, Count of Volterra
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180000
+	932.1.1 = {
+		birth = "932.1.1"
+	}
+	990.1.1 = {
+		death = "990.1.1"
+	}
+}
+180002 = {
+	name = "Gerardo"
+	# Gerardo II
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180001
+	954.1.1 = {
+		birth = "954.1.1"
+	}
+	971.1.1 = {
+		add_spouse = 180179
+	}
+	989.1.1 = {
+		death = "989.1.1"
+	}
+}
+180003 = {
+	name = "Tedice"
+	# Tedice I, Count of Volterra
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180001
+	963.1.1 = {
+		birth = "963.1.1"
+	}
+	984.1.1 = {
+		add_spouse = 180180
+	}
+	1009.1.1 = {
+		death = "1009.1.1"
+	}
+}
+180004 = {
+	name = "Ugo"
+	# Ugo I
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	989.1.1 = {
+		birth = "989.1.1"
+	}
+	1008.1.1 = {
+		add_spouse = 180181
+	}
+	1037.1.1 = {
+		death = "1037.1.1"
+	}
+}
+180005 = {
+	name = "Rodolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180004
+	mother = 180181
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1026.1.1 = {
+		death = "1026.1.1"
+	}
+}
+180006 = {
+	name = "Guido"
+	# Guido I, Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	995.1.1 = {
+		birth = "995.1.1"
+	}
+	1013.1.1 = {
+		add_spouse = 180188
+	}
+	1039.1.1 = {
+		death = "1039.1.1"
+	}
+}
+180007 = {
+	name = "Guido"
+	# Guido II, Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180006
+	mother = 180188
+	1036.1.1 = {
+		birth = "1036.1.1"
+	}
+	1065.1.1 = {
+		add_spouse = 180502
+	}
+	1088.1.1 = {
+		death = "1088.1.1"
+	}
+}
+180008 = {
+	name = "Guido"
+	# Guido III Malaparte, Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180007
+	mother = 180502
+	1067.1.1 = {
+		birth = "1067.1.1"
+	}
+	1113.1.1 = {
+		add_spouse = 180195
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+180009 = {
+	name = "Guerriera"
+	# wife of Gerardo VIII della Gherardesca, Count of Bolgheri
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180008
+	mother = 180195
+	1127.1.1 = {
+		birth = "1127.1.1"
+	}
+	1171.1.1 = {
+		death = "1171.1.1"
+	}
+}
+180010 = {
+	name = "Gerardo"
+	# Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180008
+	mother = 180195
+	1115.1.1 = {
+		birth = "1115.1.1"
+	}
+	# married Romea Malabranca
+	1163.1.1 = {
+		death = "1163.1.1"
+	}
+}
+180011 = {
+	name = "Pietro"
+	# Cardinal of Saint Susanna
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180007
+	mother = 180502
+	trait = education_learning_3
+	1068.1.1 = {
+		birth = "1068.1.1"
+	}
+	1144.3.9 = {
+		death = "1144.3.9"
+	}
+}
+180012 = {
+	name = "Ugolino"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180007
+	mother = 180502
+	1070.1.1 = {
+		birth = "1070.1.1"
+	}
+	1100.1.1 = {
+		add_spouse = 180204
+	}
+	1128.1.1 = {
+		death = "1128.1.1"
+	}
+}
+180013 = {
+	name = "Tedice"
+	# Count of Forcoli and Frosini
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180012
+	mother = 180204
+	1117.1.1 = {
+		birth = "1117.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+180014 = {
+	name = "Pepone"
+	# Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180012
+	mother = 180204
+	1104.1.1 = {
+		birth = "1104.1.1"
+	}
+	1122.1.1 = {
+		add_spouse = 180510
+	}
+	1152.1.1 = {
+		death = "1152.1.1"
+	}
+}
+180015 = {
+	name = "Ugolino"
+	# Count of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180014
+	mother = 180510
+	1124.1.1 = {
+		birth = "1124.1.1"
+	}
+	1143.1.1 = {
+		add_spouse = 180503
+	}
+	1164.1.1 = {
+		death = "1164.1.1"
+	}
+}
+180016 = {
+	name = "Iacopa"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180015
+	mother = 180503
+	1145.1.1 = {
+		birth = "1145.1.1"
+	}
+	1209.1.1 = {
+		death = "1209.1.1"
+	}
+}
+180017 = {
+	name = "Beatrice"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180015
+	mother = 180503
+	1148.1.1 = {
+		birth = "1148.1.1"
+	}
+	1185.1.1 = {
+		death = "1185.1.1"
+	}
+}
+180018 = {
+	name = "Monaco"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180012
+	mother = 180204
+	1103.1.1 = {
+		birth = "1103.1.1"
+	}
+	1132.1.1 = {
+		death = "1132.1.1"
+	}
+}
+180019 = {
+	name = "Guido"
+	# Saint Guido, hermit
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180012
+	mother = 180204
+	trait = education_learning_2
+	trait = shy
+	trait = temperate
+	1102.1.1 = {
+		birth = "1102.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+180020 = {
+	name = "Adelasia"
+	# wife of Ugone, Count of Fucecchio and Settimo
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180007
+	mother = 180502
+	1071.1.1 = {
+		birth = "1071.1.1"
+	}
+	1116.1.1 = {
+		death = "1116.1.1"
+	}
+}
+180021 = {
+	name = "Ugone"
+	# son of Guido I of Forcoli
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180006
+	mother = 180188
+	1037.1.1 = {
+		birth = "1037.1.1"
+	}
+	1068.1.1 = {
+		death = "1068.1.1"
+	}
+}
+180022 = {
+	name = "Tedice"
+	# Tedice II
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	992.1.1 = {
+		birth = "992.1.1"
+	}
+	1022.1.1 = {
+		add_spouse = 180182
+	}
+	1050.1.1 = {
+		death = "1050.1.1"
+	}
+}
+180023 = {
+	name = "Tedice"
+	# Tedice III, Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180022
+	mother = 180182
+	1024.1.1 = {
+		birth = "1024.1.1"
+	}
+	1050.1.1 = {
+		add_spouse = 180253
+	}
+	1078.1.1 = {
+		death = "1078.1.1"
+	}
+}
+180024 = {
+	name = "Tedice"
+	# Tedice IV, Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180023
+	mother = 180253
+	1054.1.1 = {
+		birth = "1054.1.1"
+	}
+	1090.1.1 = {
+		add_spouse = 180511
+	}
+	1110.1.1 = {
+		death = "1110.1.1"
+	}
+}
+180025 = {
+   name = "Tedice"
+   # Tedice V, Count of Castagneto & Settimo
+   dynasty = 13031
+   religion = "catholic"
+   culture = "toscano"
+   father = 180024
+   mother = 180511
+   1093.1.1 = {
+     birth = yes
+   }
+   1150.1.1 = {
+     add_spouse = 180183
+   }
+   1157.1.1 = {
+     death = yes
+   }
+}
+180026 = {
+	name = "Tedice"
+	# Tedice VI, Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180025
+	mother = 180183
+	1154.1.1 = {
+		birth = "1154.1.1"
+	}
+	1170.1.1 = {
+		add_spouse = 180512
+	}
+	1222.1.1 = {
+		death = "1222.1.1"
+	}
+}
+180027 = {
+	name = "Raineri"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180026
+	mother = 180512
+	1172.1.1 = {
+		birth = "1172.1.1"
+	}
+	1243.1.1 = {
+		death = "1243.1.1"
+	}
+}
+180028 = {
+	name = "Bartolomeo"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180027
+	1191.1.1 = {
+		birth = "1191.1.1"
+	}
+	1242.1.1 = {
+		death = "1242.1.1"
+	}
+}
+180029 = {
+	name = "Gano"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180028
+	1215.1.1 = {
+		birth = "1215.1.1"
+	}
+	1280.1.1 = {
+		death = "1280.1.1"
+	}
+}
+180030 = {
+	name = "Ugolino"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180029
+	1232.1.1 = {
+		birth = "1232.1.1"
+	}
+	1259.1.1 = {
+		death = "1259.1.1"
+	}
+}
+180031 = {
+	name = "Bonaccorso"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180029
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1256.1.1 = {
+		add_spouse = 180184
+	}
+	1261.1.1 = {
+		death = "1261.1.1"
+	}
+}
+180032 = {
+	name = "Guelfo"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180028
+	1218.1.1 = {
+		birth = "1218.1.1"
+	}
+	1268.1.1 = {
+		death = "1268.1.1"
+	}
+}
+180033 = {
+	name = "Telda"
+	# wife of Guelfo Sismondi
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180032
+	1239.1.1 = {
+		birth = "1239.1.1"
+	}
+	1298.1.1 = {
+		death = "1298.1.1"
+	}
+}
+180034 = {
+	name = "Alberto"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180026
+	1219.1.1 = {
+		birth = "1219.1.1"
+	}
+	1294.1.1 = {
+		death = "1294.1.1"
+	}
+}
+180035 = {
+	name = "Bonaccorso"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180034
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1302.1.1 = {
+		death = "1302.1.1"
+	}
+}
+180036 = {
+	name = "Gano"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180035
+	1269.1.1 = {
+		birth = "1269.1.1"
+	}
+	1305.1.1 = {
+		death = "1305.1.1"
+	}
+}
+180037 = {
+	name = "Guelfo"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180036
+	1295.1.1 = {
+		birth = "1295.1.1"
+	}
+	1326.1.1 = {
+		death = "1326.1.1"
+	}
+}
+180038 = {
+	name = "Coscio"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180036
+	1297.1.1 = {
+		birth = "1297.1.1"
+	}
+	1352.1.1 = {
+		death = "1352.1.1"
+	}
+}
+180039 = {
+	name = "Antonia"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180038
+	1320.1.1 = {
+		birth = "1320.1.1"
+	}
+	1367.1.1 = {
+		death = "1367.1.1"
+	}
+}
+180040 = {
+	name = "Bartolomeo"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180036
+	1299.1.1 = {
+		birth = "1299.1.1"
+	}
+	1356.1.1 = {
+		death = "1356.1.1"
+	}
+}
+180041 = {
+	name = "Giovanni"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180040
+	1337.1.1 = {
+		birth = "1337.1.1"
+	}
+	1385.1.1 = {
+		death = "1385.1.1"
+	}
+}
+180042 = {
+	name = "Alberto"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180041
+	1372.1.1 = {
+		birth = "1372.1.1"
+	}
+	1434.1.1 = {
+		death = "1434.1.1"
+	}
+}
+180043 = {
+	name = "Bartolomeo"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180041
+	1373.1.1 = {
+		birth = "1373.1.1"
+	}
+	# married Jacopa <unknown>
+	1427.1.1 = {
+		death = "1427.1.1"
+	}
+}
+180044 = {
+	name = "Giovanni"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180036
+	1305.1.1 = {
+		birth = "1305.1.1"
+	}
+	1362.1.1 = {
+		death = "1362.1.1"
+	}
+}
+180045 = {
+	name = "Betto"
+	# Count of Segalari
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180034
+	1243.1.1 = {
+		birth = "1243.1.1"
+	}
+	1303.1.1 = {
+		death = "1303.1.1"
+	}
+}
+180046 = {
+	name = "Ugolino"
+	# Count of Settimo
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180025
+	mother = 180183
+	1151.1.1 = {
+		birth = yes
+	}
+	1185.1.1 = {
+		add_spouse = 180509
+	}
+	1199.1.1 = {
+		death = "1199.1.1"
+	}
+}
+180047 = {
+	name = "Sibilla"
+	# wife of Ugolino Alberti
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180046
+	mother = 180509
+	1190.1.1 = {
+		birth = "1190.1.1"
+	}
+	1227.1.1 = {
+		death = "1227.1.1"
+	}
+}
+180058 = {
+   name = "Giacomina" #d. of Ugolino della Gherardesca, wife of John of Arborea
+   female = yes
+   dynasty = 13031
+   religion = "catholic"
+   culture = "toscano"
+   father = 73454
+   1258.1.1 = {
+     birth = yes
+   }
+   1329.2.12 = {
+     death = yes
+   }
+}
+180059 = {
+	name = "Bianca"
+	# wife of Guido Novello Guidi, Count of Bagno
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1303.1.1 = {
+		death = "1303.1.1"
+	}
+}
+180060 = {
+	name = "Matteo"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	mother = 180186
+	1249.1.1 = {
+		birth = "1249.1.1"
+	}
+	1309.1.1 = {
+		death = "1309.1.1"
+	}
+}
+180061 = {
+	name = "Balduccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	mother = 180187
+	1261.1.1 = {
+		birth = "1261.1.1"
+	}
+	1297.1.1 = {
+		death = "1297.1.1"
+	}
+}
+180062 = {
+	name = "Lotto"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73454
+	mother = 180187
+	1264.1.1 = {
+		birth = "1264.1.1"
+	}
+	1318.1.1 = {
+		death = "1318.1.1"
+	}
+}
+180063 = {
+	name = "Amalia"
+	# wife of Bertoldo, Count of Capraia
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 73462
+	mother = 180185
+	1222.1.1 = {
+		birth = "1222.1.1"
+	}
+	1268.1.1 = {
+		death = "1268.1.1"
+	}
+}
+180064 = {
+	name = "Bonifacio"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180046
+	mother = 180509
+	1194.1.1 = {
+		birth = "1194.1.1"
+	}
+	1238.1.1 = {
+		death = "1238.1.1"
+	}
+}
+180065 = {
+	name = "Giovanni"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180064
+	1215.1.1 = {
+		birth = "1215.1.1"
+	}
+	1269.1.1 = {
+		death = "1269.1.1"
+	}
+}
+180066 = {
+	name = "Bonifacio"
+	# Bishop of Chiron
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1241.1.1 = {
+		birth = "1241.1.1"
+	}
+	1304.1.1 = {
+		death = "1304.1.1"
+	}
+}
+180067 = {
+	name = "Raineri"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1244.1.1 = {
+		birth = "1244.1.1"
+	}
+	1283.1.1 = {
+		death = "1283.1.1"
+	}
+}
+180068 = {
+	name = "Ghilla"
+	# wife of Odo della Sala
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180067
+	1275.1.1 = {
+		birth = "1275.1.1"
+	}
+	1326.1.1 = {
+		death = "1326.1.1"
+	}
+}
+180069 = {
+	name = "Giovanna"
+	# wife of Gerardo della Uppezinghi
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180067
+	1276.1.1 = {
+		birth = "1276.1.1"
+	}
+	1338.1.1 = {
+		death = "1338.1.1"
+	}
+}
+180070 = {
+	name = "Ottaviano"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180067
+	1277.1.1 = {
+		birth = "1277.1.1"
+	}
+	1304.1.1 = {
+		death = "1304.1.1"
+	}
+}
+180071 = {
+	name = "Gaddo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180067
+	1279.1.1 = {
+		birth = "1279.1.1"
+	}
+	1351.1.1 = {
+		death = "1351.1.1"
+	}
+}
+180072 = {
+	name = "Enrichetto"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1247.1.1 = {
+		birth = "1247.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	}
+}
+180073 = {
+	name = "Sozza"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180072
+	1270.1.1 = {
+		birth = "1270.1.1"
+	}
+	1335.1.1 = {
+		death = "1335.1.1"
+	}
+}
+180074 = {
+	name = "Nese"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180072
+	1274.1.1 = {
+		birth = "1274.1.1"
+	}
+	1330.1.1 = {
+		death = "1330.1.1"
+	}
+}
+180075 = {
+	name = "Uberto"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1245.1.1 = {
+		birth = "1245.1.1"
+	}
+	1267.1.1 = {
+		death = "1267.1.1"
+	}
+}
+180076 = {
+	name = "Gerardo"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1248.1.1 = {
+		birth = "1248.1.1"
+	}
+	1301.1.1 = {
+		death = "1301.1.1"
+	}
+}
+180077 = {
+	name = "Tedice"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180065
+	1251.1.1 = {
+		birth = "1251.1.1"
+	}
+	1303.1.1 = {
+		death = "1303.1.1"
+	}
+}
+180078 = {
+	name = "Berarda"
+	# wife of Tinuccio della Rocca
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180077
+	1274.1.1 = {
+		birth = "1274.1.1"
+	}
+	1317.1.1 = {
+		death = "1317.1.1"
+	}
+}
+180079 = {
+	name = "Bonifacio"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180064
+	1219.1.1 = {
+		birth = "1219.1.1"
+	}
+	1254.1.1 = {
+		death = "1254.1.1"
+	}
+}
+180080 = {
+	name = "Berta"
+	# wife of Oberto Pallavicino di Bolgheri
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180064
+	1222.1.1 = {
+		birth = "1222.1.1"
+	}
+	1278.1.1 = {
+		death = "1278.1.1"
+	}
+}
+180081 = {
+	name = "Gerardo"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180046
+	mother = 180509
+	1198.1.1 = {
+		birth = "1198.1.1"
+	}
+	1256.1.1 = {
+		death = "1256.1.1"
+	}
+}
+180082 = {
+	name = "Bonifacio"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180081
+	1220.1.1 = {
+		birth = yes
+	}
+	1259.1.1 = {
+		death = yes
+	}
+}
+180083 = {
+	name = "Gaddo"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180082
+	1257.1.1 = {
+		birth = "1257.1.1"
+	}
+	1320.5.1 = {
+		death = "1320.5.1"
+	}
+}
+180084 = {
+	name = "Agostina"
+	# wife of Guido Orsini, Count of Pitigliano
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180083
+	1290.1.1 = {
+		birth = "1290.1.1"
+	}
+	1361.1.1 = {
+		death = "1361.1.1"
+	}
+}
+180085 = {
+	name = "Bonifacio"
+	# Bonifacio I, Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180083
+	1292.1.1 = {
+		birth = "1292.1.1"
+	}
+	1319.1.1 = {
+		add_spouse = 180189
+	}
+	1328.1.1 = {
+		add_spouse = 180190
+	}
+	1352.1.1 = {
+		death = "1352.1.1"
+	}
+}
+180086 = {
+	name = "Gerardo"
+	# Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180085
+	mother = 180189
+	1321.1.1 = {
+		birth = "1321.1.1"
+	}
+	1385.1.1 = {
+		death = "1385.1.1"
+	}
+}
+180087 = {
+	name = "Emilia"
+	# wife of Ugolino Gonzaga
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180085
+	mother = 180190
+	1329.1.1 = {
+		birth = "1329.1.1"
+	}
+	1400.1.1 = {
+		death = "1400.1.1"
+	}
+}
+180088 = {
+	name = "Ugolino"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180083
+	1301.1.1 = {
+		birth = "1301.1.1"
+	}
+	1357.1.1 = {
+		death = "1357.1.1"
+	}
+}
+180089 = {
+	name = "Eduardo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180083
+	1303.1.1 = {
+		birth = "1303.1.1"
+	}
+	1344.1.1 = {
+		death = "1344.1.1"
+	}
+}
+180090 = {
+	name = "Raineri"
+	# Raineri I, Count of Donoratico
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180081
+	1249.1.1 = {
+		birth = "1249.1.1"
+	}
+	1277.1.1 = {
+		add_spouse = 30792
+	}
+	1284.1.1 = {
+		add_spouse = 180191
+	}
+	1325.12.13 = {
+		death = "1325.12.13"
+	}
+}
+180091 = {
+	name = "Manfredo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180090
+	mother = 30792
+	1278.1.1 = {
+		birth = "1278.1.1"
+	}
+	1324.1.1 = {
+		death = "1324.1.1"
+	}
+}
+180092 = {
+	name = "Tommaso"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180090
+	mother = 180191
+	1286.1.1 = {
+		birth = "1286.1.1"
+	}
+	# married Margherita Orsini
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+180093 = {
+   name = "Teccia"
+   # wife of Anselmo, Count of Capraia
+   female = yes
+   dynasty = 13031
+   religion = "catholic"
+   culture = "toscano"
+   father = 180081
+   1228.1.1 = {
+     birth = yes
+   }
+   1265.1.1 = {
+     death = yes
+   }
+}
+180094 = {
+	name = "Tancredi"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180024
+	1109.1.1 = {
+		birth = "1109.1.1"
+	}
+	1155.1.1 = {
+		add_spouse = 180504
+	}
+	1178.1.1 = {
+		death = "1178.1.1"
+	}
+}
+180095 = {
+	name = "Uguccionello"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180094
+	mother = 180504
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1230.1.1 = {
+		death = "1230.1.1"
+	}
+}
+180096 = {
+	name = "Ugolino"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180094
+	1166.1.1 = {
+		birth = "1166.1.1"
+	}
+	1238.1.1 = {
+		death = "1238.1.1"
+	}
+}
+180097 = {
+	name = "Alberto"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180096
+	1205.1.1 = {
+		birth = "1205.1.1"
+	}
+	1259.1.1 = {
+		death = "1259.1.1"
+	}
+}
+180098 = {
+	name = "Lupo"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180097
+	1236.1.1 = {
+		birth = "1236.1.1"
+	}
+	1270.1.1 = {
+		death = "1270.1.1"
+	}
+}
+180099 = {
+	name = "Bartolomeo"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180097
+	1238.1.1 = {
+		birth = "1238.1.1"
+	}
+	1301.1.1 = {
+		death = "1301.1.1"
+	}
+}
+180100 = {
+	name = "Lupo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180099
+	1261.1.1 = {
+		birth = "1261.1.1"
+	}
+	1283.1.1 = {
+		death = "1283.1.1"
+	}
+}
+180101 = {
+	name = "Meuccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180099
+	1263.1.1 = {
+		birth = "1263.1.1"
+	}
+	1309.1.1 = {
+		death = "1309.1.1"
+	}
+}
+180102 = {
+	name = "Rainone"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180099
+	1266.1.1 = {
+		birth = "1266.1.1"
+	}
+	1283.1.1 = {
+		death = "1283.1.1"
+	}
+}
+180103 = {
+	name = "Tadduccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180099
+	1268.1.1 = {
+		birth = "1268.1.1"
+	}
+	1313.1.1 = {
+		death = "1313.1.1"
+	}
+}
+180104 = {
+	name = "Gualando"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180096
+	1220.1.1 = {
+		birth = yes
+	}
+	# married Nella Todini
+	1268.1.1 = {
+		death = yes
+	}
+}
+180105 = {
+	name = "Andrea"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1247.1.1 = {
+		birth = "1247.1.1"
+	}
+	1308.1.1 = {
+		death = "1308.1.1"
+	}
+}
+180106 = {
+	name = "Tora"
+	# wife of Dino della Rocca
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180105
+	1274.1.1 = {
+		birth = "1274.1.1"
+	}
+	1326.1.1 = {
+		death = "1326.1.1"
+	}
+}
+180107 = {
+	name = "Puccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	1307.1.1 = {
+		death = "1307.1.1"
+	}
+}
+180108 = {
+	name = "Landuccia"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1255.1.1 = {
+		birth = "1255.1.1"
+	}
+	1332.1.1 = {
+		death = "1332.1.1"
+	}
+}
+180109 = {
+	name = "Ghella"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1258.1.1 = {
+		birth = "1258.1.1"
+	}
+	1304.1.1 = {
+		death = "1304.1.1"
+	}
+}
+180110 = {
+	name = "Duccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1332.6.4 = {
+		death = "1332.6.4"
+	}
+}
+180111 = {
+	name = "Giovanni"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180110
+	1295.1.1 = {
+		birth = "1295.1.1"
+	}
+	1363.1.1 = {
+		death = "1363.1.1"
+	}
+}
+180112 = {
+	name = "Lorenzo"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180110
+	1298.1.1 = {
+		birth = "1298.1.1"
+	}
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+180113 = {
+	name = "Dea"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180110
+	1301.1.1 = {
+		birth = "1301.1.1"
+	}
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+180114 = {
+	name = "Luparello"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180104
+	1261.1.1 = {
+		birth = "1261.1.1"
+	}
+	1309.1.1 = {
+		death = "1309.1.1"
+	}
+}
+180115 = {
+	name = "Alberto"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180094
+	1169.1.1 = {
+		birth = "1169.1.1"
+	}
+	1198.1.1 = {
+		death = "1198.1.1"
+	}
+}
+180116 = {
+	name = "Rainone"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180094
+	1171.1.1 = {
+		birth = "1171.1.1"
+	}
+	1199.1.1 = {
+		add_spouse = 180192
+	}
+	1236.1.1 = {
+		death = "1236.1.1"
+	}
+}
+180117 = {
+	name = "Uguccione"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180116
+	mother = 180192
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1254.1.1 = {
+		death = "1254.1.1"
+	}
+}
+180118 = {
+	name = "Alberto"
+	# Count of Campiglia
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180117
+	1225.1.1 = {
+		birth = "1225.1.1"
+	}
+	1251.1.1 = {
+		death = "1251.1.1"
+	}
+}
+180119 = {
+	name = "Guido"
+	# Count of Campiglia
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180117
+	1226.1.1 = {
+		birth = "1226.1.1"
+	}
+	# married Gilda
+	1250.1.1 = {
+		death = "1250.1.1"
+	}
+}
+180120 = {
+	name = "Jacopo"
+	# Count of Campiglia
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180119
+	1249.1.1 = {
+		birth = "1249.1.1"
+	}
+	1317.1.1 = {
+		death = "1317.1.1"
+	}
+}
+180121 = {
+	name = "Uguccione"
+	# Count of Campiglia
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180117
+	1227.1.1 = {
+		birth = "1227.1.1"
+	}
+	1276.1.1 = {
+		death = "1276.1.1"
+	}
+}
+180122 = {
+	name = "Bonifacio"
+	# Count of Campiglia
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180117
+	1230.1.1 = {
+		birth = "1230.1.1"
+	}
+	1249.1.1 = {
+		death = "1249.1.1"
+	}
+}
+180123 = {
+	name = "Paganello"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180116
+	1236.1.1 = {
+		birth = "1236.1.1"
+	}
+	1285.1.1 = {
+		death = "1285.1.1"
+	}
+}
+180124 = {
+	name = "Ugolino"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1272.1.1 = {
+		birth = "1272.1.1"
+	}
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+180125 = {
+	name = "Ludovico"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180124
+	1301.1.1 = {
+		birth = "1301.1.1"
+	}
+	1330.1.1 = {
+		add_spouse = 180508
+	}
+	1363.1.1 = {
+		death = "1363.1.1"
+	}
+}
+180126 = {
+	name = "Donato"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180125
+	mother = 180508
+	1332.1.1 = {
+		birth = "1332.1.1"
+	}
+	1401.1.1 = {
+		death = "1401.1.1"
+	}
+}
+180127 = {
+	name = "Ludovico"
+	# Count of Castagneto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180125
+	mother = 180508
+	1334.1.1 = {
+		birth = "1334.1.1"
+	}
+	1405.1.1 = {
+		death = "1405.1.1"
+	}
+}
+180128 = {
+	name = "Gadduccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1274.1.1 = {
+		birth = "1274.1.1"
+	}
+	1348.1.1 = {
+		death = "1348.1.1"
+	}
+}
+180129 = {
+	name = "Vanni"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1275.1.1 = {
+		birth = "1275.1.1"
+	}
+	1339.1.1 = {
+		death = "1339.1.1"
+	}
+}
+180130 = {
+	name = "Masuccio"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1277.1.1 = {
+		birth = "1277.1.1"
+	}
+	1308.1.1 = {
+		death = "1308.1.1"
+	}
+}
+180131 = {
+	name = "Vannuccia"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1279.1.1 = {
+		birth = "1279.1.1"
+	}
+	1337.1.1 = {
+		death = "1337.1.1"
+	}
+}
+180132 = {
+	name = "Taddea"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180123
+	1280.1.1 = {
+		birth = "1280.1.1"
+	}
+	1327.1.1 = {
+		death = "1327.1.1"
+	}
+}
+180133 = {
+	name = "Roberto"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180023
+	mother = 180253
+	1057.1.1 = {
+		birth = "1057.1.1"
+	}
+	1099.1.1 = {
+		death = "1099.1.1"
+	}
+}
+180134 = {
+	name = "Gottifredo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180023
+	mother = 180253
+	1059.1.1 = {
+		birth = "1059.1.1"
+	}
+	1087.1.1 = {
+		death = "1087.1.1"
+	}
+}
+180135 = {
+	name = "Ugo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180022
+	mother = 180182
+	1025.1.1 = {
+		birth = "1025.1.1"
+	}
+	1045.1.1 = {
+		add_spouse = 180201
+	}
+	1078.1.1 = {
+		death = "1078.1.1"
+	}
+}
+180136 = {
+	name = "Ermingarde"
+	# wife of Ugo di Raineri 
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180135
+	mother = 180201
+	1046.1.1 = {
+		birth = "1046.1.1"
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+180137 = {
+	name = "Rodolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	994.1.1 = {
+		birth = "994.1.1"
+	}
+	1059.1.1 = {
+		death = "1059.1.1"
+	}
+}
+180138 = {
+	name = "Ugo"
+	# Count of Suvereto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180137
+	1025.1.1 = {
+		birth = "1025.1.1"
+	}
+	1043.1.1 = {
+		add_spouse = 180193
+	}
+	1077.1.1 = {
+		death = "1077.1.1"
+	}
+}
+180139 = {
+	name = "Ugo"
+	# Count of Suvereto
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180138
+	mother = 180193
+	1047.1.1 = {
+		birth = "1047.1.1"
+	}
+	1103.1.1 = {
+		death = "1103.1.1"
+	}
+}
+180140 = {
+	name = "Rodolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180138
+	1052.1.1 = {
+		birth = "1052.1.1"
+	}
+	1099.1.1 = {
+		death = "1099.1.1"
+	}
+}
+180141 = {
+	name = "Uguccione"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180140
+	1074.1.1 = {
+		birth = "1074.1.1"
+	}
+	1108.1.1 = {
+		death = "1108.1.1"
+	}
+}
+180142 = {
+	name = "Gerardo"
+	# Gerardo III
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	997.1.1 = {
+		birth = "997.1.1"
+	}
+	1055.1.1 = {
+		death = "1055.1.1"
+	}
+}
+180143 = {
+	name = "Gerardo"
+	# Gerardo IV
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180142
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1056.1.1 = {
+		add_spouse = 180507
+	}
+	1070.1.1 = {
+		death = "1070.1.1"
+	}
+}
+180144 = {
+	name = "Gerardo"
+	# Gerardo V
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180143
+	mother = 180507
+	1057.1.1 = {
+		birth = "1057.1.1"
+	}
+	1080.1.1 = {
+		add_spouse = 180505
+	}
+	1099.1.1 = {
+		death = "1099.1.1"
+	}
+}
+180145 = {
+	name = "Ildebrando"
+	# Ildebrando I, Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180144
+	mother = 180505
+	1083.1.1 = {
+		birth = "1083.1.1"
+	}
+	1141.1.1 = {
+		death = "1141.1.1"
+	}
+}
+180146 = {
+	name = "Ildebrando"
+	# Ildebrando II, Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180145
+	1109.1.1 = {
+		birth = "1109.1.1"
+	}
+	1147.1.1 = {
+		add_spouse = 180194
+	}
+	1167.1.1 = {
+		death = "1167.1.1"
+	}
+}
+180147 = {
+	name = "Tedice"
+	# Tedice, Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180146
+	mother = 180194
+	1148.1.1 = {
+		birth = "1148.1.1"
+	}
+	1206.1.1 = {
+		death = "1206.1.1"
+	}
+}
+180148 = {
+	name = "Inghiramo"
+	# Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180147
+	1197.1.1 = {
+		birth = "1197.1.1"
+	}
+	1268.1.1 = {
+		death = "1268.1.1"
+	}
+}
+180149 = {
+	name = "Guglielmo"
+	# Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180148
+	1248.1.1 = {
+		birth = "1248.1.1"
+	}
+	1314.1.1 = {
+		death = "1314.1.1"
+	}
+}
+180150 = {
+	name = "Iacopo"
+	# Count of Biserno
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180148
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	# married Cecilia Marignani
+	1309.1.1 = {
+		death = "1309.1.1"
+	}
+}
+180151 = {
+	name = "Raineri"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180144
+	mother = 180505
+	1080.1.10 = {
+		birth = yes
+	}
+	1125.1.1 = {
+		death = "1125.1.1"
+	}
+}
+180152 = {
+	name = "Gerardo"
+	# Gerardo VI
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180144
+	mother = 180505
+	1081.1.1 = {
+		birth = yes
+	}
+	1138.1.1 = {
+		death = "1138.1.1"
+	}
+}
+180153 = {
+	name = "Raineri"
+	# Count of Settimo
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180152
+	1105.1.1 = {
+		birth = "1105.1.1"
+	}
+	1134.1.1 = {
+		add_spouse = 180506
+	}
+	1182.1.1 = {
+		death = "1182.1.1"
+	}
+}
+180154 = {
+	name = "Gerardo"
+	# Gerardo VIII, Count of Settimo
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180153
+	mother = 180506
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1153.1.1 = {
+		add_spouse = 180009
+	}
+	1211.1.1 = {
+		death = "1211.1.1"
+	}
+}
+180155 = {
+	name = "Aliotto"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180153
+	mother = 180506
+	1137.1.1 = {
+		birth = "1137.1.1"
+	}
+	1198.1.1 = {
+		death = "1198.1.1"
+	}
+}
+180156 = {
+	name = "Enrichetto"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180153
+	mother = 180506
+	1139.1.1 = {
+		birth = "1139.1.1"
+	}
+	1198.1.1 = {
+		death = "1198.1.1"
+	}
+}
+180157 = {
+	name = "Ugolino"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180153
+	mother = 180506
+	1143.1.1 = {
+		birth = "1143.1.1"
+	}
+	1211.1.1 = {
+		death = "1211.1.1"
+	}
+}
+180158 = {
+	name = "Raineri"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180157
+	1173.1.1 = {
+		birth = "1173.1.1"
+	}
+	# married Agnes, daughter of William I of Cagliari?
+	1245.1.1 = {
+		death = "1245.1.1"
+	}
+}
+180159 = {
+	name = "Sardinia"
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180158
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1264.1.1 = {
+		death = "1264.1.1"
+	}
+}
+180160 = {
+	name = "Adelasia"
+	# wife of Raineri della Gherardesca, Count of Forcoli
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180144
+	mother = 180505
+	1089.1.1 = {
+		birth = "1089.1.1"
+	}
+	1153.1.1 = {
+		death = "1153.1.1"
+	}
+}
+180161 = {
+	name = "Ugone"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180143
+	mother = 180507
+	1062.1.1 = {
+		birth = "1062.1.1"
+	}
+	1107.1.1 = {
+		death = "1107.1.1"
+	}
+}
+180162 = {
+	name = "Ingaldrada"
+	# wife of Ildebrando <unknown>
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180142
+	1039.1.1 = {
+		birth = "1039.1.1"
+	}
+	1101.1.1 = {
+		death = "1101.1.1"
+	}
+}
+180163 = {
+	name = "Enrico"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180003
+	mother = 180180
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1035.1.1 = {
+		death = "1035.1.1"
+	}
+}
+180164 = {
+	name = "Rodolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180001
+	959.1.1 = {
+		birth = "959.1.1"
+	}
+	1001.1.1 = {
+		death = "1001.1.1"
+	}
+}
+180165 = {
+	name = "Ildebrando"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180164
+	983.1.1 = {
+		birth = "983.1.1"
+	}
+	1035.1.1 = {
+		death = "1035.1.1"
+	}
+}
+180166 = {
+	name = "Teutperto"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180164
+	987.1.1 = {
+		birth = "987.1.1"
+	}
+	1014.1.1 = {
+		death = "1014.1.1"
+	}
+}
+180167 = {
+	name = "Raineri"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180001
+	962.1.1 = {
+		birth = "962.1.1"
+	}
+	999.1.1 = {
+		death = "999.1.1"
+	}
+}
+180168 = {
+	name = "Guido"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180167
+	988.1.1 = {
+		birth = "988.1.1"
+	}
+	1042.1.1 = {
+		death = "1042.1.1"
+	}
+}
+180169 = {
+	name = "Ildebrando"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180001
+	964.1.1 = {
+		birth = "964.1.1"
+	}
+	1009.1.1 = {
+		death = "1009.1.1"
+	}
+}
+180170 = {
+	name = "Gerardo"
+	# Count of Lucca
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180169
+	985.1.1 = {
+		birth = "985.1.1"
+	}
+	1012.1.1 = {
+		death = "1012.1.1"
+	}
+}
+180171 = {
+	name = "Rodolfo"
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180000
+	933.1.1 = {
+		birth = "933.1.1"
+	}
+	967.1.1 = {
+		death = "967.1.1"
+	}
+}
+180172 = {
+	name = "Rotia"
+	# wife of Raineri di Fraolmi
+	female = yes
+	dynasty = 13031
+	religion = "catholic"
+	culture = "toscano"
+	father = 180000
+	935.1.1 = {
+		birth = "935.1.1"
+	}
+	988.1.1 = {
+		death = "988.1.1"
+	}
+}
+180203 = {
+	name = "Gerardo"
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180202
+	mother = 180301
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1062.1.1 = {
+		add_spouse = 180500
+	}
+	1084.1.1 = {
+		death = "1084.1.1"
+	}
+}
+180204 = {
+	name = "Adalasic"
+	# wife of Raineri della Gherardesca, Count of Forcoli, aka Ghenna?
+	female = yes
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180203
+	mother = 180500
+	1084.1.1 = {
+		birth = "1084.1.1"
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+180205 = {
+	name = "Ugo"
+	# Viscount of Pisa circa 1082
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180202
+	mother = 180301
+	1041.1.1 = {
+		birth = "1041.1.1"
+	}
+	1064.1.1 = {
+		add_spouse = 180300
+	}
+	1099.1.1 = {
+		death = "1099.1.1"
+	}
+}
+180206 = {
+	name = "Ugo"
+	# died in expedition to Africa
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180205
+	mother = 180300
+	1065.1.1 = {
+		birth = "1065.1.1"
+	}
+	1085.1.1 = {
+		add_spouse = 180515
+	}
+	1088.1.1 = {
+		death = "1088.1.1"
+	}
+}
+180207 = {
+	name = "Ugo"
+	# Viscount of Pisa circa 1134
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180206
+	mother = 180515
+	1088.1.1 = {
+		birth = "1088.1.1"
+	}
+	1142.1.1 = {
+		death = "1142.1.1"
+	}
+}
+180208 = {
+	name = "Ildebrando"
+	# fought in Balearic War
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180205
+	mother = 180300
+	1069.1.1 = {
+		birth = "1069.1.1"
+	}
+	1135.1.1 = {
+		death = "1135.1.1"
+	}
+}
+180209 = {
+	name = "Enrico"
+	# fought in Balearic War
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180205
+	mother = 180300
+	1067.1.1 = {
+		birth = "1067.1.1"
+	}
+	1132.1.1 = {
+		death = "1132.1.1"
+	}
+}
+180210 = {
+	name = "Pietro"
+	# Viscount of Pisa circa 1090
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180202
+	mother = 180301
+	1046.1.1 = {
+		birth = "1046.1.1"
+	}
+	1069.1.1 = {
+		add_spouse = 180501
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+180211 = {
+	name = "Ugo"
+	# cardinal of San Susanna
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180210
+	1075.1.1 = {
+		birth = "1075.1.1"
+	}
+	1121.12.1 = {
+		death = "1121.12.1"
+	}
+}
+180212 = {
+	name = "Ugolino"
+	# conjectured son of Pietro Visconti
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180210
+	mother = 180501
+	1070.1.1 = {
+		birth = "1070.1.1"
+	}
+	1094.1.1 = {
+		add_spouse = 180513
+	}
+	1138.1.1 = {
+		death = "1138.1.1"
+	}
+}
+180213 = {
+	name = "Guido"
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180212
+	mother = 180513
+	1096.1.1 = {
+		birth = "1096.1.1"
+	}
+	1120.1.1 = {
+		add_spouse = 180514
+	}
+	1151.1.1 = {
+		death = "1151.1.1"
+	}
+}
+180222 = {
+	name = "Giovanna"
+	# Giudicessa of Gallura, 1298-1339
+	female = yes
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 73460
+	mother = 463142
+	1297.1.1 = {
+		birth = "1297.1.1"
+	}
+	1339.1.1 = {
+		death = "1339.1.1"
+	}
+}
+180251 = {
+	name = "Raineri"
+	# Marquis of Tuscany
+	dynasty = 1042017
+	religion = "catholic"
+	culture = "toscano"
+	975.1.1 = {
+		birth = "975.1.1"
+	}
+	1027.1.1 = {
+		death = "1027.1.1"
+	}
+}
+180252 = {
+	name = "Uguccione"
+	dynasty = 1042017
+	religion = "catholic"
+	culture = "toscano"
+	father = 180251
+	1003.1.1 = {
+		birth = "1003.1.1"
+	}
+	# married Berta <unknown>
+	1065.1.1 = {
+		death = "1065.1.1"
+	}
+}
+180253 = {
+	name = "Dionisia"
+	# wife of Tedice III, Count of Castagneto
+	female = yes
+	dynasty = 1042017
+	religion = "catholic"
+	culture = "toscano"
+	father = 180252
+	1031.1.1 = {
+		birth = "1031.1.1"
+	}
+	1079.1.1 = {
+		death = "1079.1.1"
+	}
+}
+180254 = {
+	name = "Arrigo"
+	dynasty = 1042017
+	religion = "catholic"
+	culture = "toscano"
+	father = 180252
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1078.1.1 = {
+		death = "1078.1.1"
+	}
+}
+180255 = {
+	name = "Raineri"
+	dynasty = 1042017
+	religion = "catholic"
+	culture = "toscano"
+	father = 180252
+	1028.1.1 = {
+		birth = "1028.1.1"
+	}
+	1068.1.1 = {
+		death = "1068.1.1"
+	}
+}
+180300 = {
+	name = "Agnes"	# fictional placeholder
+	# wife of Ugo Visconti
+	female = yes
+	dynasty = 9521
+	religion = "catholic"
+	culture = "toscano"
+	father = 167505
+	1038.1.1 = {
+		birth = "1038.1.1"
+	}
+	1091.1.1 = {
+		death = "1091.1.1"
+	}
+}
+163070 = {
+	name = "Adalberto" # Adalberto (I) Bonifazi, Duke of Toscana (846-884), Count of Lucca (838-884) Luni, Ajaccio and Bastia (846-884)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+	diplomacy = 2
+	martial = 7
+	stewardship = 6
+	trait = education_martial_3
+	trait = cynical
+	trait = vengeful
+	trait = callous
+
+	father = 167897
+
+	820.1.1 = {
+		birth = yes
+	}
+	863.1.1 = {
+		add_spouse = 167901
+	}
+	866.1.1 = {
+		effect = {
+			add_opinion = {
+				modifier = respect_opinion
+				target = character:90104 # Karloman, supported in the succession war for Italy
+				opinion = 30
+			}
+		}
+	}
+	875.1.1 = {
+		effect = {
+			set_relation_friend = character:90104 # Karloman, supported in the succession war for Italy
+			add_trait = excommunicated
+		}
+	}
+	884.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+180223 = {
+	name = "Guelfo"
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 73461
+	mother = 73459
+	1248.1.1 = {
+		birth = "1248.1.1"
+	}
+	1311.1.1 = {
+		death = "1311.1.1"
+	}
+}
+180224 = {
+	name = "Jacopo"	# fictional placeholder
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180223
+	1285.1.1 = {
+		birth = "1285.1.1"
+	}
+	1346.1.1 = {
+		death = "1346.1.1"
+	}
+}
+180225 = {
+	name = "Lapo"
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 73461
+	mother = 73459
+	1251.1.1 = {
+		birth = "1251.1.1"
+	}
+	1307.1.1 = {
+		death = "1307.1.1"
+	}
+}
+180511 = {
+	name = "Matilda"	# fictional placeholder
+	# wife of Tedice IV della Gherardesca
+	female = yes
+	dynasty = 1042014
+	religion = "catholic"
+	culture = "toscano"
+	father = 180210
+	mother = 180501
+	1071.1.1 = {
+		birth = "1071.1.1"
+	}
+	1123.1.1 = {
+		death = "1123.1.1"
+	}
+}
+167668 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = "toscano"
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1035.1.1 = {
+		add_spouse = 167669
+	}
+	1065.1.1 = {
+		death = "1065.1.1"
+	}
+}
+
+
+167669 = {
+	name = "Matilda"
+	#placeholder 
+	female = yes
+	religion = "catholic"
+	culture = "toscano"
+	1015.1.1 = {
+		birth = "1015.1.1"
+	}
+	
+	1060.1.1 = {
+		death = "1060.1.1"
+	}
+}
+
+167670 = {
+	name = "Corrado"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = "toscano"
+	father = 167668
+	mother = 167669
+	1045.1.1 = {
+		birth = "1045.1.1"
+	}
+	
+	1095.1.1 = {
+		death = "1095.1.1"
+	}
+}
+
+
+
+167671 = {
+	name = "Mariana"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = "toscano"
+	father = 167668
+	mother = 167669
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+	
+	1105.1.1 = {
+		death = "1105.1.1"
+	}
+}
+167897 = {
+	name = "Bonifacio" # Bonifacio (II) Bonifazi, Duke of Toscana (823-834), Count of Ajaccio, Bastia and Vecchio (828-834)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167896
+
+	788.1.1 = {
+		birth = yes
+	}
+	846.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167898 = {
+	name = "Beretario" # Beretario Bonifazi
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167896
+
+	792.1.1 = {
+		birth = yes
+	}
+	828.1.1 = {
+		death = yes
+	}
+}
+
+167899 = {
+	name = "Richilda" # Richilda Bonifazi, Abbess
+	female = yes
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+	trait = devoted
+
+	father = 167896
+
+	785.1.1 = {
+		birth = yes
+	}
+	823.10.5 = {
+		death = yes
+	}
+}
+
+167900 = {
+	name = "Berardo" # Berardo Bonifazi, Count of Siena (846-888)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167897
+
+	818.1.1 = {
+		birth = yes
+	}
+	888.1.1 = {
+		death = yes
+	}
+}
+
+167902 = {
+	name = "Adalberto" # Adalberto (II) Bonifazi, Duke of Toscana (884-915), Count of Ajaccio and Bastia (884-915) and Lucca (894-915)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 163070
+	mother = 167901
+
+	864.1.1 = {
+		birth = yes
+	}
+	898.1.1 = {
+		add_spouse = 7920
+	}		
+	915.9.10 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167903 = {
+	name = "Bonifacio" # Bonifacio Bonifazi, Count of Lucca (884-894)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 163070
+	mother = 167901
+
+	865.1.1 = {
+		birth = yes
+	}
+	894.1.1 = {
+		death = yrd
+	}
+}
+
+167904 = {
+	name = "Reginsinda" # Reginsinda Bonifazi, Nun
+	female = yes
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 163070
+	mother = 167901
+
+	866.1.1 = {
+		birth = yes
+	}
+	882.1.1 = {
+		trait = devoted
+	}
+	916.1.1 = {
+		death = yes
+	}
+}
+
+167905 = {
+	name = "Guido" # Guido Bonifazi, Duke of Toscana (915-930), Count of Luni, Ajaccio and Bastia (915-930)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167902
+	mother = 7920
+
+	880.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		add_spouse = 7915
+	}
+	930.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167906 = {
+	name = "Lamberto" # Lamberto Bonifazi, Duke of Toscana (930-931), Count of Lucca (915-931), Luni, Ajaccio and Bastia (930-931)
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167902
+	mother = 7920
+
+	882.1.1 = {
+		birth = yes
+	}
+	931.1.1 = {
+		trait = blind
+	}
+	938.1.1 = {
+		death = {
+			death_reason = blind
+		}
+	}
+}
+
+167908 = {
+	name = "Theodora" # Theodora Bonifazi
+	female = yes
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167905
+	mother = 7915
+
+	925.1.1 = {
+		birth = yes
+	}	
+	940.1.1 = {
+		death = yes
+	}
+}
+
+167909 = {
+	name = "Berta" # Berta Bonifazi
+	female = yes
+	dynasty = 803
+	religion = "catholic"
+	culture = "frankish"
+
+	father = 167905
+	mother = 7915
+
+	927.1.1 = {
+		birth = yes
+	}	
+	945.1.14 = {
+		death = yes
+	}
+}
+167911 = {
+	name = "Goffredo"
+	#placeholder
+	religion = "catholic"
+	culture = "toscano"
+	trait = education_learning_3
+	830.1.1 = {
+		birth = "830.1.1"
+	}
+	
+	880.1.1 = {
+		death = "880.1.1"
+	}
+}
+168364 = {
+	name = "Jacopo"
+	#placeholder
+	dynasty = 100327
+	religion = "catholic"
+	culture = "toscano"
+	845.1.1 = {
+		birth = "845.1.1"
+	}
+	895.1.1 = {
+		death = "895.1.1"
+	}
+}
+190569 = {
+	name = "Amonius" #bishop of Orbetello
+	religion = "catholic"
+	culture = "toscano"
+	727.1.1 = {
+		birth = yes
+	}
+	789.1.1 = {
+		death = yes
+	}
+}
+214090 = {
+	name = "Leonardo"
+	dynasty = 1044407 # Fibonacci
+	religion = "catholic"
+	culture = "toscano"
+	trait = intellect_good_3
+	trait = scholar
+	learning = 12
+	1170.1.1 = {
+		birth = yes
+		employer = 71168
+	}
+	1174.1.1 = { employer = 167443 }
+	1190.1.1 = { employer = 167512 }
+	1215.1.1 = { employer = 167410 }
+	1220.1.1 = { employer = 180026 }
+	1222.1.1 = { employer = 71166  }
+	1230.1.1 = { employer = 167453 }	
+	1245.1.1 = {
+		death = yes
+	}
+}
+214091 = {
+	name = "Durante" # Dante
+	dynasty = 1044410 # degli Alighieri
+	religion = "catholic"
+	culture = "toscano"
+	trait = intellect_good_3
+	trait = education_learning_4
+	learning = 12
+	1265.6.1 = {
+		birth = yes
+		employer = 7636
+	}
+	1266.2.26 = { employer = 455406 }
+	1280.1.1 =  { employer = 73411 }
+	1287.1.1 = { effect = { set_relation_friend = character:73460 } } #Nino Visconti
+	1300.1.1 =  { employer = 73412	}
+	1302.3.1 =  { employer = 70802 } # Verona
+	1308.1.1 =  { employer = 412072 } # Parma
+	1318.1.1 =  { employer = 73551 } # Ravenna 
+	1321.9.13 = {
+		death = yes
+	}
+}
+
+214092 = {
+	name = "Francesco" # Petrarch
+	dynasty = 1044406
+	religion = "catholic"
+	culture = "toscano"
+	trait = intellect_good_3
+	trait = scholar
+	learning = 12
+	1304.7.20 = {
+		birth = yes
+		employer = 73412 # Florence
+	}
+	1309.1.1 = { employer = 71837 } # Papacy
+	1314.4.20  = { employer = 71838 }
+	1334.12.20 = { employer = 478501}
+	1374.7.19 = {
+		death = yes
+	}
+}
+
+214093 = {
+	name = "Giovanni"
+	dynasty = 1044405 # Boccaccio
+	religion = "catholic"
+	culture = "toscano"
+	trait = intellect_good_3
+	trait = scholar
+	learning = 12
+	1313.1.1 = {
+		birth = yes
+		employer = 461700 # Florence/Naples
+	}
+	1375.12.21 = {
+		death = yes
+	}
+}
+#Counts of Cinarca
+
+235034 = {
+	name = "Cinarco" # Cinarco di Cinarca, Count of Vecchio (834-854)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 167896
+
+	795.1.1 = {
+		birth = yes
+	}
+	854.1.1 = {
+		death = yes
+	}
+}
+
+235035 = {
+	name = "Oliviero" # Oliviero di Cinarca, Count of Vecchio (854-889)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	trait = education_stewardship_2
+
+	father = 235034
+
+	833.1.1 = {
+		birth = yes
+	}
+	889.1.1 = {
+		death = yes
+	}
+}
+
+235036 = {
+	name = "Rinaldo" # Rinaldo di Cinarca, Count of Vecchio (889-928)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235035
+
+	864.1.1 = {
+		birth = yes
+	}
+	928.1.1 = {
+		death = yes
+	}
+}
+
+235037 = {
+	name = "Guglielmo" # Guglielmo di Cinarca, Count of Vecchio (928-963)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235036
+	
+	898.1.1 = {
+		birth = yes
+	}
+	963.1.1 = {
+		death = yes
+	}
+}
+
+235038 = {
+	name = "Forte" # Forte di Cinarca, Count of Vecchio (963-1001)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235037
+
+	936.1.1 = {
+		birth = yes
+	}
+	1001.1.1 = {
+		death = yes
+	}
+}
+
+235039 = {
+	name = "Antonio" # Antonio di Cinarca, Count of Vecchio (1001-1062)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235038
+
+	988.1.1 = {
+		birth = yes
+	}
+	1014.1.1 = {
+		add_spouse = 235040
+	}
+	1062.1.1 = {
+		death = yes
+	}
+}
+
+235040 = {
+	name = "Bianca" # Bianca Colonna, wife of Antonio of Vecchio
+	female = yes
+	#dynasty = 13019
+	religion = "catholic"
+	culture = "toscano"
+
+	998.1.1 = {
+		birth = yes
+	}
+	1069.1.1 = {
+		death = yes
+	}
+}
+
+235041 = {
+	name = "Andrea" # Andrea di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	trait = education_diplomacy_1
+
+	father = 235039
+	mother = 235040
+
+	1020.1.1 = {
+		birth = yes
+	}
+	1062.1.1 = {
+		add_pressed_claim = c_vecchio
+	}
+	1092.1.1 = {
+		death = yes
+	}
+}
+
+235042 = {
+	name = "Arrigo" # Arrigo (I) di Cinarca, Count of Vecchio (1112-1113)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	trait = education_martial_2
+
+	father = 235039
+	mother = 235040
+
+	1035.1.1 = {
+		birth = yes
+	}
+	1092.1.1 = {
+		add_pressed_claim = c_vecchio
+	}
+	1112.1.1 = {
+		remove_claim = c_vecchio
+	}
+	1113.1.1 = {
+		death = yes
+	}
+}
+
+235043 = {
+	name = "Arrigo" # Arrigo (II) di Cinarca, Count of Vecchio (1113-1132)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235041
+
+	1060.1.1 = {
+		birth = yes
+	}
+	1092.1.1 = {
+		add_pressed_claim = c_vecchio
+	}
+	1101.1.1 = {
+		add_spouse = 235217
+	}
+	1113.1.1 = {
+		remove_claim = c_vecchio
+	}
+	1132.1.1 = {
+		death = yes
+	}
+}
+
+235044 = {
+	name = "Diotiaiuti" # Diotiaiuti di Cinarca 'the Sardinian', Count of Vecchio (1132-1189)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235043
+	mother = 235217
+
+	1102.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+
+235045 = {
+	name = "Arrigo" # Arrigo (III) di Cinarca 'the Old', Count of Vecchio (1189-1195)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	
+	father = 235044
+
+	1145.1.1 = {
+		birth = yes
+	}
+	1185.1.1 = {
+		add_spouse = 235047
+	}
+	1195.1.1 = {
+		add_pressed_claim = c_vecchio
+	}
+	1201.1.1 = {
+		death = yes
+		give_nickname = nick_the_old
+	}
+}
+
+235046 = {
+	name = "Opizzo" # Opizzo di Cinarca, Count of Vecchio (1220-1225)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235044
+
+	1150.1.1 = {
+		birth = yes
+	}
+	1201.1.1 = {
+		add_spouse = 235047
+		add_pressed_claim = c_vecchio
+	}
+	1220.1.1 = {
+		remove_claim = c_vecchio
+	}
+	1225.1.1 = {
+		death = yes
+	}
+}
+
+235047 = {
+	name = "Agnesina" # Agnesina Biancolaccio, wife of Arrigo III and Opizzo of Vecchio
+	female = yes
+	dynasty = 1040089
+	religion = "catholic"
+	culture = "toscano"
+
+	1165.1.1 = {
+		birth = yes
+	}
+	1215.1.1 = {
+		death = yes
+	}
+}
+
+235048 = {
+	name = "Arrigo" # Arrigo (IV) di Cinarca, Count of Vecchio (1225-1257)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235045
+
+	1178.1.1 = {
+		birth = yes
+	}
+	1198.1.1 = {
+		add_spouse = 235049
+	}
+	1255.1.1 = {
+		death = yes
+	}
+}
+
+235049 = {
+	name = "Sibilia" # Sibilia, wife of Arrigo IV of Vecchio
+	female = yes
+	religion = "catholic"
+	culture = "toscano"
+
+	1183.1.1 = {
+		birth = yes
+	}
+	1243.1.1 = {
+		death = yes
+	}
+}
+
+235050 = {
+	name = "Guglielmo" # Guglielmo di Cinarca 'the Martyr', Count of Vecchio (1255-1257)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	trait = theologian
+
+	father = 235045
+	
+	1182.1.1 = {
+		birth = yes
+	}
+	1212.1.1 = {
+		add_spouse = 235051
+	}
+	1258.1.1 = {
+		death = {
+			death_reason = death_dungeon
+		}
+		give_nickname = nick_the_martyr
+	}
+}
+
+235051 = {
+	name = "Filidora" # Filidora da Covasina, wife of Guglielmo 'the Martyr' of Vecchio
+	female = yes
+	dynasty = 1040091
+	religion = "catholic"
+	culture = "toscano"
+
+	1196.1.1 = {
+		birth = yes
+	}
+	1242.1.1 = {
+		death = yes
+	}
+}
+
+235052 = {
+	name = "Guido" # Guido di Cinarca, Count of Vecchio (1257-1258)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235045 #Arrigo III
+
+	1184.1.1 = {
+		birth = yes
+	}
+	1258.1.1 = {
+		death = yes
+	}
+}
+
+235053 = {	
+	name = "Rainieri" # Rainieri (II) di Cinarca, Count of Vecchio (1304-1325)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235052
+
+	1245.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		death = yes
+	}
+}
+
+235054 = {
+	name = "Arrigo" # Arrigo di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235052
+
+	1228.1.1 = {
+		birth = yes
+	}
+	1295.1.1 = {
+		death = yes
+	}
+}
+
+235055 = {
+	name = "Arrigo" # Arrigo (V) di Cinarca, Count of Vecchio (1258-1265)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235048
+	mother = 235049
+	
+	1204.1.1 = {
+		birth = yes
+	}
+	1285.1.1 = {
+		death = yes
+	}
+}
+
+235056 = {
+	name = "Arrigo" # Arrigo (VI) di Cinarca, Count of Vecchio (1325-1330)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235055
+	
+	1264.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		death = yes
+	}
+}
+235058 = {
+	name = "Guglielminuccio" # Guglielminuccio di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235056
+	
+	1283.1.1 = {
+		birth = yes
+	}
+	1360.1.1 = {
+		death = yes
+	}
+}
+
+235059 = {
+	name = "Lupacciolo" # Lupacciolo di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235058
+
+	1303.1.1 = {
+		birth = yes
+	}
+	1337.1.1 = {
+		death = yes
+	}
+}
+
+235060 = {
+	name = "Arriguccio" # Arriguccio di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235056
+
+	1285.1.1 = {
+		birth = yes
+	}
+	1322.1.1 = {
+		death = yes
+	}
+}
+
+235061 = {
+	name = "Branca" # Branca di Cinarca
+	dynasty_house = house_cinarca
+	female = yes
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235056
+
+	1290.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = yes
+	}
+}
+
+235062 = {
+	name = "Giudice" # Giudice di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235063
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1393.1.1 = {
+		death = yes
+	}
+}
+
+235063 = {
+	name = "Giudicello" # Giudicello di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+	
+	father = 235056
+
+	1292.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = {
+		death = yes
+	}
+}
+
+235064 = {
+	name = "Ghilfuccio" # Ghilfuccio di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235063
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}
+
+235066 = {
+	name = "Opessinello" # Opessinello di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235055
+
+	1268.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		death = yes
+	}
+}
+
+235067 = {
+	name = "Rinuccio" # Rinuccio di Cinarca
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235055
+
+	1273.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		death = yes
+	}
+}
+
+235068 = {
+	name = "Rainieri" # Rainieri (I) di Cozzi, Count of Vecchio (1265-1277)
+	dynasty_house = house_cozzi
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235048
+	mother = 235049
+
+	1209.1.1 = {
+		birth = yes
+	}
+	1265.1.1 = {
+		add_spouse = 235080 #Torquatella di Cinarca
+	}
+	1290.11.1 = {
+		death = yes
+	}
+}
+
+235069 = {
+	name = "Sinoncello" # Sinoncello (I) di Cinarca, Count of Ajaccio and Bastia (1245-1269)
+	dynasty_house = house_cinarca
+	religion = "catholic"
+	culture = "toscano"
+
+	father = 235050
+	mother = 235051
+
+	1213.1.1 = {
+		birth = yes
+	}
+	1304.1.1 = {
+		death = yes
+	}
+}
+261385 = {
+	name = "Adalberto" # Adalberto 'il Margravio', Duke of Lombardia (940-951), Count of Luni (931-951)
+	dynasty = 803
+	culture = "frankish"
+	religion = "catholic"
+	trait = education_stewardship_4
+
+	father = 167906
+
+	900.1.1 = {
+		birth = yes
+	}
+	951.1.1 = {
+		death = yes
+	}
+}
+
+261386 = {
+	name = "Ambroso" # Ambroso Bonifazi, Bishop in Corsica
+	dynasty = 803
+	culture = "frankish"
+	religion = "catholic"
+	trait = theologian
+	trait = education_learning_2
+
+	father = 261385
+
+	918.1.1 = {
+		birth = yes
+	}
+	988.1.1 = {
+		death = yes
+	}
+}

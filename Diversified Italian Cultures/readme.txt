@@ -42,6 +42,16 @@ Version 1.2:
   - Updated for Version 1.3
   - Added simple culture change events for the spread of Pugliese and Sicilian cultures in their proper locations
   - Localized character designer so that Northern, Central, and Southern Mediterranean ethnicities are now selectable in the character designer
+  - Add "Romanesque" culture to mimic a baseline post-Roman culture to splinter off into regional dialects. 
+  - Add events to dynamiclly splinter Romanesque and for Pugliese and Sicilian to spread naturally.
+
+Version 1.3:
+  - Add restoration of the Western Roman Empire decision.
+
+Version 1.4:
+  - Updated names_00 for name compatibility between cultures (still WIP, but got a good number done)
+  - Update Romanesque culture with unique names and surnames for pre-split cultures
+  - Minor bugfixing and probability tweaking
 
 Future Plans:
   - Corsican culture
@@ -54,7 +64,9 @@ Future Plans:
 
 Sources
   Hair and Eye Color: https://www.theapricity.com/snpa/bilder/biasuttiblondism.jpg
-
+  Romanesque: see 'sources' folder -- 
+		"Ravenna" by Judith Herrin for some Late Latin names (not fully historical, as names are generally from 500s-700s, but sound Late Latin-y)
+		"Interaction of Germanic Personal Names with Latin Onomastics in the Late-Roman West. The Difference Cases of Gothic, Vandalic, and Lombard Names" by Nicoletta Francovich Onesti (2011)
   Tuscan: Male names and Surnames : http://cds.library.brown.edu/projects/tratte/search/ --  Florentine Renaissance Resources, Online Tratte of Office Holders, 1282-1532.  Machine readable data file.  Edited by David Herlihy, R. Burr Litchfield, Anthony Molho, and Roberto Barducci.   (Florentine Renaissance Resources/STG: Brown University, Providence, R. I., 2002.)
 		These names come from "Tratte" or drawings of names from a bag to select people for offices. Source is from names between 1282 - 1532
 	  Female names: https://www.s-gabriel.org/names/juliana/condado/
