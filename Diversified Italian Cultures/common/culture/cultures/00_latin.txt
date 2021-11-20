@@ -2584,10 +2584,7 @@
 				{ "dynnp_da" "dynn_Staggia" }
 				{ "dynnp_da" "dynn_Terranova" }
 				{ "dynnp_da" "dynn_Terrarossi" }
-				"dynn_Dati"
 				{ "dynnp_da" "dynn_Tignano" }
-				"dynn_Datini"
-				"dynn_Datti"
 				{ "dynnp_da" "dynn_Turicchio" }
 				{ "dynnp_da" "dynn_Uzzano" }
 				{ "dynnp_da" "dynn_Vanzati" }
@@ -2597,11 +2594,9 @@
 				{ "dynnp_da" "dynn_Vitolini" }
 				{ dynnp_da "dynn_Vizzi" }
 				{ "dynnp_da" "dynn_Volognano" }
-				"dynn_Dazzi"
 				{ "dynnp_degli" "dynn_Organi" }
 				{ "dynnp_degli" "dynn_Oriuolo" }
 				{ "dynnp_degli" "dynn_Statuti" }
-				"dynn_Dei"
 				{ "dynnp_del" "dynn_Abioia" }
 				{ "dynnp_del" "dynn_Agnino" }
 				{ "dynnp_del" "dynn_Amorotto" }
@@ -2768,7 +2763,6 @@
 				{ "dynnp_delle" "dynn_Seghe" }
 				{ "dynnp_delle" "dynn_Vigne" }
 				{ "dynnp_delle" "dynn_Zolle" }
-				"dynn_Delli"
 				{ "dynnp_dell_" "dynn_Occhio" }
 				{ "dynnp_del" "dynn_Lombardo" }
 				{ "dynnp_del" "dynn_Longorgi" }
@@ -3879,7 +3873,7 @@
 
 		male_names = {
 
-      Abbraccia Accerito Acciaiuolo Accorso Achille Adamo Adatto Adimari Adriano Agabito Agase Aglione Agnolieri Agnolino Agnolmaria Agnolo Agnoloserafo Agostino Alamanno Albano Albertaccio Alberto Albizzo Alderotto Aldighierio Aldobrandino Aldobrando Alessandro Alesso Alfieri Alfonso Aliotto Allegro Aloisio Altobianco Altomanno Altovito Amadore Amanzio Amaretto Ambrogio Ambruogio Amedeo Amelio Amerigo Ammannato Ammato Ammirato Amos Andrea Andreolo Andreozzo Andreuccio Andreuolo Anfilio Anfrione Angeni Anibaldo Annibale Anselmo Antonagnolo Antonbartolo Antonfrancesco Antonio Antonlorenzo Antonmaria Anzio Apardo Apollonio Appiano Apponeo Arcagnolo Ardingo Ardito Ardovino Arnaldo Arnolfino Arnolfo Aronne Arrighetto Arrigo Ascanio Astolfo Astorgio Astorre Atanasio Attavante Attaviano Attilio Averano Averardo Averone Avveduto Avvocato Azzerello Azzino Azzo Azzolino Azzone Baccio Bacherello Bacherino Bachino Badessino Baldassarre Baldassino Baldera Baldese Baldinaccio Baldino Baldo Baldovinetto Baldovino Balsimino Banchello Bancherone Banco Bancozzo Bandello Bandi Bandino Bardaccio Bardino Bardo Bardolone Barduccio Bargiacco Barla Barna Barnaba Baroncello Baroncino Barone Bartolello Bartolino Bartolo Bartolomeo Bartolone Basilio Bastiano Bate Batino Battagliuzzo Battezzino Battista Becco Belcaro Belfradello Bellaccino Bellaccio Bellincione Bello Beltrame Beltramone Benchio Benci Bencino Bencivenni Bene Benedetto Benghi Benincasa Benino Benintendi Benivieni Benozzo Benricevuto Benuccio Benvenuto Benvieni Benzo Benzone Berardo Berlinghiero Bernardetto Bernardino Bernardo Bernarducci Bertaldo Bertino Berto Bertoldo Bertuccio Bese Bettino Betto Bettone Bezzo Bezzola Biagio Bianciardo Bianco Bicci Bieco Bigo Bilicozzo Biligiardo Biliotto Bindaccio Bindello Bindo Bingieri Bino Biondo Bivigliano Bizzo Bocca Boccaccio Bocchino Boccio Boccuccio Boldro Bonaccio Bonacosa Bonafede Bonagiunta Bonagrazia Bonaguida Bonaguiso Bonaiuto Bonamente Bonamico Bonaventura Bonavero Boncenni Boncristiano Bondo Bondone Bonfio Bongianni Bonguida Bonico Bonifazio Bonincontro Bonino Boninsegna Bonizzo Bono Bonsi Bonsignore Bonuccio Bonvanni Borfaldo Borghese Borghino Borgianni Borgo Borgognone Borgolino Borguccio Borromeo Borsio Borso Braccino Braccio Bramante Branca Brancazio Brando Brasi Brigieri Brogiotto Brunaccio Brunellesco Brunetto Bruno Brunoro Buccio Bucino Bugliaffo Buglione Buonaccolto Buonaccorrio Buonaccorso Buonanno Buonarrota Buonazio Buondonato Buonfantino Buoso Burci Busino Buto Caccia Caccino Calandro Calcidonio Calcina Calderino Calvano Cambino Cambiozzo Camillo Canaffo Cane Cante Cantino Cappone Cardinale Carlettino Carlo Carmanno Caro Caroccio Carradore Caruccio Casciano Casciotto Casella Casino Castellano Castello Catelano Catellino Caterino Catone Cecarino Ceccherello Cecco Ceffo Cenni Cennino Centurione Cerbone Cere Cerrino Cesare Cetto Chele Chello Cherichino Cherubino Chiaramonte Chiarandrea Chiarino Chiarissimo Chiaro Chiarozzo Chiermontes Chiermontie Chimenti Chino Chirico Ciaio Ciampo Ciampolo Ciangheri Ciangherino Ciango Ciano Ciapero Ciardo Ciattero Cibaldo Cietto Cille Cinaccio Cinello Cingo Cino Cinozzo Ciofo Ciolo Cionaccio Cione Cionello Cionetto Cionino Ciore Cipriano Ciriaco Ciridonio Cisti Citto Ciuccio Ciuto Claudio Cocco Cola Collino Coluccio Como Compagno Consiglio Constanzo Conte Coppo Corbinello Cornelio Corrado Corsellino Corsello Corsetto Corsino Corso Cosimo Coso Costantino Costanzo Cotuccio Covarello Coverino Covone Cozzo Credi Cresci Cresta Cristiano Cristofano Currado Daddo Daldo Damiano Damo Daneo Daniello Dante Dardano Dardo Dato Davanzato Davanzino Davide Davizzino Davizzo Dego Deifebo Deo Diamante Diedi Dietaiuti Dietifeci Dietisalvi Dingo Dino Dinoantonio Dinozzo Dio Diodato Dioneo Dionigi Doffo Dogino Dolce Dolfo Domenico Donato Donatoalberto Donizio Donnino Dono Donodeo Doroteo Dosino Duccino Duccio Durante Durantozzo Durazzo Duti Emilio Enea Ercole Esau Ettore Eugenio Eusebio Fabbro Fabiano Fabrino Fagiolo Fagno Falco Falcone Falconetto Falconierio Falduccio Fantino Fantone Fanuccio Farnetto Fastello Fazio Febo Fece Fede Federigo Feduccio Felice Fellaio Feo Feozzo Ferrando Ferrantino Ferrigiano Ferruccio Fetto Fidanza Fidello Filippo Filippomario Filippone Filippozzo Finiguerra Fino Finuccio Firenze Folco Forese Foresino Foresta Forte Fortigiano Forzone Forzore Frale Francescanto Francesco Franco Francomaria Fredio Fresco Friano Fronte Fruosino Fuccio Fuligno Gabbriello Gaddo Gagliardo Galeazzo Galeotto Galganbenedeo Galgano Galileo Gambarello Gamberino Gano Gardo Gaspare Gennaio Gentile Geppo Geremia Geri Gerino Germano Gerozzo Gerulo Getto Gherardino Gherardo Gherardozzo Gheruccio Ghese Ghezzo Ghiachinotto Ghibellino Ghiberto Ghigo Ghinuccio Ghisello Giachetto Giachi Giachino Giachinotto Giaco Giacomino Giacomo Giacoppo Giambello Giambene Giamberto Giambino Giambono Giammoro Gianaccimo Gianagnolo Gianalessio Gianandrea Gianantonio Gianbartolo Gianbattista Gianbernard Gianbono Gianbruno Giancola Giancristiano Giandomenico Giandonato Gianfilippo Gianfrancesco Giangismondo Giangualberto Giangualtiero Gianlodovico Gianlorenzo Gianluigi Gianmarco Gianmaria Gianmatteo Gianni Gianniano Giannozzo Giano Gianozzo Gianpaolo Gianpiero Giansimone Giantommaso Gianvangeli Gianvittorio Giardino Gieri Giletto Gilio Gimignano Gino Ginoro Ginozzo Gioachino Giocondo Giore Giorgio Giosafa Giotto Giovanni Giovannino Giovansimone Giovanvanni Giovenco Giraldo Giramonte Girolamo Girolamomarco Girozzo Gismondo Giugnino Giuliandona Giulianmario Giuliano Giulio Giunta Giuntino Giuseido Giuseppe Giustino Giusto Godenzo Goggio Goro Goso Gostino Gottifredi Gottolo Gozzo Granaiuolo Grandino Grazia Graziadio Graziano Grazzino Gregorio Griso Grisofano Guadagno Gualberto Gualderamo Gualento Gualterone Gualterotto Gualtieri Guardi Guardino Guarente Guasco Guccio Gucciozzo Guelfo Guernieri Guerriante Guerrieri Guerruccio Guglielmino Guglielmo Guidaccio Guidagnolo Guidalotto Guidantonio Guidetto Guido Guidobianco Guidone Guidotto Guiduccio Guittone Guolo Gusme Iacopalberto Iacopantonio Iacopo Iacopofilippo Iacopozzo Ignazio Ilario Inghilese Innocenzo Ippolito Isaia Isau Ivo Ivomaria Lagnino Laino Lamberto Lancillotto Landino Lando Landozzo Lanfredino Lapaccino Lapaccio Lapino Lapo Lapone Lapuccio Lari Larino Lario Larione Latino Lattanzio Lauro Lazzaro Lenzo Lenzole Lenzone Leonardo Leoncino Leone Leonello Leonetto Leonruberto Lepido Ligi Lino Lippaccio Lippo Lippozzo Lito Livo Lizio Lodovico Londo Lorenzagnolo Lorenzo Lorino Loso Lotteringo Lottieri Lottino Lotto Luca Lucalorenzo Lucantonio Lucente Lucenzio Luchetto Luigi Luigiantonio Lupo Luti Lutozzo Macallo Macario Maccio Macigno Maestrino Maffeo Maggio Mago Mainardo Malatesta Malpiglio Mancino Manente Manetto Manfredi Manieri Manitrius Mannello Mannino Manno Mannuccio Manovello Mante Manuzio Marabottino Marabotto Marcantonio Marcello Marchese Marchionne Marco Mari Mariano Marignano Marino Mario Mariotto Maritto Marsilio Marsoppino Martellino Martello Martino Maruccio Marzocco Masetto Masino Maso Massaio Massaiozzo Massimo Mato Matteo Matteoguelfo Mattino Maurizio Mauro Mazza Mazzaferro Mazzeo Mazzetto Mazzingo Mazzuolo Medico Meglino Meglio Meo Mercoriale Mese Mettino Metto Mezza Miccio Michelagnolo Michele Michelozzo Mico Micuccio Migio Migiotto Miglino Migliorato Migliore Migliorotto Migliorozzo Miliano Mingo Miniato Mino Misi Missio Monaco Monaldo Mone Mongia Monpuccio Monte More Morello Mosciano Mugnaio Musciatto Muzio Naccio Naddo Nagio Naldino Naldo Nanni Napoleone Nardo Nardoccio Nasio Nastagio Nello Nembrotto Nencio Nente Nepo Nerantonio Neretto Neri Neridonato Nerlo Nerone Nerozzo Nese Netti Niccerino Niccoletto Niccolino Niccolmaria Niccolo Niccoloso Niccoluccio Nicodemo Nigi Nino Nobile Noddo Noffo Nofri Nofrilo Noso Nozzo Nuccino Nuccio Nuto Odaldo Oddo Olivieri Onesto Onorato Orfeo Orlandino Orlando Orlanduccio Ormanno Ormannozzo Orsino Orso Ottagnolo Ottavante Ottaviano Otto Ottobuono Ottonello Pacchio Pace Pacino Paganello Paggio Pagnino Pagno Pagnozzo Paliano Palla Palmieri Pancia Pandolfo Panico Pannozzo Panuzio Paolagnolo Paolantonio Paolo Paolofrancesco Papero Papi Paradiso Parente Parigi Parigino Particino Pasino Pasquale Pasquino Passa Patrizio Pazzino Pecora Pedone Pegolotto Pela Pellegrino Penizzo Pepo Pera Perino Pero Perozzo Perso Pesce Petraccolo Petrino Pezzino Piacito Piccardo Piccino Pieraccio Pieragnolo Pieralbizzo Pieramedeo Pierandrea Pierantonio Pieraverardo Pierdomenico Pierfilippo Pierfrancesco Piergiovanni Piergirolamo Piergiuliano Piermaria Piermatteo Pierniccolo Piero Pierozzo Pierpaolo Piertommaso Pieruccio Pieruzzo Pierzanobio Pigello Piglialarme Pinaccio Pino Pinuccio Pio Pippo Pirramo Piuvichese Poggio Poldo Polito Pompeo Porcello Primerano Prinzivalle Priore Priorozzo Prospero Provedi Puccino Puccio Pugio Pulinari Quarantola Raffaello Raggio Ragione Raimondino Raimondo Rasimo Razzante Recco Reddito Remigio Renato Renzo Riccardino Riccardo Ricco Riccuccio Ridolfino Ridolfo Rigaletto Rinaldo Rinieri Rinuccio Risalito Riscosso Ristoro Roma Romano Romeo Romigi Romolo Roncognano Rossello Rosso Rotino Rubaconte Ruberto Ruco Ruggieri Ruspo Rustichello Rustico Sabatino Sacco Saggina Sala Saladino Salamone Sali Salice Salimbene Salito Sallusto Salvadore Salvaterra Salvestro Salvetto Salvi Salvino Salvuccio Samminiato Sandro Sanguigno Sanna Sannella Sanni Sannino Sano Santi Saracino Sasso Sassolino Sassolo Scarlatto Scelto Schiatta Schiattino Scipione Scolaio Scotto Scutiggio Sebastiano Segna Segnino Selvole Senno Serafino Serotino Servi Sforza Sichelmo Sidonio Signorino Silvano Simento Simonantoni Simone Simonetto Simonmaria Simonpiero Simonpriore Sinibaldo Smeraldino Smeraldo Sodo Soldano Soldo Soletto Solosmeo Sostegno Spadino Spigliato Spina Spinalbello Spinellino Spinello Spinetto Stagio Stoldo Stefano Stiatta Stoldo Strinato Strozza Struffa Succhiello Taccino Taccio Taddeo Taldo Talduccio Talento Taluti Tanai Tancredi Tanniello Tano Tavernino Tazzino Techino Tedaldino Tedaldo Tedesco Tedice Teghiaio Tellino Tello Temperano Tencino Tendi Teodoro Teri Terino Teruzzo Terzo Testa Tiberio Tieri Tignoso Tigo Tile Tinaccio Tinca Tinello Tingo Tino Tinoro Tinozzo Tito Tobbia Tofano Tolomeo Tolosino Tommaso Tone Torello Torniello Torrigiano Torsellino Torsello Tosco Toso Totto Trincia Tuccio Tugio Tura Tuzo Ubaldino Ubaldo Ubertino Uberto Ugo Ugolino Ugonio Uguccione Ulivieri Ulivo Urbano Vaccio Valerio Valore Valoriano Valorino Vangelista Vanni Vannino Vannozzo Vannuccio Vante Vegna Venedico Veneziano Ventura Verano Verdiano Vermiglio Verozzo Verso Vertuccio Vespasiano Vespuccio Vezzo Vieri Villano Vincenzo Vincenzomaro Vincilao Vinta Virgilio Vita Vittorio Viva Vivaldo Viviano Zaccaria Zanobi Zanoni Zato Zeba Zello Zeo Zuccherino Zucchero
+      Abbraccia Acciaiuolo Accorso Achille Adamo Adimari Adriano Agabito Agase Agnolo Agostino Albano Albertaccio Alberto Albizzo Alderotto Aldobrando Alessandro Alfieri Alfonso Aliotto Allegro Altovito Amadore Amaretto Ambrogio Amedeo Amelio Amerigo Ammirato Andrea Anfilio Anibaldo Annibale Anselmo Antonfrancesco Antonio Apollonio Appiano Arnaldo Arnolfo Arrigo Ascanio Astolfo Astorre Atanasio Attilio Averardo Azzo Baccio Baldassarre Baldo Banco Bardaccio Bardo Bartolo Bartolomeo Basilio Bastiano Battista Belcaro Benedetto Benino Benozzo Benvenuto Berardo Berlinghiero Bernardo Bertoldo Biagio Bianciardo Bianco Bilicozzo Biligiardo Bindaccio Biondo Bivigliano Boccaccio Bonacosa Bonafede Bonagiunta Bonagrazia Bonaguida Bonaiuto Bonamico Bonaventura Boncristiano Bongianni Bonifazio Bonincontro Boninsegna Bono Bonsignore Bonuccio Bonvanni Borfaldo Borghese Borgo Borromeo Borso Braccio Bramante Branca Brancazio Brando Brunaccio Brunellesco Bruno Bugliaffo Buglione Buonaccorso Buonarrota Buonazio Buondonato Buoso Calandro Calvano Cambiozzo Camillo Cappone Carlo Caro Casciano Castello Catone Cecco Cerbone Cesare Chele Chiaramonte Chiaro Chino Chirico Ciaio Ciampo Ciano Cietto Cino Cipriano Ciriaco Ciridonio Claudio Cocco Cola Collino Consiglio Constanzo Conte Cornelio Corrado Corso Cosimo Costantino Costanzo Covarello Covone Cozzo Cresta Cristiano Cristofano Currado Daddo Damiano Daniello Dante Dardano Davanzato Davide Dego Deo Diamante Dietaiuti Dietifeci Dietisalvi Dio Diodato Dioneo Dolce Dolfo Domenico Donato Donodeo Duccio Durante Durazzo Emilio Enea Ercole Ettore Eugenio Eusebio Fabbro Fabiano Fagiolo Falco Falcone Fanuccio Fastello Fazio Federigo Feduccio Felice Feo Ferrando Ferrantino Ferrigiano Ferruccio Filippo Filippomario Filippozzo Finuccio Folco Forte Forzone Francesco Franco Francomaria Fresco Fuligno Gabbriello Gaddo Gagliardo Galeazzo Galeotto Galgano Galileo Gambarello Gaspare Gennaio Gentile Geppo Geremia Germano Gerozzo Gerulo Getto Gherardo Ghezzo Ghiberto Ghigo Ghinuccio Ghisello Giachetto Giachinotto Giaco Giacomo Giacoppo Giambello Giamberto Gianagnolo Gianalessio Gianandrea Gianantonio Gianbattista Gianbono Gianbruno Giancristiano Giandomenico Giandonato Gianfilippo Gianfrancesco Giangualtiero Gianlorenzo Gianluigi Gianmarco Gianmaria Gianmatteo Gianni Giannozzo Giano Gianpaolo Gianpiero Giansimone Giantommaso Gianvangeli Gianvittorio Giletto Gilio Gino Giorgio Giotto Giovanni Giramonte Girolamo Gismondo Giuliano Giulio Giuseppe Giustino Giusto Godenzo Goggio Goro Gottifredi Gottolo Gozzo Granaiuolo Grandino Grazzino Gregorio Grisofano Guadagno Gualberto Gualtieri Guardi Guasco Guernieri Guerruccio Guglielmino Guglielmo Guidaccio Guidagnolo Guidalotto Guidantonio Guido Guidobianco Guolo Iacopalberto Iacopantonio Iacopo Ignazio Ilario Innocenzo Ippolito Isaia Ivo Lagnino Laino Lamberto Lancillotto Landino Lando Lanfredino Lapaccio Lapo Lario Latino Lattanzio Lauro Lazzaro Lenzo Lenzone Leonardo Leoncino Leone Leonello Leonetto Leonruberto Lepido Lino Lippaccio Lippo Lizio Lodovico Londo Lorenzagnolo Lorenzo Lorino Lotteringo Lottieri Lotto Luca Lucalorenzo Lucantonio Lucente Lucenzio Luchetto Luigi Luigiantonio Lupo Lutozzo Macallo Macario Maccio Macigno Maffeo Maggio Mainardo Malatesta Malpiglio Mancino Manente Manetto Manfredi Manieri Mannello Mannino Manno Mannuccio Manovello Mante Manuzio Marabottino Marabotto Marcantonio Marcello Marchese Marchionne Marco Mari Mariano Marino Mario Mariotto Marsilio Marsoppino Martello Martino Maruccio Maso Massaio Massimo Matteo Matteoguelfo Maurizio Mauro Mazza Mazzaferro Mazzeo Medico Meglio Meo Mercoriale Metto Miccio Michelagnolo Michele Michelozzo Mico Micuccio Migio Migiotto Miliano Monaco Monaldo Monpuccio Morello Musciatto Naccio Naldo Napoleone Nardo Nardoccio Nastagio Nello Nembrotto Nerantonio Neretto Nerozzo Niccerino Niccoletto Niccolmaria Niccolo Niccoloso Niccoluccio Nicodemo Nino Nobile Noddo Noffo Nofrilo Nozzo Nuccio Odaldo Oddo Olivieri Onesto Onorato Orfeo Orlando Orlanduccio Ormanno Orso Ottagnolo Ottaviano Otto Ottobuono Ottonello Pacchio Paganello Paggio Pagno Paliano Palmieri Pancia Pandolfo Pannozzo Panuzio Paolo Paolofrancesco Papero Paradiso Particino Pasquale Passa Patrizio Pazzino Pellegrino Penizzo Pepo Pero Perozzo Petraccolo Pezzino Piacito Piccardo Pieraccio Pieragnolo Pieralbizzo Pieramedeo Pierandrea Pierantonio Pieraverardo Pierdomenico Pierfilippo Pierfrancesco Piergiovanni Piergirolamo Piergiuliano Piermaria Piermatteo Pierniccolo Piero Pierpaolo Piertommaso Pierzanobio Pigello Pino Pinuccio Pio Pippo Pirramo Poggio Poldo Pompeo Porcello Primerano Prospero Puccio Pugio Quarantola Raffaello Raggio Raimondo Rasimo Razzante Recco Renato Renzo Riccardo Ricco Ridolfo Rigaletto Rinaldo Rinieri Rinuccio Ristoro Romano Romeo Romolo Rossello Rosso Rotino Rubaconte Ruberto Ruco Ruggieri Ruspo Rustico Sabatino Sacco Saladino Salamone Sallusto Salvadore Salvaterra Salvestro Salvino Sandro Sanguigno Santi Sasso Scarlatto Schiatta Scipione Scolaio Scotto Scutiggio Sebastiano Serafino Servi Sforza Sichelmo Sidonio Silvano Simonantoni Simone Simonetto Simonmaria Simonpiero Simonpriore Sinibaldo Smeraldo Soldano Soldo Soletto Solosmeo Spigliato Spina Spinalbello Spinellino Spinello Spinetto Stoldo Stefano Stiatta Stoldo Strozza Struffa Succhiello Taccio Taddeo Talduccio Taluti Tancredi Tanniello Tazzino Tedaldo Tedesco Tedice Teghiaio Tello Temperano Teodoro Terino Teruzzo Terzo Testa Tiberio Tignoso Tigo Tinaccio Tinca Tinello Tino Tinoro Tito Tolomeo Tolosino Tommaso Torniello Torrigiano Torsello Tosco Totto Trincia Tuccio Tugio Tuzo Ubaldino Ubaldo Ubertino Uberto Ugo Ugolino Uguccione Ulivo Urbano Vaccio Valerio Valore Valoriano Vangelista Vannuccio Vegna Venedico Ventura Verano Verdiano Vermiglio Verozzo Verso Vertuccio Vespasiano Vespuccio Vezzo Vincenzo Vinta Virgilio Vittorio Vivaldo Viviano Zaccaria Zanobi Zanoni Zello Zeo Zuccherino Zucchero
 
 		}
 
@@ -5199,11 +5193,11 @@
 		}
 
 		male_names = {
-		Abundantius Acceptor Adoald Adquisitus Aetius Agatho Agnellus Aiolfo Albericus Albinus Aldo Amabilis Ambrosius Amicus Andreas Anselmo Antonius Apollinaris Armatus Armentarius Athanasius Atilianus Attalus Audepert Audirosus Aunifridulo Aurelianus Avienus Bacaudanis Baodolinus Barbucola Bario Baroncellus Baruccio Barunulus Baruttolus Basilius Benedictus Benenatus Bennatus Bernardus Beroaldo Bobuleno Bonifatius Boniperto Bonizo Bonus Bonushomo Bruningus Bulgarus Caesarius Callinicus Candidus Carellus Carus Cassiodorus Castellulo Castinus Castorius Cerrito Cesario Ciullo Claudius Collictus Confortus Consentius Constantius Contius Corbulus Corvellus Corvius Cospulo Cyprianus Damianus Daniel Decius Decoratus Demetrus Desiderius Deusdedit Deusdona Diebonus Dilectus Dominator Domnicus Domnolus Domnulinus Donatianus Dondulo Ducciulu Ecclesius Emilianus Emulinus Ermuli Eucherius Eugenes Euserius Exuperantius Fabrulo Farualdus Faustus Felix Ferruccio Festus Fidelis Filipert Firmus Flavius Floripert Florus Fortunatus Francio Fratellus Fridulo Fulcoaldus Fulgentius Fusio Gallius Garipald Gariprando Gaudiosus Gavriolus Gavus Gemellus Geminius Georgius Gerardus Germanus Gloriosus Gratiosus Grato Gregorius Grimo Gudolini Guerolfo Gumpulus Gundulo Hadrianus Heldebrandus Homulo Honestus Honoratus Iacobus Ianuarius Inoportunus Iohannis Iosephus Iulianus Iulius Iustinianus Jovinus Juvinus Lanpulus Laurentius Laurio Lauterio Leo Leone Leopardus Leto Leuccio Liberius Longinus Lucifrido Lucio Luminosus Luponius Lupuald Lupucinus Lupus Lupus Magnoaser Magnolfi Magnus Maioranus Marcellinus Marcellus Marcurius Marcus Marinianus Marinus Marius Martinus Massus Mastulus Maurellus Mauricius Maurinus Maurulus Maurus Maurus Maximianus Maximus Mercurio Miccio Migale Minnulus Montanus Mucciolus Musivius Nazarius Octeramus Opilio Pamphronius Paschalis Paulicio Paulinus Paulus Pertulo Petronax Petrus Pierius Priscus Probus Quiriacus Radulum Ravennus Remedius Renatus Renovatus Reparatus Rocculenus Romanus Rufinus Rusticus Rutilius Sabbatinus Satius Secundus Senarius Sergius Severinus Severus Silvanus Silvarus Sisinnius Sparanus Stephanus Talesperianus Tansilus Taurillus Teobaldus Tereius Teutpertulo Theodorus Theodosius Tranquillus Tuscus Urscinus Ursellus Ursiperto Ursus Valentinus Valentius Valerius Venantius Venerius Verbono Viator Victor Vigilius Vitalis
+         Petrus Rufinus Eucherius Severus Attalus Agnellus Castinus Ursus Bonifatius Aetius Faustus Exuperantius Iohannis Basilius Liberius Cassiodorus Decius Albinus Albericus Opilio Abundantius Aurelianus Ecclesius Avienus Urscinus Fidelis Victor Reparatus Athanasius Maximianus Pamphronius Longinus Sisinnius Iulianus Romanus Marinianus Georgius Gregorius Marius Iulius Paulus Callinicus Bonus Maurus Theodorus Damianus Felix Stefanus Sergius Gratiosus Valerius Martinus Petronax Probus Contius Euserius Agatho Satius Rutilius Constantius Paulinus Claudius Geminius Priscus Ambrosius Consentius Apollinaris Iacobus Marcus Silvanus Iosephus Marcellus Marcellinus Germanus Gemellus Jovinus Flavius Castorius Laurentius Pierius Cyprianus Festus Eugenes Decoratus Honoratus Tranquillus Rusticus Senarius Daniel Caesarius Domnicus Mastulus Montanus Collictus Deusdedit Andreas Minnulus Adquisitus Juvinus Venantius Ianuarius Emilianus Quiriacus Theodosius Paschalis Sparanus Adoald Garipald Aiolfo Fabrulo Deusdona Filipert Audepert Baroncellus Barbucola Barunulus Baruttolus Domnulinus Maurulus Ciullo Carellus Corvellus Fratellus Ursellus Maurellus Taurillus Baruccio Leuccio Ferruccio Miccio Paulicio Mucciolus Bonushomo Benenatus Verbono Diebonus Magnoaser Talesperianus Fulcoaldus Octeramus Guerolfo Antonius Boniperto Floripert Lucifrido Magnolfi Nazarius Ursiperto Lupuald Aunifridulo Cospulo Gumpulus Lanpulus Radulum Teutpertulo Willulus Francio Fusio Fridulo Pertulo Ermuli Dondulo Gundulo Luponius Davit Emulinus Bobuleno Baodolinus Ducciulu Gudolini Rocculenus Bruningus Carus Candidus Corbulus Confortus Dilectus Dominator Domnolus Firmus Fulgentius Luminosus Gloriosus Grato Homulo Lucio Fortunatus Inoportunus Remedius Renatus Renovatus Maximus Lupus Magnus Viator Rignipert Vigilius
 		}
 
 		female_names = {
-		Agatha Agneta Agrippa Albesinda Albina Aldula Aliperga Ambrosia Anna Antonina Apollinaria Audechia Aurelia Auria Baronta Barulia Barutta Basilia Benigna Berta Blanca Blanda Bona Bonesenda Boniperga Boniza Bornia Campana Candida Cara Causeradula Clarisinda Columba Corbula Cornelia Cospula Cristina Davita Decima Deodati Digna Domina Dominica Dominitia Domitia Domnolina Dondula Elpidia Emilia Eusebia Fabia Fausta Filiperta Flaccilla Flora Florentia Formosia Fortunata Fulvia Fusca Galla Garipalda Gausperga Gemella Geminia Gemma Genetia Georgia Germana Gisa Gisverga Gloriosa Grata Grateria Gregoria Grimuala Guida Gunderadula Helia Hilaria Honoria Hostilia Ianuaria Iaquinta Iohanna Iosephina Iulia Iuliana Iunia Iustina Laurentia Leoncia Leoperga Licinia Luciperga Luciula Lucretia Lupa Magnerada Marcella Marcellina Marcia Maria Marina Martina Martyria Maxima Melissa Mellita Miccia Mira Nazirimda Nonnica Numeria Orsa Pacifica Pascasia Patricia Paula Petronia Petrucia Placidia Prisca Priscilla Proba Pulcheria Pulchra Renata Rocia Romana Rosa Serena Sergia Sorola Soruncia Spadusa Stantia Terentilla Teuderada Teudipergula Teudirada Theoderata Theodora Thermantia Ursa Ursa Ursella Valeria Venerosa Verbona Victoria Virginia
+         Flaccilla Placidia Galla Maria Thermantia Iustina Elpidia Serena Aurelia Domitia Licinia Valeria Honoria Spadusa Iulia Lucretia Pulcheria Cornelia Decima Fabia Fulvia Flora Geminia Hostilia Marcia Numeria Terentilla Virginia Ambrosia Iunia Prisca Priscilla Anna Iosephina Sergia Gregoria Fausta Victoria Georgia Paula Theodora Proba Agatha Apollinaria Marcella Marcellina Germana Gemella Pascasia Eusebia Dominica Domina Iuliana Laurentia Nonnica Melissa Martyria Iaquinta Orsa Gemma Mira Aliperga Soruncia Boniperga Teudirada Sorola Barutta Barulia Baronta Domnolina Petrucia Rosa Bona Patricia Helia Antonina Mellita Clarisinda Luciperga Nazirimda Magnerada Aldula Causeradula Cospula Gunderadula Teudipergula Auria Grata Luciula Gloriosa Renata Pacifica Ursa Fortunata Filiperta Emilia Garipalda Cara Ursella Miccia Verbona Lupa Dondula Davita Candida Corbula Maxima Florentia Guida Romana Agrippa Basilia Albina
 		}
 
 		dynasty_of_location_prefix = "dynnp_di"
@@ -5461,16 +5455,16 @@
 			"dynn_Bertusio"
 			"dynn_Bonaventure"
 			"dynn_Bonfigloli"
-			"dynn_Çançi"
-			"dynn_Çanni"
+			"dynn_C_anC_i"
+			"dynn_C_anni"
 			"dynn_Cantofoli"
 			"dynn_Cerretani"
-			"dynn_Cesàri"
+			"dynn_CesA_ri"
 			"dynn_Chillo"
 			"dynn_Chimenti"
 			"dynn_Chiodarolo"
 			"dynn_Civolani"
-			"dynn_Clò"
+			"dynn_ClO_"
 			"dynn_Colleoni"
 			"dynn_Consolini"
 			"dynn_Corbolini"
@@ -5529,7 +5523,7 @@
 			"dynn_Jacchini"
 			"dynn_Jacobeli"
 			"dynn_Jemolo"
-			"dynn_Laçarie"
+			"dynn_LaC_arie"
 			"dynn_Lambertazzi"
 			"dynn_Lambertini"
 			"dynn_Lamborghini"
@@ -5670,36 +5664,36 @@
 			{ "dynnp_d_" "dynn_Este" }
 			{ "dynnp_di" "dynn_Ferrara" }
 			{ "dynnp_di" "dynn_Modena" }
-			"dynnp_de" "dynn_Albasi"
-			"dynnp_de" "dynn_Aldigeri"
-			"dynnp_de" "dynn_Argenta"
-			"dynnp_de" "dynn_Bunielli"
-			"dynnp_de" "dynn_Çanis"
-			"dynnp_de" "dynn_Castro"
-			"dynnp_de" "dynn_Castrocario"
-			"dynnp_de" "dynn_Clarentani"
-			"dynnp_de" "dynn_Clari"
-			"dynnp_de" "dynn_Clavaturo"
-			"dynnp_de" "dynn_Corvo"
-			"dynnp_de" "dynn_Crovaria"
-			"dynnp_de" "dynn_Florentia"
-			"dynnp_de" "dynn_Foscardi"
-			"dynnp_della" "dynn_Cavalla"
-			"dynnp_de" "dynn_Linario"
-			"dynnp_de" "dynn_Parma"
-			"dynnp_de" "dynn_Podesti"
-			"dynnp_de" "dynn_Ponte"
-			"dynnp_de" "dynn_Puteo"
-			"dynnp_de" "dynn_Tauxignano"
-			"dynnp_dalle" "dynn_Olle"
-			"dynnp_de" "dynn_Bianchi"
-			"dynnp_del" "dynn_Ferro"
-			"dynnp_da" "dynn_Meleto"
-			"dynnp_dei" "dynn_Liuzzi"
-			"dynnp_degli" "dynn_Andalo"
-			"dynnp_degli" "dynn_Esposti"
-			"dynnp_del" "dynn_Virgilio"
-			"dynnp_dalla" "dynn_Piazza"
+			{"dynnp_de" "dynn_Albasi"}
+			{"dynnp_de" "dynn_Aldigeri"}
+			{"dynnp_de" "dynn_Argenta"}
+			{"dynnp_de" "dynn_Bunielli"}
+			{"dynnp_de" "dynn_C_anis"}
+			{"dynnp_de" "dynn_Castro"}
+			{"dynnp_de" "dynn_Castrocario"}
+			{"dynnp_de" "dynn_Clarentani"}
+			{"dynnp_de" "dynn_Clari"}
+			{"dynnp_de" "dynn_Clavaturo"}
+			{"dynnp_de" "dynn_Corvo"}
+			{"dynnp_de" "dynn_Crovaria"}
+			{"dynnp_de" "dynn_Florentia"}
+			{"dynnp_de" "dynn_Foscardi"}
+			{"dynnp_della" "dynn_Cavalla"}
+			{"dynnp_de" "dynn_Linario"}
+			{"dynnp_de" "dynn_Parma"}
+			{"dynnp_de" "dynn_Podesti"}
+			{"dynnp_de" "dynn_Ponte"}
+			{"dynnp_de" "dynn_Puteo"}
+			{"dynnp_de" "dynn_Tauxignano"}
+			{"dynnp_dalle" "dynn_Olle"}
+			{"dynnp_de" "dynn_Bianchi"}
+			{"dynnp_del" "dynn_Ferro"}
+			{"dynnp_da" "dynn_Meleto"}
+			{"dynnp_dei" "dynn_Liuzzi"}
+			{"dynnp_degli" "dynn_Andalo"}
+			{"dynnp_degli" "dynn_Esposti"}
+			{"dynnp_del" "dynn_Virgilio"}
+			{"dynnp_dalla" "dynn_Piazza"}
 
 		}
 
@@ -5730,11 +5724,11 @@
 			"dynn_Bertusio"
 			"dynn_Bonaventure"
 			"dynn_Bonfigloli"
-			"dynn_Çançi"
-			"dynn_Çanni"
+			"dynn_C_anC_i"
+			"dynn_C_anni"
 			"dynn_Cantofoli"
 			"dynn_Cerretani"
-			"dynn_Cesàri"
+			"dynn_CesA_ri"
 			"dynn_Chillo"
 			"dynn_Chimenti"
 			"dynn_Chiodarolo"
@@ -5798,7 +5792,7 @@
 			"dynn_Jacchini"
 			"dynn_Jacobeli"
 			"dynn_Jemolo"
-			"dynn_Laçarie"
+			"dynn_LaC_arie"
 			"dynn_Lambertazzi"
 			"dynn_Lambertini"
 			"dynn_Lamborghini"
@@ -5936,46 +5930,46 @@
 			"dynn_Zorzi"
 			"dynn_Zucchelli"
 			"dynn_Zurla"
-			"dynnp_de" "dynn_Albasi"
-			"dynnp_de" "dynn_Aldigeri"
-			"dynnp_de" "dynn_Argenta"
-			"dynnp_de" "dynn_Bunielli"
-			"dynnp_de" "dynn_Çanis"
-			"dynnp_de" "dynn_Castro"
-			"dynnp_de" "dynn_Castrocario"
-			"dynnp_de" "dynn_Clarentani"
-			"dynnp_de" "dynn_Clari"
-			"dynnp_de" "dynn_Clavaturo"
-			"dynnp_de" "dynn_Corvo"
-			"dynnp_de" "dynn_Crovaria"
-			"dynnp_de" "dynn_Florentia"
-			"dynnp_de" "dynn_Foscardi"
-			"dynnp_della" "dynn_Cavalla"
-			"dynnp_de" "dynn_Linario"
-			"dynnp_de" "dynn_Parma"
-			"dynnp_de" "dynn_Podesti"
-			"dynnp_de" "dynn_Ponte"
-			"dynnp_de" "dynn_Puteo"
-			"dynnp_de" "dynn_Tauxignano"
-			"dynnp_dalle" "dynn_Olle"
-			"dynnp_de" "dynn_Bianchi"
-			"dynnp_del" "dynn_Ferro"
-			"dynnp_da" "dynn_Meleto"
-			"dynnp_dei" "dynn_Liuzzi"
-			"dynnp_degli" "dynn_Andalo"
-			"dynnp_degli" "dynn_Esposti"
-			"dynnp_del" "dynn_Virgilio"
-			"dynnp_dalla" "dynn_Piazza"
+			{"dynnp_de" "dynn_Albasi"}
+			{"dynnp_de" "dynn_Aldigeri"}
+			{"dynnp_de" "dynn_Argenta"}
+			{"dynnp_de" "dynn_Bunielli"}
+			{"dynnp_de" "dynn_C_anis"}
+			{"dynnp_de" "dynn_Castro"}
+			{"dynnp_de" "dynn_Castrocario"}
+			{"dynnp_de" "dynn_Clarentani"}
+			{"dynnp_de" "dynn_Clari"}
+			{"dynnp_de" "dynn_Clavaturo"}
+			{"dynnp_de" "dynn_Corvo"}
+			{"dynnp_de" "dynn_Crovaria"}
+			{"dynnp_de" "dynn_Florentia"}
+			{"dynnp_de" "dynn_Foscardi"}
+			{"dynnp_della" "dynn_Cavalla"}
+			{"dynnp_de" "dynn_Linario"}
+			{"dynnp_de" "dynn_Parma"}
+			{"dynnp_de" "dynn_Podesti"}
+			{"dynnp_de" "dynn_Ponte"}
+			{"dynnp_de" "dynn_Puteo"}
+			{"dynnp_de" "dynn_Tauxignano"}
+			{"dynnp_dalle" "dynn_Olle"}
+			{"dynnp_de" "dynn_Bianchi"}
+			{"dynnp_del" "dynn_Ferro"}
+			{"dynnp_da" "dynn_Meleto"}
+			{"dynnp_dei" "dynn_Liuzzi"}
+			{"dynnp_degli" "dynn_Andalo"}
+			{"dynnp_degli" "dynn_Esposti"}
+			{"dynnp_del" "dynn_Virgilio"}
+			{"dynnp_dalla" "dynn_Piazza"}
 
 
 		}
 
 		male_names = {
-			Accarisello Accureglaltre Acitto Açitto Açolino Aço Aginulfo Aginulfys Agustollo Albasino Albergato Albergitto Alberico Albertinello Albertino Albertucio Alberto Alborello Aldemario Aldrevandino Alle Allegracoro Allesander Allidoxio Alliotto Amadiolo Amadore Ameo Amodeo Anchebenne Anciano Andallo Andalino Andreas Andriolo Angello Aniano Anselmino Anselmo Anthoniolo Anthonio Apseradino Arardello Archesino Ardoino Ariento Asprando Astino Atendorio Auliverio Auriccollo Avesano Aymerico Azolino Baça Baçalario Baçalino Bachino Bado Baiucio Balducio Baldo Bambino Bandino Baratono Barono Bartholino Bartholomeo Bartholo Barthosso Bartoço Bartolino Bartollo Basscanello Basso Bastardo Becacio Becho Beldandino Bellollo Beltrame Benaço Bencevenne Bençono Benedicto Benencasa Bengo Benincà Benincasa Benino Bennato Bennollo Bennucio Benno Bensenato Benucio Benvenuto Benvignuto Bernabe Bernardino Bernucho Berthollocto Bertolitto Bertollo Berto Besio Besollo Bessencà Bexonino Billino Bilullo Bilulo Binbo Bindo Binino Binio Binucio Bino Bitorio Biondo Biono Bitino Bittino Bittucio Biundo Blanchollo Blancho Blasiolo Blasio Blondello Blondo Boco Bolognito Bombologno Bonacho Bonacurio Bonafidi Bonaiunta Bonanni Bonaventura Bonçanino Boncino Bondolo Bondo Bonfigliolo Bonfiglolo Boniacobo Bonicontro Bongiovanni Bonloino Bonmercato Bonnanino Bonnano Bonnino Bontelino Bono Borgognono Bradelisio Branchaleo Bridico Burgucio Burniolo Buvello Cabriel Cabuccio Çacharello Çachario Çagne Çambino Cambio Çambrasino Campesano Cacni Çançino Çanço Çanello Çanes Çanetto Çanile Çanino Cannes Çannes Çannino Çannis Çannito Çanoll Çanotto Çano Capucino Cardinello Cardino Cardo Çardo Cariolo Çario Çarlino Carmontino Carpognano Carucio Carvasalilo Casino Cassianello Cassianino Cassiano Castellano Cathello Cavolino Cavalerio Çecco Cecho Ceconello Cenne Çenne Çennes Cesco Çetolo Çetto Chelacio Chele Chello Chicolino Cichollo Cicho Cicollo Cico Çinolo Cisco Cisolo Cividello Clarello Çolo Comacino Çondollo Çonello Çones Çono Coradino Corado Cordoncino Cornaçano Cristiano Cristofano Çuchollo Çuço Çudollo Çunta Çuntolla Curçio Curio Cursollo Dadeo Dadiolo Damiano Dardo Deddolo Dedo Delo Deudato Dinarello Dinollo Dino Diolo Docio Dolcebono Dominicello Dominico Dominigello Donato Dondideo Dondo Dosso Doxio Dragono Drago Drudello Drudollo Duçollo Duço Duxolo Eptor Fabiano Fabrino Faciolo Facio Facolfo Falcucio Famolo Fantinucio Fara Farolfino Fatiolo Fatio Federico Feraldino Feraldo Figlolo Fino Floravante Floruçio Folles Forlovese Fortino Francho Franciscino Francisco Fredo Fuçino Fuçio Fulcho Gaçano Gagnino Galante Gallenso Gallitto Galotto Gandolfino Garavello Gardo Gaudiolo Gemignano Genario Germias Gesio Ghino Giberto Gidollo Gillino Gilliolo Gillio Gimignano Ginollo Gino Giraldo Girardello Girardino Girarducio Girardo Girolo Gisatino Gisilardo Gisio Gnudolino Gnudolo Gnuto Gottolo Gratiano Gualtarino Gualtirolo Gualvanino Gualvano Guano Guardi Guarinello Guarino Guccio Guccino Guidello Guidocello Guidolino Guidollo Guidoncio Guidono Guidotto Guiducio Guiducollo Guido Guiduto Guillelmucio Guillelmo Guirisio Guitalcino Goconcino Gutarello Onestino Orabono Jeremias Imolisino Isinardo Iuncta Ivaldo Ivano Iacobello Iacobucio Iacobo Iovannello Iovanni Iovannitto Isinardo Giuliano Giumignano Giulio Lambertino Lançalotto Lando Lappo Lardolino Laurencino Laurencio Lazarino Lencio Leo Leonardo Liberio Lippo Lisollo Lito Liverio Loço Lolo Longino Lotto Lucha Lucio Maçolo Maço Maffeo Maginardo Magnano Magnino Malgarito Mançollo Manfredo Manino Mante Manucio Manuel Marchesino Marchuchio Marco Marinello Marinucio Marsilio Martignano Martinello Martinucio Martino Martiolo Mascaronio Masino Maso Matheo Mathiolo Maurisio Maxio Maynardo Mello Mencino Mengino Mengollo Mengo Mercadante Mercato Michael Michellucio Michillino Miglorucio Migolo Milino Minaçio Minino Mino Mirra Monaldo Montanario Morandino Morando Moro Muçio Muçolo Mutinenso Nanni Narcho Nardo Nasinbenne Nasio Negrono Nello Neno Nerio Nicholino Nicholitto Nicholucio Nicolao Nordiglito Nordiglo Novello Novelono Nuto Ordelaffo Orlandino Orlanducio Orlando Orsatto Paço Paganello Paganucio Pagno Palmerio Palmirolo Pandolfo Paniça Pasio Pasolino Paulello Paulino Paulucio Pauluço Paulo Pax Pazino Pedono Pedrobono Peliçario Pelle Pellegrino Peppo Perino Petriçolo Petrino Petro Philipino Philippo Phirondo Piçollo Piço Pigino Pino Pirino Pirocio Pirolo Pirundo Pucitto Raffallio Ramberto Raynaldo Raynerio Raynirolo Raynucio Reynerio Reynirolo Riçardo Ricio Riçolo Rico Rigabado Rigollo Rigucio Riguglosio Rigo Robino Rodulfo Roffino Romanucio Rubeo Ruffo Rugerio Rumiolo Rotigano Saldino Salmerio Salomon Salvester Salvucio Sanctucio Sancto Sander Santolino Santo Savarisio Savis Sclara Scottollo Segura Seprictollo Serbato Servodeux Servolino Silvester Simono Smeraldo Sollesano Spinello Stasino Stasio Staxino Stefano Suçollo Symon Symoncello Syra Tadeo Tagliaferro Tano Tebaldino Testa Thebaldello Thomasino Thomasio Tibertino Tino Tiolo Tisio Tomasino Tomasio Tondello Tondo Tonio Tonso Tono Toresano Tornanbene Tornanbenne Toro Trintino Tuiachello Tundino Tuniolo Tura Turola Tocollo Ubaldinello Ubaldino Ubaldo Ubertate Ubertello Uberto Uderico Ugilinello Ugo Ugoçonello Ugolinellio Ugolinello Ugolinucio Ugolino Ugollo Ugucio Uguciono Uguçonello Ugutio Ungarello Ursuço Valente Vandino Vando Vanello Vanitto Vanni Vanondo Vanucio Veglo Venetico Vernaça Vernandino Vescovello Vidello Vignudello Vigolello Villano Vinciguerra Viviannelo Viviano Vitalis Vollo Ymolense Ymolensis
+			Accarisello Acitto Açitto Aço Aginulfo Agustollo Albergato Alberico Alberto Alborello Aldemario Allegracoro Allesander Allidoxio Alliotto Amadiolo Amadore Ameo Amodeo Anciano Andallo Andreas Andriolo Angello Anselmo Anthonio Apseradino Arardello Archesino Ardoino Ariento Asprando Astino Atendorio Auliverio Auriccollo Avesano Aymerico Azolino Baça Baçalario Baiucio Balducio Baldo Bandino Baratono Barono Bartholomeo Bartoço Bartolino Bartollo Basso Becacio Becho Beldandino Bellollo Beltrame Benaço Bencevenne Benedicto Benencasa Benincà Bennato Bennollo Bennucio Benno Bensenato Benucio Benvenuto Bernabe Bernardino Bernucho Berthollocto Bertolitto Bertollo Berto Besio Besollo Bessencà Bexonino Bindo Binino Binucio Bino Bitorio Biondo Bittino Bittucio Blanchollo Blancho Blasiolo Blasio Blondello Blondo Bombologno Bonacho Bonacurio Bonafidi Bonaiunta Bonanni Bonaventura Bonçanino Bondolo Bondo Bonfigliolo Bonfiglolo Boniacobo Bonicontro Bongiovanni Bonloino Bonmercato Bonnano Bontelino Bono Borgognono Bradelisio Branchaleo Bridico Burgucio Burniolo Buvello Cabuccio Çacharello Çachario Çagne Cambio Campesano Çanço Çanello Çanetto Çanile Çannis Çanotto Çano Capucino Cardinello Cardino Çardo Çario Carmontino Carpognano Carucio Casino Cassiano Cathello Cavalerio Çecco Cecho Çenne Cesco Çetto Chelacio Chele Chello Cicho Çinolo Cisco Cividello Clarello Çolo Comacino Çondollo Çonello Çono Corado Cordoncino Cornaçano Cristiano Cristofano Çuchollo Çuço Curçio Curio Cursollo Dadeo Damiano Dardo Deddolo Dedo Deudato Dino Diolo Docio Dolcebono Dominico Dominigello Donato Dondideo Dondo Drago Duçollo Duço Fabiano Fabrino Faciolo Facio Facolfo Famolo Fantinucio Fara Farolfino Federico Feraldo Fino Floravante Floruçio Forlovese Fortino Francho Francisco Fredo Fuçino Fuçio Fulcho Gaçano Gagnino Galante Gallenso Gallitto Galotto Gandolfino Garavello Gardo Gaudiolo Genario Gesio Ghino Giberto Gidollo Gillio Gimignano Ginollo Gino Giraldo Girardello Girardo Girolo Gisatino Gisilardo Gisio Gnuto Gottolo Gratiano Gualtarino Gualtirolo Gualvanino Gualvano Guano Guardi Guarinello Guarino Guccio Guidello Guidocello Guidolino Guidoncio Guidono Guidotto Guiducio Guido Guillelmo Guirisio Guitalcino Goconcino Gutarello Onestino Orabono Imolisino Isinardo Ivaldo Ivano Iacobello Iacobucio Iacobo Iovannello Iovanni Isinardo Giuliano Giumignano Giulio Lamberto Lançalotto Lando Lappo Lardolino Laurencino Laurencio Lazarino Lencio Leo Leonardo Liberio Lippo Lisollo Lito Liverio Loço Lolo Longino Lotto Lucio Maço Maffeo Maginardo Magnano Magnino Malgarito Mançollo Manfredo Manino Manucio Manuel Marchuchio Marco Marinello Marsilio Martignano Martinello Martino Mascaronio Masino Maso Matheo Maurisio Maxio Maynardo Mello Mencino Mengo Mercadante Mercato Michelle Michillino Miglorucio Migolo Milino Minaçio Minino Mino Mirra Monaldo Montanario Morando Moro Muçio Muçolo Mutinenso Narcho Nardo Nasinbenne Nasio Negrono Nello Neno Nerio Nicholucio Nicolao Nordiglo Novello Novelono Nuto Ordelaffo Orlanducio Orlando Orsatto Paço Paganello Paganucio Pagno Palmerio Pandolfo Paniça Pasio Pasolino Pauluço Paulo Pax Pazino Pedono Pedrobono Peliçario Pelle Pellegrino Peppo Perino Petriçolo Petrino Petro Philippo Phirondo Piçollo Piço Pigino Pino Pirino Pirocio Pirundo Pucitto Raffallio Ramberto Raynaldo Raynerio Reynerio Riçardo Ricio Riçolo Rico Rigabado Rigollo Riguglosio Rigo Robino Rodulfo Roffino Romanucio Rubeo Ruffo Rugerio Rumiolo Rotigano Saldino Salmerio Salvester Salvucio Sanctucio Sancto Sander Santolino Santo Savarisio Sclara Scottollo Segura Seprictollo Serbato Servolino Silvestro Simono Smeraldo Sollesano Spinello Stasino Stasio Staxino Stefano Suçollo Symon Symoncello Syra Tadeo Tagliaferro Tano Tebaldino Testa Thebaldello Thomasio Tibertino Tino Tiolo Tisio Tomasino Tomasio Tondello Tondo Tonio Tonso Toresano Tornanbene Tornanbenne Toro Trintino Tuiachello Tundino Tuniolo Tura Turola Tocollo Ubaldinello Ubaldino Ubaldo Uberto Uderico Ugilinello Ugo Ugoçonello Ugolino Ugollo Ugucio Uguçonello Ungarello Ursuço Valente Vandino Vando Vanello Vanitto Vanni Vanondo Vanucio Venetico Vernaça Vernandino Vescovello Vidello Vignudello Vigolello Villano Vinciguerra Viviannelo Viviano Vitalis Vollo
 		}
 
 		female_names = {
-			Adalasia Adalina Adallasia Agnes Agnesia Agnesolla Aldoese Alechenda Amatasana Anfelisia Anthonia Antonia Aulina Aymelina Aymellina Balda Baldança Baragaça Bartolina Beatrisia Bella Bellaflore Benfonata Bensevina Benvenuta Berta Biçe Bitina Blancha Blasia Blasiola Blonda Bolnesia Bona Bonaventura Bonavintura Bonavisina Bontelda Bonvelina Brunisenda Cadiana Carmesais Cathalina Cathelina Catherina Cecilia Çersanta Certa Chedira Cicilia Clara Claricia Çoia Çolitta Consola Cora Corelia Corina Corsa Corvata Creadea Curina Damiana Dana Dança Deutacora Diana Dierna Dina Dinolla Dominica Donatina Druda Drusia Druta Dulce Duncia Fina Fiordelisia Flora Flordelisia Flordiana Fraisenda Fraisinda Francesca Francisca Franciscina Galiana Galicia Gardina Gasdia Gilia Gisila Gimigna Giugla Grana Gratiana Gualdrata Guerrola Onorata Ostia Iacobina Imelda Imeldina Imigla Inasiata Isabella Isnarda Iuliana Giacobella Giacobina Gema Ingiça Imigla Giovanna Giuliana Lasia Lippa Lise Lisia Lucia Madiana Mala Malgarita Malgaritolla Mandiana Margarita Margaritella Maria Masina Matalia Mathea Mathelda Mathiola Mirabillis Misina Nichola Palma Parisina Paxe Pellegrina Persa Phillippa Piçanina Pirola Plasença Posterina Pugesia Recordança Regate Richa Richelda Romengarda Rosa Samaritana Sancta Sena Sibona Sina Soave Symona Taudisca Thomasina Tomasina Trisola Ugolina Ugolinella Usbilia Ventura Venturola Vermigla Vinca Vinturola Ymeldina
+			Adalasia Adalina Agnes Agnesia Agnesolla Aldoese Alechenda Amatasana Anfelisia Anthonia Antonia Aulina Aymelina Balda Baldança Baragaça Bartolina Beatrisia Bella Bellaflore Benfonata Bensevina Benvenuta Berta Biçe Bitina Blancha Blasia Blasiola Blonda Bolnesia Bona Bonaventura Bonavintura Bonavisina Bontelda Bonvelina Brunisenda Cadiana Carmesais Cathalina Cathelina Catherina Cecilia Çersanta Certa Chedira Cicilia Clara Claricia Çoia Çolitta Consola Cora Corelia Corina Corsa Corvata Creadea Curina Damiana Dana Dança Deutacora Diana Dierna Dina Dinolla Dominica Donatina Druda Drusia Druta Dulce Duncia Fina Fiordelisia Flora Flordiana Fraisinda Francisca Franciscina Galiana Galicia Gardina Gasdia Gilia Gisila Gimigna Giugla Grana Gratiana Gualdrata Guerrola Onorata Ostia Iacobina Imelda Imeldina Imigla Inasiata Isabella Isnarda Giacobella Giacobina Gema Ingiça Imigla Giovanna Giuliana Lasia Lippa Lisia Lucia Madiana Mala Malgarita Malgaritolla Mandiana Margarita Margaritella Maria Masina Matalia Mathea Mathelda Mathiola Mirabillis Misina Nichola Palma Parisina Paxe Pellegrina Persa Phillippa Piçanina Pirola Plasença Posterina Pugesia Recordança Regate Richa Richelda Romengarda Rosa Samaritana Sancta Sena Sibona Sina Soave Symona Taudisca Tomasina Trisola Ugolina Ugolinella Usbilia Ventura Venturola Vermigla Vinca Vinturola Ymeldina
 		}
 
 		dynasty_of_location_prefix = "dynnp_da"
@@ -6040,11 +6034,11 @@
 			"dynn_Bertusio"
 			"dynn_Bonaventure"
 			"dynn_Bonfigloli"
-			"dynn_Çançi"
-			"dynn_Çanni"
+			"dynn_C_anC_i"
+			"dynn_C_anni"
 			"dynn_Cantofoli"
 			"dynn_Cerretani"
-			"dynn_Cesàri"
+			"dynn_CesA_ri"
 			"dynn_Chillo"
 			"dynn_Chimenti"
 			"dynn_Chiodarolo"
@@ -6108,7 +6102,7 @@
 			"dynn_Jacchini"
 			"dynn_Jacobeli"
 			"dynn_Jemolo"
-			"dynn_Laçarie"
+			"dynn_LaC_arie"
 			"dynn_Lambertazzi"
 			"dynn_Lambertini"
 			"dynn_Lamborghini"
@@ -6246,36 +6240,36 @@
 			"dynn_Zorzi"
 			"dynn_Zucchelli"
 			"dynn_Zurla"
-			"dynnp_de" "dynn_Albasi"
-			"dynnp_de" "dynn_Aldigeri"
-			"dynnp_de" "dynn_Argenta"
-			"dynnp_de" "dynn_Bunielli"
-			"dynnp_de" "dynn_Çanis"
-			"dynnp_de" "dynn_Castro"
-			"dynnp_de" "dynn_Castrocario"
-			"dynnp_de" "dynn_Clarentani"
-			"dynnp_de" "dynn_Clari"
-			"dynnp_de" "dynn_Clavaturo"
-			"dynnp_de" "dynn_Corvo"
-			"dynnp_de" "dynn_Crovaria"
-			"dynnp_de" "dynn_Florentia"
-			"dynnp_de" "dynn_Foscardi"
-			"dynnp_della" "dynn_Cavalla"
-			"dynnp_de" "dynn_Linario"
-			"dynnp_de" "dynn_Parma"
-			"dynnp_de" "dynn_Podesti"
-			"dynnp_de" "dynn_Ponte"
-			"dynnp_de" "dynn_Puteo"
-			"dynnp_de" "dynn_Tauxignano"
-			"dynnp_dalle" "dynn_Olle"
-			"dynnp_de" "dynn_Bianchi"
-			"dynnp_del" "dynn_Ferro"
-			"dynnp_da" "dynn_Meleto"
-			"dynnp_dei" "dynn_Liuzzi"
-			"dynnp_degli" "dynn_Andalo"
-			"dynnp_degli" "dynn_Esposti"
-			"dynnp_del" "dynn_Virgilio"
-			"dynnp_dalla" "dynn_Piazza"
+			{"dynnp_de" "dynn_Albasi"}
+			{"dynnp_de" "dynn_Aldigeri"}
+			{"dynnp_de" "dynn_Argenta"}
+			{"dynnp_de" "dynn_Bunielli"}
+			{"dynnp_de" "dynn_C_anis"}
+			{"dynnp_de" "dynn_Castro"}
+			{"dynnp_de" "dynn_Castrocario"}
+			{"dynnp_de" "dynn_Clarentani"}
+			{"dynnp_de" "dynn_Clari"}
+			{"dynnp_de" "dynn_Clavaturo"}
+			{"dynnp_de" "dynn_Corvo"}
+			{"dynnp_de" "dynn_Crovaria"}
+			{"dynnp_de" "dynn_Florentia"}
+			{"dynnp_de" "dynn_Foscardi"}
+			{"dynnp_della" "dynn_Cavalla"}
+			{"dynnp_de" "dynn_Linario"}
+			{"dynnp_de" "dynn_Parma"}
+			{"dynnp_de" "dynn_Podesti"}
+			{"dynnp_de" "dynn_Ponte"}
+			{"dynnp_de" "dynn_Puteo"}
+			{"dynnp_de" "dynn_Tauxignano"}
+			{"dynnp_dalle" "dynn_Olle"}
+			{"dynnp_de" "dynn_Bianchi"}
+			{"dynnp_del" "dynn_Ferro"}
+			{"dynnp_da" "dynn_Meleto"}
+			{"dynnp_dei" "dynn_Liuzzi"}
+			{"dynnp_degli" "dynn_Andalo"}
+			{"dynnp_degli" "dynn_Esposti"}
+			{"dynnp_del" "dynn_Virgilio"}
+			{"dynnp_dalla" "dynn_Piazza"}
 
 
 		}
@@ -6312,11 +6306,11 @@
 			"dynn_Bertusio"
 			"dynn_Bonaventure"
 			"dynn_Bonfigloli"
-			"dynn_Çançi"
-			"dynn_Çanni"
+			"dynn_C_anC_i"
+			"dynn_C_anni"
 			"dynn_Cantofoli"
 			"dynn_Cerretani"
-			"dynn_Cesàri"
+			"dynn_CesA_ri"
 			"dynn_Chillo"
 			"dynn_Chimenti"
 			"dynn_Chiodarolo"
@@ -6380,7 +6374,7 @@
 			"dynn_Jacchini"
 			"dynn_Jacobeli"
 			"dynn_Jemolo"
-			"dynn_Laçarie"
+			"dynn_LaC_arie"
 			"dynn_Lambertazzi"
 			"dynn_Lambertini"
 			"dynn_Lamborghini"
@@ -6467,7 +6461,7 @@
 			"dynn_Savini"
 			"dynn_Scannavini"
 			"dynn_Scappi"
-			"dynn_Scòzzari"
+			"dynn_ScO_zzari"
 			"dynn_Seccadenari"
 			"dynn_Serato"
 			"dynn_Sforza"
@@ -6503,7 +6497,7 @@
 			"dynn_Velasco"
 			"dynn_Ventriglia"
 			"dynn_Veronesi"
-			"dynn_Viganò"
+			"dynn_ViganO_"
 			"dynn_Violi"
 			"dynn_Vitali"
 			"dynn_Vizzani"
@@ -6518,45 +6512,45 @@
 			"dynn_Zorzi"
 			"dynn_Zucchelli"
 			"dynn_Zurla"
-			"dynnp_de" "dynn_Albasi"
-			"dynnp_de" "dynn_Aldigeri"
-			"dynnp_de" "dynn_Argenta"
-			"dynnp_de" "dynn_Bunielli"
-			"dynnp_de" "dynn_Çanis"
-			"dynnp_de" "dynn_Castro"
-			"dynnp_de" "dynn_Castrocario"
-			"dynnp_de" "dynn_Clarentani"
-			"dynnp_de" "dynn_Clari"
-			"dynnp_de" "dynn_Clavaturo"
-			"dynnp_de" "dynn_Corvo"
-			"dynnp_de" "dynn_Crovaria"
-			"dynnp_de" "dynn_Florentia"
-			"dynnp_de" "dynn_Foscardi"
-			"dynnp_della" "dynn_Cavalla"
-			"dynnp_de" "dynn_Linario"
-			"dynnp_de" "dynn_Parma"
-			"dynnp_de" "dynn_Podesti"
-			"dynnp_de" "dynn_Ponte"
-			"dynnp_de" "dynn_Puteo"
-			"dynnp_de" "dynn_Tauxignano"
-			"dynnp_dalle" "dynn_Olle"
-			"dynnp_de" "dynn_Bianchi"
-			"dynnp_del" "dynn_Ferro"
-			"dynnp_da" "dynn_Meleto"
-			"dynnp_dei" "dynn_Liuzzi"
-			"dynnp_degli" "dynn_Andalo"
-			"dynnp_degli" "dynn_Esposti"
-			"dynnp_del" "dynn_Virgilio"
-			"dynnp_dalla" "dynn_Piazza"
+			{"dynnp_de" "dynn_Albasi"}
+			{"dynnp_de" "dynn_Aldigeri"}
+			{"dynnp_de" "dynn_Argenta"}
+			{"dynnp_de" "dynn_Bunielli"}
+			{"dynnp_de" "dynn_C_anis"}
+			{"dynnp_de" "dynn_Castro"}
+			{"dynnp_de" "dynn_Castrocario"}
+			{"dynnp_de" "dynn_Clarentani"}
+			{"dynnp_de" "dynn_Clari"}
+			{"dynnp_de" "dynn_Clavaturo"}
+			{"dynnp_de" "dynn_Corvo"}
+			{"dynnp_de" "dynn_Crovaria"}
+			{"dynnp_de" "dynn_Florentia"}
+			{"dynnp_de" "dynn_Foscardi"}
+			{"dynnp_della" "dynn_Cavalla"}
+			{"dynnp_de" "dynn_Linario"}
+			{"dynnp_de" "dynn_Parma"}
+			{"dynnp_de" "dynn_Podesti"}
+			{"dynnp_de" "dynn_Ponte"}
+			{"dynnp_de" "dynn_Puteo"}
+			{"dynnp_de" "dynn_Tauxignano"}
+			{"dynnp_dalle" "dynn_Olle"}
+			{"dynnp_de" "dynn_Bianchi"}
+			{"dynnp_del" "dynn_Ferro"}
+			{"dynnp_da" "dynn_Meleto"}
+			{"dynnp_dei" "dynn_Liuzzi"}
+			{"dynnp_degli" "dynn_Andalo"}
+			{"dynnp_degli" "dynn_Esposti"}
+			{"dynnp_del" "dynn_Virgilio"}
+			{"dynnp_dalla" "dynn_Piazza"}
 
 		}
 
 		male_names = {
-			Accarisello Accureglaltre Acitto Açitto Açolino Aço Aginulfo Aginulfys Agustollo Albasino Albergato Albergitto Alberico Albertinello Albertino Albertucio Alberto Alborello Aldemario Aldrevandino Alle Allegracor Allesander Allidoxio Alliotto Amadiolo Amadore Ameo Amodeo Anchebenne Anciano Andallo Andalino Andreas Andriolo Angello Aniano Anselmino Anselmo Anthoniolo Anthonio Apseradino Arardello Archesino Ardoino Ariento Asprando Astino Atendorio Auliverio Auriccollo Avesano Aymerico Azolino Baça Baçalario Baçalino Bachino Bado Baiucio Balducio Baldo Bambino Bandino Baratono Barono Bartholino Bartholomeo Bartholo Barthosso Bartoço Bartolino Bartollo Basscanello Basso Bastardo Becacio Becho Beldandino Bellollo Beltrame Benaço Bencevenne Bençono Benedicto Benencasa Bengo Benincà Benincasa Benino Bennato Bennollo Bennucio Benno Bensenato Benucio Benvenuto Benvignuto Bernabe Bernardino Bernucho Berthollocto Bertolitto Bertollo Berto Besio Besollo Bessencà Bexonino Billino Bilullo Bilulo Binbo Bindo Binino Binio Binucio Bino Bitorio Biondo Biono Bitino Bittino Bittucio Biundo Blanchollo Blancho Blasiolo Blasio Blondello Blondo Boco Bolognito Bombologno Bonacho Bonacurio Bonafidi Bonaiunta Bonanni Bonaventura Bonçanino Boncino Bondolo Bondo Bonfigliolo Bonfiglolo Boniacobo Bonicontro Bongiovanni Bonloino Bonmercato Bonnanino Bonnano Bonnino Bontelino Bono Borgognono Bradelisio Branchaleo Bridico Burgucio Burniolo Buvello Cabriel Cabuccio Çacharello Çachario Çagne Çambino Cambio Çambrasino Campesano Cacni Çançino Çanço Çanello Çanes Çanetto Çanile Çanino Cannes Çannes Çannes Çannino Çannis Çannito Çanoll Çanotto Çano Capucino Cardinello Cardino Cardo Çardo Cariolo Çario Çarlino Carmontino Carpognano Carucio Carvasalilo Casino Cassianello Cassianino Cassiano Castellano Cathello Cavolino Cavalerio Çecco Cecho Ceconello Cenne Çenne Çennes Cesco Çetolo Çetto Chelacio Chele Chello Chicolino Cichollo Cicho Cicollo Cico Çinolo Cisco Cisolo Cividello Clarello Çolo Comacino Çondollo Çonello Çones Çono Coradino Corado Cordoncino Cornaçano Cristiano Cristofano Çuchollo Çuço Çudollo Çunta Çuntolla Curçio Curio Cursollo Dadeo Dadiolo Damiano Dardo Deddolo Dedo Delo Deudato Dinarello Dinollo Dino Diolo Docio Dolcebono Dominicello Dominico Dominigello Donato Dondideo Dondo Dosso Doxio Dragono Drago Drudello Drudollo Duçollo Duço Duxolo Eptor Fabiano Fabrino Faciolo Facio Facolfo Falcucio Famolo Fantinucio Fara Farolfino Fatiolo Fatio Federico Feraldino Feraldo Figlolo Fino Floravante Floruçio Folles Forlovese Fortino Francho Franciscino Francisco Fredo Fuçino Fuçio Fulcho Gaçano Gagnino Galante Gallenso Gallitto Galotto Gandolfino Garavello Gardo Gaudiolo Gemignano Genario Germias Gesio Ghino Giberto Gidollo Gillino Gilliolo Gillio Gimignano Ginollo Gino Giraldo Girardello Girardino Girarducio Girardo Girolo Gisatino Gisilardo Gisio Gnudolino Gnudolo Gnuto Gottolo Gratiano Gualtarino Gualtirolo Gualvanino Gualvano Guano Guardi Guarinello Guarino Guccio Guccino Guidello Guidocello Guidolino Guidollo Guidoncio Guidono Guidotto Guiducio Guiducollo Guido Guiduto Guillelmucio Guillelmo Guirisio Guitalcino Goconcino Gutarello Onestino Orabono Jeremias Imolisino Isinardo Iuncta Ivaldo Ivano Iacobello Iacobucio Iacobo Iovannello Iovanni Iovannitto Isinardo Giuliano Giumignano Giulio Lambertino Lançalotto Lando Lappo Lardolino Laurencino Laurencio Lazarino Lencio Leo Leonardo Liberio Lippo Lisollo Lito Liverio Loço Lolo Longino Lotto Lucha Lucio Maçolo Maço Maffeo Maginardo Magnano Magnino Malgarito Mançollo Manfredo Manino Mante Manucio Manuel Marchesino Marchuchio Marco Marinello Marinucio Marsilio Martignano Martinello Martinucio Martino Martiolo Mascaronio Masino Maso Matheo Mathiolo Maurisio Maxio Maynardo Mello Mencino Mengino Mengollo Mengo Mercadante Mercato Michael Michellucio Michillino Miglorucio Migolo Milino Minaçio Minino Mino Mirra Monaldo Montanario Morandino Morando Moro Muçio Muçolo Mutinenso Nanni Narcho Nardo Nasinbenne Nasio Negrono Nello Neno Nerio Nicholino Nicholitto Nicholucio Nicolao Nordiglito Nordiglo Novello Novelono Nuto Ordelaffo Orlandino Orlanducio Orlando Orsatto Paço Paganello Paganucio Pagno Palmerio Palmirolo Pandolfo Paniça Pasio Pasolino Paulello Paulino Paulucio Pauluço Paulo Pax Pazino Pedono Pedrobono Peliçario Pelle Pellegrino Peppo Perino Petriçolo Petrino Petro Philipino Philippo Phirondo Piçollo Piço Pigino Pino Pirino Pirocio Pirolo Pirundo Pucitto Raffallio Ramberto Raynaldo Raynerio Raynirolo Raynucio Reynerio Reynirolo Riçardo Ricio Riçolo Rico Rigabado Rigollo Rigucio Riguglosio Rigo Robino Rodulfo Roffino Romanucio Rubeo Ruffo Rugerio Rumiolo Rotigano Saldino Salmerio Salomon Salvester Salvucio Sanctucio Sancto Sander Santolino Santo Savarisio Savis Sclara Scottollo Segura Seprictollo Serbato Servodeux Servolino Silvester Simono Smeraldo Sollesano Spinello Stasino Stasio Staxino Stefano Suçollo Symon Symoncello Syra Tadeo Tagliaferro Tano Tebaldino Testa Thebaldello Thomasino Thomasio Tibertino Tino Tiolo Tisio Tomasino Tomasio Tondello Tondo Tonio Tonso Tono Toresano Tornanbene Tornanbenne Toro Trintino Tuiachello Tundino Tuniolo Tura Turola Tocollo Ubaldinello Ubaldino Ubaldo Ubertate Ubertello Uberto Uderico Ugilinello Ugo Ugoçonello Ugolinellio Ugolinello Ugolinucio Ugolino Ugollo Ugucio Uguciono Uguçonello Ugutio Ungarello Ursuço Valente Vandino Vando Vanello Vanitto Vanni Vanondo Vanucio Veglo Venetico Vernaça Vernandino Vescovello Vidello Vignudello Vigolello Villano Vinciguerra Viviannelo Viviano Vitalis Vollo Ymolense Ymolensis
+			Accarisello Açitto Açolino Aço Aginulfo Agustollo Albasino Alberico Alberto Alborello Aldemario Aldrevandino Allesander Alliotto Amadore Amodeo Anchebenne Anciano Andallo Andreas Angello Aniano Anselmo Anthoniolo Anthonio Apseradino Arardello Archesino Ardoino Ariento Asprando Astino Atendorio Auliverio Auriccollo Avesano Aymerico Azolino Baça Baçalario Baçalino Bachino Bado Baiucio Balducio Baldo Bambino Bandino Baratono Barono Bartholino Bartholomeo Bartholo Bartoço Basscanello Basso Bastardo Becacio Becho Beldandino Bellollo Beltrame Benaço Bencevenne Bençono Benedicto Benencasa Bengo Benincà Benincasa Benino Bennato Bennucio Benno Bensenato Benucio Benvenuto Benvignuto Bernabe Bernardino Bernucho Berthollocto Bertolitto Bertollo Berto Besio Besollo Bessencà Bexonino Billino Bilullo Binbo Bindo Binino Binucio Bino Bitorio Biondo Bittino Bittucio Biundo Blancho Blasio Blondo Boco Bombologno Bonacho Bonacurio Bonafidi Bonaiunta Bonanni Bonaventura Bonçanino Boncino Bondo Bonfigliolo Boniacobo Bonicontro Bongiovanni Bonloino Bonmercato Bonnanino Bonnano Bonnino Bontelino Bono Borgognono Bradelisio Branchaleo Bridico Burgucio Burniolo Buvello Cabriel Cabuccio Çachario Çagne Cambio Çambrasino Campesano Çanço Çanello Çanes Çanetto Çanile Çanino Çannes Çanoll Çanotto Çano Capucino Cardino Çardo Çario Çarlino Carmontino Carpognano Carucio Casino Cassiano Castellano Cathello Cavolino Cavalerio Çecco Çenne Çennes Çetto Chello Cicho Çinolo Cisolo Cividello Clarello Comacino Çondollo Çonello Çono Corado Cordoncino Cornaçano Cristiano Cristofano Çuchollo Çuço Çudollo Curçio Curio Dadeo Damiano Dardo Dedo Delo Deudato Dinarello Dino Docio Dolcebono Dominico Donato Dondo Dosso Doxio Dragono Drago Drudello Duço Eptor Fabiano Facio Facolfo Famolo Fantinucio Farolfino Fatio Federico Feraldo Fino Floravante Floruçio Forlovese Fortino Francho Francisco Fredo Fuçio Fulcho Gaçano Gagnino Galante Gallenso Galotto Gandolfino Garavello Gardo Gaudiolo Gemignano Genario Germias Gesio Ghino Giberto Gidollo Gillio Gimignano Gino Giraldo Girardello Girardino Girardo Gisilardo Gisio Gnuto Gottolo Gratiano Gualtirolo Gualvano Guano Guardi Guarinello Guccio Guidollo Guidono Guidotto Guiducio Guiducollo Guido Guillelmo Guirisio Guitalcino Goconcino Gutarello Onestino Orabono Imolisino Isinardo Ivaldo Ivano Iacobello Iacobucio Iacobo Iovanni Isinardo Giuliano Giumignano Giulio Lamberto Lançalotto Lando Lappo Laurencio Lazarino Lencio Leo Leonardo Liberio Lippo Lisollo Lito Liverio Loço Longino Lotto Lucio Maço Maffeo Maginardo Magnano Malgarito Mançollo Manfredo Manino Manucio Manuel Marchuchio Marco Marsilio Martignano Martinello Martinucio Martino Mascaronio Maso Matheo Maurisio Maxio Maynardo Mello Mencino Mengo Mercadante Mercato Michelle Miglorucio Milino Minaçio Mino Mirra Monaldo Montanario Morando Moro Muçio Mutinenso Narcho Nardo Nasio Negrono Nello Neno Nerio Nicolao Nordiglo Novello Nuto Ordelaffo Orlando Orsatto Paço Paganello Pagno Palmerio Pandolfo Paniça Pasio Pasolino Pauluço Paulo Pax Pazino Pedono Pedrobono Peliçario Pelle Pellegrino Peppo Perino Petro Philippo Phirondo Piço Pino Pirocio Pirolo Pirundo Pucitto Raffallio Ramberto Raynaldo Raynerio Raynucio Riçardo Ricio Rico Rigabado Rigollo Rigucio Rigo Robino Rodulfo Roffino Romanucio Rubeo Ruffo Rugerio Rumiolo Rotigano Saldino Salmerio Salvestro Salvucio Sanctucio Sancto Sander Santo Savarisio Sclara Scottollo Segura Seprictollo Serbato Simono Smeraldo Sollesano Spinello Stasio Staxino Stefano Suçollo Syra Tadeo Tagliaferro Tano Tebaldino Testa Tibertino Tino Tiolo Tisio Tomasio Tondo Tonso Tono Toresano Tornanbene Tornanbenne Toro Trintino Tuiachello Tura Tocollo Ubaldo Uberto Uderico Ugo Ugoçonello Ugolinucio Ugolino Ugucio Ungarello Ursuço Valente Vando Vanello Vanitto Vanni Vanondo Vanucio Venetico Vernaça Vernandino Vescovello Vidello Villano Vinciguerra Viviano Vollo
 		}
 
 		female_names = {
-			Adalasia Adalina Adallasia Agnes Agnesia Agnesolla Aldoese Alechenda Amatasana Anfelisia Anthonia Antonia Aulina Aymelina Aymellina Balda Baldança Baragaça Bartolina Beatrisia Bella Bellaflore Benfonata Bensevina Benvenuta Berta Biçe Bitina Blancha Blasia Blasiola Blonda Bolnesia Bona Bonaventura Bonavisina Bontelda Bonvelina Brunisenda Cadiana Carmesais Cathalina Cathelina Catherina Cecilia Çersanta Certa Chedira Cicilia Clara Claricia Çoia Çolitta Consola Cora Corelia Corina Corsa Corvata Creadea Curina Damiana Dana Dança Deutacora Diana Dierna Dina Dinolla Dominica Donatina Druda Drusia Druta Dulce Duncia Fina Fiordelisia Flora Flordelisia Flordiana Fraisenda Fraisinda Francesca Francisca Franciscina Galiana Galicia Gardina Gasdia Gilia Gisila Gimigna Giugla Grana Gratiana Gualdrata Guerrola Onorata Ostia Iacobina Imelda Imeldina Imigla Inasiata Isabella Isnarda Iuliana Giacobella Giacobina Gema Ingiça Imigla Giovanna Giuliana Lasia Lippa Lise Lisia Lucia Madiana Mala Malgarita Malgaritolla Mandiana Margarita Margaritella Maria Masina Matalia Mathea Mathelda Mathiola Mirabillis Misina Nichola Palma Parisina Paxe Pellegrina Persa Phillippa Piçanina Pirola Plasença Posterina Pugesia Recordança Regate Richa Richelda Romengarda Rosa Samaritana Sancta Sena Sibona Sina Soave Symona Taudisca Thomasina Tomasina Trisola Ugolina Ugolinella Usbilia Ventura Venturola Vermigla Vinca Vinturola Ymeldina
+			Adalasia Adalina Agnes Agnesia Aldoese Alechenda Amatasana Anfelisia Antonia Aulina Aymelina Balda Baldança Baragaça Bartolina Beatrisia Bella Bellaflore Benfonata Bensevina Benvenuta Berta Biçe Bitina Blancha Blasia Blonda Bolnesia Bona Bonaventura Bonavisina Bontelda Bonvelina Brunisenda Cadiana Carmesais Cathalina Catherina Cecilia Çersanta Certa Chedira Cicilia Clara Claricia Çoia Çolitta Consola Cora Corelia Corina Corsa Corvata Creadea Curina Damiana Dana Dança Deutacora Diana Dierna Dina Dominica Donatina Druda Drusia Druta Dulce Duncia Fina Flora Flordelisia Flordiana Fraisenda Fraisinda Francesca Galiana Galicia Gardina Gasdia Gilia Gisila Gimigna Giugla Grana Gratiana Gualdrata Guerrola Onorata Ostia Iacobina Imelda Imeldina Imigla Inasiata Isabella Isnarda Giuliana Giacobella Giacobina Gema Ingiça Imigla Giovanna Giuliana Lasia Lippa Lise Lisia Lucia Madiana Mala Malgarita Malgaritolla Mandiana Margarita Margaritella Maria Masina Matalia Mathea Mathelda Mirabillis Misina Nichola Palma Parisina Paxe Pellegrina Persa Phillippa Piçanina Pirola Plasença Posterina Pugesia Recordança Regate Richa Richelda Romengarda Rosa Samaritana Sancta Sena Sibona Sina Soave Symona Taudisca Thomasina Tomasina Trisola Ugolina Ugolinella Usbilia Ventura Venturola Vermigla Vinca Vinturola Ymeldina
 		}
 
 		dynasty_of_location_prefix = "dynnp_da"
@@ -7111,34 +7105,34 @@
 		"dynn_Zorzan"
 
 	  { "dynnp_da"  "dynn_Coni" }
-		{ "dynnp_da"  "dynn_Bièla" }
+		{ "dynnp_da"  "dynn_BiE_la" }
 		{ "dynnp_da"  "dynn_Nuara" }
 		{ "dynnp_da"  "dynn_Verbania" }
 		{ "dynnp_da"  "dynn_Lissandria" }
 		{ "dynnp_da"  "dynn_Turin" }
-		{ "dynnp_da"  "dynn_Monfrà" }
+		{ "dynnp_da"  "dynn_MonfrA_" }
 		{ "dynnp_da"  "dynn_Salusse" }
-		{ "dynnp_da"  "dynn_Varséi" }
+		{ "dynnp_da"  "dynn_VarsE_i" }
 		{ "dynnp_da"  "dynn_Niclin" }
-		{ "dynnp_da"  "dynn_Rìvuli" }
-		{ "dynnp_da"  "dynn_Colègn" }
-		{ "dynnp_da"  "dynn_Moncalé" }
+		{ "dynnp_da"  "dynn_RI_vuli" }
+		{ "dynnp_da"  "dynn_ColE_gn" }
+		{ "dynnp_da"  "dynn_MoncalE_" }
 		{ "dynnp_da"  "dynn_Ast" }
 		{ "dynnp_da"  "dynn_Grujasch" }
 		{ "dynnp_da"  "dynn_Cher" }
 		{ "dynnp_da"  "dynn_Pinareul" }
-		{ "dynnp_da"  "dynn_Carmagnòla" }
+		{ "dynnp_da"  "dynn_CarmagnO_la" }
 		{ "dynnp_da"  "dynn_Bra" }
-		{ "dynnp_da"  "dynn_Ârba" }
+		{ "dynnp_da"  "dynn_A_rba" }
 		{ "dynnp_da"  "dynn_Civass" }
 		{ "dynnp_da"  "dynn_Fossan" }
-		{ "dynnp_da"  "dynn_Ivréa" }
+		{ "dynnp_da"  "dynn_IvrE_a" }
 		{ "dynnp_da"  "dynn_Orbassan" }
 		{ "dynnp_da"  "dynn_Susa" }
-		{ "dynnp_da"  "dynn_Mondvì" }
-		{ "dynnp_da"  "dynn_Borbané" }
+		{ "dynnp_da"  "dynn_MondvI_" }
+		{ "dynnp_da"  "dynn_BorbanE_" }
 		{ "dynnp_da"  "dynn_Savian" }
-		{ "dynnp_da"  "dynn_Trecà" }
+		{ "dynnp_da"  "dynn_TrecA_" }
 		{ "dynnp_da"  "dynn_Varal" }
 
  	 }
@@ -7245,40 +7239,40 @@
 	 "dynn_Zizzi"
 	 "dynn_Zorzan"
 	  { "dynnp_da"  "dynn_Coni" }
-		{ "dynnp_da"  "dynn_Bièla" }
+		{ "dynnp_da"  "dynn_BiE_la" }
 		{ "dynnp_da"  "dynn_Nuara" }
 		{ "dynnp_da"  "dynn_Verbania" }
 		{ "dynnp_da"  "dynn_Lissandria" }
 		{ "dynnp_da"  "dynn_Turin" }
-		{ "dynnp_da"  "dynn_Monfrà" }
+		{ "dynnp_da"  "dynn_MonfrA_" }
 		{ "dynnp_da"  "dynn_Salusse" }
-		{ "dynnp_da"  "dynn_Varséi" }
+		{ "dynnp_da"  "dynn_VarsE_i" }
 		{ "dynnp_da"  "dynn_Niclin" }
-		{ "dynnp_da"  "dynn_Rìvuli" }
-		{ "dynnp_da"  "dynn_Colègn" }
-		{ "dynnp_da"  "dynn_Moncalé" }
+		{ "dynnp_da"  "dynn_RI_vuli" }
+		{ "dynnp_da"  "dynn_ColE_gn" }
+		{ "dynnp_da"  "dynn_MoncalE_" }
 		{ "dynnp_da"  "dynn_Ast" }
 		{ "dynnp_da"  "dynn_Grujasch" }
 		{ "dynnp_da"  "dynn_Cher" }
 		{ "dynnp_da"  "dynn_Pinareul" }
 		{ "dynnp_da"  "dynn_Carmagnòla" }
 		{ "dynnp_da"  "dynn_Bra" }
-		{ "dynnp_da"  "dynn_Ârba" }
+		{ "dynnp_da"  "dynn_A_rba" }
 		{ "dynnp_da"  "dynn_Civass" }
 		{ "dynnp_da"  "dynn_Fossan" }
-		{ "dynnp_da"  "dynn_Ivréa" }
+		{ "dynnp_da"  "dynn_IvrE_a" }
 		{ "dynnp_da"  "dynn_Orbassan" }
 		{ "dynnp_da"  "dynn_Susa" }
-		{ "dynnp_da"  "dynn_Mondvì" }
-		{ "dynnp_da"  "dynn_Borbané" }
+		{ "dynnp_da"  "dynn_MondvI_" }
+		{ "dynnp_da"  "dynn_BorbanE_" }
 		{ "dynnp_da"  "dynn_Savian" }
-		{ "dynnp_da"  "dynn_Trecà" }
+		{ "dynnp_da"  "dynn_TrecA_" }
 		{ "dynnp_da"  "dynn_Varal" }
 
  	 }
 
  	 male_names = {
-      Airàud Alàis Albert Alessi Alfons André Andrea Antòni Armand Ascagn Àud Aufrej Bartromé Batista Benedit Berto Camilo Carl Carlin Carlo Càsper Cech Cens Ciafrèj Clàudi Damian Daniel Dario Dàvid Deto Dumini Edorard Ens Ernest Essio Eugeni Fabio Fabriss Fabrissi Federich Flavio Flibert Flip Fons Franch Fransesch Fredo Gabriel Genio Gepe Giaco Gian Gioann Giofrèj Giòrs Giusep Gon Gustav Iacopo Ignass Ignassi Lissànder Lois Lorens Luch Lucio Ludvigh Luis Luss March Mario Maté Mauriss Maurissi Meco Medeo Michel Milo Mò Nicolò Odon Odrigh Pàul Pero Pietro Rafael Rafé Rens Ricard Robert Rof Salvari Salvin Samuel Sànder Sergi Silvio Simon Steo Tavo Tòjo Tomà Tromlin Umbert Vaufrèj Vielm Vincens Vitor Vitòrio
+      Airàud Alàis Albert Alessi Alfons André Andrea Antòni Armand Ascagn Àud Aufrej Bartromé Batista Benedit Berto Camilo Carlin Carlo Càsper Cech Cens Ciafrèj Clàudi Damian Daniel Dario Dàvid Deto Dumini Edorard Ens Ernest Essio Eugeni Fabio Fabrissi Federich Flavio Flibert Flip Fons Franch Fransesch Fredo Gabriel Genio Gepe Giaco Gian Giofrèj Giòrs Giusep Gon Gustav Iacopo Ignassi Lissànder Lois Lorens Luch Lucio Ludvigh Luis Luss March Mario Maté Maurissi Meco Medeo Michel Milo Mò Nicolò Odon Odrigh Pàul Pero Pietro Rafael Rafé Rens Ricard Robert Rof Salvari Salvin Samuel Sànder Sergi Silvio Simon Steo Tavo Tòjo Tomà Tromlin Umbert Vaufrèj Vielm Vincens Vitor Vitòrio
  	 }
 
  	 female_names = {
@@ -7349,7 +7343,7 @@
 			 "dynn_Cicala"
 			 "dynn_Donghi"
 			 "dynn_Doia"
-			 "dynn_Duaço"
+			 "dynn_DuaC_o"
 			 "dynn_Fieschi"
 			 "dynn_Franzone"
 			 "dynn_Ferretto"
@@ -7357,7 +7351,7 @@
 			 "dynn_Giustiniani"
 			 "dynn_Grillo"
 			 "dynn_Imperia"
-			 "dynn_Çentrion"
+			 "dynn_C_entrion"
 			 "dynn_Invrea"
 			 "dynn_Lercari"
 			 "dynn_Lomellin"
@@ -7410,7 +7404,7 @@
 			 "dynn_Guan"
 			 "dynn_Sant'Alosio"
 			 "dynn_Barbavara"
-			 "dynn_Trivurçio"
+			 "dynn_TrivurC_io"
 			 "dynn_Bovarello"
 			 "dynn_Campo"
 			 "dynn_Lazzao"
@@ -7474,7 +7468,7 @@
 			"dynn_Cicala"
 			"dynn_Donghi"
 			"dynn_Doia"
-			"dynn_Duaço"
+			"dynn_DuaC_o"
 			"dynn_Fieschi"
 			"dynn_Franzone"
 			"dynn_Ferretto"
@@ -7482,7 +7476,7 @@
 			"dynn_Giustiniani"
 			"dynn_Grillo"
 			"dynn_Imperia"
-			"dynn_Çentrion"
+			"dynn_C_entrion"
 			"dynn_Invrea"
 			"dynn_Lercari"
 			"dynn_Lomellin"
@@ -7535,7 +7529,7 @@
 			"dynn_Guan"
 			"dynn_Sant'Alosio"
 			"dynn_Barbavara"
-			"dynn_Trivurçio"
+			"dynn_TrivurC_io"
 			"dynn_Bovarello"
 			"dynn_Campo"
 			"dynn_Lazzao"
@@ -7566,7 +7560,7 @@
  	 }
 
  	 male_names = {
-		Acelino Agostin Agostin Allaono Ambrœuxo Amffreono Andrea Andria Andriolo Anffreono Ansaldo Antogno Antoniotto Argono Aymono Baldassare Barixono Bartholomeo Bartolino Batista Battesto Beda Benardo Bendinelli Benedicto Beneito Bernabè Bertomê Bindinello Bonifacio Branchachio Branda Carlo Cassano Cepriano Cesare Chilicho Chilico Claveoto Conrado Constantino Corrado Cosmaele Cremente Crestiano Cristiano Cristoffa Dagnano Daniele Domenego Emo Enricho Fabiano Fanucio Federigo Feipo Florino Francescho Françesco Francho Gabriele Gabriello Galeaçço Galeoto Gamdulffo Gaspao Gattino Gentille Ghigermo Giacomo Gioxeppe Giœumo Gotiffredo Guido Guirardo Iacobo Iane Ianono Ianoto Ibleto Illario Ioffredo Isnardo Lanfranco Lazzao Lodovigo Loenço Lonardo Lucco Luciano Mattê Moroello Nichiozo Oldrado Oppexin Ottavian Panza Poro Peo Percivalle Prospeo Raffè Rettorato Riccardo Ridolfo Scilvestro Scimon Scipion Spinetta Tedou Tomaxo Urban Viçenço Zane Zanotto Zorzo
+		Acelino Agostin Allaono Ambrœuxo Amffreono Andrea Andriolo Anffreono Ansaldo Antogno Antoniotto Argono Aymono Baldassare Barixono Bartholomeo Bartolino Batista Battesto Beda Benardo Bendinelli Benedicto Beneito Bernabè Bertomê Bindinello Bonifacio Branchachio Branda Carlo Cassano Cepriano Cesare Chilico Claveoto Conrado Constantino Corrado Cosmaele Cremente Crestiano Cristiano Cristoffa Dagnano Daniele Domenego Emo Enricho Fabiano Fanucio Federigo Feipo Florino Francescho Françesco Francho Gabriele Gabriello Galeaçço Galeoto Gamdulffo Gaspao Gattino Gentille Ghigermo Giacomo Gioxeppe Giœumo Gotiffredo Guido Guirardo Iacobo Iane Ianono Ianoto Ibleto Illario Ioffredo Isnardo Lanfranco Lazzao Lodovigo Loenço Lonardo Lucco Luciano Mattê Moroello Nichiozo Oldrado Oppexin Ottavian Panza Poro Peo Percivalle Prospeo Raffè Rettorato Riccardo Ridolfo Scilvestro Scimon Scipion Spinetta Tedou Tomaxo Urban Viçenço Zane Zanotto Zorzo
 
  	 }
 
@@ -7670,7 +7664,7 @@
 				"dynn_Desiderato"
 				"dynn_D'Este"
 				"dynn_Dolfin"
-				"dynn_Donà"
+				"dynn_DonA_"
 				"dynn_Donado"
 				"dynn_Doro"
 				"dynn_Duodo"
@@ -7867,7 +7861,7 @@
 				"dynn_Desiderato"
 				"dynn_D'Este"
 				"dynn_Dolfin"
-				"dynn_Donà"
+				"dynn_DonA_"
 				"dynn_Donado"
 				"dynn_Doro"
 				"dynn_Duodo"
@@ -8225,7 +8219,7 @@
 		"dynn_Astolfi"
 		"dynn_Allegri"
 		"dynn_Beccaria"
-		"dynn_Belòt"
+		"dynn_BelO_t"
 		"dynn_Bernascon"
 		"dynn_Biraghi"
 		"dynn_Biumi"

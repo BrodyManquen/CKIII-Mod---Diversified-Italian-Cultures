@@ -23176,7 +23176,7 @@ norse_roden = { #Fictional dynasty for Rurik's family.
 7773393={name = "dynn_Desiderato" culture = "venetian" }
 7773394={name = "dynn_D'Este" culture = "venetian" }
 7773395={name = "dynn_Dolfin" culture = "venetian" }
-7773396={name = "dynn_Donà" culture = "venetian" }
+7773396={name = "dynn_DonA_" culture = "venetian" }
 7773397={name = "dynn_Donado" culture = "venetian" }
 7773398={name = "dynn_Doro" culture = "venetian" }
 7773399={name = "dynn_Duodo" culture = "venetian" }
@@ -23347,1391 +23347,1392 @@ norse_roden = { #Fictional dynasty for Rurik's family.
 7773563={name ="dynn_della_Cava" culture = "venetian" }
 7773564={name ="dynn_Della_Scalla" culture = "venetian" }
 7773565={name ="dynn_Di_Pigli" culture = "venetian" }
-62500001={name = "dynn_Astolfi" culture =lombard" }
-62500002={name = "dynn_Allegri" culture =lombard" }
-62500003={name = "dynn_Beccaria" culture =lombard" }
-62500004={name = "dynn_Belòt" culture =lombard" }
-62500005={name = "dynn_Bernascon" culture =lombard" }
-62500006={name = "dynn_Biraghi" culture =lombard" }
-62500007={name = "dynn_Biumi" culture =lombard" }
-62500008={name = "dynn_Bombello" culture =lombard" }
-62500009={name = "dynn_Borri" culture =lombard" }
-62500010={name = "dynn_Bossi" culture =lombard" }
-62500011={name = "dynn_Bossi" culture =lombard" }
-62500012={name = "dynn_Busell" culture =lombard" }
-62500013={name = "dynn_Buvalelli" culture =lombard" }
-62500014={name = "dynn_Buzaccharini" culture =lombard" }
-62500015={name = "dynn_Caimi" culture =lombard" }
-62500016={name = "dynn_Canevesi" culture =lombard" }
-62500017={name = "dynn_Canobio" culture =lombard" }
-62500018={name = "dynn_Carboni" culture =lombard" }
-62500020={name = "dynn_Carentano" culture =lombard" }
-62500021={name = "dynn_Catani" culture =lombard" }
-62500022={name = "dynn_Ciocca" culture =lombard" }
-62500023={name = "dynn_Citeri" culture =lombard" }
-62500024={name = "dynn_Confalonieri" culture =lombard" }
-62500025={name = "dynn_Cori" culture =lombard" }
-62500026={name = "dynn_Cotta" culture =lombard" }
-62500027={name = "dynn_Cremosano" culture =lombard" }
-62500028={name = "dynn_Cristiani" culture =lombard" }
-62500029={name = "dynn_Crivelli" culture =lombard" }
-62500030={name = "dynn_Crotta" culture =lombard" }
-62500031={name = "dynn_de_Chioccis" culture =lombard" }
-62500032={name = "dynn_de_Cort" culture =lombard" }
-62500033={name = "dynn_de_Godis" culture =lombard" }
-62500034={name = "dynn_de_la_Riva" culture =lombard" }
-62500035={name = "dynn_de_Negris" culture =lombard" }
-62500036={name = "dynn_de_Scoxatis" culture =lombard" }
-62500037={name = "dynn_de_Tattis" culture =lombard" }
-62500038={name = "dynn_della_Gazzada" culture =lombard" }
-62500039={name = "dynn_Farnese" culture =lombard" }
-62500040={name = "dynn_Fava" culture =lombard" }
-62500041={name = "dynn_Ferrario" culture =lombard" }
-62500042={name = "dynn_Filodoni" culture =lombard" }
-62500043={name = "dynn_Fissiraga" culture =lombard" }
-62500044={name = "dynn_Fontana" culture =lombard" }
-62500045={name = "dynn_Galaraa" culture =lombard" }
-62500046={name = "dynn_Galbiaa" culture =lombard" }
-62500047={name = "dynn_Gallizi" culture =lombard" }
-62500048={name = "dynn_Gambiras" culture =lombard" }
-62500049={name = "dynn_Gandin" culture =lombard" }
-62500050={name = "dynn_Gerra" culture =lombard" }
-62500051={name = "dynn_Giarell" culture =lombard" }
-62500052={name = "dynn_Giussan" culture =lombard" }
-62500053={name = "dynn_Glaviagni" culture =lombard" }
-62500054={name = "dynn_Gotoario" culture =lombard" }
-62500055={name = "dynn_Grassi" culture =lombard" }
-62500056={name = "dynn_Guasco" culture =lombard" }
-62500057={name = "dynn_Guinizelli" culture =lombard" }
-62500058={name = "dynn_Incoardo" culture =lombard" }
-62500059={name = "dynn_Lampugnan" culture =lombard" }
-62500060={name = "dynn_Lavezzario" culture =lombard" }
-62500061={name = "dynn_Legnano" culture =lombard" }
-62500062={name = "dynn_Lovin" culture =lombard" }
-62500063={name = "dynn_Luino" culture =lombard" }
-62500064={name = "dynn_Lupi" culture =lombard" }
-62500065={name = "dynn_Maccasola" culture =lombard" }
-62500066={name = "dynn_Magg" culture =lombard" }
-62500067={name = "dynn_Malcoreggia" culture =lombard" }
-62500068={name = "dynn_Manzon" culture =lombard" }
-62500069={name = "dynn_Marcellino" culture =lombard" }
-62500070={name = "dynn_Merlano" culture =lombard" }
-62500071={name = "dynn_Monetario" culture =lombard" }
-62500072={name = "dynn_Mostardi" culture =lombard" }
-62500073={name = "dynn_Muzio" culture =lombard" }
-62500074={name = "dynn_Negri" culture =lombard" }
-62500075={name = "dynn_Palastrello" culture =lombard" }
-62500076={name = "dynn_Parin" culture =lombard" }
-62500077={name = "dynn_Perego" culture =lombard" }
-62500078={name = "dynn_Pessina" culture =lombard" }
-62500079={name = "dynn_Pignoli" culture =lombard" }
-62500080={name = "dynn_Ponzoni" culture =lombard" }
-62500081={name = "dynn_Porca" culture =lombard" }
-62500082={name = "dynn_Pozzobonella" culture =lombard" }
-62500083={name = "dynn_Pravesin" culture =lombard" }
-62500084={name = "dynn_Pusterla" culture =lombard" }
-62500085={name = "dynn_Rainold" culture =lombard" }
-62500086={name = "dynn_Rangoni" culture =lombard" }
-62500087={name = "dynn_Regaino" culture =lombard" }
-62500088={name = "dynn_Riccardi" culture =lombard" }
-62500089={name = "dynn_Rivabene" culture =lombard" }
-62500090={name = "dynn_Rivola" culture =lombard" }
-62500091={name = "dynn_Roberti" culture =lombard" }
-62500092={name = "dynn_Rossi" culture =lombard" }
-62500093={name = "dynn_Rovarini" culture =lombard" }
-62500094={name = "dynn_Rusconi" culture =lombard" }
-62500095={name = "dynn_Sacchi" culture =lombard" }
-62500096={name = "dynn_Sacchi" culture =lombard" }
-62500097={name = "dynn_Sacco" culture =lombard" }
-62500098={name = "dynn_Salimbeni" culture =lombard" }
-62500099={name = "dynn_Sanvii" culture =lombard" }
-62500100={name = "dynn_Scotti" culture =lombard" }
-62500101={name = "dynn_Serbelloni" culture =lombard" }
-62500102={name = "dynn_Sfondrati" culture =lombard" }
-62500103={name = "dynn_Sommariva" culture =lombard" }
-62500104={name = "dynn_Sordi" culture =lombard" }
-62500105={name = "dynn_Sorman" culture =lombard" }
-62500106={name = "dynn_Stretti" culture =lombard" }
-62500107={name = "dynn_Tangentino" culture =lombard" }
-62500108={name = "dynn_Tanz" culture =lombard" }
-62500109={name = "dynn_Tentone" culture =lombard" }
-62500110={name = "dynn_Tiepolo" culture =lombard" }
-62500111={name = "dynn_Tognani" culture =lombard" }
-62500112={name = "dynn_Torelli" culture =lombard" }
-62500113={name = "dynn_Valzecch" culture =lombard" }
-62500114={name = "dynn_Varena" culture =lombard" }
-62500115={name = "dynn_Varzi" culture =lombard" }
-62500116={name = "dynn_Vento" culture =lombard" }
-62500117={name = "dynn_Visconti" culture =lombard" }
-62500118={name = "dynn_Visdomini" culture =lombard" }
-62500119={name = "dynn_Vistarino" culture =lombard" }
-62500120={name = "dynn_Volta" culture =lombard" }
-62500121={name = "dynn_Zoia" culture =lombard" }
-62500122={name = "dynn_Zorlon" culture =lombard" }
-62500123={ prefix = "dynnp_di" name = "dynn_Liegi" culture =lombard" }
-62500124={ prefix = "dynnp_di" name = "dynn_Grumbach" culture =lombard" }
-62500125={ prefix = "dynnp_di" name = "dynn_Dixe" culture =lombard" }
-62500126={ prefix = "dynnp_da" name = "dynn_Concesa" culture =lombard" }
-62500127={ prefix = "dynnp_di" name = "dynn_Cortenuova" culture =lombard" }
-62500128={ prefix = "dynnp_de" name = "dynn_Vegioni" culture =lombard" }
-62500129={ prefix = "dynnp_da" name = "dynn_Gambarra" culture =lombard" }
-62500130={ prefix = "dynnp_da" name = "dynn_Mandello" culture =lombard" }
-62500131={ prefix = "dynnp_degli" name = "dynn_Osi" culture =lombard" }
-62500132={ prefix = "dynnp_de" name = "dynn_Landi" culture =lombard" }
-62500133={ prefix = "dynnp_da" name = "dynn_Bussero" culture =lombard" }
-62500134={ prefix = "dynnp_da" name = "dynn_Busnate" culture =lombard" }
-62500135={ prefix = "dynnp_da" name = "dynn_Vidalta" culture =lombard" }
-62500136={ prefix = "dynnp_da" name = "dynn_Andalo" culture =lombard" }
-62500137={ prefix = "dynnp_da" name = "dynn_Martinengo" culture =lombard" }
-62500138={ prefix = "dynnp_da" name = "dynn_Manerbio" culture =lombard" }
-62500139={ prefix = "dynnp_da" name = "dynn_Cisate" culture =lombard" }
-62500140={ prefix = "dynnp_da" name = "dynn_Pontecarale" culture =lombard" }
-62500141={ prefix = "dynnp_della" name = "dynn_Porta" culture =lombard" }
-62500142={ prefix = "dynnp_da" name = "dynn_Tresseno" culture =lombard" }
-62500143={ prefix = "dynnp_degli" name = "dynn_Azari" culture =lombard" }
-62500144={ prefix = "dynnp_degli" name = "dynn_Ugoni" culture =lombard" }
-62500145={ prefix = "dynnp_degli" name = "dynn_Avvocati" culture =lombard" }
-62500146={ prefix = "dynnp_da" name = "dynn_Sala" culture =lombard" }
-62500147={ prefix = "dynnp_dei" name = "dynn_Marzi" culture =lombard" }
-62500148={ prefix = "dynnp_degli" name = "dynn_Asinelli" culture =lombard" }
-62500149={ prefix = "dynnp_da" name = "dynn_Dovera" culture =lombard" }
-62500150={ prefix = "dynnp_della" name = "dynn_Balzo" culture =lombard" }
-62500151={ prefix = "dynnp_da" name = "dynn_Redobio" culture =lombard" }
-62500152={ prefix = "dynnp_da" name = "dynn_Greco" culture =lombard" }
-62500153={ prefix = "dynnp_di" name = "dynn_Sanvitale" culture =lombard" }
-62500154={ prefix = "dynnp_di" name = "dynn_Langosco" culture =lombard" }
-62500155={ prefix = "dynnp_degli" name = "dynn_Amati" culture =lombard" }
-62500156={ prefix = "dynnp_da" name = "dynn_Lomello" culture =lombard" }
-62500157={ prefix = "dynnp_da" name = "dynn_Lucino" culture =lombard" }
-62500158={ prefix = "dynnp_da" name = "dynn_Cesena" culture =lombard" }
-62500159={ prefix = "dynnp_da" name = "dynn_Poggio" culture =lombard" }
-62500160={ prefix = "dynnp_del" name = "dynn_Jacopi" culture =lombard" }
-62500161={ prefix = "dynnp_da" name = "dynn_Polenta" culture =lombard" }
-62500162={ prefix = "dynnp_de" name = "dynn_Maggi" culture =lombard" }
-62500163={ prefix = "dynnp_del" name = "dynn_Cassero" culture =lombard" }
-62500164={ prefix = "dynnp_da" name = "dynn_Sesso" culture =lombard" }
-62500165={ prefix = "dynnp_da" name = "dynn_Peschiera" culture =lombard" }
-62500166={ prefix = "dynnp_da" name = "dynn_Alice" culture =lombard" }
-62500167={ prefix = "dynnp_dei" name = "dynn_Petrioli" culture =lombard" }
-62500168={ prefix = "dynnp_da" name = "dynn_Cavriago" culture =lombard" }
-62500169={ prefix = "dynnp_da" name = "dynn_Cornazzano" culture =lombard" }
-62500170={ prefix = "dynnp_da" name = "dynn_Iseo" culture =lombard" }
-62500171={ prefix = "dynnp_da" name = "dynn_Binasco" culture =lombard" }
-62500172={ prefix = "dynnp_del" name = "dynn_Mangano" culture =lombard" }
-62500173={ prefix = "dynnp_da" name = "dynn_Sesto" culture =lombard" }
-62500174={ prefix = "dynnp_da" name = "dynn_Correggio" culture =lombard" }
-62500175={ prefix = "dynnp_da" name = "dynn_Bagno" culture =lombard" }
-63500001={ prefix = "dynnp_da" name = "dynn_Coni" culture =piedmontese" }
-63500003={ prefix = "dynnp_da" name = "dynn_Nuara" culture =piedmontese" }
-63500004={ prefix = "dynnp_da" name = "dynn_Verbania" culture =piedmontese" }
-63500005={ prefix = "dynnp_da" name = "dynn_Lissandria" culture =piedmontese" }
-63500006={ prefix = "dynnp_da" name = "dynn_Turin" culture =piedmontese" }
-63500007={ prefix = "dynnp_da" name = "dynn_Monfrà" culture =piedmontese" }
-63500008={ prefix = "dynnp_da" name = "dynn_Salusse" culture =piedmontese" }
-63500009={ prefix = "dynnp_da" name = "dynn_Varséi" culture =piedmontese" }
-63500010={ prefix = "dynnp_da" name = "dynn_Niclin" culture =piedmontese" }
-63500011={ prefix = "dynnp_da" name = "dynn_Rìvuli" culture =piedmontese" }
-63500012={ prefix = "dynnp_da" name = "dynn_Colègn" culture =piedmontese" }
-63500013={ prefix = "dynnp_da" name = "dynn_Moncalé" culture =piedmontese" }
-63500014={ prefix = "dynnp_da" name = "dynn_Ast" culture =piedmontese" }
-63500015={ prefix = "dynnp_da" name = "dynn_Grujasch" culture =piedmontese" }
-63500016={ prefix = "dynnp_da" name = "dynn_Cher" culture =piedmontese" }
-63500017={ prefix = "dynnp_da" name = "dynn_Pinareul" culture =piedmontese" }
-63500018={ prefix = "dynnp_da" name = "dynn_Carmagnòla" culture =piedmontese" }
-63500019={ prefix = "dynnp_da" name = "dynn_Bra" culture =piedmontese" }
-63500020={ prefix = "dynnp_da" name = "dynn_Ârba" culture =piedmontese" }
-63500021={ prefix = "dynnp_da" name = "dynn_Civass" culture =piedmontese" }
-63500022={ prefix = "dynnp_da" name = "dynn_Fossan" culture =piedmontese" }
-63500023={ prefix = "dynnp_da" name = "dynn_Ivréa" culture =piedmontese" }
-63500024={ prefix = "dynnp_da" name = "dynn_Orbassan" culture =piedmontese" }
-63500025={ prefix = "dynnp_da" name = "dynn_Susa" culture =piedmontese" }
-63500026={ prefix = "dynnp_da" name = "dynn_Mondvì" culture =piedmontese" }
-63500027={ prefix = "dynnp_da" name = "dynn_Borbané" culture =piedmontese" }
-63500028={ prefix = "dynnp_da" name = "dynn_Savian" culture =piedmontese" }
-63500029={ prefix = "dynnp_da" name = "dynn_Trecà" culture =piedmontese" }
-63500030={ prefix = "dynnp_da" name = "dynn_Varal" culture =piedmontese" }
-63500031={name = "dynn_Aimonetto" culture =piedmontese" }
-63500032={name = "dynn_Alberti" culture =piedmontese" }
-63500033={name = "dynn_Allione" culture =piedmontese" }
-63500034={name = "dynn_Andreis" culture =piedmontese" }
-63500035={name = "dynn_Antonaci" culture =piedmontese" }
-63500036={name = "dynn_Argenta" culture =piedmontese" }
-63500037={name = "dynn_Autelitano" culture =piedmontese" }
-63500038={name = "dynn_Barazia" culture =piedmontese" }
-63500039={name = "dynn_Baselica" culture =piedmontese" }
-63500040={name = "dynn_Bisio" culture =piedmontese" }
-63500041={name = "dynn_Borella" culture =piedmontese" }
-63500042={name = "dynn_Buffa" culture =piedmontese" }
-63500043={name = "dynn_Buscaglia" culture =piedmontese" }
-63500044={name = "dynn_Butta" culture =piedmontese" }
-63500045={name = "dynn_Calcagno" culture =piedmontese" }
-63500046={name = "dynn_Callegher" culture =piedmontese" }
-63500047={name = "dynn_Canova" culture =piedmontese" }
-63500048={name = "dynn_Carpo" culture =piedmontese" }
-63500049={name = "dynn_Chivino" culture =piedmontese" }
-63500050={name = "dynn_Cova" culture =piedmontese" }
-63500051={name = "dynn_Ferrero" culture =piedmontese" }
-63500052={name = "dynn_Fleury" culture =piedmontese" }
-63500053={name = "dynn_Gallo" culture =piedmontese" }
-63500054={name = "dynn_Garda" culture =piedmontese" }
-63500055={name = "dynn_Garzini" culture =piedmontese" }
-63500056={name = "dynn_Gavinelli" culture =piedmontese" }
-63500057={name = "dynn_Guilla" culture =piedmontese" }
-63500058={name = "dynn_Isoardi" culture =piedmontese" }
-63500059={name = "dynn_Janutolo" culture =piedmontese" }
-63500060={name = "dynn_Lacchi" culture =piedmontese" }
-63500061={name = "dynn_Lace" culture =piedmontese" }
-63500062={name = "dynn_Lazzarin" culture =piedmontese" }
-63500063={name = "dynn_Lerda" culture =piedmontese" }
-63500064={name = "dynn_Maiolani" culture =piedmontese" }
-63500065={name = "dynn_Manna" culture =piedmontese" }
-63500066={name = "dynn_Mantovani" culture =piedmontese" }
-63500067={name = "dynn_Martelli" culture =piedmontese" }
-63500068={name = "dynn_Mattioda" culture =piedmontese" }
-63500069={name = "dynn_Meloni" culture =piedmontese" }
-63500070={name = "dynn_Michelis" culture =piedmontese" }
-63500071={name = "dynn_Motti" culture =piedmontese" }
-63500072={name = "dynn_Musto" culture =piedmontese" }
-63500073={name = "dynn_Oberto" culture =piedmontese" }
-63500074={name = "dynn_Pacher" culture =piedmontese" }
-63500075={name = "dynn_Paleni" culture =piedmontese" }
-63500076={name = "dynn_Pansi" culture =piedmontese" }
-63500077={name = "dynn_Paximadi" culture =piedmontese" }
-63500078={name = "dynn_Pe" culture =piedmontese" }
-63500079={name = "dynn_Ras" culture =piedmontese" }
-63500080={name = "dynn_Reinero" culture =piedmontese" }
-63500081={name = "dynn_Repetto" culture =piedmontese" }
-63500082={name = "dynn_Revelli" culture =piedmontese" }
-63500083={name = "dynn_Ruozi" culture =piedmontese" }
-63500084={name = "dynn_Sacco" culture =piedmontese" }
-63500085={name = "dynn_Schibuola" culture =piedmontese" }
-63500086={name = "dynn_Soiatti" culture =piedmontese" }
-63500087={name = "dynn_Spaudo" culture =piedmontese" }
-63500088={name = "dynn_Spinelli" culture =piedmontese" }
-63500089={name = "dynn_Squillario" culture =piedmontese" }
-63500090={name = "dynn_Sterpi" culture =piedmontese" }
-63500091={name = "dynn_Taggiasco" culture =piedmontese" }
-63500092={name = "dynn_Tarizzo" culture =piedmontese" }
-63500093={name = "dynn_Taroppi" culture =piedmontese" }
-63500094={name = "dynn_Tolosano" culture =piedmontese" }
-63500095={name = "dynn_Tonso" culture =piedmontese" }
-63500096={name = "dynn_Torri" culture =piedmontese" }
-63500097={name = "dynn_Varalda" culture =piedmontese" }
-63500098={name = "dynn_Varda" culture =piedmontese" }
-63500099={name = "dynn_Volpato" culture =piedmontese" }
-63500100={name = "dynn_Zamborlin" culture =piedmontese" }
-63500101={name = "dynn_Zampa" culture =piedmontese" }
-63500102={name = "dynn_Zizzi" culture =piedmontese" }
-63500103={name = "dynn_Zorzan" culture =piedmontese" }
-63500104={name = "dynn_Alotto" culture =piedmontese" }
-63500105={name = "dynn_Alpe" culture =piedmontese" }
-63500106={name = "dynn_Anselmetti" culture =piedmontese" }
-63500107={name = "dynn_Bonaudi" culture =piedmontese" }
-63500108={name = "dynn_Borello" culture =piedmontese" }
-63500109={name = "dynn_Borgis" culture =piedmontese" }
-63500110={name = "dynn_Borla" culture =piedmontese" }
-63500111={name = "dynn_Chiampo" culture =piedmontese" }
-63500112={name = "dynn_Col" culture =piedmontese" }
-63500113={name = "dynn_Cordola" culture =piedmontese" }
-63500114={name = "dynn_Croce" culture =piedmontese" }
-63500115={name = "dynn_Davi" culture =piedmontese" }
-63500116={name = "dynn_Falco" culture =piedmontese" }
-63500117={name = "dynn_Franchino" culture =piedmontese" }
-63500118={name = "dynn_Gagnor" culture =piedmontese" }
-63500119={name = "dynn_Garnero" culture =piedmontese" }
-63500120={name = "dynn_Pautasso" culture =piedmontese" }
-63500121={name = "dynn_Perotto" culture =piedmontese" }
-63500122={name = "dynn_Pettigiani" culture =piedmontese" }
-63500123={name = "dynn_Peretti" culture =piedmontese" }
-63500124={name = "dynn_Ravetto" culture =piedmontese" }
-63500125={name = "dynn_Re" culture =piedmontese" }
-63500126={name = "dynn_Rocci" culture =piedmontese" }
-63500127={name = "dynn_Vayr" culture =piedmontese" }
-63500128={name = "dynn_Vercellino" culture =piedmontese" }
-63500129={name = "dynn_Versen" culture =piedmontese" }
-63500130={name = "dynn_Vinassa" culture =piedmontese" }
-6450000={name = "dynn_Adorno" culture =ligurian }
-6450001={name = "dynn_Airolo" culture =ligurian }
-6450002={name = "dynn_Appiani" culture =ligurian }
-6450003={name = "dynn_Balbi" culture =ligurian }
-6450004={name = "dynn_Basadonne" culture =ligurian }
-6450005={name = "dynn_Benigassi" culture =ligurian }
-6450006={name = "dynn_Borsotto" culture =ligurian }
-6450007={name = "dynn_Brignole" culture =ligurian }
-6450008={name = "dynn_Brignole_Sale" culture =ligurian }
-6450009={name = "dynn_Cattaneo" culture =ligurian }
-6450010={name = "dynn_Ceba" culture =ligurian }
-6450011={name = "dynn_Centurione" culture =ligurian }
-6450012={name = "dynn_Chiavari" culture =ligurian }
-6450013={name = "dynn_Cicala" culture =ligurian }
-6450014={ prefix = "dynnp_de" name = "dynn_Benedetti" culture =ligurian }
-6450015={ prefix = "dynnp_de" name = "dynn_Ferraris" culture =ligurian }
-6450016={ prefix = "dynnp_de" name = "dynn_Franceschi" culture =ligurian }
-6450017={ prefix = "dynnp_de" name = "dynn_Franchi" culture =ligurian }
-6450018={ prefix = "dynnp_de" name = "dynn_Mari" culture =ligurian }
-6450019={ prefix = "dynnp_de" name = "dynn_Marini" culture =ligurian }
-6450020={ prefix = "dynnp_de" name = "dynn_Nigro" culture =ligurian }
-6450021={ prefix = "dynnp_della" name = "dynn_Chiesa" culture =ligurian }
-6450022={ prefix = "dynnp_di" name = "dynn_Negro" culture =ligurian }
-6450023={name = "dynn_Donghi" culture =ligurian }
-6450024={name = "dynn_Doia" culture =ligurian }
-6450025={name = "dynn_Duaço" culture =ligurian }
-6450026={name = "dynn_Fieschi" culture =ligurian }
-6450027={name = "dynn_Franzone" culture =ligurian }
-6450028={name = "dynn_Ferretto" culture =ligurian }
-6450029={name = "dynn_Gentile" culture =ligurian }
-6450030={name = "dynn_Giustiniani" culture =ligurian }
-6450031={name = "dynn_Grillo" culture =ligurian }
-6450032={name = "dynn_Imperia" culture =ligurian }
-6450033={name = "dynn_Çentrion" culture =ligurian }
-6450034={name = "dynn_Invrea" culture =ligurian }
-6450035={name = "dynn_Lercari" culture =ligurian }
-6450036={name = "dynn_Lomellin" culture =ligurian }
-6450037={name = "dynn_Marini" culture =ligurian }
-6450038={name = "dynn_Negron" culture =ligurian }
-6450039={name = "dynn_Pallavicini" culture =ligurian }
-6450040={name = "dynn_Passano" culture =ligurian }
-6450041={name = "dynn_Pinelli" culture =ligurian }
-6450042={name = "dynn_Raggio" culture =ligurian }
-6450043={name = "dynn_Raimondi" culture =ligurian }
-6450044={name = "dynn_Rebuffo" culture =ligurian }
-6450045={name = "dynn_Rizzo" culture =ligurian }
-6450046={name = "dynn_Rovere" culture =ligurian }
-6450047={name = "dynn_Sale" culture =ligurian }
-6450048={name = "dynn_Saluzzo" culture =ligurian }
-6450049={name = "dynn_Salvago" culture =ligurian }
-6450050={name = "dynn_Sauli" culture =ligurian }
-6450051={name = "dynn_Scaglia" culture =ligurian }
-6450052={name = "dynn_Senarega" culture =ligurian }
-6450053={name = "dynn_Serra" culture =ligurian }
-6450054={name = "dynn_Spinnoa" culture =ligurian }
-6450055={name = "dynn_Torre" culture =ligurian }
-6450056={name = "dynn_Veneroso" culture =ligurian }
-6450057={ prefix = "dynnp_de" name = "dynn_Anchona" culture =ligurian }
-6450058={name = "dynn_Archerio" culture =ligurian }
-6450059={ prefix = "dynnp_de" name = "dynn_Auria" culture =ligurian }
-6450060={name = "dynn_Bestagno" culture =ligurian }
-6450061={name = "dynn_Bonconte" culture =ligurian }
-6450062={name = "dynn_Bondinario" culture =ligurian }
-6450063={name = "dynn_Bordino" culture =ligurian }
-6450064={name = "dynn_Burgaro" culture =ligurian }
-6450065={name = "dynn_Bachalo" culture =ligurian }
-6450066={name = "dynn_Caligepari" culture =ligurian }
-6450067={name = "dynn_Calvo" culture =ligurian }
-6450068={name = "dynn_Camtello" culture =ligurian }
-6450069={name = "dynn_Caparalia" culture =ligurian }
-6450070={name = "dynn_Cataneo" culture =ligurian }
-6450071={name = "dynn_Fattinante" culture =ligurian }
-6450072={name = "dynn_Cigalle" culture =ligurian }
-6450073={name = "dynn_Lerchario" culture =ligurian }
-6450074={name = "dynn_Roverino" culture =ligurian }
-6450075={name = "dynn_Traverio" culture =ligurian }
-6450076={ prefix = "dynnp_de" name = "dynn_Vivaldis" culture =ligurian }
-6450077={name = "dynn_Gattilusio" culture =ligurian }
-6450078={name = "dynn_Boccaneigra" culture =ligurian }
-6450079={ prefix = "dynnp_da" name = "dynn_Morta" culture =ligurian }
-6450080={ prefix = "dynnp_da" name = "dynn_Valente" culture =ligurian }
-6450081={name = "dynn_Pravexin" culture =ligurian }
-6450082={name = "dynn_Fregoso" culture =ligurian }
-6450083={name = "dynn_Guarco" culture =ligurian }
-6450084={ prefix = "dynnp_da" name = "dynn_Pagana" culture =ligurian }
-6450085={name = "dynn_Montado" culture =ligurian }
-6450086={name = "dynn_Gaibaldo" culture =ligurian }
-6450087={name = "dynn_Zoagio" culture =ligurian }
-6450088={name = "dynn_Guan" culture =ligurian }
-6450089={name = "dynn_Sant'Alosio" culture =ligurian }
-6450090={ prefix = "dynnp_da" name = "dynn_Crava" culture =ligurian }
-6450091={name = "dynn_Barbavara" culture =ligurian }
-6450092={name = "dynn_Trivurçio" culture =ligurian }
-6450093={name = "dynn_Bovarello" culture =ligurian }
-6450094={ prefix = "dynnp_de" name = "dynn_Fogian" culture =ligurian }
-6450095={name = "dynn_Campo" culture =ligurian }
-6450096={name = "dynn_Lazzao" culture =ligurian }
-6450097={name = "dynn_Toso" culture =ligurian }
-6450098={name = "dynn_Grimado" culture =ligurian }
-6450099={name = "dynn_Braxello" culture =ligurian }
-6450100={name = "dynn_Prementon" culture =ligurian }
-6450101={name = "dynn_Ardimento" culture =ligurian }
-6450102={name = "dynn_Cybo" culture =ligurian }
-6450103={name = "dynn_Vivado" culture =ligurian }
-6450104={name = "dynn_Lercâ" culture =ligurian }
-6450105={name = "dynn_Monegia" culture =ligurian }
-6450106={name = "dynn_Saolo" culture =ligurian }
-6450107={name = "dynn_Sacco" culture =ligurian }
-6450108={name = "dynn_Castro" culture =ligurian }
-6450109={name = "dynn_Axou" culture =ligurian }
-6450110={name = "dynn_Tartao" culture =ligurian }
-6450111={name = "dynn_Longo" culture =ligurian }
-6450112={name = "dynn_Giustignan" culture =ligurian }
-6450113={name = "dynn_Frugon" culture =ligurian }
-6450114={name = "dynn_Barbo" culture =ligurian }
-6450115={name = "dynn_Cangiaxo" culture =ligurian }
-6450116={name = "dynn_Maia" culture =ligurian }
-6450117={name = "dynn_Brignoe" culture =ligurian }
-6450118={name = "dynn_Genti" culture =ligurian }
-6450119={name = "dynn_Saera" culture =ligurian }
-7450000={name = "dynn_Abaco" culture =emilian }
-7450001={name = "dynn_Albergati" culture =emilian }
-7450002={name = "dynn_Aldrovandini" culture =emilian }
-7450003={name = "dynn_Algardi" culture =emilian }
-7450004={name = "dynn_Aloisi" culture =emilian }
-7450005={name = "dynn_Anselmi" culture =emilian }
-7450006={name = "dynn_Antinori" culture =emilian }
-7450007={name = "dynn_Apicella" culture =emilian }
-7450008={name = "dynn_Aranzi" culture =emilian }
-7450009={name = "dynn_Arcangeli" culture =emilian }
-7450010={name = "dynn_Ariosti" culture =emilian }
-7450011={name = "dynn_Asinelli" culture =emilian }
-7450012={name = "dynn_Avati" culture =emilian }
-7450013={name = "dynn_Azzaroli" culture =emilian }
-7450014={name = "dynn_Bagnara" culture =emilian }
-7450015={name = "dynn_Bagolini" culture =emilian }
-7450016={name = "dynn_Balassini" culture =emilian }
-7450017={name = "dynn_Baldi" culture =emilian }
-7450018={name = "dynn_Banzi" culture =emilian }
-7450019={name = "dynn_Benasai" culture =emilian }
-7450020={name = "dynn_Bernini" culture =emilian }
-7450021={name = "dynn_Bertolazzi" culture =emilian }
-7450022={name = "dynn_Bertusio" culture =emilian }
-7450023={name = "dynn_Bonaventure" culture =emilian }
-7450024={name = "dynn_Bonfigloli" culture =emilian }
-7450025={name = "dynn_Çançi" culture =emilian }
-7450026={name = "dynn_Çanni" culture =emilian }
-7450027={name = "dynn_Cantofoli" culture =emilian }
-7450028={name = "dynn_Cerretani" culture =emilian }
-7450029={name = "dynn_Cesàri" culture =emilian }
-7450030={name = "dynn_Chillo" culture =emilian }
-7450031={name = "dynn_Chimenti" culture =emilian }
-7450032={name = "dynn_Chiodarolo" culture =emilian }
-7450033={name = "dynn_Civolani" culture =emilian }
-7450034={name = "dynn_Clò" culture =emilian }
-7450035={name = "dynn_Colleoni" culture =emilian }
-7450036={name = "dynn_Consolini" culture =emilian }
-7450037={name = "dynn_Corbolini" culture =emilian }
-7450038={name = "dynn_Damniani" culture =emilian }
-7450039={name = "dynn_Danieli" culture =emilian }
-7450040={name = "dynn_Dettore" culture =emilian }
-7450041={name = "dynn_Deudati" culture =emilian }
-7450042={name = "dynn_Dozza" culture =emilian }
-7450043={name = "dynn_Draghi" culture =emilian }
-7450044={name = "dynn_Emiliani" culture =emilian }
-7450045={name = "dynn_Ercolani" culture =emilian }
-7450046={name = "dynn_Errani" culture =emilian }
-7450047={name = "dynn_Fabbri" culture =emilian }
-7450048={name = "dynn_Facchinetti" culture =emilian }
-7450049={name = "dynn_Facioli" culture =emilian }
-7450050={name = "dynn_Faeti" culture =emilian }
-7450051={name = "dynn_Fantuzzi" culture =emilian }
-7450052={name = "dynn_Fava" culture =emilian }
-7450053={name = "dynn_Ferrari" culture =emilian }
-7450054={name = "dynn_Fiorini" culture =emilian }
-7450055={name = "dynn_Flamini" culture =emilian }
-7450056={name = "dynn_Fontana" culture =emilian }
-7450057={name = "dynn_Forlai" culture =emilian }
-7450058={name = "dynn_Forleo" culture =emilian }
-7450059={name = "dynn_Framisini" culture =emilian }
-7450060={name = "dynn_Frati" culture =emilian }
-7450061={name = "dynn_Frazzoni" culture =emilian }
-7450062={name = "dynn_Frizzi" culture =emilian }
-7450063={name = "dynn_Fuligni" culture =emilian }
-7450064={name = "dynn_Gabrielli" culture =emilian }
-7450065={name = "dynn_Gabussi" culture =emilian }
-7450066={name = "dynn_Galvani" culture =emilian }
-7450067={name = "dynn_Garisendi" culture =emilian }
-7450068={name = "dynn_Geremei" culture =emilian }
-7450069={name = "dynn_Ghinazzi" culture =emilian }
-7450070={name = "dynn_Ghiradeli" culture =emilian }
-7450071={name = "dynn_Ghislieri" culture =emilian }
-7450072={name = "dynn_Giacobbi" culture =emilian }
-7450073={name = "dynn_Giorgi" culture =emilian }
-7450074={name = "dynn_Girardi" culture =emilian }
-7450075={name = "dynn_Giuliani" culture =emilian }
-7450076={name = "dynn_Gnudi" culture =emilian }
-7450077={name = "dynn_Gollini" culture =emilian }
-7450078={name = "dynn_Gonzaga" culture =emilian }
-7450079={name = "dynn_Goren" culture =emilian }
-7450080={name = "dynn_Gotti" culture =emilian }
-7450081={name = "dynn_Gozzadini" culture =emilian }
-7450082={name = "dynn_Grassi" culture =emilian }
-7450083={name = "dynn_Guarducio" culture =emilian }
-7450084={name = "dynn_Guarineli" culture =emilian }
-7450085={name = "dynn_Guillelmi" culture =emilian }
-7450086={name = "dynn_Innesto" culture =emilian }
-7450087={name = "dynn_Isolani" culture =emilian }
-7450088={name = "dynn_Izzo" culture =emilian }
-7450089={name = "dynn_Jacchia" culture =emilian }
-7450090={name = "dynn_Jacchini" culture =emilian }
-7450091={name = "dynn_Jacobeli" culture =emilian }
-7450092={name = "dynn_Jemolo" culture =emilian }
-7450093={name = "dynn_Laçarie" culture =emilian }
-7450094={name = "dynn_Lambertazzi" culture =emilian }
-7450095={name = "dynn_Lambertini" culture =emilian }
-7450096={name = "dynn_Lamborghini" culture =emilian }
-7450097={name = "dynn_Lamma" culture =emilian }
-7450098={name = "dynn_Lei" culture =emilian }
-7450099={name = "dynn_Lenzi" culture =emilian }
-7450100={name = "dynn_Leopardi" culture =emilian }
-7450101={name = "dynn_Longo" culture =emilian }
-7450102={name = "dynn_Lucchini" culture =emilian }
-7450103={name = "dynn_Mainardi" culture =emilian }
-7450104={name = "dynn_Maini" culture =emilian }
-7450105={name = "dynn_Malaguti" culture =emilian }
-7450106={name = "dynn_Maldetti" culture =emilian }
-7450107={name = "dynn_Malvezzi" culture =emilian }
-7450108={name = "dynn_Marconi" culture =emilian }
-7450109={name = "dynn_Mariscotti" culture =emilian }
-7450110={name = "dynn_Martignoni" culture =emilian }
-7450111={name = "dynn_Mastellari" culture =emilian }
-7450112={name = "dynn_Mattei" culture =emilian }
-7450113={name = "dynn_Mazza" culture =emilian }
-7450114={name = "dynn_Mazzoni" culture =emilian }
-7450115={name = "dynn_Mei" culture =emilian }
-7450116={name = "dynn_Meli" culture =emilian }
-7450117={name = "dynn_Mellara" culture =emilian }
-7450118={name = "dynn_Micheli" culture =emilian }
-7450119={name = "dynn_Migliorati" culture =emilian }
-7450120={name = "dynn_Naccarato" culture =emilian }
-7450121={name = "dynn_Nadi" culture =emilian }
-7450122={name = "dynn_Nanni" culture =emilian }
-7450123={name = "dynn_Negri" culture =emilian }
-7450124={name = "dynn_Nesi" culture =emilian }
-7450125={name = "dynn_Notari" culture =emilian }
-7450126={name = "dynn_Nucci" culture =emilian }
-7450127={name = "dynn_Olivi" culture =emilian }
-7450128={name = "dynn_Oppi" culture =emilian }
-7450129={name = "dynn_Ordelaffi" culture =emilian }
-7450130={name = "dynn_Orlandi" culture =emilian }
-7450131={name = "dynn_Osti" culture =emilian }
-7450132={name = "dynn_Ottani" culture =emilian }
-7450133={name = "dynn_Pacchioni" culture =emilian }
-7450134={name = "dynn_Paci" culture =emilian }
-7450135={name = "dynn_Padoa" culture =emilian }
-7450136={name = "dynn_Paglia" culture =emilian }
-7450137={name = "dynn_Pagliuca" culture =emilian }
-7450138={name = "dynn_Palagi" culture =emilian }
-7450139={name = "dynn_Palmerini" culture =emilian }
-7450140={name = "dynn_Pasolini" culture =emilian }
-7450141={name = "dynn_Patelli" culture =emilian }
-7450142={name = "dynn_Pedrazzi" culture =emilian }
-7450143={name = "dynn_Pedretti" culture =emilian }
-7450144={name = "dynn_Pellicciari" culture =emilian }
-7450145={name = "dynn_Pennacchietti" culture =emilian }
-7450146={name = "dynn_Pepoli" culture =emilian }
-7450147={name = "dynn_Pilati" culture =emilian }
-7450148={name = "dynn_Pizzocchi" culture =emilian }
-7450149={name = "dynn_Plazzi" culture =emilian }
-7450150={name = "dynn_Poggio" culture =emilian }
-7450151={name = "dynn_Primaticcio" culture =emilian }
-7450152={name = "dynn_Procaccini" culture =emilian }
-7450153={name = "dynn_Quaini" culture =emilian }
-7450154={name = "dynn_Racca" culture =emilian }
-7450155={name = "dynn_Ragonesi" culture =emilian }
-7450156={name = "dynn_Raibolini" culture =emilian }
-7450157={name = "dynn_Ramberti" culture =emilian }
-7450158={name = "dynn_Randa" culture =emilian }
-7450159={name = "dynn_Ranuzzi" culture =emilian }
-7450160={name = "dynn_Rappini" culture =emilian }
-7450161={name = "dynn_Ratta" culture =emilian }
-7450162={name = "dynn_Ravignani" culture =emilian }
-7450163={name = "dynn_Righini" culture =emilian }
-7450164={name = "dynn_Riva" culture =emilian }
-7450165={name = "dynn_Roccella" culture =emilian }
-7450166={name = "dynn_Rolli" culture =emilian }
-7450167={name = "dynn_Romagnoli" culture =emilian }
-7450168={name = "dynn_Rubei" culture =emilian }
-7450169={name = "dynn_Ruggeri" culture =emilian }
-7450170={name = "dynn_Sabadino" culture =emilian }
-7450171={name = "dynn_Sabattini" culture =emilian }
-7450172={name = "dynn_Sabatucci" culture =emilian }
-7450173={name = "dynn_Saetti" culture =emilian }
-7450174={name = "dynn_Salicola" culture =emilian }
-7450175={name = "dynn_Sampieri" culture =emilian }
-7450176={name = "dynn_Sani" culture =emilian }
-7450177={name = "dynn_Savini" culture =emilian }
-7450178={name = "dynn_Scannavini" culture =emilian }
-7450179={name = "dynn_Scappi" culture =emilian }
-7450180={name = "dynn_Scòzzari" culture =emilian }
-7450181={name = "dynn_Seccadenari" culture =emilian }
-7450182={name = "dynn_Serato" culture =emilian }
-7450183={name = "dynn_Sforza" culture =emilian }
-7450184={name = "dynn_Sgarzi" culture =emilian }
-7450185={name = "dynn_Signoretti" culture =emilian }
-7450186={name = "dynn_Spagnolli" culture =emilian }
-7450187={name = "dynn_Sperandei" culture =emilian }
-7450188={name = "dynn_Spirogi" culture =emilian }
-7450189={name = "dynn_Tacconi" culture =emilian }
-7450190={name = "dynn_Tadolini" culture =emilian }
-7450191={name = "dynn_Tagliacozzi" culture =emilian }
-7450192={name = "dynn_Tanara" culture =emilian }
-7450193={name = "dynn_Tavalazzi" culture =emilian }
-7450194={name = "dynn_Tedeschi" culture =emilian }
-7450195={name = "dynn_Terzi" culture =emilian }
-7450196={name = "dynn_Testoni" culture =emilian }
-7450197={name = "dynn_Tomba" culture =emilian }
-7450198={name = "dynn_Torri" culture =emilian }
-7450199={name = "dynn_Tozzi" culture =emilian }
-7450200={name = "dynn_Trebbi" culture =emilian }
-7450201={name = "dynn_Tura" culture =emilian }
-7450202={name = "dynn_Ugolini" culture =emilian }
-7450203={name = "dynn_Urbinati" culture =emilian }
-7450204={name = "dynn_Uttini" culture =emilian }
-7450205={name = "dynn_Vaccaro" culture =emilian }
-7450206={name = "dynn_Vacchi" culture =emilian }
-7450207={name = "dynn_Valesio" culture =emilian }
-7450208={name = "dynn_Valia" culture =emilian }
-7450209={name = "dynn_Valori" culture =emilian }
-7450210={name = "dynn_Vandelli" culture =emilian }
-7450211={name = "dynn_Vanoli" culture =emilian }
-7450212={name = "dynn_Varolio" culture =emilian }
-7450213={name = "dynn_Velasco" culture =emilian }
-7450214={name = "dynn_Ventriglia" culture =emilian }
-7450215={name = "dynn_Veronesi" culture =emilian }
-7450216={name = "dynn_Viganò" culture =emilian }
-7450217={name = "dynn_Violi" culture =emilian }
-7450218={name = "dynn_Vitali" culture =emilian }
-7450219={name = "dynn_Vizzani" culture =emilian }
-7450220={name = "dynn_Zacchiroli" culture =emilian }
-7450221={name = "dynn_Zambeccari" culture =emilian }
-7450222={name = "dynn_Zamboni" culture =emilian }
-7450223={name = "dynn_Zanetti" culture =emilian }
-7450224={name = "dynn_Zanoia" culture =emilian }
-7450225={name = "dynn_Zanolini" culture =emilian }
-7450226={name = "dynn_Zarri" culture =emilian }
-7450227={name = "dynn_Zavalloni" culture =emilian }
-7450228={name = "dynn_Zorzi" culture =emilian }
-7450229={name = "dynn_Zucchelli" culture =emilian }
-7450230={name = "dynn_Zurla" culture =emilian }
-7450231={prefix = "de" name = "dynn_Albasi" culture = emilian}
-7450232={prefix = "de" name = "dynn_Aldigeri" culture = emilian}
-7450233={prefix = "de" name = "dynn_Argenta" culture = emilian}
-7450234={prefix = "de" name = "dynn_Bunielli" culture = emilian}
-7450235={prefix = "de" name = "dynn_Çanis" culture = emilian}
-7450236={prefix = "de" name = "dynn_Castro" culture = emilian}
-7450237={prefix = "de" name = "dynn_Castrocario" culture = emilian}
-7450238={prefix = "de" name = "dynn_Clarentani" culture = emilian}
-7450239={prefix = "de" name = "dynn_Clari" culture = emilian}
-7450240={prefix = "de" name = "dynn_Clavaturo" culture = emilian}
-7450241={prefix = "de" name = "dynn_Corvo" culture = emilian}
-7450242={prefix = "de" name = "dynn_Crovaria" culture = emilian}
-7450243={prefix = "de" name = "dynn_Florentia" culture = emilian}
-7450244={prefix = "de" name = "dynn_Foscardi" culture = emilian}
-7450245={prefix = "della" name = "dynn_Cavalla" culture = emilian}
-7450246={prefix = "de" name = "dynn_Linario" culture = emilian}
-7450247={prefix = "de" name = "dynn_Parma" culture = emilian}
-7450248={prefix = "de" name = "dynn_Podesti" culture = emilian}
-7450249={prefix = "de" name = "dynn_Ponte" culture = emilian}
-7450250={prefix = "de" name = "dynn_Puteo" culture = emilian}
-7450251={prefix = "de" name = "dynn_Tauxignano" culture = emilian}
-7450252={prefix = "dalle" name = "dynn_Olle" culture = emilian}
-7450253={prefix = "de" name = "dynn_Bianchi" culture = emilian}
-7450254={prefix = "del" name = "dynn_Ferro" culture = emilian}
-7450255={prefix = "da" name = "dynn_Meleto" culture = emilian}
-7450256={prefix = "dei" name = "dynn_Liuzzi" culture = emilian}
-7450257={prefix = "degli" name = "dynn_Andalo" culture = emilian}
-7450258={prefix = "degli" name = "dynn_Esposti" culture = emilian}
-7450259={prefix = "del" name = "dynn_Virgilio" culture = emilian}
-7450260={prefix = "dalla" name = "dynn_Piazza" culture = emilian}
-7450261={name = "dynn_Abaco" culture =romagnol}
-7450262={name = "dynn_Albergati" culture =romagnol}
-7450263={name = "dynn_Aldrovandini" culture =romagnol}
-7450264={name = "dynn_Algardi" culture =romagnol}
-7450265={name = "dynn_Aloisi" culture =romagnol}
-7450266={name = "dynn_Anselmi" culture =romagnol}
-7450267={name = "dynn_Antinori" culture =romagnol}
-7450268={name = "dynn_Apicella" culture =romagnol}
-7450269={name = "dynn_Aranzi" culture =romagnol}
-7450270={name = "dynn_Arcangeli" culture =romagnol}
-7450271={name = "dynn_Ariosti" culture =romagnol}
-7450272={name = "dynn_Asinelli" culture =romagnol}
-7450273={name = "dynn_Avati" culture =romagnol}
-7450274={name = "dynn_Azzaroli" culture =romagnol}
-7450275={name = "dynn_Bagnara" culture =romagnol}
-7450276={name = "dynn_Bagolini" culture =romagnol}
-7450277={name = "dynn_Balassini" culture =romagnol}
-7450278={name = "dynn_Baldi" culture =romagnol}
-7450279={name = "dynn_Banzi" culture =romagnol}
-7450280={name = "dynn_Benasai" culture =romagnol}
-7450281={name = "dynn_Bernini" culture =romagnol}
-7450282={name = "dynn_Bertolazzi" culture =romagnol}
-7450283={name = "dynn_Bertusio" culture =romagnol}
-7450284={name = "dynn_Bonaventure" culture =romagnol}
-7450285={name = "dynn_Bonfigloli" culture =romagnol}
-7450286={name = "dynn_Çançi" culture =romagnol}
-7450287={name = "dynn_Çanni" culture =romagnol}
-7450288={name = "dynn_Cantofoli" culture =romagnol}
-7450289={name = "dynn_Cerretani" culture =romagnol}
-7450290={name = "dynn_Cesàri" culture =romagnol}
-7450291={name = "dynn_Chillo" culture =romagnol}
-7450292={name = "dynn_Chimenti" culture =romagnol}
-7450293={name = "dynn_Chiodarolo" culture =romagnol}
-7450294={name = "dynn_Civolani" culture =romagnol}
-7450295={name = "dynn_Clò" culture =romagnol}
-7450296={name = "dynn_Colleoni" culture =romagnol}
-7450297={name = "dynn_Consolini" culture =romagnol}
-7450298={name = "dynn_Corbolini" culture =romagnol}
-7450299={name = "dynn_Damniani" culture =romagnol}
-7450300={name = "dynn_Danieli" culture =romagnol}
-7450301={name = "dynn_Dettore" culture =romagnol}
-7450302={name = "dynn_Deudati" culture =romagnol}
-7450303={name = "dynn_Dozza" culture =romagnol}
-7450304={name = "dynn_Draghi" culture =romagnol}
-7450305={name = "dynn_Emiliani" culture =romagnol}
-7450306={name = "dynn_Ercolani" culture =romagnol}
-7450307={name = "dynn_Errani" culture =romagnol}
-7450308={name = "dynn_Fabbri" culture =romagnol}
-7450309={name = "dynn_Facchinetti" culture =romagnol}
-7450310={name = "dynn_Facioli" culture =romagnol}
-7450311={name = "dynn_Faeti" culture =romagnol}
-7450312={name = "dynn_Fantuzzi" culture =romagnol}
-7450313={name = "dynn_Fava" culture =romagnol}
-7450314={name = "dynn_Ferrari" culture =romagnol}
-7450315={name = "dynn_Fiorini" culture =romagnol}
-7450316={name = "dynn_Flamini" culture =romagnol}
-7450317={name = "dynn_Fontana" culture =romagnol}
-7450318={name = "dynn_Forlai" culture =romagnol}
-7450319={name = "dynn_Forleo" culture =romagnol}
-7450320={name = "dynn_Framisini" culture =romagnol}
-7450321={name = "dynn_Frati" culture =romagnol}
-7450322={name = "dynn_Frazzoni" culture =romagnol}
-7450323={name = "dynn_Frizzi" culture =romagnol}
-7450324={name = "dynn_Fuligni" culture =romagnol}
-7450325={name = "dynn_Gabrielli" culture =romagnol}
-7450326={name = "dynn_Gabussi" culture =romagnol}
-7450327={name = "dynn_Galvani" culture =romagnol}
-7450328={name = "dynn_Garisendi" culture =romagnol}
-7450329={name = "dynn_Geremei" culture =romagnol}
-7450330={name = "dynn_Ghinazzi" culture =romagnol}
-7450331={name = "dynn_Ghiradeli" culture =romagnol}
-7450332={name = "dynn_Ghislieri" culture =romagnol}
-7450333={name = "dynn_Giacobbi" culture =romagnol}
-7450334={name = "dynn_Giorgi" culture =romagnol}
-7450335={name = "dynn_Girardi" culture =romagnol}
-7450336={name = "dynn_Giuliani" culture =romagnol}
-7450337={name = "dynn_Gnudi" culture =romagnol}
-7450338={name = "dynn_Gollini" culture =romagnol}
-7450339={name = "dynn_Gonzaga" culture =romagnol}
-7450340={name = "dynn_Goren" culture =romagnol}
-7450341={name = "dynn_Gotti" culture =romagnol}
-7450342={name = "dynn_Gozzadini" culture =romagnol}
-7450343={name = "dynn_Grassi" culture =romagnol}
-7450344={name = "dynn_Guarducio" culture =romagnol}
-7450345={name = "dynn_Guarineli" culture =romagnol}
-7450346={name = "dynn_Guillelmi" culture =romagnol}
-7450347={name = "dynn_Innesto" culture =romagnol}
-7450348={name = "dynn_Isolani" culture =romagnol}
-7450349={name = "dynn_Izzo" culture =romagnol}
-7450350={name = "dynn_Jacchia" culture =romagnol}
-7450351={name = "dynn_Jacchini" culture =romagnol}
-7450352={name = "dynn_Jacobeli" culture =romagnol}
-7450353={name = "dynn_Jemolo" culture =romagnol}
-7450354={name = "dynn_Laçarie" culture =romagnol}
-7450355={name = "dynn_Lambertazzi" culture =romagnol}
-7450356={name = "dynn_Lambertini" culture =romagnol}
-7450357={name = "dynn_Lamborghini" culture =romagnol}
-7450358={name = "dynn_Lamma" culture =romagnol}
-7450359={name = "dynn_Lei" culture =romagnol}
-7450360={name = "dynn_Lenzi" culture =romagnol}
-7450361={name = "dynn_Leopardi" culture =romagnol}
-7450362={name = "dynn_Longo" culture =romagnol}
-7450363={name = "dynn_Lucchini" culture =romagnol}
-7450364={name = "dynn_Mainardi" culture =romagnol}
-7450365={name = "dynn_Maini" culture =romagnol}
-7450366={name = "dynn_Malaguti" culture =romagnol}
-7450367={name = "dynn_Maldetti" culture =romagnol}
-7450368={name = "dynn_Malvezzi" culture =romagnol}
-7450369={name = "dynn_Marconi" culture =romagnol}
-7450370={name = "dynn_Mariscotti" culture =romagnol}
-7450371={name = "dynn_Martignoni" culture =romagnol}
-7450372={name = "dynn_Mastellari" culture =romagnol}
-7450373={name = "dynn_Mattei" culture =romagnol}
-7450374={name = "dynn_Mazza" culture =romagnol}
-7450375={name = "dynn_Mazzoni" culture =romagnol}
-7450376={name = "dynn_Mei" culture =romagnol}
-7450377={name = "dynn_Meli" culture =romagnol}
-7450378={name = "dynn_Mellara" culture =romagnol}
-7450379={name = "dynn_Micheli" culture =romagnol}
-7450380={name = "dynn_Migliorati" culture =romagnol}
-7450381={name = "dynn_Naccarato" culture =romagnol}
-7450382={name = "dynn_Nadi" culture =romagnol}
-7450383={name = "dynn_Nanni" culture =romagnol}
-7450384={name = "dynn_Negri" culture =romagnol}
-7450385={name = "dynn_Nesi" culture =romagnol}
-7450386={name = "dynn_Notari" culture =romagnol}
-7450387={name = "dynn_Nucci" culture =romagnol}
-7450388={name = "dynn_Olivi" culture =romagnol}
-7450389={name = "dynn_Oppi" culture =romagnol}
-7450390={name = "dynn_Ordelaffi" culture =romagnol}
-7450391={name = "dynn_Orlandi" culture =romagnol}
-7450392={name = "dynn_Osti" culture =romagnol}
-7450393={name = "dynn_Ottani" culture =romagnol}
-7450394={name = "dynn_Pacchioni" culture =romagnol}
-7450395={name = "dynn_Paci" culture =romagnol}
-7450396={name = "dynn_Padoa" culture =romagnol}
-7450397={name = "dynn_Paglia" culture =romagnol}
-7450398={name = "dynn_Pagliuca" culture =romagnol}
-7450399={name = "dynn_Palagi" culture =romagnol}
-7450400={name = "dynn_Palmerini" culture =romagnol}
-7450401={name = "dynn_Pasolini" culture =romagnol}
-7450402={name = "dynn_Patelli" culture =romagnol}
-7450403={name = "dynn_Pedrazzi" culture =romagnol}
-7450404={name = "dynn_Pedretti" culture =romagnol}
-7450405={name = "dynn_Pellicciari" culture =romagnol}
-7450406={name = "dynn_Pennacchietti" culture =romagnol}
-7450407={name = "dynn_Pepoli" culture =romagnol}
-7450408={name = "dynn_Pilati" culture =romagnol}
-7450409={name = "dynn_Pizzocchi" culture =romagnol}
-7450410={name = "dynn_Plazzi" culture =romagnol}
-7450411={name = "dynn_Poggio" culture =romagnol}
-7450412={name = "dynn_Primaticcio" culture =romagnol}
-7450413={name = "dynn_Procaccini" culture =romagnol}
-7450414={name = "dynn_Quaini" culture =romagnol}
-7450415={name = "dynn_Racca" culture =romagnol}
-7450416={name = "dynn_Ragonesi" culture =romagnol}
-7450417={name = "dynn_Raibolini" culture =romagnol}
-7450418={name = "dynn_Ramberti" culture =romagnol}
-7450419={name = "dynn_Randa" culture =romagnol}
-7450420={name = "dynn_Ranuzzi" culture =romagnol}
-7450421={name = "dynn_Rappini" culture =romagnol}
-7450422={name = "dynn_Ratta" culture =romagnol}
-7450423={name = "dynn_Ravignani" culture =romagnol}
-7450424={name = "dynn_Righini" culture =romagnol}
-7450425={name = "dynn_Riva" culture =romagnol}
-7450426={name = "dynn_Roccella" culture =romagnol}
-7450427={name = "dynn_Rolli" culture =romagnol}
-7450428={name = "dynn_Romagnoli" culture =romagnol}
-7450429={name = "dynn_Rubei" culture =romagnol}
-7450430={name = "dynn_Ruggeri" culture =romagnol}
-7450431={name = "dynn_Sabadino" culture =romagnol}
-7450432={name = "dynn_Sabattini" culture =romagnol}
-7450433={name = "dynn_Sabatucci" culture =romagnol}
-7450434={name = "dynn_Saetti" culture =romagnol}
-7450435={name = "dynn_Salicola" culture =romagnol}
-7450436={name = "dynn_Sampieri" culture =romagnol}
-7450437={name = "dynn_Sani" culture =romagnol}
-7450438={name = "dynn_Savini" culture =romagnol}
-7450439={name = "dynn_Scannavini" culture =romagnol}
-7450440={name = "dynn_Scappi" culture =romagnol}
-7450441={name = "dynn_Scòzzari" culture =romagnol}
-7450442={name = "dynn_Seccadenari" culture =romagnol}
-7450443={name = "dynn_Serato" culture =romagnol}
-7450444={name = "dynn_Sforza" culture =romagnol}
-7450445={name = "dynn_Sgarzi" culture =romagnol}
-7450446={name = "dynn_Signoretti" culture =romagnol}
-7450447={name = "dynn_Spagnolli" culture =romagnol}
-7450448={name = "dynn_Sperandei" culture =romagnol}
-7450449={name = "dynn_Spirogi" culture =romagnol}
-7450450={name = "dynn_Tacconi" culture =romagnol}
-7450451={name = "dynn_Tadolini" culture =romagnol}
-7450452={name = "dynn_Tagliacozzi" culture =romagnol}
-7450453={name = "dynn_Tanara" culture =romagnol}
-7450454={name = "dynn_Tavalazzi" culture =romagnol}
-7450455={name = "dynn_Tedeschi" culture =romagnol}
-7450456={name = "dynn_Terzi" culture =romagnol}
-7450457={name = "dynn_Testoni" culture =romagnol}
-7450458={name = "dynn_Tomba" culture =romagnol}
-7450459={name = "dynn_Torri" culture =romagnol}
-7450460={name = "dynn_Tozzi" culture =romagnol}
-7450461={name = "dynn_Trebbi" culture =romagnol}
-7450462={name = "dynn_Tura" culture =romagnol}
-7450463={name = "dynn_Ugolini" culture =romagnol}
-7450464={name = "dynn_Urbinati" culture =romagnol}
-7450465={name = "dynn_Uttini" culture =romagnol}
-7450466={name = "dynn_Vaccaro" culture =romagnol}
-7450467={name = "dynn_Vacchi" culture =romagnol}
-7450468={name = "dynn_Valesio" culture =romagnol}
-7450469={name = "dynn_Valia" culture =romagnol}
-7450470={name = "dynn_Valori" culture =romagnol}
-7450471={name = "dynn_Vandelli" culture =romagnol}
-7450472={name = "dynn_Vanoli" culture =romagnol}
-7450473={name = "dynn_Varolio" culture =romagnol}
-7450474={name = "dynn_Velasco" culture =romagnol}
-7450475={name = "dynn_Ventriglia" culture =romagnol}
-7450476={name = "dynn_Veronesi" culture =romagnol}
-7450477={name = "dynn_Viganò" culture =romagnol}
-7450478={name = "dynn_Violi" culture =romagnol}
-7450479={name = "dynn_Vitali" culture =romagnol}
-7450480={name = "dynn_Vizzani" culture =romagnol}
-7450481={name = "dynn_Zacchiroli" culture =romagnol}
-7450482={name = "dynn_Zambeccari" culture =romagnol}
-7450483={name = "dynn_Zamboni" culture =romagnol}
-7450484={name = "dynn_Zanetti" culture =romagnol}
-7450485={name = "dynn_Zanoia" culture =romagnol}
-7450486={name = "dynn_Zanolini" culture =romagnol}
-7450487={name = "dynn_Zarri" culture =romagnol}
-7450488={name = "dynn_Zavalloni" culture =romagnol}
-7450489={name = "dynn_Zorzi" culture =romagnol}
-7450490={name = "dynn_Zucchelli" culture =romagnol}
-7450491={name = "dynn_Zurla" culture =romagnol}
-7450492={prefix = "de" name = "dynn_Albasi" culture = romagnol}
-7450493={prefix = "de" name = "dynn_Aldigeri" culture = romagnol}
-7450494={prefix = "de" name = "dynn_Argenta" culture = romagnol}
-7450495={prefix = "de" name = "dynn_Bunielli" culture = romagnol}
-7450496={prefix = "de" name = "dynn_Çanis" culture = romagnol}
-7450497={prefix = "de" name = "dynn_Castro" culture = romagnol}
-7450498={prefix = "de" name = "dynn_Castrocario" culture = romagnol}
-7450499={prefix = "de" name = "dynn_Clarentani" culture = romagnol}
-7450500={prefix = "de" name = "dynn_Clari" culture = romagnol}
-7450501={prefix = "de" name = "dynn_Clavaturo" culture = romagnol}
-7450502={prefix = "de" name = "dynn_Corvo" culture = romagnol}
-7450503={prefix = "de" name = "dynn_Crovaria" culture = romagnol}
-7450504={prefix = "de" name = "dynn_Florentia" culture = romagnol}
-7450505={prefix = "de" name = "dynn_Foscardi" culture = romagnol}
-7450506={prefix = "della" name = "dynn_Cavalla" culture = romagnol}
-7450507={prefix = "de" name = "dynn_Linario" culture = romagnol}
-7450508={prefix = "de" name = "dynn_Parma" culture = romagnol}
-7450509={prefix = "de" name = "dynn_Podesti" culture = romagnol}
-7450510={prefix = "de" name = "dynn_Ponte" culture = romagnol}
-7450511={prefix = "de" name = "dynn_Puteo" culture = romagnol}
-7450512={prefix = "de" name = "dynn_Tauxignano" culture = romagnol}
-7450513={prefix = "dalle" name = "dynn_Olle" culture = romagnol}
-7450514={prefix = "de" name = "dynn_Bianchi" culture = romagnol}
-7450515={prefix = "del" name = "dynn_Ferro" culture = romagnol}
-7450516={prefix = "da" name = "dynn_Meleto" culture = romagnol}
-7450517={prefix = "dei" name = "dynn_Liuzzi" culture = romagnol}
-7450518={prefix = "degli" name = "dynn_Andalo" culture = romagnol}
-7450519={prefix = "degli" name = "dynn_Esposti" culture = romagnol}
-7450520={prefix = "del" name = "dynn_Virgilio" culture = romagnol}
-7450521={prefix = "dalla" name = "dynn_Piazza" culture = romagnol}
-99001122330={name = "dynn_Amai" culture =mediano}
-99001122331={name = "dynn_Arcione" culture =mediano}
-99001122332={name = "dynn_Artes" culture =mediano}
-99001122333={name = "dynn_Azio" culture =mediano}
-99001122334={name = "dynn_Balistari" culture =mediano}
-99001122335={name = "dynn_Batista" culture =mediano}
-99001122336={name = "dynn_Battaglino" culture =mediano}
-99001122337={name = "dynn_Bodvit" culture =mediano}
-99001122338={name = "dynn_Bonello" culture =mediano}
-99001122339={name = "dynn_Boninsegni" culture =mediano}
-99001122340={name = "dynn_Brenzio" culture =mediano}
-99001122341={name = "dynn_Brettona" culture =mediano}
-99001122342={name = "dynn_Calcaneus" culture =mediano}
-99001122343={name = "dynn_Calrini" culture =mediano}
-99001122344={name = "dynn_Canponi" culture =mediano}
-99001122345={name = "dynn_Castellani" culture =mediano}
-99001122346={name = "dynn_Cellino" culture =mediano}
-99001122347={name = "dynn_Cerrini" culture =mediano}
-99001122348={name = "dynn_Chapellani" culture =mediano}
-99001122349={name = "dynn_Chasali" culture =mediano}
-99001122350={name = "dynn_Collino" culture =mediano}
-99001122351={name = "dynn_Corrini" culture =mediano}
-99001122352={name = "dynn_Deondi" culture =mediano}
-99001122353={name = "dynn_Famano" culture =mediano}
-99001122354={name = "dynn_Fanelli" culture =mediano}
-99001122355={name = "dynn_Fileticho" culture =mediano}
-99001122356={name = "dynn_Fiorentino" culture =mediano}
-99001122357={name = "dynn_Flores" culture =mediano}
-99001122358={name = "dynn_Foliot" culture =mediano}
-99001122359={name = "dynn_Franciotti" culture =mediano}
-99001122360={name = "dynn_Galbes" culture =mediano}
-99001122361={name = "dynn_Grazia" culture =mediano}
-99001122362={name = "dynn_Infessura" culture =mediano}
-99001122363={name = "dynn_Jachobacci" culture =mediano}
-99001122364={name = "dynn_Jachobini" culture =mediano}
-99001122365={name = "dynn_Lancilotti" culture =mediano}
-99001122366={name = "dynn_Leto" culture =mediano}
-99001122367={name = "dynn_Lippola" culture =mediano}
-99001122368={name = "dynn_Maffo" culture =mediano}
-99001122369={name = "dynn_Marcelli" culture =mediano}
-99001122370={name = "dynn_Marso" culture =mediano}
-99001122371={name = "dynn_Marzano" culture =mediano}
-99001122372={name = "dynn_Mazano" culture =mediano}
-99001122373={name = "dynn_Musciano" culture =mediano}
-99001122374={name = "dynn_Pagholini" culture =mediano}
-99001122375={name = "dynn_Palone" culture =mediano}
-99001122376={name = "dynn_Pandoni" culture =mediano}
-99001122377={name = "dynn_Pellati" culture =mediano}
-99001122378={name = "dynn_Perleone" culture =mediano}
-99001122379={name = "dynn_Ramondo" culture =mediano}
-99001122380={name = "dynn_Sabino" culture =mediano}
-99001122381={name = "dynn_Salamone" culture =mediano}
-99001122382={name = "dynn_Sanreno" culture =mediano}
-99001122383={name = "dynn_Sansoni" culture =mediano}
-99001122384={name = "dynn_Schantiglia" culture =mediano}
-99001122385={name = "dynn_Shalves" culture =mediano}
-99001122386={name = "dynn_Sichulo" culture =mediano}
-99001122387={name = "dynn_Subileo" culture =mediano}
-99001122388={name = "dynn_Tascha" culture =mediano}
-99001122389={name = "dynn_Tirun" culture =mediano}
-99001122390={name = "dynn_Tomaso" culture =mediano}
-99001122391={name = "dynn_Turchi" culture =mediano}
-99001122392={name = "dynn_Veltri" culture =mediano}
-99001122393={name = "dynn_Veronese" culture =mediano}
-99001122394={name = "dynn_Vestino" culture =mediano}
-99001122395={name = "dynn_Vines" culture =mediano}
-99001122396={name = "dynn_Volscho" culture =mediano}
-99001122397={name = "dynn_Zerbo" culture =mediano}
-99001122398={prefix = "da" name = "dynn_Anguillara" culture =mediano}
-99001122399={prefix = "da" name = "dynn_Bassano" culture =mediano}
-99001122400={prefix = "da" name = "dynn_Bologna" culture =mediano}
-99001122401={prefix = "da" name = "dynn_Caprarola" culture =mediano}
-99001122402={prefix = "da" name = "dynn_Chapomaestri" culture =mediano}
-99001122403={prefix = "da" name = "dynn_Chapranicha" culture =mediano}
-99001122404={prefix = "da" name = "dynn_Chastello" culture =mediano}
-99001122405={prefix = "da" name = "dynn_Chastro" culture =mediano}
-99001122406={prefix = "da" name = "dynn_Fano" culture =mediano}
-99001122407={prefix = "da" name = "dynn_Fiorention" culture =mediano}
-99001122408={prefix = "da" name = "dynn_Forli" culture =mediano}
-99001122409={prefix = "da" name = "dynn_Fulignio" culture =mediano}
-99001122410={prefix = "da" name = "dynn_Gennazano" culture =mediano}
-99001122411={prefix = "da" name = "dynn_Imola" culture =mediano}
-99001122412={prefix = "da" name = "dynn_Laquila" culture =mediano}
-99001122413={prefix = "da" name = "dynn_Lucha" culture =mediano}
-99001122414={prefix = "da" name = "dynn_Monte_Janaro" culture =mediano}
-99001122415={prefix = "da" name = "dynn_Narni" culture =mediano}
-99001122416={prefix = "da" name = "dynn_Padova" culture =mediano}
-99001122417={prefix = "da" name = "dynn_Parma" culture =mediano}
-99001122418={prefix = "da" name = "dynn_Pavia" culture =mediano}
-99001122419={prefix = "da" name = "dynn_Pinerolo" culture =mediano}
-99001122420={prefix = "da" name = "dynn_San_Gemignano" culture =mediano}
-99001122421={prefix = "da" name = "dynn_Siena" culture =mediano}
-99001122422={prefix = "da" name = "dynn_Stabia" culture =mediano}
-99001122423={prefix = "da" name = "dynn_Stimigliano" culture =mediano}
-99001122424={prefix = "da" name = "dynn_Tivoli" culture =mediano}
-99001122425={prefix = "da" name = "dynn_Trevigi" culture =mediano}
-99001122426={prefix = "da" name = "dynn_Velletri" culture =mediano}
-99001122427={prefix = "da" name = "dynn_Verona" culture =mediano}
-99001122428={prefix = "da" name = "dynn_Vinegia" culture =mediano}
-99001122429={prefix = "da" name = "dynn_Viterbo" culture =mediano}
-99001122430={prefix = "d_" name = "dynn_Andrea" culture =mediano}
-99001122431={prefix = "d_" name = "dynn_Antonio" culture =mediano}
-99001122432={prefix = "de" name = "dynn_Albertonibus" culture =mediano}
-99001122433={prefix = "de" name = "dynn_Amici" culture =mediano}
-99001122434={prefix = "de" name = "dynn_Astalli" culture =mediano}
-99001122435={prefix = "de" name = "dynn_Baglioni" culture =mediano}
-99001122436={prefix = "de" name = "dynn_Bochatti" culture =mediano}
-99001122437={prefix = "de" name = "dynn_Bonciis" culture =mediano}
-99001122438={prefix = "de" name = "dynn_Bondi" culture =mediano}
-99001122439={prefix = "de" name = "dynn_Boni_Auguri" culture =mediano}
-99001122440={prefix = "de" name = "dynn_Buonihuomini" culture =mediano}
-99001122441={prefix = "de" name = "dynn_Chapellanis" culture =mediano}
-99001122442={prefix = "de" name = "dynn_Chapello" culture =mediano}
-99001122443={prefix = "de" name = "dynn_Chasalli" culture =mediano}
-99001122444={prefix = "de" name = "dynn_Chosarii" culture =mediano}
-99001122445={prefix = "de" name = "dynn_Chosciari" culture =mediano}
-99001122446={prefix = "de" name = "dynn_Gigantibus" culture =mediano}
-99001122447={prefix = "de" name = "dynn_Giochi" culture =mediano}
-99001122448={prefix = "de" name = "dynn_Grassi" culture =mediano}
-99001122449={prefix = "de" name = "dynn_Japoccis" culture =mediano}
-99001122450={prefix = "de" name = "dynn_Johanini" culture =mediano}
-99001122451={prefix = "de" name = "dynn_Leoni" culture =mediano}
-99001122452={prefix = "de" name = "dynn_Marchia" culture =mediano}
-99001122453={prefix = "de" name = "dynn_Noxeto" culture =mediano}
-99001122454={prefix = "de" name = "dynn_Pallis" culture =mediano}
-99001122455={prefix = "de" name = "dynn_Planche" culture =mediano}
-99001122456={prefix = "de" name = "dynn_Pontechorvo" culture =mediano}
-99001122457={prefix = "de" name = "dynn_Propositi" culture =mediano}
-99001122458={prefix = "de" name = "dynn_Restituti" culture =mediano}
-99001122459={prefix = "de" name = "dynn_Richarti" culture =mediano}
-99001122460={prefix = "de" name = "dynn_Rossi" culture =mediano}
-99001122461={prefix = "de" name = "dynn_Santo_Severino" culture =mediano}
-99001122462={prefix = "de" name = "dynn_Tari" culture =mediano}
-99001122463={prefix = "de" name = "dynn_Tedallini" culture =mediano}
-99001122464={prefix = "de" name = "dynn_Tocho" culture =mediano}
-99001122465={prefix = "de" name = "dynn_Vari" culture =mediano}
-99001122466={prefix = "de" name = "dynn_Veteranis" culture =mediano}
-99001122467={prefix = "de" name = "dynn_Vettoris" culture =mediano}
-99001122468={prefix = "de" name = "dynn_Vite" culture =mediano}
-99001122469={prefix = "della" name = "dynn_Valle" culture =mediano}
-99001122470={prefix = "delle" name = "dynn_Vetere" culture =mediano}
-99001122471={prefix = "degli" name = "dynn_Albertoni" culture =mediano}
-99001122472={prefix = "d_" name = "dynn_Emigliano" culture =mediano}
-99001122473={prefix = "di" name = "dynn_Campo" culture =mediano}
-99001122474={prefix = "di" name = "dynn_Cipro" culture =mediano}
-99001122475={prefix = "di" name = "dynn_Giuliano" culture =mediano}
-99001122476={prefix = "di" name = "dynn_Gottifredi" culture =mediano}
-99001122477={prefix = "di" name = "dynn_Lucca" culture =mediano}
-99001122478={prefix = "di" name = "dynn_Santo_Ambrogio" culture =mediano}
-887754501={name = "dynn_Ambrello "culture = pugliese }
-887754502={name = "dynn_Argagnaru "culture = pugliese }
-887754503={name = "dynn_Barcha "culture = pugliese }
-887754504={name = "dynn_Bifaru "culture = pugliese }
-887754505={name = "dynn_Cacalupu "culture = pugliese }
-887754506={name = "dynn_Caldararo "culture = pugliese }
-887754507={name = "dynn_Chianotica "culture = pugliese }
-887754508={name = "dynn_Chiatto "culture = pugliese }
-887754509={name = "dynn_Cico "culture = pugliese }
-887754510={name = "dynn_Ciezo "culture = pugliese }
-887754511={name = "dynn_Cimusaru "culture = pugliese }
-887754512={name = "dynn_Clerico "culture = pugliese }
-887754513={name = "dynn_Cirnaro "culture = pugliese }
-887754514={name = "dynn_Curciu "culture = pugliese }
-887754515={name = "dynn_Cutraro "culture = pugliese }
-887754516={name = "dynn_Diamante "culture = pugliese }
-887754517={name = "dynn_Fragascio "culture = pugliese }
-887754518={name = "dynn_Furcuni "culture = pugliese }
-887754519={name = "dynn_Garcea "culture = pugliese }
-887754520={name = "dynn_Garlippa "culture = pugliese }
-887754521={name = "dynn_Garonfula "culture = pugliese }
-887754522={name = "dynn_Goletto "culture = pugliese }
-887754523={name = "dynn_Imbunna "culture = pugliese }
-887754524={name = "dynn_Lazaro "culture = pugliese }
-887754525={name = "dynn_Masello "culture = pugliese }
-887754526={name = "dynn_Marino "culture = pugliese }
-887754527={name = "dynn_Patara "culture = pugliese }
-887754528={name = "dynn_Passavante "culture = pugliese }
-887754529={name = "dynn_Petrilla "culture = pugliese }
-887754530={name = "dynn_Pumarella "culture = pugliese }
-887754531={name = "dynn_Randello "culture = pugliese }
-887754532={name = "dynn_Scataza "culture = pugliese }
-887754533={name = "dynn_Sciglitano "culture = pugliese }
-887754534={name = "dynn_Tagliavigna "culture = pugliese }
-887754535={name = "dynn_Tirardo "culture = pugliese }
-887754536={name = "dynn_Traccho "culture = pugliese }
-887754537={name = "dynn_Vellana "culture = pugliese }
-887754538={name = "dynn_Veroli "culture = pugliese }
-887754539={name = "dynn_Zanella "culture = pugliese }
-887754540={name = "dynn_Brazamontis "culture = pugliese }
-887754541={name = "dynn_Barberiu "culture = pugliese }
-887754542={name = "dynn_Basile "culture = pugliese }
-887754543={name = "dynn_Bisconte "culture = pugliese }
-887754544={name = "dynn_Calabrese "culture = pugliese }
-887754545={name = "dynn_Bolanus "culture = pugliese }
-887754546={name = "dynn_Caldarone "culture = pugliese }
-887754547={name = "dynn_Caldarola "culture = pugliese }
-887754548={name = "dynn_Candita "culture = pugliese }
-887754549={name = "dynn_Capolongho "culture = pugliese }
-887754550={name = "dynn_Cepolla "culture = pugliese }
-887754551={name = "dynn_Cichonus "culture = pugliese }
-887754552={name = "dynn_Ciriglione "culture = pugliese }
-887754553={name = "dynn_Coppolareus "culture = pugliese }
-887754554={name = "dynn_Crispus "culture = pugliese }
-887754555={name = "dynn_Crozius "culture = pugliese }
-887754556={name = "dynn_Crocio "culture = pugliese }
-887754557={name = "dynn_Damianu "culture = pugliese }
-887754558={name = "dynn_Fasulu "culture = pugliese }
-887754559={name = "dynn_Frizie "culture = pugliese }
-887754560={name = "dynn_Furone "culture = pugliese }
-887754561={name = "dynn_Paxarello "culture = pugliese }
-887754562={name = "dynn_Marcellus "culture = pugliese }
-887754563={name = "dynn_Maria "culture = pugliese }
-887754564={name = "dynn_Mele "culture = pugliese }
-887754565={name = "dynn_Meolo "culture = pugliese }
-887754566={name = "dynn_Palumo "culture = pugliese }
-887754567={name = "dynn_Papa "culture = pugliese }
-887754568={name = "dynn_Parlayolus "culture = pugliese }
-887754569={name = "dynn_Pinna "culture = pugliese }
-887754570={name = "dynn_Pesa "culture = pugliese }
-887754571={name = "dynn_Piza "culture = pugliese }
-887754572={name = "dynn_Poccolella "culture = pugliese }
-887754573={name = "dynn_Saltarello "culture = pugliese }
-887754574={name = "dynn_Potengha "culture = pugliese }
-887754575={name = "dynn_Scaramuza "culture = pugliese }
-887754576={name = "dynn_Simune "culture = pugliese }
-887754577={name = "dynn_Stefania "culture = pugliese }
-887754578={name = "dynn_Testa "culture = pugliese }
-887754579={name = "dynn_Vitiellu "culture = pugliese }
-887754580={ prefix = "dynnp_d_" name = "dynn_Aniello" culture = pugliese }
-887754581={ prefix = "dynnp_d_" name = "dynn_Algerio" culture = pugliese }
-887754582={ prefix = "dynnp_d_" name = "dynn_Autubiellu" culture = pugliese }
-887754583={ prefix = "dynnp_d_" name = "dynn_Arvonio" culture = pugliese }
-887754584={ prefix = "dynnp_d_" name = "dynn_Lisandru" culture = pugliese }
-887754585={ prefix = "dynnp_d_" name = "dynn_Amianu" culture = pugliese }
-887754586={ prefix = "dynnp_d_" name = "dynn_Abrazamonte" culture = pugliese }
-887754587={ prefix = "dynnp_d_" name = "dynn_Ardito" culture = pugliese }
-887754588={ prefix = "dynnp_d_" name = "dynn_Ariano" culture = pugliese }
-887754589={ prefix = "dynnp_d_" name = "dynn_Avella" culture = pugliese }
-887754590={ prefix = "dynnp_d_" name = "dynn_Acerra" culture = pugliese }
-887754591={ prefix = "dynnp_d_" name = "dynn_Aversa" culture = pugliese }
-887754592={ prefix = "dynnp_d_" name = "dynn_Avigliane" culture = pugliese }
-887754593={ prefix = "dynnp_d_" name = "dynn_Fogge" culture = pugliese }
-887754594={ prefix = "dynnp_d_" name = "dynn_Lucere" culture = pugliese }
-887754595={ prefix = "dynnp_d_" name = "dynn_Putenza" culture = pugliese }
-887754596={ prefix = "dynnp_d_" name = "dynn_Matare" culture = pugliese }
-887754597={ prefix = "dynnp_d_" name = "dynn_Caserta" culture = pugliese }
-887754598={ prefix = "dynnp_d_" name = "dynn_Battipaglia" culture = pugliese }
-887754599={ prefix = "dynnp_d_" name = "dynn_Salierne" culture = pugliese }
-887754600={ prefix = "dynnp_d_" name = "dynn_Nola" culture = pugliese }
-887754601={ prefix = "dynnp_d_" name = "dynn_Melfe" culture = pugliese }
-887754602={ prefix = "dynnp_d_" name = "dynn_Ceregnoule" culture = pugliese }
-887754603={ prefix = "dynnp_d_" name = "dynn_Rapolla" culture = pugliese }
-887754604={ prefix = "dynnp_d_" name = "dynn_Venose" culture = pugliese }
-887754605={ prefix = "dynnp_d_" name = "dynn_Andrie" culture = pugliese }
-887754606={ prefix = "dynnp_d_" name = "dynn_Barlette" culture = pugliese }
-887754607={ prefix = "dynnp_d_" name = "dynn_Bare" culture = pugliese }
-887754608={ prefix = "dynnp_d_" name = "dynn_Melfette" culture = pugliese }
-887754609={ prefix = "dynnp_d_" name = "dynn_Trane" culture = pugliese }
-887754610={ prefix = "dynnp_d_" name = "dynn_Canusio" culture = pugliese }
-887754611={ prefix = "dynnp_d_" name = "dynn_Capolongo" culture = pugliese }
-887754612={ prefix = "dynnp_d_" name = "dynn_Carducio" culture = pugliese }
-887754613={ prefix = "dynnp_d_" name = "dynn_Carluccio" culture = pugliese }
-887754614={ prefix = "dynnp_d_" name = "dynn_Cavallo" culture = pugliese }
-887754615={ prefix = "dynnp_d_" name = "dynn_Chiocula" culture = pugliese }
-887754616={ prefix = "dynnp_d_" name = "dynn_Corsu" culture = pugliese }
-887754617={ prefix = "dynnp_d_" name = "dynn_Errico" culture = pugliese }
-887754618={ prefix = "dynnp_d_" name = "dynn_Facio" culture = pugliese }
-887754619={ prefix = "dynnp_d_" name = "dynn_Fazo" culture = pugliese }
-887754620={ prefix = "dynnp_d_" name = "dynn_Filicella" culture = pugliese }
-887754621={ prefix = "dynnp_d_" name = "dynn_Ferrerio" culture = pugliese }
-887754622={ prefix = "dynnp_d_" name = "dynn_Forino" culture = pugliese }
-887754623={ prefix = "dynnp_d_" name = "dynn_Francho" culture = pugliese }
-887754624={ prefix = "dynnp_d_" name = "dynn_Fuccio" culture = pugliese }
-887754625={ prefix = "dynnp_d_" name = "dynn_Fuzio" culture = pugliese }
-887754626={ prefix = "dynnp_d_" name = "dynn_Furesta" culture = pugliese }
-887754627={ prefix = "dynnp_d_" name = "dynn_Fuscho" culture = pugliese }
-887754628={ prefix = "dynnp_d_" name = "dynn_Inparato" culture = pugliese }
-887754629={ prefix = "dynnp_d_" name = "dynn_Itro" culture = pugliese }
-887754630={ prefix = "dynnp_d_" name = "dynn_Landolfa" culture = pugliese }
-887754631={ prefix = "dynnp_d_" name = "dynn_Iulio" culture = pugliese }
-887754632={ prefix = "dynnp_d_" name = "dynn_Laucibia" culture = pugliese }
-887754633={ prefix = "dynnp_d_" name = "dynn_Lionardo" culture = pugliese }
-887754634={ prefix = "dynnp_d_" name = "dynn_Mari" culture = pugliese }
-887754635={ prefix = "dynnp_d_" name = "dynn_Menechella" culture = pugliese }
-887754636={ prefix = "dynnp_d_" name = "dynn_Menica" culture = pugliese }
-887754637={ prefix = "dynnp_d_" name = "dynn_Michio" culture = pugliese }
-887754638={ prefix = "dynnp_d_" name = "dynn_Malatacha" culture = pugliese }
-887754639={ prefix = "dynnp_d_" name = "dynn_Miele" culture = pugliese }
-887754640={ prefix = "dynnp_d_" name = "dynn_Minicuzo" culture = pugliese }
-887754641={ prefix = "dynnp_d_" name = "dynn_Monacella" culture = pugliese }
-887754642={ prefix = "dynnp_d_" name = "dynn_Palma" culture = pugliese }
-887754643={ prefix = "dynnp_d_" name = "dynn_Parisio" culture = pugliese }
-887754644={ prefix = "dynnp_d_" name = "dynn_Pasca" culture = pugliese }
-887754645={ prefix = "dynnp_d_" name = "dynn_Pascuzia" culture = pugliese }
-887754646={ prefix = "dynnp_d_" name = "dynn_Rennanele" culture = pugliese }
-887754647={ prefix = "dynnp_d_" name = "dynn_Recupito" culture = pugliese }
-887754648={ prefix = "dynnp_d_" name = "dynn_Rosa" culture = pugliese }
-887754649={ prefix = "dynnp_d_" name = "dynn_Tegora" culture = pugliese }
+62500001={name = "dynn_Astolfi" culture ="lombard" }
+62500002={name = "dynn_Allegri" culture ="lombard" }
+62500003={name = "dynn_Beccaria" culture ="lombard" }
+62500004={name = "dynn_BelO_t" culture ="lombard" }
+62500005={name = "dynn_Bernascon" culture ="lombard" }
+62500006={name = "dynn_Biraghi" culture ="lombard" }
+62500007={name = "dynn_Biumi" culture ="lombard" }
+62500008={name = "dynn_Bombello" culture ="lombard" }
+62500009={name = "dynn_Borri" culture ="lombard" }
+62500010={name = "dynn_Bossi" culture ="lombard" }
+62500011={name = "dynn_Bossi" culture ="lombard" }
+62500012={name = "dynn_Busell" culture ="lombard" }
+62500013={name = "dynn_Buvalelli" culture ="lombard" }
+62500014={name = "dynn_Buzaccharini" culture ="lombard" }
+62500015={name = "dynn_Caimi" culture ="lombard" }
+62500016={name = "dynn_Canevesi" culture ="lombard" }
+62500017={name = "dynn_Canobio" culture ="lombard" }
+62500018={name = "dynn_Carboni" culture ="lombard" }
+62500020={name = "dynn_Carentano" culture ="lombard" }
+62500021={name = "dynn_Catani" culture ="lombard" }
+62500022={name = "dynn_Ciocca" culture ="lombard" }
+62500023={name = "dynn_Citeri" culture ="lombard" }
+62500024={name = "dynn_Confalonieri" culture ="lombard" }
+62500025={name = "dynn_Cori" culture ="lombard" }
+62500026={name = "dynn_Cotta" culture ="lombard" }
+62500027={name = "dynn_Cremosano" culture ="lombard" }
+62500028={name = "dynn_Cristiani" culture ="lombard" }
+62500029={name = "dynn_Crivelli" culture ="lombard" }
+62500030={name = "dynn_Crotta" culture ="lombard" }
+62500031={name = "dynn_de_Chioccis" culture ="lombard" }
+62500032={name = "dynn_de_Cort" culture ="lombard" }
+62500033={name = "dynn_de_Godis" culture ="lombard" }
+62500034={name = "dynn_de_la_Riva" culture ="lombard" }
+62500035={name = "dynn_de_Negris" culture ="lombard" }
+62500036={name = "dynn_de_Scoxatis" culture ="lombard" }
+62500037={name = "dynn_de_Tattis" culture ="lombard" }
+62500038={name = "dynn_della_Gazzada" culture ="lombard" }
+62500039={name = "dynn_Farnese" culture ="lombard" }
+62500040={name = "dynn_Fava" culture ="lombard" }
+62500041={name = "dynn_Ferrario" culture ="lombard" }
+62500042={name = "dynn_Filodoni" culture ="lombard" }
+62500043={name = "dynn_Fissiraga" culture ="lombard" }
+62500044={name = "dynn_Fontana" culture ="lombard" }
+62500045={name = "dynn_Galaraa" culture ="lombard" }
+62500046={name = "dynn_Galbiaa" culture ="lombard" }
+62500047={name = "dynn_Gallizi" culture ="lombard" }
+62500048={name = "dynn_Gambiras" culture ="lombard" }
+62500049={name = "dynn_Gandin" culture ="lombard" }
+62500050={name = "dynn_Gerra" culture ="lombard" }
+62500051={name = "dynn_Giarell" culture ="lombard" }
+62500052={name = "dynn_Giussan" culture ="lombard" }
+62500053={name = "dynn_Glaviagni" culture ="lombard" }
+62500054={name = "dynn_Gotoario" culture ="lombard" }
+62500055={name = "dynn_Grassi" culture ="lombard" }
+62500056={name = "dynn_Guasco" culture ="lombard" }
+62500057={name = "dynn_Guinizelli" culture ="lombard" }
+62500058={name = "dynn_Incoardo" culture ="lombard" }
+62500059={name = "dynn_Lampugnan" culture ="lombard" }
+62500060={name = "dynn_Lavezzario" culture ="lombard" }
+62500061={name = "dynn_Legnano" culture ="lombard" }
+62500062={name = "dynn_Lovin" culture ="lombard" }
+62500063={name = "dynn_Luino" culture ="lombard" }
+62500064={name = "dynn_Lupi" culture ="lombard" }
+62500065={name = "dynn_Maccasola" culture ="lombard" }
+62500066={name = "dynn_Magg" culture ="lombard" }
+62500067={name = "dynn_Malcoreggia" culture ="lombard" }
+62500068={name = "dynn_Manzon" culture ="lombard" }
+62500069={name = "dynn_Marcellino" culture ="lombard" }
+62500070={name = "dynn_Merlano" culture ="lombard" }
+62500071={name = "dynn_Monetario" culture ="lombard" }
+62500072={name = "dynn_Mostardi" culture ="lombard" }
+62500073={name = "dynn_Muzio" culture ="lombard" }
+62500074={name = "dynn_Negri" culture ="lombard" }
+62500075={name = "dynn_Palastrello" culture ="lombard" }
+62500076={name = "dynn_Parin" culture ="lombard" }
+62500077={name = "dynn_Perego" culture ="lombard" }
+62500078={name = "dynn_Pessina" culture ="lombard" }
+62500079={name = "dynn_Pignoli" culture ="lombard" }
+62500080={name = "dynn_Ponzoni" culture ="lombard" }
+62500081={name = "dynn_Porca" culture ="lombard" }
+62500082={name = "dynn_Pozzobonella" culture ="lombard" }
+62500083={name = "dynn_Pravesin" culture ="lombard" }
+62500084={name = "dynn_Pusterla" culture ="lombard" }
+62500085={name = "dynn_Rainold" culture ="lombard" }
+62500086={name = "dynn_Rangoni" culture ="lombard" }
+62500087={name = "dynn_Regaino" culture ="lombard" }
+62500088={name = "dynn_Riccardi" culture ="lombard" }
+62500089={name = "dynn_Rivabene" culture ="lombard" }
+62500090={name = "dynn_Rivola" culture ="lombard" }
+62500091={name = "dynn_Roberti" culture ="lombard" }
+62500092={name = "dynn_Rossi" culture ="lombard" }
+62500093={name = "dynn_Rovarini" culture ="lombard" }
+62500094={name = "dynn_Rusconi" culture ="lombard" }
+62500095={name = "dynn_Sacchi" culture ="lombard" }
+62500096={name = "dynn_Sacchi" culture ="lombard" }
+62500097={name = "dynn_Sacco" culture ="lombard" }
+62500098={name = "dynn_Salimbeni" culture ="lombard" }
+62500099={name = "dynn_Sanvii" culture ="lombard" }
+62500100={name = "dynn_Scotti" culture ="lombard" }
+62500101={name = "dynn_Serbelloni" culture ="lombard" }
+62500102={name = "dynn_Sfondrati" culture ="lombard" }
+62500103={name = "dynn_Sommariva" culture ="lombard" }
+62500104={name = "dynn_Sordi" culture ="lombard" }
+62500105={name = "dynn_Sorman" culture ="lombard" }
+62500106={name = "dynn_Stretti" culture ="lombard" }
+62500107={name = "dynn_Tangentino" culture ="lombard" }
+62500108={name = "dynn_Tanz" culture ="lombard" }
+62500109={name = "dynn_Tentone" culture ="lombard" }
+62500110={name = "dynn_Tiepolo" culture ="lombard" }
+62500111={name = "dynn_Tognani" culture ="lombard" }
+62500112={name = "dynn_Torelli" culture ="lombard" }
+62500113={name = "dynn_Valzecch" culture ="lombard" }
+62500114={name = "dynn_Varena" culture ="lombard" }
+62500115={name = "dynn_Varzi" culture ="lombard" }
+62500116={name = "dynn_Vento" culture ="lombard" }
+62500117={name = "dynn_Visconti" culture ="lombard" }
+62500118={name = "dynn_Visdomini" culture ="lombard" }
+62500119={name = "dynn_Vistarino" culture ="lombard" }
+62500120={name = "dynn_Volta" culture ="lombard" }
+62500121={name = "dynn_Zoia" culture ="lombard" }
+62500122={name = "dynn_Zorlon" culture ="lombard" }
+62500123={ prefix = "dynnp_di" name = "dynn_Liegi" culture ="lombard" }
+62500124={ prefix = "dynnp_di" name = "dynn_Grumbach" culture ="lombard" }
+62500125={ prefix = "dynnp_di" name = "dynn_Dixe" culture ="lombard" }
+62500126={ prefix = "dynnp_da" name = "dynn_Concesa" culture ="lombard" }
+62500127={ prefix = "dynnp_di" name = "dynn_Cortenuova" culture ="lombard" }
+62500128={ prefix = "dynnp_de" name = "dynn_Vegioni" culture ="lombard" }
+62500129={ prefix = "dynnp_da" name = "dynn_Gambarra" culture ="lombard" }
+62500130={ prefix = "dynnp_da" name = "dynn_Mandello" culture ="lombard" }
+62500131={ prefix = "dynnp_degli" name = "dynn_Osi" culture ="lombard" }
+62500132={ prefix = "dynnp_de" name = "dynn_Landi" culture ="lombard" }
+62500133={ prefix = "dynnp_da" name = "dynn_Bussero" culture ="lombard" }
+62500134={ prefix = "dynnp_da" name = "dynn_Busnate" culture ="lombard" }
+62500135={ prefix = "dynnp_da" name = "dynn_Vidalta" culture ="lombard" }
+62500136={ prefix = "dynnp_da" name = "dynn_Andalo" culture ="lombard" }
+62500137={ prefix = "dynnp_da" name = "dynn_Martinengo" culture ="lombard" }
+62500138={ prefix = "dynnp_da" name = "dynn_Manerbio" culture ="lombard" }
+62500139={ prefix = "dynnp_da" name = "dynn_Cisate" culture ="lombard" }
+62500140={ prefix = "dynnp_da" name = "dynn_Pontecarale" culture ="lombard" }
+62500141={ prefix = "dynnp_della" name = "dynn_Porta" culture ="lombard" }
+62500142={ prefix = "dynnp_da" name = "dynn_Tresseno" culture ="lombard" }
+62500143={ prefix = "dynnp_degli" name = "dynn_Azari" culture ="lombard" }
+62500144={ prefix = "dynnp_degli" name = "dynn_Ugoni" culture ="lombard" }
+62500145={ prefix = "dynnp_degli" name = "dynn_Avvocati" culture ="lombard" }
+62500146={ prefix = "dynnp_da" name = "dynn_Sala" culture ="lombard" }
+62500147={ prefix = "dynnp_dei" name = "dynn_Marzi" culture ="lombard" }
+62500148={ prefix = "dynnp_degli" name = "dynn_Asinelli" culture ="lombard" }
+62500149={ prefix = "dynnp_da" name = "dynn_Dovera" culture ="lombard" }
+62500150={ prefix = "dynnp_della" name = "dynn_Balzo" culture ="lombard" }
+62500151={ prefix = "dynnp_da" name = "dynn_Redobio" culture ="lombard" }
+62500152={ prefix = "dynnp_da" name = "dynn_Greco" culture ="lombard" }
+62500153={ prefix = "dynnp_di" name = "dynn_Sanvitale" culture ="lombard" }
+62500154={ prefix = "dynnp_di" name = "dynn_Langosco" culture ="lombard" }
+62500155={ prefix = "dynnp_degli" name = "dynn_Amati" culture ="lombard" }
+62500156={ prefix = "dynnp_da" name = "dynn_Lomello" culture ="lombard" }
+62500157={ prefix = "dynnp_da" name = "dynn_Lucino" culture ="lombard" }
+62500158={ prefix = "dynnp_da" name = "dynn_Cesena" culture ="lombard" }
+62500159={ prefix = "dynnp_da" name = "dynn_Poggio" culture ="lombard" }
+62500160={ prefix = "dynnp_del" name = "dynn_Jacopi" culture ="lombard" }
+62500161={ prefix = "dynnp_da" name = "dynn_Polenta" culture ="lombard" }
+62500162={ prefix = "dynnp_de" name = "dynn_Maggi" culture ="lombard" }
+62500163={ prefix = "dynnp_del" name = "dynn_Cassero" culture ="lombard" }
+62500164={ prefix = "dynnp_da" name = "dynn_Sesso" culture ="lombard" }
+62500165={ prefix = "dynnp_da" name = "dynn_Peschiera" culture ="lombard" }
+62500166={ prefix = "dynnp_da" name = "dynn_Alice" culture ="lombard" }
+62500167={ prefix = "dynnp_dei" name = "dynn_Petrioli" culture ="lombard" }
+62500168={ prefix = "dynnp_da" name = "dynn_Cavriago" culture ="lombard" }
+62500169={ prefix = "dynnp_da" name = "dynn_Cornazzano" culture ="lombard" }
+62500170={ prefix = "dynnp_da" name = "dynn_Iseo" culture ="lombard" }
+62500171={ prefix = "dynnp_da" name = "dynn_Binasco" culture ="lombard" }
+62500172={ prefix = "dynnp_del" name = "dynn_Mangano" culture ="lombard" }
+62500173={ prefix = "dynnp_da" name = "dynn_Sesto" culture ="lombard" }
+62500174={ prefix = "dynnp_da" name = "dynn_Correggio" culture ="lombard" }
+62500175={ prefix = "dynnp_da" name = "dynn_Bagno" culture ="lombard" }
+63500001={ prefix = "dynnp_da" name = "dynn_Coni" culture ="piedmontese" }
+63500002={ prefix = "dynnp_da" name = "dynn_BiE_la" culture ="piedmontese" }
+63500003={ prefix = "dynnp_da" name = "dynn_Nuara" culture ="piedmontese" }
+63500004={ prefix = "dynnp_da" name = "dynn_Verbania" culture ="piedmontese" }
+63500005={ prefix = "dynnp_da" name = "dynn_Lissandria" culture ="piedmontese" }
+63500006={ prefix = "dynnp_da" name = "dynn_Turin" culture ="piedmontese" }
+63500007={ prefix = "dynnp_da" name = "dynn_MonfrA_" culture ="piedmontese" }
+63500008={ prefix = "dynnp_da" name = "dynn_Salusse" culture ="piedmontese" }
+63500009={ prefix = "dynnp_da" name = "dynn_VarsE_i" culture ="piedmontese" }
+63500010={ prefix = "dynnp_da" name = "dynn_Niclin" culture ="piedmontese" }
+63500011={ prefix = "dynnp_da" name = "dynn_RI_vuli" culture ="piedmontese" }
+63500012={ prefix = "dynnp_da" name = "dynn_ColE_gn" culture ="piedmontese" }
+63500013={ prefix = "dynnp_da" name = "dynn_MoncalE_" culture ="piedmontese" }
+63500014={ prefix = "dynnp_da" name = "dynn_Ast" culture ="piedmontese" }
+63500015={ prefix = "dynnp_da" name = "dynn_Grujasch" culture ="piedmontese" }
+63500016={ prefix = "dynnp_da" name = "dynn_Cher" culture ="piedmontese" }
+63500017={ prefix = "dynnp_da" name = "dynn_Pinareul" culture ="piedmontese" }
+63500018={ prefix = "dynnp_da" name = "dynn_CarmagnO_la" culture ="piedmontese" }
+63500019={ prefix = "dynnp_da" name = "dynn_Bra" culture ="piedmontese" }
+63500020={ prefix = "dynnp_da" name = "dynn_A_rba" culture ="piedmontese" }
+63500021={ prefix = "dynnp_da" name = "dynn_Civass" culture ="piedmontese" }
+63500022={ prefix = "dynnp_da" name = "dynn_Fossan" culture ="piedmontese" }
+63500023={ prefix = "dynnp_da" name = "dynn_IvrE_a" culture ="piedmontese" }
+63500024={ prefix = "dynnp_da" name = "dynn_Orbassan" culture ="piedmontese" }
+63500025={ prefix = "dynnp_da" name = "dynn_Susa" culture ="piedmontese" }
+63500026={ prefix = "dynnp_da" name = "dynn_MondvI_" culture ="piedmontese" }
+63500027={ prefix = "dynnp_da" name = "dynn_BorbanE_" culture ="piedmontese" }
+63500028={ prefix = "dynnp_da" name = "dynn_Savian" culture ="piedmontese" }
+63500029={ prefix = "dynnp_da" name = "dynn_TrecA_" culture ="piedmontese" }
+63500030={ prefix = "dynnp_da" name = "dynn_Varal" culture ="piedmontese" }
+63500031={name = "dynn_Aimonetto" culture ="piedmontese" }
+63500032={name = "dynn_Alberti" culture ="piedmontese" }
+63500033={name = "dynn_Allione" culture ="piedmontese" }
+63500034={name = "dynn_Andreis" culture ="piedmontese" }
+63500035={name = "dynn_Antonaci" culture ="piedmontese" }
+63500036={name = "dynn_Argenta" culture ="piedmontese" }
+63500037={name = "dynn_Autelitano" culture ="piedmontese" }
+63500038={name = "dynn_Barazia" culture ="piedmontese" }
+63500039={name = "dynn_Baselica" culture ="piedmontese" }
+63500040={name = "dynn_Bisio" culture ="piedmontese" }
+63500041={name = "dynn_Borella" culture ="piedmontese" }
+63500042={name = "dynn_Buffa" culture ="piedmontese" }
+63500043={name = "dynn_Buscaglia" culture ="piedmontese" }
+63500044={name = "dynn_Butta" culture ="piedmontese" }
+63500045={name = "dynn_Calcagno" culture ="piedmontese" }
+63500046={name = "dynn_Callegher" culture ="piedmontese" }
+63500047={name = "dynn_Canova" culture ="piedmontese" }
+63500048={name = "dynn_Carpo" culture ="piedmontese" }
+63500049={name = "dynn_Chivino" culture ="piedmontese" }
+63500050={name = "dynn_Cova" culture ="piedmontese" }
+63500051={name = "dynn_Ferrero" culture ="piedmontese" }
+63500052={name = "dynn_Fleury" culture ="piedmontese" }
+63500053={name = "dynn_Gallo" culture ="piedmontese" }
+63500054={name = "dynn_Garda" culture ="piedmontese" }
+63500055={name = "dynn_Garzini" culture ="piedmontese" }
+63500056={name = "dynn_Gavinelli" culture ="piedmontese" }
+63500057={name = "dynn_Guilla" culture ="piedmontese" }
+63500058={name = "dynn_Isoardi" culture ="piedmontese" }
+63500059={name = "dynn_Janutolo" culture ="piedmontese" }
+63500060={name = "dynn_Lacchi" culture ="piedmontese" }
+63500061={name = "dynn_Lace" culture ="piedmontese" }
+63500062={name = "dynn_Lazzarin" culture ="piedmontese" }
+63500063={name = "dynn_Lerda" culture ="piedmontese" }
+63500064={name = "dynn_Maiolani" culture ="piedmontese" }
+63500065={name = "dynn_Manna" culture ="piedmontese" }
+63500066={name = "dynn_Mantovani" culture ="piedmontese" }
+63500067={name = "dynn_Martelli" culture ="piedmontese" }
+63500068={name = "dynn_Mattioda" culture ="piedmontese" }
+63500069={name = "dynn_Meloni" culture ="piedmontese" }
+63500070={name = "dynn_Michelis" culture ="piedmontese" }
+63500071={name = "dynn_Motti" culture ="piedmontese" }
+63500072={name = "dynn_Musto" culture ="piedmontese" }
+63500073={name = "dynn_Oberto" culture ="piedmontese" }
+63500074={name = "dynn_Pacher" culture ="piedmontese" }
+63500075={name = "dynn_Paleni" culture ="piedmontese" }
+63500076={name = "dynn_Pansi" culture ="piedmontese" }
+63500077={name = "dynn_Paximadi" culture ="piedmontese" }
+63500078={name = "dynn_Pe" culture ="piedmontese" }
+63500079={name = "dynn_Ras" culture ="piedmontese" }
+63500080={name = "dynn_Reinero" culture ="piedmontese" }
+63500081={name = "dynn_Repetto" culture ="piedmontese" }
+63500082={name = "dynn_Revelli" culture ="piedmontese" }
+63500083={name = "dynn_Ruozi" culture ="piedmontese" }
+63500084={name = "dynn_Sacco" culture ="piedmontese" }
+63500085={name = "dynn_Schibuola" culture ="piedmontese" }
+63500086={name = "dynn_Soiatti" culture ="piedmontese" }
+63500087={name = "dynn_Spaudo" culture ="piedmontese" }
+63500088={name = "dynn_Spinelli" culture ="piedmontese" }
+63500089={name = "dynn_Squillario" culture ="piedmontese" }
+63500090={name = "dynn_Sterpi" culture ="piedmontese" }
+63500091={name = "dynn_Taggiasco" culture ="piedmontese" }
+63500092={name = "dynn_Tarizzo" culture ="piedmontese" }
+63500093={name = "dynn_Taroppi" culture ="piedmontese" }
+63500094={name = "dynn_Tolosano" culture ="piedmontese" }
+63500095={name = "dynn_Tonso" culture ="piedmontese" }
+63500096={name = "dynn_Torri" culture ="piedmontese" }
+63500097={name = "dynn_Varalda" culture ="piedmontese" }
+63500098={name = "dynn_Varda" culture ="piedmontese" }
+63500099={name = "dynn_Volpato" culture ="piedmontese" }
+63500100={name = "dynn_Zamborlin" culture ="piedmontese" }
+63500101={name = "dynn_Zampa" culture ="piedmontese" }
+63500102={name = "dynn_Zizzi" culture ="piedmontese" }
+63500103={name = "dynn_Zorzan" culture ="piedmontese" }
+63500104={name = "dynn_Alotto" culture ="piedmontese" }
+63500105={name = "dynn_Alpe" culture ="piedmontese" }
+63500106={name = "dynn_Anselmetti" culture ="piedmontese" }
+63500107={name = "dynn_Bonaudi" culture ="piedmontese" }
+63500108={name = "dynn_Borello" culture ="piedmontese" }
+63500109={name = "dynn_Borgis" culture ="piedmontese" }
+63500110={name = "dynn_Borla" culture ="piedmontese" }
+63500111={name = "dynn_Chiampo" culture ="piedmontese" }
+63500112={name = "dynn_Col" culture ="piedmontese" }
+63500113={name = "dynn_Cordola" culture ="piedmontese" }
+63500114={name = "dynn_Croce" culture ="piedmontese" }
+63500115={name = "dynn_Davi" culture ="piedmontese" }
+63500116={name = "dynn_Falco" culture ="piedmontese" }
+63500117={name = "dynn_Franchino" culture ="piedmontese" }
+63500118={name = "dynn_Gagnor" culture ="piedmontese" }
+63500119={name = "dynn_Garnero" culture ="piedmontese" }
+63500120={name = "dynn_Pautasso" culture ="piedmontese" }
+63500121={name = "dynn_Perotto" culture ="piedmontese" }
+63500122={name = "dynn_Pettigiani" culture ="piedmontese" }
+63500123={name = "dynn_Peretti" culture ="piedmontese" }
+63500124={name = "dynn_Ravetto" culture ="piedmontese" }
+63500125={name = "dynn_Re" culture ="piedmontese" }
+63500126={name = "dynn_Rocci" culture ="piedmontese" }
+63500127={name = "dynn_Vayr" culture ="piedmontese" }
+63500128={name = "dynn_Vercellino" culture ="piedmontese" }
+63500129={name = "dynn_Versen" culture ="piedmontese" }
+63500130={name = "dynn_Vinassa" culture ="piedmontese" }
+6450000={name = "dynn_Adorno" culture ="ligurian" }
+6450001={name = "dynn_Airolo" culture ="ligurian" }
+6450002={name = "dynn_Appiani" culture ="ligurian" }
+6450003={name = "dynn_Balbi" culture ="ligurian" }
+6450004={name = "dynn_Basadonne" culture ="ligurian" }
+6450005={name = "dynn_Benigassi" culture ="ligurian" }
+6450006={name = "dynn_Borsotto" culture ="ligurian" }
+6450007={name = "dynn_Brignole" culture ="ligurian" }
+6450008={name = "dynn_Brignole_Sale" culture ="ligurian" }
+6450009={name = "dynn_Cattaneo" culture ="ligurian" }
+6450010={name = "dynn_Ceba" culture ="ligurian" }
+6450011={name = "dynn_Centurione" culture ="ligurian" }
+6450012={name = "dynn_Chiavari" culture ="ligurian" }
+6450013={name = "dynn_Cicala" culture ="ligurian" }
+6450014={ prefix = "dynnp_de" name = "dynn_Benedetti" culture ="ligurian" }
+6450015={ prefix = "dynnp_de" name = "dynn_Ferraris" culture ="ligurian" }
+6450016={ prefix = "dynnp_de" name = "dynn_Franceschi" culture ="ligurian" }
+6450017={ prefix = "dynnp_de" name = "dynn_Franchi" culture ="ligurian" }
+6450018={ prefix = "dynnp_de" name = "dynn_Mari" culture ="ligurian" }
+6450019={ prefix = "dynnp_de" name = "dynn_Marini" culture ="ligurian" }
+6450020={ prefix = "dynnp_de" name = "dynn_Nigro" culture ="ligurian" }
+6450021={ prefix = "dynnp_della" name = "dynn_Chiesa" culture ="ligurian" }
+6450022={ prefix = "dynnp_di" name = "dynn_Negro" culture ="ligurian" }
+6450023={name = "dynn_Donghi" culture ="ligurian" }
+6450024={name = "dynn_Doia" culture ="ligurian" }
+6450025={name = "dynn_DuaC_o" culture ="ligurian" }
+6450026={name = "dynn_Fieschi" culture ="ligurian" }
+6450027={name = "dynn_Franzone" culture ="ligurian" }
+6450028={name = "dynn_Ferretto" culture ="ligurian" }
+6450029={name = "dynn_Gentile" culture ="ligurian" }
+6450030={name = "dynn_Giustiniani" culture ="ligurian" }
+6450031={name = "dynn_Grillo" culture ="ligurian" }
+6450032={name = "dynn_Imperia" culture ="ligurian" }
+6450033={name = "dynn_C_entrion" culture ="ligurian" }
+6450034={name = "dynn_Invrea" culture ="ligurian" }
+6450035={name = "dynn_Lercari" culture ="ligurian" }
+6450036={name = "dynn_Lomellin" culture ="ligurian" }
+6450037={name = "dynn_Marini" culture ="ligurian" }
+6450038={name = "dynn_Negron" culture ="ligurian" }
+6450039={name = "dynn_Pallavicini" culture ="ligurian" }
+6450040={name = "dynn_Passano" culture ="ligurian" }
+6450041={name = "dynn_Pinelli" culture ="ligurian" }
+6450042={name = "dynn_Raggio" culture ="ligurian" }
+6450043={name = "dynn_Raimondi" culture ="ligurian" }
+6450044={name = "dynn_Rebuffo" culture ="ligurian" }
+6450045={name = "dynn_Rizzo" culture ="ligurian" }
+6450046={name = "dynn_Rovere" culture ="ligurian" }
+6450047={name = "dynn_Sale" culture ="ligurian" }
+6450048={name = "dynn_Saluzzo" culture ="ligurian" }
+6450049={name = "dynn_Salvago" culture ="ligurian" }
+6450050={name = "dynn_Sauli" culture ="ligurian" }
+6450051={name = "dynn_Scaglia" culture ="ligurian" }
+6450052={name = "dynn_Senarega" culture ="ligurian" }
+6450053={name = "dynn_Serra" culture ="ligurian" }
+6450054={name = "dynn_Spinnoa" culture ="ligurian" }
+6450055={name = "dynn_Torre" culture ="ligurian" }
+6450056={name = "dynn_Veneroso" culture ="ligurian" }
+6450057={ prefix = "dynnp_de" name = "dynn_Anchona" culture ="ligurian" }
+6450058={name = "dynn_Archerio" culture ="ligurian" }
+6450059={ prefix = "dynnp_de" name = "dynn_Auria" culture ="ligurian" }
+6450060={name = "dynn_Bestagno" culture ="ligurian" }
+6450061={name = "dynn_Bonconte" culture ="ligurian" }
+6450062={name = "dynn_Bondinario" culture ="ligurian" }
+6450063={name = "dynn_Bordino" culture ="ligurian" }
+6450064={name = "dynn_Burgaro" culture ="ligurian" }
+6450065={name = "dynn_Bachalo" culture ="ligurian" }
+6450066={name = "dynn_Caligepari" culture ="ligurian" }
+6450067={name = "dynn_Calvo" culture ="ligurian" }
+6450068={name = "dynn_Camtello" culture ="ligurian" }
+6450069={name = "dynn_Caparalia" culture ="ligurian" }
+6450070={name = "dynn_Cataneo" culture ="ligurian" }
+6450071={name = "dynn_Fattinante" culture ="ligurian" }
+6450072={name = "dynn_Cigalle" culture ="ligurian" }
+6450073={name = "dynn_Lerchario" culture ="ligurian" }
+6450074={name = "dynn_Roverino" culture ="ligurian" }
+6450075={name = "dynn_Traverio" culture ="ligurian" }
+6450076={ prefix = "dynnp_de" name = "dynn_Vivaldis" culture ="ligurian" }
+6450077={name = "dynn_Gattilusio" culture ="ligurian" }
+6450078={name = "dynn_Boccaneigra" culture ="ligurian" }
+6450079={ prefix = "dynnp_da" name = "dynn_Morta" culture ="ligurian" }
+6450080={ prefix = "dynnp_da" name = "dynn_Valente" culture ="ligurian" }
+6450081={name = "dynn_Pravexin" culture ="ligurian" }
+6450082={name = "dynn_Fregoso" culture ="ligurian" }
+6450083={name = "dynn_Guarco" culture ="ligurian" }
+6450084={ prefix = "dynnp_da" name = "dynn_Pagana" culture ="ligurian" }
+6450085={name = "dynn_Montado" culture ="ligurian" }
+6450086={name = "dynn_Gaibaldo" culture ="ligurian" }
+6450087={name = "dynn_Zoagio" culture ="ligurian" }
+6450088={name = "dynn_Guan" culture ="ligurian" }
+6450089={name = "dynn_Sant'Alosio" culture ="ligurian" }
+6450090={ prefix = "dynnp_da" name = "dynn_Crava" culture ="ligurian" }
+6450091={name = "dynn_Barbavara" culture ="ligurian" }
+6450092={name = "dynn_TrivurC_io" culture ="ligurian" }
+6450093={name = "dynn_Bovarello" culture ="ligurian" }
+6450094={ prefix = "dynnp_de" name = "dynn_Fogian" culture ="ligurian" }
+6450095={name = "dynn_Campo" culture ="ligurian" }
+6450096={name = "dynn_Lazzao" culture ="ligurian" }
+6450097={name = "dynn_Toso" culture ="ligurian" }
+6450098={name = "dynn_Grimado" culture ="ligurian" }
+6450099={name = "dynn_Braxello" culture ="ligurian" }
+6450100={name = "dynn_Prementon" culture ="ligurian" }
+6450101={name = "dynn_Ardimento" culture ="ligurian" }
+6450102={name = "dynn_Cybo" culture ="ligurian" }
+6450103={name = "dynn_Vivado" culture ="ligurian" }
+6450104={name = "dynn_Lercâ" culture ="ligurian" }
+6450105={name = "dynn_Monegia" culture ="ligurian" }
+6450106={name = "dynn_Saolo" culture ="ligurian" }
+6450107={name = "dynn_Sacco" culture ="ligurian" }
+6450108={name = "dynn_Castro" culture ="ligurian" }
+6450109={name = "dynn_Axou" culture ="ligurian" }
+6450110={name = "dynn_Tartao" culture ="ligurian" }
+6450111={name = "dynn_Longo" culture ="ligurian" }
+6450112={name = "dynn_Giustignan" culture ="ligurian" }
+6450113={name = "dynn_Frugon" culture ="ligurian" }
+6450114={name = "dynn_Barbo" culture ="ligurian" }
+6450115={name = "dynn_Cangiaxo" culture ="ligurian" }
+6450116={name = "dynn_Maia" culture ="ligurian" }
+6450117={name = "dynn_Brignoe" culture ="ligurian" }
+6450118={name = "dynn_Genti" culture ="ligurian" }
+6450119={name = "dynn_Saera" culture ="ligurian" }
+7450000={name = "dynn_Abaco" culture ="emilian" }
+7450001={name = "dynn_Albergati" culture ="emilian" }
+7450002={name = "dynn_Aldrovandini" culture ="emilian" }
+7450003={name = "dynn_Algardi" culture ="emilian" }
+7450004={name = "dynn_Aloisi" culture ="emilian" }
+7450005={name = "dynn_Anselmi" culture ="emilian" }
+7450006={name = "dynn_Antinori" culture ="emilian" }
+7450007={name = "dynn_Apicella" culture ="emilian" }
+7450008={name = "dynn_Aranzi" culture ="emilian" }
+7450009={name = "dynn_Arcangeli" culture ="emilian" }
+7450010={name = "dynn_Ariosti" culture ="emilian" }
+7450011={name = "dynn_Asinelli" culture ="emilian" }
+7450012={name = "dynn_Avati" culture ="emilian" }
+7450013={name = "dynn_Azzaroli" culture ="emilian" }
+7450014={name = "dynn_Bagnara" culture ="emilian" }
+7450015={name = "dynn_Bagolini" culture ="emilian" }
+7450016={name = "dynn_Balassini" culture ="emilian" }
+7450017={name = "dynn_Baldi" culture ="emilian" }
+7450018={name = "dynn_Banzi" culture ="emilian" }
+7450019={name = "dynn_Benasai" culture ="emilian" }
+7450020={name = "dynn_Bernini" culture ="emilian" }
+7450021={name = "dynn_Bertolazzi" culture ="emilian" }
+7450022={name = "dynn_Bertusio" culture ="emilian" }
+7450023={name = "dynn_Bonaventure" culture ="emilian" }
+7450024={name = "dynn_Bonfigloli" culture ="emilian" }
+7450025={name = "dynn_C_anC_i" culture ="emilian" }
+7450026={name = "dynn_C_anni" culture ="emilian" }
+7450027={name = "dynn_Cantofoli" culture ="emilian" }
+7450028={name = "dynn_Cerretani" culture ="emilian" }
+7450029={name = "dynn_CesA_ri" culture ="emilian" }
+7450030={name = "dynn_Chillo" culture ="emilian" }
+7450031={name = "dynn_Chimenti" culture ="emilian" }
+7450032={name = "dynn_Chiodarolo" culture ="emilian" }
+7450033={name = "dynn_Civolani" culture ="emilian" }
+7450034={name = "dynn_ClO_" culture ="emilian" }
+7450035={name = "dynn_Colleoni" culture ="emilian" }
+7450036={name = "dynn_Consolini" culture ="emilian" }
+7450037={name = "dynn_Corbolini" culture ="emilian" }
+7450038={name = "dynn_Damniani" culture ="emilian" }
+7450039={name = "dynn_Danieli" culture ="emilian" }
+7450040={name = "dynn_Dettore" culture ="emilian" }
+7450041={name = "dynn_Deudati" culture ="emilian" }
+7450042={name = "dynn_Dozza" culture ="emilian" }
+7450043={name = "dynn_Draghi" culture ="emilian" }
+7450044={name = "dynn_Emiliani" culture ="emilian" }
+7450045={name = "dynn_Ercolani" culture ="emilian" }
+7450046={name = "dynn_Errani" culture ="emilian" }
+7450047={name = "dynn_Fabbri" culture ="emilian" }
+7450048={name = "dynn_Facchinetti" culture ="emilian" }
+7450049={name = "dynn_Facioli" culture ="emilian" }
+7450050={name = "dynn_Faeti" culture ="emilian" }
+7450051={name = "dynn_Fantuzzi" culture ="emilian" }
+7450052={name = "dynn_Fava" culture ="emilian" }
+7450053={name = "dynn_Ferrari" culture ="emilian" }
+7450054={name = "dynn_Fiorini" culture ="emilian" }
+7450055={name = "dynn_Flamini" culture ="emilian" }
+7450056={name = "dynn_Fontana" culture ="emilian" }
+7450057={name = "dynn_Forlai" culture ="emilian" }
+7450058={name = "dynn_Forleo" culture ="emilian" }
+7450059={name = "dynn_Framisini" culture ="emilian" }
+7450060={name = "dynn_Frati" culture ="emilian" }
+7450061={name = "dynn_Frazzoni" culture ="emilian" }
+7450062={name = "dynn_Frizzi" culture ="emilian" }
+7450063={name = "dynn_Fuligni" culture ="emilian" }
+7450064={name = "dynn_Gabrielli" culture ="emilian" }
+7450065={name = "dynn_Gabussi" culture ="emilian" }
+7450066={name = "dynn_Galvani" culture ="emilian" }
+7450067={name = "dynn_Garisendi" culture ="emilian" }
+7450068={name = "dynn_Geremei" culture ="emilian" }
+7450069={name = "dynn_Ghinazzi" culture ="emilian" }
+7450070={name = "dynn_Ghiradeli" culture ="emilian" }
+7450071={name = "dynn_Ghislieri" culture ="emilian" }
+7450072={name = "dynn_Giacobbi" culture ="emilian" }
+7450073={name = "dynn_Giorgi" culture ="emilian" }
+7450074={name = "dynn_Girardi" culture ="emilian" }
+7450075={name = "dynn_Giuliani" culture ="emilian" }
+7450076={name = "dynn_Gnudi" culture ="emilian" }
+7450077={name = "dynn_Gollini" culture ="emilian" }
+7450078={name = "dynn_Gonzaga" culture ="emilian" }
+7450079={name = "dynn_Goren" culture ="emilian" }
+7450080={name = "dynn_Gotti" culture ="emilian" }
+7450081={name = "dynn_Gozzadini" culture ="emilian" }
+7450082={name = "dynn_Grassi" culture ="emilian" }
+7450083={name = "dynn_Guarducio" culture ="emilian" }
+7450084={name = "dynn_Guarineli" culture ="emilian" }
+7450085={name = "dynn_Guillelmi" culture ="emilian" }
+7450086={name = "dynn_Innesto" culture ="emilian" }
+7450087={name = "dynn_Isolani" culture ="emilian" }
+7450088={name = "dynn_Izzo" culture ="emilian" }
+7450089={name = "dynn_Jacchia" culture ="emilian" }
+7450090={name = "dynn_Jacchini" culture ="emilian" }
+7450091={name = "dynn_Jacobeli" culture ="emilian" }
+7450092={name = "dynn_Jemolo" culture ="emilian" }
+7450093={name = "dynn_LaC_arie" culture ="emilian" }
+7450094={name = "dynn_Lambertazzi" culture ="emilian" }
+7450095={name = "dynn_Lambertini" culture ="emilian" }
+7450096={name = "dynn_Lamborghini" culture ="emilian" }
+7450097={name = "dynn_Lamma" culture ="emilian" }
+7450098={name = "dynn_Lei" culture ="emilian" }
+7450099={name = "dynn_Lenzi" culture ="emilian" }
+7450100={name = "dynn_Leopardi" culture ="emilian" }
+7450101={name = "dynn_Longo" culture ="emilian" }
+7450102={name = "dynn_Lucchini" culture ="emilian" }
+7450103={name = "dynn_Mainardi" culture ="emilian" }
+7450104={name = "dynn_Maini" culture ="emilian" }
+7450105={name = "dynn_Malaguti" culture ="emilian" }
+7450106={name = "dynn_Maldetti" culture ="emilian" }
+7450107={name = "dynn_Malvezzi" culture ="emilian" }
+7450108={name = "dynn_Marconi" culture ="emilian" }
+7450109={name = "dynn_Mariscotti" culture ="emilian" }
+7450110={name = "dynn_Martignoni" culture ="emilian" }
+7450111={name = "dynn_Mastellari" culture ="emilian" }
+7450112={name = "dynn_Mattei" culture ="emilian" }
+7450113={name = "dynn_Mazza" culture ="emilian" }
+7450114={name = "dynn_Mazzoni" culture ="emilian" }
+7450115={name = "dynn_Mei" culture ="emilian" }
+7450116={name = "dynn_Meli" culture ="emilian" }
+7450117={name = "dynn_Mellara" culture ="emilian" }
+7450118={name = "dynn_Micheli" culture ="emilian" }
+7450119={name = "dynn_Migliorati" culture ="emilian" }
+7450120={name = "dynn_Naccarato" culture ="emilian" }
+7450121={name = "dynn_Nadi" culture ="emilian" }
+7450122={name = "dynn_Nanni" culture ="emilian" }
+7450123={name = "dynn_Negri" culture ="emilian" }
+7450124={name = "dynn_Nesi" culture ="emilian" }
+7450125={name = "dynn_Notari" culture ="emilian" }
+7450126={name = "dynn_Nucci" culture ="emilian" }
+7450127={name = "dynn_Olivi" culture ="emilian" }
+7450128={name = "dynn_Oppi" culture ="emilian" }
+7450129={name = "dynn_Ordelaffi" culture ="emilian" }
+7450130={name = "dynn_Orlandi" culture ="emilian" }
+7450131={name = "dynn_Osti" culture ="emilian" }
+7450132={name = "dynn_Ottani" culture ="emilian" }
+7450133={name = "dynn_Pacchioni" culture ="emilian" }
+7450134={name = "dynn_Paci" culture ="emilian" }
+7450135={name = "dynn_Padoa" culture ="emilian" }
+7450136={name = "dynn_Paglia" culture ="emilian" }
+7450137={name = "dynn_Pagliuca" culture ="emilian" }
+7450138={name = "dynn_Palagi" culture ="emilian" }
+7450139={name = "dynn_Palmerini" culture ="emilian" }
+7450140={name = "dynn_Pasolini" culture ="emilian" }
+7450141={name = "dynn_Patelli" culture ="emilian" }
+7450142={name = "dynn_Pedrazzi" culture ="emilian" }
+7450143={name = "dynn_Pedretti" culture ="emilian" }
+7450144={name = "dynn_Pellicciari" culture ="emilian" }
+7450145={name = "dynn_Pennacchietti" culture ="emilian" }
+7450146={name = "dynn_Pepoli" culture ="emilian" }
+7450147={name = "dynn_Pilati" culture ="emilian" }
+7450148={name = "dynn_Pizzocchi" culture ="emilian" }
+7450149={name = "dynn_Plazzi" culture ="emilian" }
+7450150={name = "dynn_Poggio" culture ="emilian" }
+7450151={name = "dynn_Primaticcio" culture ="emilian" }
+7450152={name = "dynn_Procaccini" culture ="emilian" }
+7450153={name = "dynn_Quaini" culture ="emilian" }
+7450154={name = "dynn_Racca" culture ="emilian" }
+7450155={name = "dynn_Ragonesi" culture ="emilian" }
+7450156={name = "dynn_Raibolini" culture ="emilian" }
+7450157={name = "dynn_Ramberti" culture ="emilian" }
+7450158={name = "dynn_Randa" culture ="emilian" }
+7450159={name = "dynn_Ranuzzi" culture ="emilian" }
+7450160={name = "dynn_Rappini" culture ="emilian" }
+7450161={name = "dynn_Ratta" culture ="emilian" }
+7450162={name = "dynn_Ravignani" culture ="emilian" }
+7450163={name = "dynn_Righini" culture ="emilian" }
+7450164={name = "dynn_Riva" culture ="emilian" }
+7450165={name = "dynn_Roccella" culture ="emilian" }
+7450166={name = "dynn_Rolli" culture ="emilian" }
+7450167={name = "dynn_Romagnoli" culture ="emilian" }
+7450168={name = "dynn_Rubei" culture ="emilian" }
+7450169={name = "dynn_Ruggeri" culture ="emilian" }
+7450170={name = "dynn_Sabadino" culture ="emilian" }
+7450171={name = "dynn_Sabattini" culture ="emilian" }
+7450172={name = "dynn_Sabatucci" culture ="emilian" }
+7450173={name = "dynn_Saetti" culture ="emilian" }
+7450174={name = "dynn_Salicola" culture ="emilian" }
+7450175={name = "dynn_Sampieri" culture ="emilian" }
+7450176={name = "dynn_Sani" culture ="emilian" }
+7450177={name = "dynn_Savini" culture ="emilian" }
+7450178={name = "dynn_Scannavini" culture ="emilian" }
+7450179={name = "dynn_Scappi" culture ="emilian" }
+7450180={name = "dynn_Scòzzari" culture ="emilian" }
+7450181={name = "dynn_Seccadenari" culture ="emilian" }
+7450182={name = "dynn_Serato" culture ="emilian" }
+7450183={name = "dynn_Sforza" culture ="emilian" }
+7450184={name = "dynn_Sgarzi" culture ="emilian" }
+7450185={name = "dynn_Signoretti" culture ="emilian" }
+7450186={name = "dynn_Spagnolli" culture ="emilian" }
+7450187={name = "dynn_Sperandei" culture ="emilian" }
+7450188={name = "dynn_Spirogi" culture ="emilian" }
+7450189={name = "dynn_Tacconi" culture ="emilian" }
+7450190={name = "dynn_Tadolini" culture ="emilian" }
+7450191={name = "dynn_Tagliacozzi" culture ="emilian" }
+7450192={name = "dynn_Tanara" culture ="emilian" }
+7450193={name = "dynn_Tavalazzi" culture ="emilian" }
+7450194={name = "dynn_Tedeschi" culture ="emilian" }
+7450195={name = "dynn_Terzi" culture ="emilian" }
+7450196={name = "dynn_Testoni" culture ="emilian" }
+7450197={name = "dynn_Tomba" culture ="emilian" }
+7450198={name = "dynn_Torri" culture ="emilian" }
+7450199={name = "dynn_Tozzi" culture ="emilian" }
+7450200={name = "dynn_Trebbi" culture ="emilian" }
+7450201={name = "dynn_Tura" culture ="emilian" }
+7450202={name = "dynn_Ugolini" culture ="emilian" }
+7450203={name = "dynn_Urbinati" culture ="emilian" }
+7450204={name = "dynn_Uttini" culture ="emilian" }
+7450205={name = "dynn_Vaccaro" culture ="emilian" }
+7450206={name = "dynn_Vacchi" culture ="emilian" }
+7450207={name = "dynn_Valesio" culture ="emilian" }
+7450208={name = "dynn_Valia" culture ="emilian" }
+7450209={name = "dynn_Valori" culture ="emilian" }
+7450210={name = "dynn_Vandelli" culture ="emilian" }
+7450211={name = "dynn_Vanoli" culture ="emilian" }
+7450212={name = "dynn_Varolio" culture ="emilian" }
+7450213={name = "dynn_Velasco" culture ="emilian" }
+7450214={name = "dynn_Ventriglia" culture ="emilian" }
+7450215={name = "dynn_Veronesi" culture ="emilian" }
+7450216={name = "dynn_Viganò" culture ="emilian" }
+7450217={name = "dynn_Violi" culture ="emilian" }
+7450218={name = "dynn_Vitali" culture ="emilian" }
+7450219={name = "dynn_Vizzani" culture ="emilian" }
+7450220={name = "dynn_Zacchiroli" culture ="emilian" }
+7450221={name = "dynn_Zambeccari" culture ="emilian" }
+7450222={name = "dynn_Zamboni" culture ="emilian" }
+7450223={name = "dynn_Zanetti" culture ="emilian" }
+7450224={name = "dynn_Zanoia" culture ="emilian" }
+7450225={name = "dynn_Zanolini" culture ="emilian" }
+7450226={name = "dynn_Zarri" culture ="emilian" }
+7450227={name = "dynn_Zavalloni" culture ="emilian" }
+7450228={name = "dynn_Zorzi" culture ="emilian" }
+7450229={name = "dynn_Zucchelli" culture ="emilian" }
+7450230={name = "dynn_Zurla" culture ="emilian" }
+7450231={prefix = "de" name = "dynn_Albasi" culture ="emilian"}
+7450232={prefix = "de" name = "dynn_Aldigeri" culture ="emilian"}
+7450233={prefix = "de" name = "dynn_Argenta" culture ="emilian"}
+7450234={prefix = "de" name = "dynn_Bunielli" culture ="emilian"}
+7450235={prefix = "de" name = "dynn_C_anis" culture ="emilian"}
+7450236={prefix = "de" name = "dynn_Castro" culture ="emilian"}
+7450237={prefix = "de" name = "dynn_Castrocario" culture ="emilian"}
+7450238={prefix = "de" name = "dynn_Clarentani" culture ="emilian"}
+7450239={prefix = "de" name = "dynn_Clari" culture ="emilian"}
+7450240={prefix = "de" name = "dynn_Clavaturo" culture ="emilian"}
+7450241={prefix = "de" name = "dynn_Corvo" culture ="emilian"}
+7450242={prefix = "de" name = "dynn_Crovaria" culture ="emilian"}
+7450243={prefix = "de" name = "dynn_Florentia" culture ="emilian"}
+7450244={prefix = "de" name = "dynn_Foscardi" culture ="emilian"}
+7450245={prefix = "della" name = "dynn_Cavalla" culture ="emilian"}
+7450246={prefix = "de" name = "dynn_Linario" culture ="emilian"}
+7450247={prefix = "de" name = "dynn_Parma" culture ="emilian"}
+7450248={prefix = "de" name = "dynn_Podesti" culture ="emilian"}
+7450249={prefix = "de" name = "dynn_Ponte" culture ="emilian"}
+7450250={prefix = "de" name = "dynn_Puteo" culture ="emilian"}
+7450251={prefix = "de" name = "dynn_Tauxignano" culture ="emilian"}
+7450252={prefix = "dalle" name = "dynn_Olle" culture ="emilian"}
+7450253={prefix = "de" name = "dynn_Bianchi" culture ="emilian"}
+7450254={prefix = "del" name = "dynn_Ferro" culture ="emilian"}
+7450255={prefix = "da" name = "dynn_Meleto" culture ="emilian"}
+7450256={prefix = "dei" name = "dynn_Liuzzi" culture ="emilian"}
+7450257={prefix = "degli" name = "dynn_Andalo" culture ="emilian"}
+7450258={prefix = "degli" name = "dynn_Esposti" culture ="emilian"}
+7450259={prefix = "del" name = "dynn_Virgilio" culture ="emilian"}
+7450260={prefix = "dalla" name = "dynn_Piazza" culture ="emilian"}
+7450261={name = "dynn_Abaco" culture ="romagnol"}
+7450262={name = "dynn_Albergati" culture ="romagnol"}
+7450263={name = "dynn_Aldrovandini" culture ="romagnol"}
+7450264={name = "dynn_Algardi" culture ="romagnol"}
+7450265={name = "dynn_Aloisi" culture ="romagnol"}
+7450266={name = "dynn_Anselmi" culture ="romagnol"}
+7450267={name = "dynn_Antinori" culture ="romagnol"}
+7450268={name = "dynn_Apicella" culture ="romagnol"}
+7450269={name = "dynn_Aranzi" culture ="romagnol"}
+7450270={name = "dynn_Arcangeli" culture ="romagnol"}
+7450271={name = "dynn_Ariosti" culture ="romagnol"}
+7450272={name = "dynn_Asinelli" culture ="romagnol"}
+7450273={name = "dynn_Avati" culture ="romagnol"}
+7450274={name = "dynn_Azzaroli" culture ="romagnol"}
+7450275={name = "dynn_Bagnara" culture ="romagnol"}
+7450276={name = "dynn_Bagolini" culture ="romagnol"}
+7450277={name = "dynn_Balassini" culture ="romagnol"}
+7450278={name = "dynn_Baldi" culture ="romagnol"}
+7450279={name = "dynn_Banzi" culture ="romagnol"}
+7450280={name = "dynn_Benasai" culture ="romagnol"}
+7450281={name = "dynn_Bernini" culture ="romagnol"}
+7450282={name = "dynn_Bertolazzi" culture ="romagnol"}
+7450283={name = "dynn_Bertusio" culture ="romagnol"}
+7450284={name = "dynn_Bonaventure" culture ="romagnol"}
+7450285={name = "dynn_Bonfigloli" culture ="romagnol"}
+7450286={name = "dynn_C_anC_i" culture ="romagnol"}
+7450287={name = "dynn_C_anni" culture ="romagnol"}
+7450288={name = "dynn_Cantofoli" culture ="romagnol"}
+7450289={name = "dynn_Cerretani" culture ="romagnol"}
+7450290={name = "dynn_CesA_ri" culture ="romagnol"}
+7450291={name = "dynn_Chillo" culture ="romagnol"}
+7450292={name = "dynn_Chimenti" culture ="romagnol"}
+7450293={name = "dynn_Chiodarolo" culture ="romagnol"}
+7450294={name = "dynn_Civolani" culture ="romagnol"}
+7450295={name = "dynn_Clò" culture ="romagnol"}
+7450296={name = "dynn_Colleoni" culture ="romagnol"}
+7450297={name = "dynn_Consolini" culture ="romagnol"}
+7450298={name = "dynn_Corbolini" culture ="romagnol"}
+7450299={name = "dynn_Damniani" culture ="romagnol"}
+7450300={name = "dynn_Danieli" culture ="romagnol"}
+7450301={name = "dynn_Dettore" culture ="romagnol"}
+7450302={name = "dynn_Deudati" culture ="romagnol"}
+7450303={name = "dynn_Dozza" culture ="romagnol"}
+7450304={name = "dynn_Draghi" culture ="romagnol"}
+7450305={name = "dynn_Emiliani" culture ="romagnol"}
+7450306={name = "dynn_Ercolani" culture ="romagnol"}
+7450307={name = "dynn_Errani" culture ="romagnol"}
+7450308={name = "dynn_Fabbri" culture ="romagnol"}
+7450309={name = "dynn_Facchinetti" culture ="romagnol"}
+7450310={name = "dynn_Facioli" culture ="romagnol"}
+7450311={name = "dynn_Faeti" culture ="romagnol"}
+7450312={name = "dynn_Fantuzzi" culture ="romagnol"}
+7450313={name = "dynn_Fava" culture ="romagnol"}
+7450314={name = "dynn_Ferrari" culture ="romagnol"}
+7450315={name = "dynn_Fiorini" culture ="romagnol"}
+7450316={name = "dynn_Flamini" culture ="romagnol"}
+7450317={name = "dynn_Fontana" culture ="romagnol"}
+7450318={name = "dynn_Forlai" culture ="romagnol"}
+7450319={name = "dynn_Forleo" culture ="romagnol"}
+7450320={name = "dynn_Framisini" culture ="romagnol"}
+7450321={name = "dynn_Frati" culture ="romagnol"}
+7450322={name = "dynn_Frazzoni" culture ="romagnol"}
+7450323={name = "dynn_Frizzi" culture ="romagnol"}
+7450324={name = "dynn_Fuligni" culture ="romagnol"}
+7450325={name = "dynn_Gabrielli" culture ="romagnol"}
+7450326={name = "dynn_Gabussi" culture ="romagnol"}
+7450327={name = "dynn_Galvani" culture ="romagnol"}
+7450328={name = "dynn_Garisendi" culture ="romagnol"}
+7450329={name = "dynn_Geremei" culture ="romagnol"}
+7450330={name = "dynn_Ghinazzi" culture ="romagnol"}
+7450331={name = "dynn_Ghiradeli" culture ="romagnol"}
+7450332={name = "dynn_Ghislieri" culture ="romagnol"}
+7450333={name = "dynn_Giacobbi" culture ="romagnol"}
+7450334={name = "dynn_Giorgi" culture ="romagnol"}
+7450335={name = "dynn_Girardi" culture ="romagnol"}
+7450336={name = "dynn_Giuliani" culture ="romagnol"}
+7450337={name = "dynn_Gnudi" culture ="romagnol"}
+7450338={name = "dynn_Gollini" culture ="romagnol"}
+7450339={name = "dynn_Gonzaga" culture ="romagnol"}
+7450340={name = "dynn_Goren" culture ="romagnol"}
+7450341={name = "dynn_Gotti" culture ="romagnol"}
+7450342={name = "dynn_Gozzadini" culture ="romagnol"}
+7450343={name = "dynn_Grassi" culture ="romagnol"}
+7450344={name = "dynn_Guarducio" culture ="romagnol"}
+7450345={name = "dynn_Guarineli" culture ="romagnol"}
+7450346={name = "dynn_Guillelmi" culture ="romagnol"}
+7450347={name = "dynn_Innesto" culture ="romagnol"}
+7450348={name = "dynn_Isolani" culture ="romagnol"}
+7450349={name = "dynn_Izzo" culture ="romagnol"}
+7450350={name = "dynn_Jacchia" culture ="romagnol"}
+7450351={name = "dynn_Jacchini" culture ="romagnol"}
+7450352={name = "dynn_Jacobeli" culture ="romagnol"}
+7450353={name = "dynn_Jemolo" culture ="romagnol"}
+7450354={name = "dynn_LaC_arie" culture ="romagnol"}
+7450355={name = "dynn_Lambertazzi" culture ="romagnol"}
+7450356={name = "dynn_Lambertini" culture ="romagnol"}
+7450357={name = "dynn_Lamborghini" culture ="romagnol"}
+7450358={name = "dynn_Lamma" culture ="romagnol"}
+7450359={name = "dynn_Lei" culture ="romagnol"}
+7450360={name = "dynn_Lenzi" culture ="romagnol"}
+7450361={name = "dynn_Leopardi" culture ="romagnol"}
+7450362={name = "dynn_Longo" culture ="romagnol"}
+7450363={name = "dynn_Lucchini" culture ="romagnol"}
+7450364={name = "dynn_Mainardi" culture ="romagnol"}
+7450365={name = "dynn_Maini" culture ="romagnol"}
+7450366={name = "dynn_Malaguti" culture ="romagnol"}
+7450367={name = "dynn_Maldetti" culture ="romagnol"}
+7450368={name = "dynn_Malvezzi" culture ="romagnol"}
+7450369={name = "dynn_Marconi" culture ="romagnol"}
+7450370={name = "dynn_Mariscotti" culture ="romagnol"}
+7450371={name = "dynn_Martignoni" culture ="romagnol"}
+7450372={name = "dynn_Mastellari" culture ="romagnol"}
+7450373={name = "dynn_Mattei" culture ="romagnol"}
+7450374={name = "dynn_Mazza" culture ="romagnol"}
+7450375={name = "dynn_Mazzoni" culture ="romagnol"}
+7450376={name = "dynn_Mei" culture ="romagnol"}
+7450377={name = "dynn_Meli" culture ="romagnol"}
+7450378={name = "dynn_Mellara" culture ="romagnol"}
+7450379={name = "dynn_Micheli" culture ="romagnol"}
+7450380={name = "dynn_Migliorati" culture ="romagnol"}
+7450381={name = "dynn_Naccarato" culture ="romagnol"}
+7450382={name = "dynn_Nadi" culture ="romagnol"}
+7450383={name = "dynn_Nanni" culture ="romagnol"}
+7450384={name = "dynn_Negri" culture ="romagnol"}
+7450385={name = "dynn_Nesi" culture ="romagnol"}
+7450386={name = "dynn_Notari" culture ="romagnol"}
+7450387={name = "dynn_Nucci" culture ="romagnol"}
+7450388={name = "dynn_Olivi" culture ="romagnol"}
+7450389={name = "dynn_Oppi" culture ="romagnol"}
+7450390={name = "dynn_Ordelaffi" culture ="romagnol"}
+7450391={name = "dynn_Orlandi" culture ="romagnol"}
+7450392={name = "dynn_Osti" culture ="romagnol"}
+7450393={name = "dynn_Ottani" culture ="romagnol"}
+7450394={name = "dynn_Pacchioni" culture ="romagnol"}
+7450395={name = "dynn_Paci" culture ="romagnol"}
+7450396={name = "dynn_Padoa" culture ="romagnol"}
+7450397={name = "dynn_Paglia" culture ="romagnol"}
+7450398={name = "dynn_Pagliuca" culture ="romagnol"}
+7450399={name = "dynn_Palagi" culture ="romagnol"}
+7450400={name = "dynn_Palmerini" culture ="romagnol"}
+7450401={name = "dynn_Pasolini" culture ="romagnol"}
+7450402={name = "dynn_Patelli" culture ="romagnol"}
+7450403={name = "dynn_Pedrazzi" culture ="romagnol"}
+7450404={name = "dynn_Pedretti" culture ="romagnol"}
+7450405={name = "dynn_Pellicciari" culture ="romagnol"}
+7450406={name = "dynn_Pennacchietti" culture ="romagnol"}
+7450407={name = "dynn_Pepoli" culture ="romagnol"}
+7450408={name = "dynn_Pilati" culture ="romagnol"}
+7450409={name = "dynn_Pizzocchi" culture ="romagnol"}
+7450410={name = "dynn_Plazzi" culture ="romagnol"}
+7450411={name = "dynn_Poggio" culture ="romagnol"}
+7450412={name = "dynn_Primaticcio" culture ="romagnol"}
+7450413={name = "dynn_Procaccini" culture ="romagnol"}
+7450414={name = "dynn_Quaini" culture ="romagnol"}
+7450415={name = "dynn_Racca" culture ="romagnol"}
+7450416={name = "dynn_Ragonesi" culture ="romagnol"}
+7450417={name = "dynn_Raibolini" culture ="romagnol"}
+7450418={name = "dynn_Ramberti" culture ="romagnol"}
+7450419={name = "dynn_Randa" culture ="romagnol"}
+7450420={name = "dynn_Ranuzzi" culture ="romagnol"}
+7450421={name = "dynn_Rappini" culture ="romagnol"}
+7450422={name = "dynn_Ratta" culture ="romagnol"}
+7450423={name = "dynn_Ravignani" culture ="romagnol"}
+7450424={name = "dynn_Righini" culture ="romagnol"}
+7450425={name = "dynn_Riva" culture ="romagnol"}
+7450426={name = "dynn_Roccella" culture ="romagnol"}
+7450427={name = "dynn_Rolli" culture ="romagnol"}
+7450428={name = "dynn_Romagnoli" culture ="romagnol"}
+7450429={name = "dynn_Rubei" culture ="romagnol"}
+7450430={name = "dynn_Ruggeri" culture ="romagnol"}
+7450431={name = "dynn_Sabadino" culture ="romagnol"}
+7450432={name = "dynn_Sabattini" culture ="romagnol"}
+7450433={name = "dynn_Sabatucci" culture ="romagnol"}
+7450434={name = "dynn_Saetti" culture ="romagnol"}
+7450435={name = "dynn_Salicola" culture ="romagnol"}
+7450436={name = "dynn_Sampieri" culture ="romagnol"}
+7450437={name = "dynn_Sani" culture ="romagnol"}
+7450438={name = "dynn_Savini" culture ="romagnol"}
+7450439={name = "dynn_Scannavini" culture ="romagnol"}
+7450440={name = "dynn_Scappi" culture ="romagnol"}
+7450441={name = "dynn_ScO_zzari" culture ="romagnol"}
+7450442={name = "dynn_Seccadenari" culture ="romagnol"}
+7450443={name = "dynn_Serato" culture ="romagnol"}
+7450444={name = "dynn_Sforza" culture ="romagnol"}
+7450445={name = "dynn_Sgarzi" culture ="romagnol"}
+7450446={name = "dynn_Signoretti" culture ="romagnol"}
+7450447={name = "dynn_Spagnolli" culture ="romagnol"}
+7450448={name = "dynn_Sperandei" culture ="romagnol"}
+7450449={name = "dynn_Spirogi" culture ="romagnol"}
+7450450={name = "dynn_Tacconi" culture ="romagnol"}
+7450451={name = "dynn_Tadolini" culture ="romagnol"}
+7450452={name = "dynn_Tagliacozzi" culture ="romagnol"}
+7450453={name = "dynn_Tanara" culture ="romagnol"}
+7450454={name = "dynn_Tavalazzi" culture ="romagnol"}
+7450455={name = "dynn_Tedeschi" culture ="romagnol"}
+7450456={name = "dynn_Terzi" culture ="romagnol"}
+7450457={name = "dynn_Testoni" culture ="romagnol"}
+7450458={name = "dynn_Tomba" culture ="romagnol"}
+7450459={name = "dynn_Torri" culture ="romagnol"}
+7450460={name = "dynn_Tozzi" culture ="romagnol"}
+7450461={name = "dynn_Trebbi" culture ="romagnol"}
+7450462={name = "dynn_Tura" culture ="romagnol"}
+7450463={name = "dynn_Ugolini" culture ="romagnol"}
+7450464={name = "dynn_Urbinati" culture ="romagnol"}
+7450465={name = "dynn_Uttini" culture ="romagnol"}
+7450466={name = "dynn_Vaccaro" culture ="romagnol"}
+7450467={name = "dynn_Vacchi" culture ="romagnol"}
+7450468={name = "dynn_Valesio" culture ="romagnol"}
+7450469={name = "dynn_Valia" culture ="romagnol"}
+7450470={name = "dynn_Valori" culture ="romagnol"}
+7450471={name = "dynn_Vandelli" culture ="romagnol"}
+7450472={name = "dynn_Vanoli" culture ="romagnol"}
+7450473={name = "dynn_Varolio" culture ="romagnol"}
+7450474={name = "dynn_Velasco" culture ="romagnol"}
+7450475={name = "dynn_Ventriglia" culture ="romagnol"}
+7450476={name = "dynn_Veronesi" culture ="romagnol"}
+7450477={name = "dynn_ViganO_" culture ="romagnol"}
+7450478={name = "dynn_Violi" culture ="romagnol"}
+7450479={name = "dynn_Vitali" culture ="romagnol"}
+7450480={name = "dynn_Vizzani" culture ="romagnol"}
+7450481={name = "dynn_Zacchiroli" culture ="romagnol"}
+7450482={name = "dynn_Zambeccari" culture ="romagnol"}
+7450483={name = "dynn_Zamboni" culture ="romagnol"}
+7450484={name = "dynn_Zanetti" culture ="romagnol"}
+7450485={name = "dynn_Zanoia" culture ="romagnol"}
+7450486={name = "dynn_Zanolini" culture ="romagnol"}
+7450487={name = "dynn_Zarri" culture ="romagnol"}
+7450488={name = "dynn_Zavalloni" culture ="romagnol"}
+7450489={name = "dynn_Zorzi" culture ="romagnol"}
+7450490={name = "dynn_Zucchelli" culture ="romagnol"}
+7450491={name = "dynn_Zurla" culture ="romagnol"}
+7450492={prefix = "de" name = "dynn_Albasi" culture ="romagnol"}
+7450493={prefix = "de" name = "dynn_Aldigeri" culture ="romagnol"}
+7450494={prefix = "de" name = "dynn_Argenta" culture ="romagnol"}
+7450495={prefix = "de" name = "dynn_Bunielli" culture ="romagnol"}
+7450496={prefix = "de" name = "dynn_C_anis" culture ="romagnol"}
+7450497={prefix = "de" name = "dynn_Castro" culture ="romagnol"}
+7450498={prefix = "de" name = "dynn_Castrocario" culture ="romagnol"}
+7450499={prefix = "de" name = "dynn_Clarentani" culture ="romagnol"}
+7450500={prefix = "de" name = "dynn_Clari" culture ="romagnol"}
+7450501={prefix = "de" name = "dynn_Clavaturo" culture ="romagnol"}
+7450502={prefix = "de" name = "dynn_Corvo" culture ="romagnol"}
+7450503={prefix = "de" name = "dynn_Crovaria" culture ="romagnol"}
+7450504={prefix = "de" name = "dynn_Florentia" culture ="romagnol"}
+7450505={prefix = "de" name = "dynn_Foscardi" culture ="romagnol"}
+7450506={prefix = "della" name = "dynn_Cavalla" culture ="romagnol"}
+7450507={prefix = "de" name = "dynn_Linario" culture ="romagnol"}
+7450508={prefix = "de" name = "dynn_Parma" culture ="romagnol"}
+7450509={prefix = "de" name = "dynn_Podesti" culture ="romagnol"}
+7450510={prefix = "de" name = "dynn_Ponte" culture ="romagnol"}
+7450511={prefix = "de" name = "dynn_Puteo" culture ="romagnol"}
+7450512={prefix = "de" name = "dynn_Tauxignano" culture ="romagnol"}
+7450513={prefix = "dalle" name = "dynn_Olle" culture ="romagnol"}
+7450514={prefix = "de" name = "dynn_Bianchi" culture ="romagnol"}
+7450515={prefix = "del" name = "dynn_Ferro" culture ="romagnol"}
+7450516={prefix = "da" name = "dynn_Meleto" culture ="romagnol"}
+7450517={prefix = "dei" name = "dynn_Liuzzi" culture ="romagnol"}
+7450518={prefix = "degli" name = "dynn_Andalo" culture ="romagnol"}
+7450519={prefix = "degli" name = "dynn_Esposti" culture ="romagnol"}
+7450520={prefix = "del" name = "dynn_Virgilio" culture ="romagnol"}
+7450521={prefix = "dalla" name = "dynn_Piazza" culture ="romagnol"}
+99001122330={name = "dynn_Amai" culture ="mediano"}
+99001122331={name = "dynn_Arcione" culture ="mediano"}
+99001122332={name = "dynn_Artes" culture ="mediano"}
+99001122333={name = "dynn_Azio" culture ="mediano"}
+99001122334={name = "dynn_Balistari" culture ="mediano"}
+99001122335={name = "dynn_Batista" culture ="mediano"}
+99001122336={name = "dynn_Battaglino" culture ="mediano"}
+99001122337={name = "dynn_Bodvit" culture ="mediano"}
+99001122338={name = "dynn_Bonello" culture ="mediano"}
+99001122339={name = "dynn_Boninsegni" culture ="mediano"}
+99001122340={name = "dynn_Brenzio" culture ="mediano"}
+99001122341={name = "dynn_Brettona" culture ="mediano"}
+99001122342={name = "dynn_Calcaneus" culture ="mediano"}
+99001122343={name = "dynn_Calrini" culture ="mediano"}
+99001122344={name = "dynn_Canponi" culture ="mediano"}
+99001122345={name = "dynn_Castellani" culture ="mediano"}
+99001122346={name = "dynn_Cellino" culture ="mediano"}
+99001122347={name = "dynn_Cerrini" culture ="mediano"}
+99001122348={name = "dynn_Chapellani" culture ="mediano"}
+99001122349={name = "dynn_Chasali" culture ="mediano"}
+99001122350={name = "dynn_Collino" culture ="mediano"}
+99001122351={name = "dynn_Corrini" culture ="mediano"}
+99001122352={name = "dynn_Deondi" culture ="mediano"}
+99001122353={name = "dynn_Famano" culture ="mediano"}
+99001122354={name = "dynn_Fanelli" culture ="mediano"}
+99001122355={name = "dynn_Fileticho" culture ="mediano"}
+99001122356={name = "dynn_Fiorentino" culture ="mediano"}
+99001122357={name = "dynn_Flores" culture ="mediano"}
+99001122358={name = "dynn_Foliot" culture ="mediano"}
+99001122359={name = "dynn_Franciotti" culture ="mediano"}
+99001122360={name = "dynn_Galbes" culture ="mediano"}
+99001122361={name = "dynn_Grazia" culture ="mediano"}
+99001122362={name = "dynn_Infessura" culture ="mediano"}
+99001122363={name = "dynn_Jachobacci" culture ="mediano"}
+99001122364={name = "dynn_Jachobini" culture ="mediano"}
+99001122365={name = "dynn_Lancilotti" culture ="mediano"}
+99001122366={name = "dynn_Leto" culture ="mediano"}
+99001122367={name = "dynn_Lippola" culture ="mediano"}
+99001122368={name = "dynn_Maffo" culture ="mediano"}
+99001122369={name = "dynn_Marcelli" culture ="mediano"}
+99001122370={name = "dynn_Marso" culture ="mediano"}
+99001122371={name = "dynn_Marzano" culture ="mediano"}
+99001122372={name = "dynn_Mazano" culture ="mediano"}
+99001122373={name = "dynn_Musciano" culture ="mediano"}
+99001122374={name = "dynn_Pagholini" culture ="mediano"}
+99001122375={name = "dynn_Palone" culture ="mediano"}
+99001122376={name = "dynn_Pandoni" culture ="mediano"}
+99001122377={name = "dynn_Pellati" culture ="mediano"}
+99001122378={name = "dynn_Perleone" culture ="mediano"}
+99001122379={name = "dynn_Ramondo" culture ="mediano"}
+99001122380={name = "dynn_Sabino" culture ="mediano"}
+99001122381={name = "dynn_Salamone" culture ="mediano"}
+99001122382={name = "dynn_Sanreno" culture ="mediano"}
+99001122383={name = "dynn_Sansoni" culture ="mediano"}
+99001122384={name = "dynn_Schantiglia" culture ="mediano"}
+99001122385={name = "dynn_Shalves" culture ="mediano"}
+99001122386={name = "dynn_Sichulo" culture ="mediano"}
+99001122387={name = "dynn_Subileo" culture ="mediano"}
+99001122388={name = "dynn_Tascha" culture ="mediano"}
+99001122389={name = "dynn_Tirun" culture ="mediano"}
+99001122390={name = "dynn_Tomaso" culture ="mediano"}
+99001122391={name = "dynn_Turchi" culture ="mediano"}
+99001122392={name = "dynn_Veltri" culture ="mediano"}
+99001122393={name = "dynn_Veronese" culture ="mediano"}
+99001122394={name = "dynn_Vestino" culture ="mediano"}
+99001122395={name = "dynn_Vines" culture ="mediano"}
+99001122396={name = "dynn_Volscho" culture ="mediano"}
+99001122397={name = "dynn_Zerbo" culture ="mediano"}
+99001122398={prefix = "da" name = "dynn_Anguillara" culture ="mediano"}
+99001122399={prefix = "da" name = "dynn_Bassano" culture ="mediano"}
+99001122400={prefix = "da" name = "dynn_Bologna" culture ="mediano"}
+99001122401={prefix = "da" name = "dynn_Caprarola" culture ="mediano"}
+99001122402={prefix = "da" name = "dynn_Chapomaestri" culture ="mediano"}
+99001122403={prefix = "da" name = "dynn_Chapranicha" culture ="mediano"}
+99001122404={prefix = "da" name = "dynn_Chastello" culture ="mediano"}
+99001122405={prefix = "da" name = "dynn_Chastro" culture ="mediano"}
+99001122406={prefix = "da" name = "dynn_Fano" culture ="mediano"}
+99001122407={prefix = "da" name = "dynn_Fiorention" culture ="mediano"}
+99001122408={prefix = "da" name = "dynn_Forli" culture ="mediano"}
+99001122409={prefix = "da" name = "dynn_Fulignio" culture ="mediano"}
+99001122410={prefix = "da" name = "dynn_Gennazano" culture ="mediano"}
+99001122411={prefix = "da" name = "dynn_Imola" culture ="mediano"}
+99001122412={prefix = "da" name = "dynn_Laquila" culture ="mediano"}
+99001122413={prefix = "da" name = "dynn_Lucha" culture ="mediano"}
+99001122414={prefix = "da" name = "dynn_Monte_Janaro" culture ="mediano"}
+99001122415={prefix = "da" name = "dynn_Narni" culture ="mediano"}
+99001122416={prefix = "da" name = "dynn_Padova" culture ="mediano"}
+99001122417={prefix = "da" name = "dynn_Parma" culture ="mediano"}
+99001122418={prefix = "da" name = "dynn_Pavia" culture ="mediano"}
+99001122419={prefix = "da" name = "dynn_Pinerolo" culture ="mediano"}
+99001122420={prefix = "da" name = "dynn_San_Gemignano" culture ="mediano"}
+99001122421={prefix = "da" name = "dynn_Siena" culture ="mediano"}
+99001122422={prefix = "da" name = "dynn_Stabia" culture ="mediano"}
+99001122423={prefix = "da" name = "dynn_Stimigliano" culture ="mediano"}
+99001122424={prefix = "da" name = "dynn_Tivoli" culture ="mediano"}
+99001122425={prefix = "da" name = "dynn_Trevigi" culture ="mediano"}
+99001122426={prefix = "da" name = "dynn_Velletri" culture ="mediano"}
+99001122427={prefix = "da" name = "dynn_Verona" culture ="mediano"}
+99001122428={prefix = "da" name = "dynn_Vinegia" culture ="mediano"}
+99001122429={prefix = "da" name = "dynn_Viterbo" culture ="mediano"}
+99001122430={prefix = "d_" name = "dynn_Andrea" culture ="mediano"}
+99001122431={prefix = "d_" name = "dynn_Antonio" culture ="mediano"}
+99001122432={prefix = "de" name = "dynn_Albertonibus" culture ="mediano"}
+99001122433={prefix = "de" name = "dynn_Amici" culture ="mediano"}
+99001122434={prefix = "de" name = "dynn_Astalli" culture ="mediano"}
+99001122435={prefix = "de" name = "dynn_Baglioni" culture ="mediano"}
+99001122436={prefix = "de" name = "dynn_Bochatti" culture ="mediano"}
+99001122437={prefix = "de" name = "dynn_Bonciis" culture ="mediano"}
+99001122438={prefix = "de" name = "dynn_Bondi" culture ="mediano"}
+99001122439={prefix = "de" name = "dynn_Boni_Auguri" culture ="mediano"}
+99001122440={prefix = "de" name = "dynn_Buonihuomini" culture ="mediano"}
+99001122441={prefix = "de" name = "dynn_Chapellanis" culture ="mediano"}
+99001122442={prefix = "de" name = "dynn_Chapello" culture ="mediano"}
+99001122443={prefix = "de" name = "dynn_Chasalli" culture ="mediano"}
+99001122444={prefix = "de" name = "dynn_Chosarii" culture ="mediano"}
+99001122445={prefix = "de" name = "dynn_Chosciari" culture ="mediano"}
+99001122446={prefix = "de" name = "dynn_Gigantibus" culture ="mediano"}
+99001122447={prefix = "de" name = "dynn_Giochi" culture ="mediano"}
+99001122448={prefix = "de" name = "dynn_Grassi" culture ="mediano"}
+99001122449={prefix = "de" name = "dynn_Japoccis" culture ="mediano"}
+99001122450={prefix = "de" name = "dynn_Johanini" culture ="mediano"}
+99001122451={prefix = "de" name = "dynn_Leoni" culture ="mediano"}
+99001122452={prefix = "de" name = "dynn_Marchia" culture ="mediano"}
+99001122453={prefix = "de" name = "dynn_Noxeto" culture ="mediano"}
+99001122454={prefix = "de" name = "dynn_Pallis" culture ="mediano"}
+99001122455={prefix = "de" name = "dynn_Planche" culture ="mediano"}
+99001122456={prefix = "de" name = "dynn_Pontechorvo" culture ="mediano"}
+99001122457={prefix = "de" name = "dynn_Propositi" culture ="mediano"}
+99001122458={prefix = "de" name = "dynn_Restituti" culture ="mediano"}
+99001122459={prefix = "de" name = "dynn_Richarti" culture ="mediano"}
+99001122460={prefix = "de" name = "dynn_Rossi" culture ="mediano"}
+99001122461={prefix = "de" name = "dynn_Santo_Severino" culture ="mediano"}
+99001122462={prefix = "de" name = "dynn_Tari" culture ="mediano"}
+99001122463={prefix = "de" name = "dynn_Tedallini" culture ="mediano"}
+99001122464={prefix = "de" name = "dynn_Tocho" culture ="mediano"}
+99001122465={prefix = "de" name = "dynn_Vari" culture ="mediano"}
+99001122466={prefix = "de" name = "dynn_Veteranis" culture ="mediano"}
+99001122467={prefix = "de" name = "dynn_Vettoris" culture ="mediano"}
+99001122468={prefix = "de" name = "dynn_Vite" culture ="mediano"}
+99001122469={prefix = "della" name = "dynn_Valle" culture ="mediano"}
+99001122470={prefix = "delle" name = "dynn_Vetere" culture ="mediano"}
+99001122471={prefix = "degli" name = "dynn_Albertoni" culture ="mediano"}
+99001122472={prefix = "d_" name = "dynn_Emigliano" culture ="mediano"}
+99001122473={prefix = "di" name = "dynn_Campo" culture ="mediano"}
+99001122474={prefix = "di" name = "dynn_Cipro" culture ="mediano"}
+99001122475={prefix = "di" name = "dynn_Giuliano" culture ="mediano"}
+99001122476={prefix = "di" name = "dynn_Gottifredi" culture ="mediano"}
+99001122477={prefix = "di" name = "dynn_Lucca" culture ="mediano"}
+99001122478={prefix = "di" name = "dynn_Santo_Ambrogio" culture ="mediano"}
+887754501={name = "dynn_Ambrello "culture = "pugliese" }
+887754502={name = "dynn_Argagnaru "culture = "pugliese" }
+887754503={name = "dynn_Barcha "culture = "pugliese" }
+887754504={name = "dynn_Bifaru "culture = "pugliese" }
+887754505={name = "dynn_Cacalupu "culture = "pugliese" }
+887754506={name = "dynn_Caldararo "culture = "pugliese" }
+887754507={name = "dynn_Chianotica "culture = "pugliese" }
+887754508={name = "dynn_Chiatto "culture = "pugliese" }
+887754509={name = "dynn_Cico "culture = "pugliese" }
+887754510={name = "dynn_Ciezo "culture = "pugliese" }
+887754511={name = "dynn_Cimusaru "culture = "pugliese" }
+887754512={name = "dynn_Clerico "culture = "pugliese" }
+887754513={name = "dynn_Cirnaro "culture = "pugliese" }
+887754514={name = "dynn_Curciu "culture = "pugliese" }
+887754515={name = "dynn_Cutraro "culture = "pugliese" }
+887754516={name = "dynn_Diamante "culture = "pugliese" }
+887754517={name = "dynn_Fragascio "culture = "pugliese" }
+887754518={name = "dynn_Furcuni "culture = "pugliese" }
+887754519={name = "dynn_Garcea "culture = "pugliese" }
+887754520={name = "dynn_Garlippa "culture = "pugliese" }
+887754521={name = "dynn_Garonfula "culture = "pugliese" }
+887754522={name = "dynn_Goletto "culture = "pugliese" }
+887754523={name = "dynn_Imbunna "culture = "pugliese" }
+887754524={name = "dynn_Lazaro "culture = "pugliese" }
+887754525={name = "dynn_Masello "culture = "pugliese" }
+887754526={name = "dynn_Marino "culture = "pugliese" }
+887754527={name = "dynn_Patara "culture = "pugliese" }
+887754528={name = "dynn_Passavante "culture = "pugliese" }
+887754529={name = "dynn_Petrilla "culture = "pugliese" }
+887754530={name = "dynn_Pumarella "culture = "pugliese" }
+887754531={name = "dynn_Randello "culture = "pugliese" }
+887754532={name = "dynn_Scataza "culture = "pugliese" }
+887754533={name = "dynn_Sciglitano "culture = "pugliese" }
+887754534={name = "dynn_Tagliavigna "culture = "pugliese" }
+887754535={name = "dynn_Tirardo "culture = "pugliese" }
+887754536={name = "dynn_Traccho "culture = "pugliese" }
+887754537={name = "dynn_Vellana "culture = "pugliese" }
+887754538={name = "dynn_Veroli "culture = "pugliese" }
+887754539={name = "dynn_Zanella "culture = "pugliese" }
+887754540={name = "dynn_Brazamontis "culture = "pugliese" }
+887754541={name = "dynn_Barberiu "culture = "pugliese" }
+887754542={name = "dynn_Basile "culture = "pugliese" }
+887754543={name = "dynn_Bisconte "culture = "pugliese" }
+887754544={name = "dynn_Calabrese "culture = "pugliese" }
+887754545={name = "dynn_Bolanus "culture = "pugliese" }
+887754546={name = "dynn_Caldarone "culture = "pugliese" }
+887754547={name = "dynn_Caldarola "culture = "pugliese" }
+887754548={name = "dynn_Candita "culture = "pugliese" }
+887754549={name = "dynn_Capolongho "culture = "pugliese" }
+887754550={name = "dynn_Cepolla "culture = "pugliese" }
+887754551={name = "dynn_Cichonus "culture = "pugliese" }
+887754552={name = "dynn_Ciriglione "culture = "pugliese" }
+887754553={name = "dynn_Coppolareus "culture = "pugliese" }
+887754554={name = "dynn_Crispus "culture = "pugliese" }
+887754555={name = "dynn_Crozius "culture = "pugliese" }
+887754556={name = "dynn_Crocio "culture = "pugliese" }
+887754557={name = "dynn_Damianu "culture = "pugliese" }
+887754558={name = "dynn_Fasulu "culture = "pugliese" }
+887754559={name = "dynn_Frizie "culture = "pugliese" }
+887754560={name = "dynn_Furone "culture = "pugliese" }
+887754561={name = "dynn_Paxarello "culture = "pugliese" }
+887754562={name = "dynn_Marcellus "culture = "pugliese" }
+887754563={name = "dynn_Maria "culture = "pugliese" }
+887754564={name = "dynn_Mele "culture = "pugliese" }
+887754565={name = "dynn_Meolo "culture = "pugliese" }
+887754566={name = "dynn_Palumo "culture = "pugliese" }
+887754567={name = "dynn_Papa "culture = "pugliese" }
+887754568={name = "dynn_Parlayolus "culture = "pugliese" }
+887754569={name = "dynn_Pinna "culture = "pugliese" }
+887754570={name = "dynn_Pesa "culture = "pugliese" }
+887754571={name = "dynn_Piza "culture = "pugliese" }
+887754572={name = "dynn_Poccolella "culture = "pugliese" }
+887754573={name = "dynn_Saltarello "culture = "pugliese" }
+887754574={name = "dynn_Potengha "culture = "pugliese" }
+887754575={name = "dynn_Scaramuza "culture = "pugliese" }
+887754576={name = "dynn_Simune "culture = "pugliese" }
+887754577={name = "dynn_Stefania "culture = "pugliese" }
+887754578={name = "dynn_Testa "culture = "pugliese" }
+887754579={name = "dynn_Vitiellu "culture = "pugliese" }
+887754580={ prefix = "dynnp_d_" name = "dynn_Aniello" culture = "pugliese" }
+887754581={ prefix = "dynnp_d_" name = "dynn_Algerio" culture = "pugliese" }
+887754582={ prefix = "dynnp_d_" name = "dynn_Autubiellu" culture = "pugliese" }
+887754583={ prefix = "dynnp_d_" name = "dynn_Arvonio" culture = "pugliese" }
+887754584={ prefix = "dynnp_d_" name = "dynn_Lisandru" culture = "pugliese" }
+887754585={ prefix = "dynnp_d_" name = "dynn_Amianu" culture = "pugliese" }
+887754586={ prefix = "dynnp_d_" name = "dynn_Abrazamonte" culture = "pugliese" }
+887754587={ prefix = "dynnp_d_" name = "dynn_Ardito" culture = "pugliese" }
+887754588={ prefix = "dynnp_d_" name = "dynn_Ariano" culture = "pugliese" }
+887754589={ prefix = "dynnp_d_" name = "dynn_Avella" culture = "pugliese" }
+887754590={ prefix = "dynnp_d_" name = "dynn_Acerra" culture = "pugliese" }
+887754591={ prefix = "dynnp_d_" name = "dynn_Aversa" culture = "pugliese" }
+887754592={ prefix = "dynnp_d_" name = "dynn_Avigliane" culture = "pugliese" }
+887754593={ prefix = "dynnp_d_" name = "dynn_Fogge" culture = "pugliese" }
+887754594={ prefix = "dynnp_d_" name = "dynn_Lucere" culture = "pugliese" }
+887754595={ prefix = "dynnp_d_" name = "dynn_Putenza" culture = "pugliese" }
+887754596={ prefix = "dynnp_d_" name = "dynn_Matare" culture = "pugliese" }
+887754597={ prefix = "dynnp_d_" name = "dynn_Caserta" culture = "pugliese" }
+887754598={ prefix = "dynnp_d_" name = "dynn_Battipaglia" culture = "pugliese" }
+887754599={ prefix = "dynnp_d_" name = "dynn_Salierne" culture = "pugliese" }
+887754600={ prefix = "dynnp_d_" name = "dynn_Nola" culture = "pugliese" }
+887754601={ prefix = "dynnp_d_" name = "dynn_Melfe" culture = "pugliese" }
+887754602={ prefix = "dynnp_d_" name = "dynn_Ceregnoule" culture = "pugliese" }
+887754603={ prefix = "dynnp_d_" name = "dynn_Rapolla" culture = "pugliese" }
+887754604={ prefix = "dynnp_d_" name = "dynn_Venose" culture = "pugliese" }
+887754605={ prefix = "dynnp_d_" name = "dynn_Andrie" culture = "pugliese" }
+887754606={ prefix = "dynnp_d_" name = "dynn_Barlette" culture = "pugliese" }
+887754607={ prefix = "dynnp_d_" name = "dynn_Bare" culture = "pugliese" }
+887754608={ prefix = "dynnp_d_" name = "dynn_Melfette" culture = "pugliese" }
+887754609={ prefix = "dynnp_d_" name = "dynn_Trane" culture = "pugliese" }
+887754610={ prefix = "dynnp_d_" name = "dynn_Canusio" culture = "pugliese" }
+887754611={ prefix = "dynnp_d_" name = "dynn_Capolongo" culture = "pugliese" }
+887754612={ prefix = "dynnp_d_" name = "dynn_Carducio" culture = "pugliese" }
+887754613={ prefix = "dynnp_d_" name = "dynn_Carluccio" culture = "pugliese" }
+887754614={ prefix = "dynnp_d_" name = "dynn_Cavallo" culture = "pugliese" }
+887754615={ prefix = "dynnp_d_" name = "dynn_Chiocula" culture = "pugliese" }
+887754616={ prefix = "dynnp_d_" name = "dynn_Corsu" culture = "pugliese" }
+887754617={ prefix = "dynnp_d_" name = "dynn_Errico" culture = "pugliese" }
+887754618={ prefix = "dynnp_d_" name = "dynn_Facio" culture = "pugliese" }
+887754619={ prefix = "dynnp_d_" name = "dynn_Fazo" culture = "pugliese" }
+887754620={ prefix = "dynnp_d_" name = "dynn_Filicella" culture = "pugliese" }
+887754621={ prefix = "dynnp_d_" name = "dynn_Ferrerio" culture = "pugliese" }
+887754622={ prefix = "dynnp_d_" name = "dynn_Forino" culture = "pugliese" }
+887754623={ prefix = "dynnp_d_" name = "dynn_Francho" culture = "pugliese" }
+887754624={ prefix = "dynnp_d_" name = "dynn_Fuccio" culture = "pugliese" }
+887754625={ prefix = "dynnp_d_" name = "dynn_Fuzio" culture = "pugliese" }
+887754626={ prefix = "dynnp_d_" name = "dynn_Furesta" culture = "pugliese" }
+887754627={ prefix = "dynnp_d_" name = "dynn_Fuscho" culture = "pugliese" }
+887754628={ prefix = "dynnp_d_" name = "dynn_Inparato" culture = "pugliese" }
+887754629={ prefix = "dynnp_d_" name = "dynn_Itro" culture = "pugliese" }
+887754630={ prefix = "dynnp_d_" name = "dynn_Landolfa" culture = "pugliese" }
+887754631={ prefix = "dynnp_d_" name = "dynn_Iulio" culture = "pugliese" }
+887754632={ prefix = "dynnp_d_" name = "dynn_Laucibia" culture = "pugliese" }
+887754633={ prefix = "dynnp_d_" name = "dynn_Lionardo" culture = "pugliese" }
+887754634={ prefix = "dynnp_d_" name = "dynn_Mari" culture = "pugliese" }
+887754635={ prefix = "dynnp_d_" name = "dynn_Menechella" culture = "pugliese" }
+887754636={ prefix = "dynnp_d_" name = "dynn_Menica" culture = "pugliese" }
+887754637={ prefix = "dynnp_d_" name = "dynn_Michio" culture = "pugliese" }
+887754638={ prefix = "dynnp_d_" name = "dynn_Malatacha" culture = "pugliese" }
+887754639={ prefix = "dynnp_d_" name = "dynn_Miele" culture = "pugliese" }
+887754640={ prefix = "dynnp_d_" name = "dynn_Minicuzo" culture = "pugliese" }
+887754641={ prefix = "dynnp_d_" name = "dynn_Monacella" culture = "pugliese" }
+887754642={ prefix = "dynnp_d_" name = "dynn_Palma" culture = "pugliese" }
+887754643={ prefix = "dynnp_d_" name = "dynn_Parisio" culture = "pugliese" }
+887754644={ prefix = "dynnp_d_" name = "dynn_Pasca" culture = "pugliese" }
+887754645={ prefix = "dynnp_d_" name = "dynn_Pascuzia" culture = "pugliese" }
+887754646={ prefix = "dynnp_d_" name = "dynn_Rennanele" culture = "pugliese" }
+887754647={ prefix = "dynnp_d_" name = "dynn_Recupito" culture = "pugliese" }
+887754648={ prefix = "dynnp_d_" name = "dynn_Rosa" culture = "pugliese" }
+887754649={ prefix = "dynnp_d_" name = "dynn_Tegora" culture = "pugliese" }
 
 ##romanesque
-998877615={name = "dynn_Accola" culture = romanesque }
-998877616={name = "dynn_Adiutor" culture = romanesque }
-998877617={name = "dynn_Agnelli" culture = romanesque }
-998877618={name = "dynn_Admirabilis" culture = romanesque }
-998877619={name = "dynn_Notarius" culture = romanesque }
-998877620={name = "dynn_Nuntorius" culture = romanesque }
-998877621={name = "dynn_Adornatus" culture = romanesque }
-998877622={name = "dynn_Fratelli" culture = romanesque }
-998877623={name = "dynn_Agripeta" culture = romanesque }
-998877624={name = "dynn_Albus" culture = romanesque }
-998877625={name = "dynn_Amicus" culture = romanesque }
-998877626={name = "dynn_Marcellini" culture = romanesque }
-998877627={name = "dynn_Ammiani" culture = romanesque }
-998877628={name = "dynn_Argentarius" culture = romanesque }
-998877629={name = "dynn_Calvus" culture = romanesque }
-998877630={name = "dynn_Caballus" culture = romanesque }
-998877631={name = "dynn_Cirratus" culture = romanesque }
-998877632={name = "dynn_Coccinus" culture = romanesque }
-998877633={name = "dynn_Medicus" culture = romanesque }
-998877634={name = "dynn_Comarchus" culture = romanesque }
-998877635={name = "dynn_Comitatus" culture = romanesque }
-998877636={name = "dynn_Compotor" culture = romanesque }
-998877637={name = "dynn_Condignus" culture = romanesque }
-998877638={name = "dynn_Consiliator " culture = romanesque }
-998877639={name = "dynn_Victorius" culture = romanesque }
-998877640={name = "dynn_Victor" culture = romanesque }
-998877641={name = "dynn_Cordatus" culture = romanesque }
-998877642={name = "dynn_Lombardus" culture = romanesque }
-998877643={name = "dynn_Romanus" culture = romanesque }
-998877644={name = "dynn_Latinus" culture = romanesque }
-998877645={name = "dynn_Cotta" culture = romanesque }
-998877646={name = "dynn_Cortonensis" culture = romanesque }
-998877647={name = "dynn_Cremonensis" culture = romanesque }
-998877648={name = "dynn_Laurentius" culture = romanesque }
-998877649={name = "dynn_Ursinus" culture = romanesque }
-998877650={name = "dynn_Felici" culture = romanesque }
-998877651={name = "dynn_Ferrarius" culture = romanesque }
-998877652={name = "dynn_Fermanus" culture = romanesque }
-998877653={name = "dynn_Genuensis" culture = romanesque }
-998877654={name = "dynn_Mediolanensis" culture = romanesque }
-998877655={name = "dynn_Honoratus" culture = romanesque }
-998877656={name = "dynn_Iohanniensis" culture = romanesque }
-998877657={name = "dynn_Maximiniani" culture = romanesque }
-998877658={name = "dynn_Paulini" culture = romanesque }
-998877659={name = "dynn_Iacobini" culture = romanesque }
-998877660={name = "dynn_Iosephini" culture = romanesque }
-998877661={name = "dynn_Stefani" culture = romanesque }
-998877662={name = "dynn_Martini" culture = romanesque }
-998877663={name = "dynn_Gregori" culture = romanesque }
-998877664={name = "dynn_Faber" culture = romanesque }
-998877665={name = "dynn_Calzolarius" culture = romanesque }
-998877666={name = "dynn_Fornarius" culture = romanesque }
-998877667={name = "dynn_Tabernarius" culture = romanesque }
-998877668={name = "dynn_Pellicciarius" culture = romanesque }
-998877669={name = "dynn_Vinarius" culture = romanesque }
-998877670={name = "dynn_Coiarius" culture = romanesque }
-998877671={name = "dynn_Magister" culture = romanesque }
-998877672={name = "dynn_Guidi" culture = romanesque }
-998877673={name = "dynn_Arcarius" culture = romanesque }
-998877674={name = "dynn_Barberius" culture = romanesque }
-998877675={name = "dynn_Scudarius" culture = romanesque }
-998877676={name = "dynn_Ervarius" culture = romanesque }
-998877677={name = "dynn_Coltellarius" culture = romanesque }
-998877678={name = "dynn_Buanacorsi" culture = romanesque }
-998877679={name = "dynn_Pellarius" culture = romanesque }
-998877680={name = "dynn_Pannarius" culture = romanesque }
-998877681={name = "dynn_Pieri" culture = romanesque }
-998877682={name = "dynn_Petri" culture = romanesque }
-998877683={name = "dynn_Piczicaiolus" culture = romanesque }
-998877684={name = "dynn_Rossus" culture = romanesque }
-998877685={name = "dynn_Corsus" culture = romanesque }
-998877686={name = "dynn_Ranerii" culture = romanesque }
-998877687={name = "dynn_Gherardi" culture = romanesque }
-998877688={name = "dynn_Ildibrandi" culture = romanesque }
-998877689={name = "dynn_Ugolini" culture = romanesque }
-998877690={name = "dynn_Vicecomes" culture = romanesque }
-998877691={name = "dynn_Simonis" culture = romanesque }
-998877692={name = "dynn_Bernardi" culture = romanesque }
-998877693={name = "dynn_Marinarius" culture = romanesque }
-998877694={name = "dynn_Falconis" culture = romanesque }
-998877695={name = "dynn_Lanberti" culture = romanesque }
-998877696={name = "dynn_Bianchus" culture = romanesque }
-998877697={name = "dynn_Orlandi" culture = romanesque }
-998877698={name = "dynn_Ruberti" culture = romanesque }
-998877699={name = "dynn_Piscator" culture = romanesque }
-998877700={name = "dynn_Florentius" culture = romanesque }
-998877701={name = "dynn_Pandolfi" culture = romanesque }
-998877702={name = "dynn_Sannutus" culture = romanesque }
-998877703={name = "dynn_Rustichus" culture = romanesque }
-998877704={name = "dynn_Castaldus" culture = romanesque }
-998877705={name = "dynn_Longus" culture = romanesque }
-998877706={name = "dynn_Rubeus" culture = romanesque }
-998877707={name = "dynn_Sinibaldi" culture = romanesque }
-998877708={name = "dynn_Spadarius" culture = romanesque }
-998877709={name = "dynn_Sacchi" culture = romanesque }
-998877710={name = "dynn_Becconarius" culture = romanesque }
-998877711={name = "dynn_Bocca" culture = romanesque }
-998877712={name = "dynn_Paganus" culture = romanesque }
-998877713={name = "dynn_Tedesscus" culture = romanesque }
-998877714={name = "dynn_Vecchius" culture = romanesque }
-998877715={name = "dynn_Vitalis" culture = romanesque }
-998877716={name = "dynn_Custodius" culture = romanesque }
-998877717={name = "dynn_Villanus" culture = romanesque }
-998877718={name = "dynn_Molinarius" culture = romanesque }
-998877719={name = "dynn_Metallarius" culture = romanesque }
-998877720={name = "dynn_Lupus" culture = romanesque }
-998877721={name = "dynn_Draco" culture = romanesque }
-998877722={name = "dynn_Abardo" culture = romanesque }
-998877723={name = "dynn_Adimari" culture = romanesque }
-998877724={name = "dynn_Adinolfi" culture = romanesque }
-998877725={name = "dynn_Airoldi" culture = romanesque }
-998877726={name = "dynn_Alari" culture = romanesque }
-998877727={name = "dynn_Albizzi" culture = romanesque }
-998877728={name = "dynn_Alducci" culture = romanesque }
-998877729={name = "dynn_Aliprandi" culture = romanesque }
-998877730={name = "dynn_Altimari" culture = romanesque }
-998877731={name = "dynn_Ansaldi" culture = romanesque }
-998877732={name = "dynn_Ansuini" culture = romanesque }
-998877733={name = "dynn_Arachi" culture = romanesque }
-998877734={name = "dynn_Azzi" culture = romanesque }
-998877735={name = "dynn_Bonichi" culture = romanesque }
-998877736={name = "dynn_Boniperti" culture = romanesque }
-998877737={name = "dynn_Castaldi" culture = romanesque }
-998877738={name = "dynn_Dondi" culture = romanesque }
-998877739={name = "dynn_Garibaldi" culture = romanesque }
-998877740={name = "dynn_Landolfini" culture = romanesque }
-998877741={name = "dynn_Longobardi" culture = romanesque }
-998877742={name = "dynn_Magnolfi" culture = romanesque }
-998877743={name = "dynn_Pertini" culture = romanesque }
-998877744={name = "dynn_Siccardi" culture = romanesque }
-998877745={name = "dynn_Zilli" culture = romanesque }
-998877746={name = "dynn_Muccioli" culture = romanesque }
-998877747={name = "dynn_Baroncini" culture = romanesque }
-998877748={name = "dynn_Boni" culture = romanesque }
-998877749={name = "dynn_Pacifici" culture = romanesque }
-998877750={name = "dynn_Dominici" culture = romanesque }
-998877751={name = "dynn_Fabiani" culture = romanesque }
-998877752={name = "dynn_Fulcoldi" culture = romanesque }
-998877753={name = "dynn_Urselli" culture = romanesque }
-998877754={name = "dynn_Baruttoli" culture = romanesque }
-998877755={name = "dynn_Valenti" culture = romanesque }
-998877756={name = "dynn_Adoaldi" culture = romanesque }
-998877757={name = "dynn_Sparani" culture = romanesque }
+998877615={name = "dynn_Accola" culture = "romanesque" }
+998877616={name = "dynn_Adiutor" culture = "romanesque" }
+998877617={name = "dynn_Agnelli" culture = "romanesque" }
+998877618={name = "dynn_Admirabilis" culture = "romanesque" }
+998877619={name = "dynn_Notarius" culture = "romanesque" }
+998877620={name = "dynn_Nuntorius" culture = "romanesque" }
+998877621={name = "dynn_Adornatus" culture = "romanesque" }
+998877622={name = "dynn_Fratelli" culture = "romanesque" }
+998877623={name = "dynn_Agripeta" culture = "romanesque" }
+998877624={name = "dynn_Albus" culture = "romanesque" }
+998877625={name = "dynn_Amicus" culture = "romanesque" }
+998877626={name = "dynn_Marcellini" culture = "romanesque" }
+998877627={name = "dynn_Ammiani" culture = "romanesque" }
+998877628={name = "dynn_Argentarius" culture = "romanesque" }
+998877629={name = "dynn_Calvus" culture = "romanesque" }
+998877630={name = "dynn_Caballus" culture = "romanesque" }
+998877631={name = "dynn_Cirratus" culture = "romanesque" }
+998877632={name = "dynn_Coccinus" culture = "romanesque" }
+998877633={name = "dynn_Medicus" culture = "romanesque" }
+998877634={name = "dynn_Comarchus" culture = "romanesque" }
+998877635={name = "dynn_Comitatus" culture = "romanesque" }
+998877636={name = "dynn_Compotor" culture = "romanesque" }
+998877637={name = "dynn_Condignus" culture = "romanesque" }
+998877638={name = "dynn_Consiliator " culture = "romanesque" }
+998877639={name = "dynn_Victorius" culture = "romanesque" }
+998877640={name = "dynn_Victor" culture = "romanesque" }
+998877641={name = "dynn_Cordatus" culture = "romanesque" }
+998877642={name = "dynn_Lombardus" culture = "romanesque" }
+998877643={name = "dynn_Romanus" culture = "romanesque" }
+998877644={name = "dynn_Latinus" culture = "romanesque" }
+998877645={name = "dynn_Cotta" culture = "romanesque" }
+998877646={name = "dynn_Cortonensis" culture = "romanesque" }
+998877647={name = "dynn_Cremonensis" culture = "romanesque" }
+998877648={name = "dynn_Laurentius" culture = "romanesque" }
+998877649={name = "dynn_Ursinus" culture = "romanesque" }
+998877650={name = "dynn_Felici" culture = "romanesque" }
+998877651={name = "dynn_Ferrarius" culture = "romanesque" }
+998877652={name = "dynn_Fermanus" culture = "romanesque" }
+998877653={name = "dynn_Genuensis" culture = "romanesque" }
+998877654={name = "dynn_Mediolanensis" culture = "romanesque" }
+998877655={name = "dynn_Honoratus" culture = "romanesque" }
+998877656={name = "dynn_Iohanniensis" culture = "romanesque" }
+998877657={name = "dynn_Maximiniani" culture = "romanesque" }
+998877658={name = "dynn_Paulini" culture = "romanesque" }
+998877659={name = "dynn_Iacobini" culture = "romanesque" }
+998877660={name = "dynn_Iosephini" culture = "romanesque" }
+998877661={name = "dynn_Stefani" culture = "romanesque" }
+998877662={name = "dynn_Martini" culture = "romanesque" }
+998877663={name = "dynn_Gregori" culture = "romanesque" }
+998877664={name = "dynn_Faber" culture = "romanesque" }
+998877665={name = "dynn_Calzolarius" culture = "romanesque" }
+998877666={name = "dynn_Fornarius" culture = "romanesque" }
+998877667={name = "dynn_Tabernarius" culture = "romanesque" }
+998877668={name = "dynn_Pellicciarius" culture = "romanesque" }
+998877669={name = "dynn_Vinarius" culture = "romanesque" }
+998877670={name = "dynn_Coiarius" culture = "romanesque" }
+998877671={name = "dynn_Magister" culture = "romanesque" }
+998877672={name = "dynn_Guidi" culture = "romanesque" }
+998877673={name = "dynn_Arcarius" culture = "romanesque" }
+998877674={name = "dynn_Barberius" culture = "romanesque" }
+998877675={name = "dynn_Scudarius" culture = "romanesque" }
+998877676={name = "dynn_Ervarius" culture = "romanesque" }
+998877677={name = "dynn_Coltellarius" culture = "romanesque" }
+998877678={name = "dynn_Buanacorsi" culture = "romanesque" }
+998877679={name = "dynn_Pellarius" culture = "romanesque" }
+998877680={name = "dynn_Pannarius" culture = "romanesque" }
+998877681={name = "dynn_Pieri" culture = "romanesque" }
+998877682={name = "dynn_Petri" culture = "romanesque" }
+998877683={name = "dynn_Piczicaiolus" culture = "romanesque" }
+998877684={name = "dynn_Rossus" culture = "romanesque" }
+998877685={name = "dynn_Corsus" culture = "romanesque" }
+998877686={name = "dynn_Ranerii" culture = "romanesque" }
+998877687={name = "dynn_Gherardi" culture = "romanesque" }
+998877688={name = "dynn_Ildibrandi" culture = "romanesque" }
+998877689={name = "dynn_Ugolini" culture = "romanesque" }
+998877690={name = "dynn_Vicecomes" culture = "romanesque" }
+998877691={name = "dynn_Simonis" culture = "romanesque" }
+998877692={name = "dynn_Bernardi" culture = "romanesque" }
+998877693={name = "dynn_Marinarius" culture = "romanesque" }
+998877694={name = "dynn_Falconis" culture = "romanesque" }
+998877695={name = "dynn_Lanberti" culture = "romanesque" }
+998877696={name = "dynn_Bianchus" culture = "romanesque" }
+998877697={name = "dynn_Orlandi" culture = "romanesque" }
+998877698={name = "dynn_Ruberti" culture = "romanesque" }
+998877699={name = "dynn_Piscator" culture = "romanesque" }
+998877700={name = "dynn_Florentius" culture = "romanesque" }
+998877701={name = "dynn_Pandolfi" culture = "romanesque" }
+998877702={name = "dynn_Sannutus" culture = "romanesque" }
+998877703={name = "dynn_Rustichus" culture = "romanesque" }
+998877704={name = "dynn_Castaldus" culture = "romanesque" }
+998877705={name = "dynn_Longus" culture = "romanesque" }
+998877706={name = "dynn_Rubeus" culture = "romanesque" }
+998877707={name = "dynn_Sinibaldi" culture = "romanesque" }
+998877708={name = "dynn_Spadarius" culture = "romanesque" }
+998877709={name = "dynn_Sacchi" culture = "romanesque" }
+998877710={name = "dynn_Becconarius" culture = "romanesque" }
+998877711={name = "dynn_Bocca" culture = "romanesque" }
+998877712={name = "dynn_Paganus" culture = "romanesque" }
+998877713={name = "dynn_Tedesscus" culture = "romanesque" }
+998877714={name = "dynn_Vecchius" culture = "romanesque" }
+998877715={name = "dynn_Vitalis" culture = "romanesque" }
+998877716={name = "dynn_Custodius" culture = "romanesque" }
+998877717={name = "dynn_Villanus" culture = "romanesque" }
+998877718={name = "dynn_Molinarius" culture = "romanesque" }
+998877719={name = "dynn_Metallarius" culture = "romanesque" }
+998877720={name = "dynn_Lupus" culture = "romanesque" }
+998877721={name = "dynn_Draco" culture = "romanesque" }
+998877722={name = "dynn_Abardo" culture = "romanesque" }
+998877723={name = "dynn_Adimari" culture = "romanesque" }
+998877724={name = "dynn_Adinolfi" culture = "romanesque" }
+998877725={name = "dynn_Airoldi" culture = "romanesque" }
+998877726={name = "dynn_Alari" culture = "romanesque" }
+998877727={name = "dynn_Albizzi" culture = "romanesque" }
+998877728={name = "dynn_Alducci" culture = "romanesque" }
+998877729={name = "dynn_Aliprandi" culture = "romanesque" }
+998877730={name = "dynn_Altimari" culture = "romanesque" }
+998877731={name = "dynn_Ansaldi" culture = "romanesque" }
+998877732={name = "dynn_Ansuini" culture = "romanesque" }
+998877733={name = "dynn_Arachi" culture = "romanesque" }
+998877734={name = "dynn_Azzi" culture = "romanesque" }
+998877735={name = "dynn_Bonichi" culture = "romanesque" }
+998877736={name = "dynn_Boniperti" culture = "romanesque" }
+998877737={name = "dynn_Castaldi" culture = "romanesque" }
+998877738={name = "dynn_Dondi" culture = "romanesque" }
+998877739={name = "dynn_Garibaldi" culture = "romanesque" }
+998877740={name = "dynn_Landolfini" culture = "romanesque" }
+998877741={name = "dynn_Longobardi" culture = "romanesque" }
+998877742={name = "dynn_Magnolfi" culture = "romanesque" }
+998877743={name = "dynn_Pertini" culture = "romanesque" }
+998877744={name = "dynn_Siccardi" culture = "romanesque" }
+998877745={name = "dynn_Zilli" culture = "romanesque" }
+998877746={name = "dynn_Muccioli" culture = "romanesque" }
+998877747={name = "dynn_Baroncini" culture = "romanesque" }
+998877748={name = "dynn_Boni" culture = "romanesque" }
+998877749={name = "dynn_Pacifici" culture = "romanesque" }
+998877750={name = "dynn_Dominici" culture = "romanesque" }
+998877751={name = "dynn_Fabiani" culture = "romanesque" }
+998877752={name = "dynn_Fulcoldi" culture = "romanesque" }
+998877753={name = "dynn_Urselli" culture = "romanesque" }
+998877754={name = "dynn_Baruttoli" culture = "romanesque" }
+998877755={name = "dynn_Valenti" culture = "romanesque" }
+998877756={name = "dynn_Adoaldi" culture = "romanesque" }
+998877757={name = "dynn_Sparani" culture = "romanesque" }
