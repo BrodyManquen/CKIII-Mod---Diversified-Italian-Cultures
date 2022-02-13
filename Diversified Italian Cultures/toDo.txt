@@ -1,3 +1,0 @@
-Recent update:
-	fixed localization for many dynasty names
-	slimmed down namelists for most cultures to prevent repeats

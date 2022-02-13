@@ -45,7 +45,7 @@
 	religion = catholic
 	holding = castle_holding
 	950.1.1 = {
-		culture = venetian
+		culture = carantanian
 	}
 }
 2515 = {	#TRIGLAVSKI
