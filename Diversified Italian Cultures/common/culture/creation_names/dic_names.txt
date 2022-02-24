@@ -1,0 +1,170 @@
+﻿# New
+friulian = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_friuli = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_friuli
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_friuli
+		}
+	}
+}
+
+abruzzese = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_spoleto = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_spoleto
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_spoleto
+		}
+	}
+}
+
+marchese = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_ancona = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_ancona
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_ancona
+		}
+	}
+}
+
+laziale = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_latium = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_latium
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_latium
+		}
+	}
+}
+
+campanian = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_capua = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			capital_county = {
+				title:d_benevento = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_capua
+			has_primary_title = title:d_benevento
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			OR = {
+				duchy = title:d_capua
+				duchy = title:d_benevento
+			}
+		}
+	}
+}
+
+lucanian = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_salerno = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_salerno
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_salerno
+		}
+	}
+}
+
+calabrese = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_calabria = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_calabria
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_calabria
+		}
+	}
+}
+
+corsican = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:d_corsica = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			has_primary_title = title:d_corsica
+		}
+		culture = { has_cultural_pillar = heritage_latin }
+		any_sub_realm_county = {
+			culture = { has_cultural_pillar = heritage_latin }
+			duchy = title:d_corsica
+		}
+	}
+}
+
+# Removed
+venetian = {
+	trigger = { always = no }
+}
+
+ligurian = {
+	trigger = { always = no }
+}
+
+romagnol = {
+	trigger = { always = no }
+}
+
+tuscan = {
+	trigger = { always = no }
+}

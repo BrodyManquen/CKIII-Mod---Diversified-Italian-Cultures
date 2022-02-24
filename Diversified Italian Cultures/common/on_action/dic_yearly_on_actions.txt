@@ -1,0 +1,70 @@
+﻿# Called every Jan 1st
+# Root does not exist
+yearly_global_pulse = {
+	on_actions = {
+		yearly_global_pulse_dic
+	}
+}
+
+yearly_global_pulse_dic = {
+	effect = {
+		# Italian culture split.
+		if = {
+			limit = {
+				current_date < 1000.1.1
+				NOT = { has_global_variable = italian_culture_split }
+				current_date >= 900.1.1
+			}
+			random = {
+				chance = 5       # 5% chance
+				modifier = {
+					add = 10 # 15% chance
+					current_date >= 910.1.1
+				}
+				modifier = {
+					add = 10 # 25% chance
+					current_date >= 920.1.1
+				}
+				modifier = {
+					add = 20 # 45% chance
+					current_date >= 935.1.1
+				}
+				modifier = {
+					add = 20 # 65% chance
+					current_date >= 945.1.1
+				}
+				modifier = {
+					add = 20 # 85% chance
+					current_date >= 960.1.1
+				}
+				modifier = {
+					add = 15 # 100% chance
+					current_date >= 970.1.1
+				}
+				set_global_variable = {
+					name = italian_culture_split
+					value = yes
+				}
+				trigger_event = {
+					id = global_culture.3015
+					days = { 60 300 }
+				}
+			}
+		}
+	}
+}
+
+# Called from code once every three years for "playable" (count+) characters.
+# Root is the character
+three_year_playable_pulse = {
+	on_actions = {
+		three_year_playable_pulse_dic
+	}
+}
+three_year_playable_pulse_dic = {
+	random_events = {
+		800 = 0
+		200 = global_culture.3013
+		600 = global_culture.3014
+	}
+}

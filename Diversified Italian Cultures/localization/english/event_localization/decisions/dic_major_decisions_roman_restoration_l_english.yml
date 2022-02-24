@@ -1,0 +1,23 @@
+﻿l_english:
+# Restoring Roman Empire as Byzantium, by Henrik Thyrwall & Flavio Verna
+ roman_restoration.0001.desc.muslims:0 "The Imperium Romanum stands strong once more, restored to its ancient glory under my enlightened rule, ready to spread civilization, safety, and the holy light of Allah the Protector to all the corners of the known world. The world is dismissive of a Muslim Roman Emperor... but we remind them that Rome was not always Christian! For the Senate and People of Rome!"
+ roman_restoration.0002.desc.wre:0 "The unthinkable has happened! The Greek pretenders have managed to carve a bloodied path through Italy and Africa and claim the very heartland of our once glorious Empire, even taking Rome as they once did centuries ago.\n\nHaving restored most of the ancient provinces under [scoped_emperor.GetHerHis] rule, [scoped_emperor.GetTitledFirstName] has declared the Roman Empire to be restored under [scoped_emperor.GetHerHis] barbarous leadership."
+ roman_restoration.0002.desc:0 "The Byzantines, previously referred to as the "Empire of the Greeks" by many in the West, have somehow managed to reclaim enough lost territory to declare the Roman Empire restored!"
+ roman_restoration.0002.desc.christians:0 "\n\nIt can no longer be denied that they are the true successors of Rome and its glorious legacy. A new era is upon us."
+ roman_restoration.0002.desc.hellenics:0 "\n\nEven more surprising, this new Roman Empire has rejected Christianity in favor of the pagan gods of old! If not stopped soon, this new tide of heathenry could threaten the very survival of Christianity!"
+ roman_restoration.0002.desc.muslims:0 "\n\nEven more surprising, this new Roman Empire is supposedly Muslim, claiming the Empire of Christendom as their own! If not stopped soon, this new tide of heathenry could threaten the very survival of Christianity!"
+
+# Restoring Roman Empire as HRE, by Flavio Verna
+ roman_restoration.0004.desc.wre:0 "The unthinkable has happened! The German pretenders have managed to carve a bloodied path through Italy and Africa and claim the very heartland of our once glorious Empire, even taking Rome as they once did centuries ago.\n\nHaving restored most of the ancient provinces under [scoped_emperor.GetHerHis] rule, [scoped_emperor.GetTitledFirstName] has declared the Roman Empire to be restored under [scoped_emperor.GetHerHis] barbarous leadership."
+ 
+# Restoring Western Roman Empire, by Flavio Verna
+ roman_restoration.0180.t:0 "From Rome to Rome"
+ roman_restoration.0180.desc:0 "In absence of a definitive Roman State, the title of Roman Emperor has been contested by the Germans to the North and the Greeks to the East. Although both claimed authority over the lands of the West, neither controlled it entirely.\n\nWith the Western Provinces of the old Empire united under a single banner once more, it is only fitting that their ruler bears the title of Emperor in the West. After all, what greater claim to the title of Roman Emperor is there than ruling from Rome itself?\n\nWhile the German and Greek pretenders might continue to deny our legitimacy, the legions of the Empire are poised to spread out from the Eternal City and bring its foes to heel as they did centuries ago."
+ roman_restoration.0180.a:0 "Vae Victis!"
+ roman_restoration.0181.t:0 "A New Dawn in the West"
+ roman_restoration.0181.desc:0 "While the title of Roman Emperor has been contested for some time now, no ruler has held control of all of the old Empire’s Western Provinces, or even most of them, until today.\n\nRuling from the city of Rome in the heartland of the Empire, [scoped_emperor.GetTitledFirstName] has proclaimed [scoped_emperor.GetHerselfHimself] as the true Roman Emperor in the West. With so much of the Empire’s old territory under [scoped_emperor.GetHerHis] control, it is hard is dismiss this claim outright."
+ 
+ roman_restoration.0181.a:0 "Another one? How long will this 'Roman Empire' last?"
+ roman_restoration.0181.b:0 "Barbarous [scoped_emperor.GetCulture.GetName], #emphasis I#! am the Roman Emperor!"
+ roman_restoration.0181.c:0 "Let us hope the empire proves peaceful."
+ roman_restoration.0181.d:0 "A glorious spectacle!"

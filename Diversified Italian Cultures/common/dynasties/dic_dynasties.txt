@@ -1,0 +1,44 @@
+﻿10222400 = {
+	name = "dynn_nepos"
+	culture = "roman"
+}
+10222410 = {
+	name = "dynn_glycerius"
+	culture = "roman"
+}
+10222420 = {
+	name = "dynn_johannes"
+	culture = "roman"
+}
+10222350 = {
+	name = "dynn_eparchius"
+	culture = "roman"
+}
+10222360 = {
+	name = "dynn_valerius"
+	culture = "roman"
+}
+10222370 = {
+	name = "dynn_severus"
+	culture = "roman"
+}
+10222380 = {
+	name = "dynn_procopius"
+	culture = "roman"
+}
+10222340 = {
+	name = "dynn_anicius"
+	culture = "roman"
+}
+102223400 = {
+	name = "dynn_areobindus"
+	culture = "visigothic"
+}
+102223410 = {
+	name = "dynn_ardaburius"
+	culture = "alan"
+} 
+vanity_manquen = {
+	name = "vanity_manquen" 
+	culture = "ashkenazi"
+}

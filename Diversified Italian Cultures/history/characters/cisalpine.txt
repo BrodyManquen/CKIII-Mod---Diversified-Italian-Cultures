@@ -119,6 +119,32 @@
 	}
 }
 
+1115 = {
+	name = "Adelaide" # Adelaide Ardoinici, Duchess of Piedmonte (1034-1037, 1038-1041 & 1045-1046)
+	female = yes
+	dynasty = 680
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "french"
+	trait = diligent
+	trait = education_stewardship_2
+
+	father = 10081
+	mother = 167943
+
+	1016.9.1 = {
+		birth = yes
+	}
+	1091.12.27 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
 1118 = {
 	name = "Alberto-Azzo" # Alberto Azzo (II) Obertenghi, Duke of Lombardia (1029-1097), Count of Maine (1069-1070) and Luni (1029-1097)
 	dynasty_house = house_obertenghi
@@ -182,6 +208,33 @@
 	}
 	1316.1.1 = {
 		death = yes
+	}
+}
+
+7727 = {
+	name = "Aleram" # Aleramo Aleramicci, Count of Montferrato (967-991)
+	dynasty = 206
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "french"
+	trait = calm
+	trait = education_martial_3
+
+	father = french0001
+
+	904.1.1 = {
+		birth = yes
+	}
+	#961.7.1 = {
+	#	add_spouse = Gilberga d'Ivrea
+	#}
+	991.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
 	}
 }
 
@@ -394,6 +447,32 @@
 	}
 }
 
+10081 = {
+	name = "Olderico_Manfredi" # Olderico Manfredi (II) Ardoinici, Duke of Piedmonte (1000-1034), Count of Cuneo (1000-1034) and Cavanese (1001-1002)
+	dynasty = 680
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "french"
+
+	father = 167961
+	mother = italian0030
+
+	979.1.1 = {
+		birth = yes
+	}
+	1016.1.1 = {
+		add_spouse = 167943
+	}
+	1034.10.29 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
 20298 = {
 	name = "Ugo" # Ugo (V) Obertenghi, Count of Maine (1070-1093) and Pavia (1097-1101)
 	dynasty_house = house_obertenghi
@@ -412,10 +491,10 @@
 		birth = yes
 	}
 	1066.1.1 = {
-		add_pressed_claim = c_maine
+		add_pressed_claim = title:c_maine
 	}
 	1069.1.1 = {
-		remove_claim = c_maine
+		remove_claim = title:c_maine
 	}
 	1080.1.1 = {
 		add_spouse = 161113
@@ -425,7 +504,7 @@
 		trait = excommunicated
 	}
 	1093.1.1 = {
-		add_pressed_claim = c_maine
+		add_pressed_claim = title:c_maine
 		remove_trait = excommunicated
 	}
 	1131.1.1 = {
@@ -435,7 +514,7 @@
 
 20299 = {
 	name = "Folco" # Folco (I) d'Este, Duke of Lombardia (1097-1128), Count of Luni (1097-1128)
-	dynasty_house = house_obertenghi
+	dynasty_house = house_este
 	martial = 5
 	diplomacy = 8
 	intrigue = 4
@@ -1474,7 +1553,7 @@
 	female = yes
 	dynasty = 206
 	religion = catholic
-	culture = "piedmontese"
+	culture = piedmontese
 
 	father = 33364
 	mother = 33367
@@ -1737,7 +1816,7 @@
 	name = "Alberto-Azzo" # Alberto Azzo (I) Obertenghi, Duke of Lombardia (1014-10294), Count of Luni (1014-1029)
 	dynasty_house = house_obertenghi
 	religion = catholic
-	culture = "lombard"
+	culture = lombard
 
 	father = 70629
 
@@ -1746,6 +1825,81 @@
 	}
 	1029.1.1 = {
 		death = yes
+	}
+}
+
+70629 = {
+	name = "Oberto" # Oberto (II) Obertenghi, Duke of Lombardia (975-996 & 1002-1014), Count of Luni (975-1014) and Lombardia (975-979)
+	dynasty_house = house_obertenghi
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "french"
+	trait = content
+	trait = shy
+	trait = education_martial_1
+
+	father = 70630
+
+	950.1.1 = {
+		birth = yes
+	}
+	1014.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+70630 = {
+	name = "Oberto" # Oberto (I) Obertenghi, Duke of Lombardia (951-975), Count of Luni (951-975)
+	dynasty_house = house_obertenghi
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "french"
+	trait = brave
+	trait = ambitious
+	trait = education_martial_2
+
+	father = 261385
+
+	923.1.1 = {
+		birth = yes
+	}
+	975.10.15 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+70631 = {
+	name = "Adalberto" # Adalberto (II) di Massa, Duke of Lombardia (996-1002)
+	dynasty_house = house_massa
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "french"
+	trait = arrogant
+	trait = craven
+	trait = education_stewardship_2
+
+	father = 70630
+
+	945.1.1 = {
+		birth = yes
+	}
+	1002.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
 	}
 }
 
@@ -1891,6 +2045,34 @@
 		death = yes
 	}
 }
+
+70639 = {
+	name = "Berta" # Berta Ardoinici, Countess of Cuneo (1034-1053 & 1064-1065), wife of Oddone of Cuneo
+	dynasty = 680
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "french"
+	trait = greedy
+	trait = chaste
+	trait = education_intrigue_1
+
+	father = 10081
+	mother = 167943
+
+	1022.1.1 = {
+		birth = yes
+	}
+	1065.4.22 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
 70640 = {
 	name = "Alberto" # Alberto di Cambiano
 	dynasty = 8680
@@ -2210,7 +2392,6 @@
 		death = yes
 	}
 }
-
 70655 = {
 	name = "Ezzelino" # Ezzelino (II) da Romano 'the Monk', Podestà of Treviso (1190-1192 and 1219-1223)
 	dynasty = 13025
@@ -2219,7 +2400,7 @@
 	intrigue = 3
 	stewardship = 4
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = diligent
 	trait = calm
 	trait = education_martial_3
@@ -2255,7 +2436,7 @@
 	intrigue = 4
 	stewardship = 5
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = chaste
 	trait = education_diplomacy_3
 
@@ -2269,7 +2450,6 @@
 		death = yes
 	}
 }
-
 
 70658 = {
 	name = "Aldobrandino" # Aldobrandino (I) d'Este, Duke of Romagna (1212-1215)
@@ -2391,7 +2571,7 @@
 	intrigue = 3
 	stewardship = 5
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = temperate
 	trait = greedy
 	trait = education_diplomacy_1
@@ -2414,7 +2594,7 @@
 	intrigue = 6
 	stewardship = 5
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = lazy
 	trait = brave
 	trait = education_martial_2
@@ -2721,16 +2901,16 @@
 		add_spouse = 70679
 	}
 	1306.1.1 = {
-		add_pressed_claim = c_modena
+		add_pressed_claim = title:c_modena
 	}
 	1308.1.31 = {
-		add_pressed_claim = d_romagna
+		add_pressed_claim = title:d_romagna
 	}
 	1310.1.1 = {
-		add_pressed_claim = c_ferrara
+		add_pressed_claim = title:c_ferrara
 	}
 	1317.1.1 = {
-		remove_claim = d_romagna
+		remove_claim = title:d_romagna
 	}
 	1326.7.26 = {
 		death = {
@@ -2762,7 +2942,7 @@
 		add_spouse = 70858
 	}
 	1308.1.31 = {
-		add_pressed_claim = d_romagna
+		add_pressed_claim = title:d_romagna
 	}
 	1312.8.23 = {
 		death = yes
@@ -2888,8 +3068,8 @@
 		birth = yes
 	}
 	1309.1.1 = {
-		add_pressed_claim = d_romagna
-		add_pressed_claim = c_ferrara
+		add_pressed_claim = title:d_romagna
+		add_pressed_claim = title:c_ferrara
 	}
 	1351.1.1 = {
 		death = yes
@@ -3653,10 +3833,10 @@
 		add_spouse = cisalpine0187
 	}
 	1257.1.1 = {
-		add_pressed_claim = d_lombardia
+		add_pressed_claim = title:d_lombardia
 	}
 	1259.1.1 = {
-		remove_claim = d_lombardia
+		remove_claim = title:d_lombardia
 	}
 	1269.5.8 = {
 		death = yes
@@ -4021,10 +4201,10 @@
 		birth = yes
 	}
 	1281.5.21 = {
-		add_pressed_claim = d_lombardia
+		add_pressed_claim = title:d_lombardia
 	}
 	1302.1.1 = {
-		remove_claim = d_lombardia
+		remove_claim = title:d_lombardia
 		add_spouse = cisalpine0525
 	}
 	1312.3.1 = {
@@ -4166,10 +4346,10 @@
 		birth = yes
 	}
 	1247.1.1 = {
-		add_pressed_claim = d_lombardia
+		add_pressed_claim = title:d_lombardia
 	}
 	1257.1.1 = {
-		remove_claim = d_lombardia
+		remove_claim = title:d_lombardia
 	}
 	1263.11.20 = {
 		death = {
@@ -4196,10 +4376,10 @@
 		birth = yes
 	}
 	1259.1.1 = {
-		add_pressed_claim = d_lombardia
+		add_pressed_claim = title:d_lombardia
 	}
 	1264.1.1 = {
-		remove_claim = d_lombardia
+		remove_claim = title:d_lombardia
 	}
 	1265.12.1 = {
 		death = yes
@@ -5856,7 +6036,7 @@
 	intrigue = 5
 	stewardship = 6
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = education_martial_4
 	trait = zealous
 
@@ -6169,7 +6349,7 @@
 	intrigue = 6
 	stewardship = 7
 	religion = "catholic"
-	culture = "lombard"
+	culture = "venetian"
 	trait = sadistic
 	trait = lunatic_1
 	trait = education_martial_3
@@ -11110,8 +11290,8 @@
 		birth = yes
 	}
 	1242.1.1 = {
-		add_pressed_claim = c_ajaccio
-		add_pressed_claim = c_bastia
+		add_pressed_claim = title:c_ajaccio
+		add_pressed_claim = title:c_bastia
 	}
 	1253.1.1 = {
 		death = yes
@@ -11137,8 +11317,8 @@
 		birth = yes
 	}
 	1242.1.1 = {
-		add_pressed_claim = c_ajaccio
-		add_pressed_claim = c_bastia
+		add_pressed_claim = title:c_ajaccio
+		add_pressed_claim = title:c_bastia
 	}
 	1276.1.1 = {
 		death = yes
@@ -11402,8 +11582,8 @@
 		birth = yes
 	}
 	1191.1.1 = {
-		add_pressed_claim = c_ajaccio
-		add_pressed_claim = c_bastia
+		add_pressed_claim = title:c_ajaccio
+		add_pressed_claim = title:c_bastia
 	}
 	1202.1.1 = {
 		death = yes
@@ -11562,16 +11742,16 @@
 		birth = yes
 	}
 	1209.1.1 = {
-		add_pressed_claim = c_ferrara
+		add_pressed_claim = title:c_ferrara
 	}
 	1222.1.1 = {
-		remove_claim = c_ferrara
+		remove_claim = title:c_ferrara
 	}
 	1239.1.1 = {
 		add_spouse = cisalpine0185
 	}
 	1240.1.1 = {
-		add_pressed_claim = c_ferrara
+		add_pressed_claim = title:c_ferrara
 	}
 	1244.1.1 = {
 		death = {
@@ -11915,6 +12095,21 @@
 	}
 }
 
+91409 = {
+	name = "Ansaldo" # Ansaldo Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 91415
+
+	980.1.1 = {
+		birth = yes
+	}
+	1049.1.1 = {
+		death = yes
+	}
+}
 
 91410 = {
 	name = "Ansaldo" # Ansaldo Doria
@@ -12697,6 +12892,31 @@
 	}
 }
 
+106513 = {
+	name = "Immila" # Immila Ardoinici, wife of Ekbert I of Meissen
+	female = yes
+	dynasty = 680
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "french"
+	trait = education_intrigue_1
+
+	father = 10081
+	mother = 167943
+
+	1020.1.1 = {
+		birth = yes
+	}
+	1078.1.19 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
 163068 = {
 	name = "Berardo" # Berardo Maggi, Count of Brescia (1298-1308)
 	dynasty = 798
@@ -13216,7 +13436,7 @@
 	name = "Vilfredo"
 	dynasty = 9555
 	religion = "catholic"
-	culture = "romanesque"
+	culture = "french"
 	840.1.1 = {
 		birth = "840.1.1"
 	}
@@ -13688,6 +13908,298 @@
 	}
 }
 
+167951 = {
+	name = "Rodolf" # Rodolfo d'Auriate, Count of Cuneo (860-904)
+	dynasty = 9563
+	religion = "catholic"
+	culture = "french"
+	trait = infirm
+	trait = education_martial_2
+
+	850.1.1 = {
+		birth = "850.1.1"
+	}
+	904.4.21 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167955 = {
+	name = "Roger" # Ruggero (II) Ardoinici, Count of Cuneo (915-935)
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167953
+
+	931.1.1 = {
+		birth = yes
+	}
+	950.11.13 = {
+		death = yes
+	}
+}
+
+167956 = {
+	name = "Guntilda" # Guntilda Ardoinici, wife of Amedeo d'Ivrea
+	female = yes
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+	father = 167955
+
+	947.1.1 = {
+		birth = yes
+	}
+
+	962.9.3 = {
+		death = yes
+	}
+}
+
+167957 = {
+	name = "Harduin" # Ardoino Ardoinici 'the Bald', Duke of Piedmonte (962-976), Count of Cuneo (935-962) and Turin (941-976)
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+	father = 167953
+
+	930.1.1 = {
+		birth = yes
+	}
+	962.1.1 = {
+		give_nickname = nick_the_bald
+	}
+	976.4.4 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167958 = {
+	name = "Alsinda" # Alsinda Ardoinici, wife of Giselberto di Piacenza
+	female = yes
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167957
+
+	952.1.1 = {
+		birth = yes
+	}
+	1015.1.1 = {
+		death = yes
+	}
+}
+
+167959 = {
+	name = "Richilda" # Richilda Ardoinici, wife of Conrado Cono d'Ivrea
+	female = yes
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167957
+
+	954.1.1 = {
+		birth = yes
+	}
+	989.1.1 = {
+		death = yes
+	}
+}
+
+167960 = {
+	name = "Harduin" # Ardoino Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167957
+
+	958.1.1 = {
+		birth = yes
+	}
+
+	1029.1.1 = {
+		death = yes
+	}
+}
+
+167961 = {
+	name = "Olderico_Manfredi" # Olderico Manfredi (I) Ardoinici, Duke of Piedmonte (976-1000) and Count of Cuneo (976-1000)
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167957
+
+	956.1.1 = {
+		birth = yes
+	}
+	978.1.1 = {
+		add_spouse = italian0030
+	}
+	1000.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+167962 = {
+	name = "Otto" # Ottone Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167957
+
+	960.1.1 = {
+		birth = yes
+	}
+
+	998.1.19 = {
+		death = yes
+	}
+}
+
+167963 = {
+	name = "Harduin" # Ardoino Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167962
+
+	978.1.1 = {
+		birth = yes
+	}
+
+	1014.1.1 = {
+		death = yes
+	}
+}
+
+167964 = {
+	name = "Boson" # Bosone Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167963
+
+	997.1.1 = {
+		birth = yes
+	}
+
+	1026.1.1 = {
+		death = yes
+	}
+}
+
+167965 = {
+	name = "Guido" # Guido Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167963
+
+	999.1.1 = {
+		birth = yes
+	}
+
+	1040.1.1 = {
+		death = yes
+	}
+}
+
+167966 = {
+	name = "Odalric" # Oldarico Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167965
+
+	1020.1.1 = {
+		birth = yes
+	}
+	1040.10.20 = {
+		death = yes
+	}
+}
+
+167967 = {
+	name = "Beatrice" # Beatrice Ardoinici, wife of Oberto di Sezzadio
+	female = yes
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167966
+
+	1038.1.1 = {
+		birth = yes
+	}
+	1065.8.29 = {
+		death = yes
+	}
+}
+
+167971 = {
+	name = "Gausberto" # Gausberto d'Asti, Count of Montferrato (910-940)
+	dynasty = 799
+	religion = "catholic"
+	culture = "piedmontese"
+
+	father = 167970
+
+	886.1.1 = {
+		birth = yes
+	}
+	940.1.1 = {
+		death = yes
+	}
+}
+
+167972 = {
+	name = "Hubert" # Uberto d'Asti, Count of Montferrato (940-941)
+	dynasty = 799
+	religion = "catholic"
+	culture = "french"
+
+	father = 167971
+
+	908.1.1 = {
+		birth = yes
+	}
+	941.11.1 = {
+		death = yes
+	}
+}
+
+167973 = {
+	name = "Adalbert" # Adalberto, Count of Montferrato (941-948)
+	dynasty = 799
+	religion = "catholic"
+	culture = "french"
+
+	father = 167972
+
+	930.1.1 = {
+		birth = yes
+	}
+	948.6.1 = {
+		death = yes
+	}
+}
+
 167975 = {
 	name = "Albericus" # Alberico di Milano, Count of Lombardia (865-894)
 	dynasty = 9565
@@ -14020,9 +14532,10 @@
 	845.1.1 = {
 		birth = "845.1.1"
 	}
-	866.1.1 = {
-		add_spouse = 167978
-	}
+	# Martino now a bishop, cannot be married
+	#866.1.1 = { 
+	#	add_spouse = 167978
+	#}
 	896.9.1 = {
 		death = "896.9.1"
 	}
@@ -14108,6 +14621,7 @@
 	religion = "catholic"
 	culture = "lombard"
 	trait = education_diplomacy_1
+	father = 70633
 
 	1020.1.1 = {
 		birth = yes
@@ -14138,7 +14652,7 @@
 	name = "Napoleone"
 	dynasty = 100321
 	religion = catholic
-	culture = "lombard"
+	culture = lombard
 	father = 213009
 	1180.1.1 = {
 		birth = yes
@@ -14152,7 +14666,7 @@
 	name = "Alberto" # Alberto di Modena, Podestà of Modena (1212-1241)
 	dynasty = 100322
 	religion = catholic
-	culture = "lombard"
+	culture = lombard
 
 	father = 213012
 
@@ -15112,7 +15626,7 @@
 	name = "Giovanni" # Giovanni Rusconi, placeholder
 	dynasty = 1062032
 	religion = "catholic"
-	culture = "lombard"
+	culture = lombard
 
 	father = 259000
 
@@ -15378,7 +15892,7 @@
 		add_spouse = 462698
 	}
 	1336.6.29 = {
-		add_pressed_claim = c_cuneo
+		add_pressed_claim = title:c_cuneo
 		employer = 461700
 	}
 	1392.8.8 = {
@@ -15706,10 +16220,10 @@
 		add_spouse = 70782
 	}
 	1302.6.1 = {
-		add_pressed_claim = d_lombardia
+		add_pressed_claim = title:d_lombardia
 	}
 	1311.8.1 = {
-		remove_claim = d_lombardia
+		remove_claim = title:d_lombardia
 	}
 	1322.6.24 = {
 		death = "1322.6.28"
@@ -16586,7 +17100,7 @@ cisalpine0026 = {
 	name = "Ugo" # Ugo Obertenghi, Duke of Lombardia (1014)
 	dynasty_house = house_obertenghi
 	religion = catholic
-	culture = "lombard"
+	culture = lombard
 
 	father = 70629
 
@@ -16773,7 +17287,21 @@ cisalpine0037 = {
 	}
 }
 
+cisalpine0038 = {
+	name = "Harduin" # Ardoino Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
 
+	father = 91409
+
+	1005.1.1 = {
+		birth = yes
+	}
+	1058.1.1 = {
+		death = yes
+	}
+}
 
 cisalpine0039 = {
 	name = "Alberto" # Alberto Malaspina, known as Alberto Moro, a trovateur
@@ -17741,22 +18269,6 @@ cisalpine0094 = {
 	}
 }
 
-cisalpine0680 = {
-	name = "Maria"
-	female = yes
-	religion = "catholic"
-	culture = "lombard"
-	1263.1.1 = {
-		birth = yes
-	}
-	1297.1.1 = {
-		add_spouse = cisalpine0680
-	}
-	1320.1.1 = {
-		death = yes
-	}
-}
-
 cisalpine0095 = {
 	name = "NiccolO_" # Niccolò Malaspina
 	dynasty_house = house_spino_fiorito
@@ -17971,7 +18483,7 @@ cisalpine0107 = {
 	religion = "catholic"
 	culture = "lombard"
 
-	father = cisalpine0107
+	father = cisalpine0106
 
 	1127.1.1 = {
 		birth = yes
@@ -19174,82 +19686,6 @@ cisalpine0177 = {
 }
 
 cisalpine0178 = {
-	name = "Griseida" # Griseida da Romano
-	dynasty = 13025
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-
-	father = 70664
-
-	1241.1.1 = {
-		birth = yes
-	}
-	1260.8.26 = {
-		death = {
-			death_reason = death_execution
-		}
-	}
-}
-
-cisalpine0179 = {
-	name = "Tornalasce" # Tornalasce da Romano
-	dynasty = 13025
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-
-	father = 70664
-
-	1243.1.1 = {
-		birth = yes
-	}
-	1260.8.26 = {
-		death = {
-			death_reason = death_execution
-		}
-	}
-}
-
-cisalpine0180 = {
-	name = "Amabilia" # Amabilia da Romano
-	dynasty = 13025
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-
-	father = 70664
-
-	1245.1.1 = {
-		birth = yes
-	}
-	1260.8.26 = {
-		death = {
-			death_reason = death_execution
-		}
-	}
-}
-
-cisalpine0177 = {
-	name = "Pietro" # Pietro da Romano
-	dynasty = 13025
-	religion = "catholic"
-	culture = "venetian"
-
-	father = 71036
-	trait = bastard
-
-	1222.1.1 = {
-		birth = yes
-	}
-	1248.1.1 = {
-		death = {
-			death_reason = death_dungeon
-		}
-	}
-}
-
-cisalpine0178 = {
 	name = "Agnese" # Agnese da Romano, wife of Giacomo dei Guidotti
 	dynasty = 13025
 	female = yes
@@ -19358,8 +19794,6 @@ cisalpine0184 = {
 	dynasty = vicenza
 	religion = "catholic"
 	culture = "venetian"
-
-	father = cisalpine0184
 
 	1172.1.1 = {
 		birth = yes
@@ -19598,13 +20032,13 @@ cisalpine0198 = {
 		birth = yes
 	}
 	1253.1.1 = {
-		add_pressed_claim = c_verona
+		add_pressed_claim = title:c_verona
 	}
 	1259.9.16 = {
-		remove_claim = c_verona
+		remove_claim = title:c_verona
 	}
 	1260.1.1 = {
-		add_pressed_claim = c_verona
+		add_pressed_claim = title:c_verona
 	}
 	1265.6.1 = {
 		death = yes
@@ -19757,23 +20191,6 @@ cisalpine0207 = {
 		birth = yes
 	}
 	1259.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0207 = {
-	name = "Ziramonte" # Ziramonte da Romano
-	dynasty = 13025
-	religion = "catholic"
-	culture = "venetian"
-
-	father = 70655
-	trait = bastard
-
-	1206.1.1 = {
-		birth = yes
-	}
-	1255.1.1 = {
 		death = yes
 	}
 }
@@ -20062,13 +20479,11 @@ cisalpine0224 = {
 
 	1064.1.1 = {
 		birth = yes
-		employer = 7800
 	}
 	1127.7.3 = {
 		death = yes
 	}
 }
-
 
 cisalpine0225 = {
 	name = "Maria" # Maria di Piacenza, wife of Ottone I of Montferrato
@@ -20268,6 +20683,117 @@ cisalpine0237 = {
 		birth = yes
 	}
 	1036.2.1 = {
+		death = yes
+	}
+}
+
+cisalpine0238 = {
+	name = "Alaric" # Alrico Ardoinici, Bishop
+	dynasty = 680
+	martial = 3
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "french"
+	trait = education_learning_3
+	trait = theologian
+
+	father = 167961
+	mother = italian0030
+
+	981.1.1 = {
+		birth = yes
+	}
+	1034.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+cisalpine0239 = {
+	name = "Otto" # Ottone Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167961
+	mother = italian0030
+
+	983.1.1 = {
+		birth = yes
+	}
+	1029.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0240 = {
+	name = "Hugh" # Ugo Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167961
+	mother = italian0030
+
+	985.1.1 = {
+		birth = yes
+	}
+	1029.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0241 = {
+	name = "Atto" # Atto Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167961
+	mother = italian0030
+
+	987.1.1 = {
+		birth = yes
+	}
+	1029.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0242 = {
+	name = "Guido" # Guido Ardoinici
+	dynasty = 680
+	religion = "catholic"
+	culture = "french"
+
+	father = 167961
+	mother = italian0030
+
+	989.1.1 = {
+		birth = yes
+	}
+	1029.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0243 = {
+	name = "Prangarda" # Prangarda Ardoinici, wife of Uberto di Pombia
+	dynasty = 680
+	female = yes
+	religion = "catholic"
+	culture = "french"
+	trait = education_stewardship_1
+
+	father = cisalpine0242
+
+	1017.1.1 = {
+		birth = yes
+	}
+	1067.1.1 = {
 		death = yes
 	}
 }
@@ -20697,22 +21223,6 @@ cisalpine0268 = {
 	}
 }
 
-cisalpine0268 = {
-	name = "Guglielmo" # Guglielmo di Occimano
-	dynasty_house = house_occimiano
-	religion = "catholic"
-	culture = "piedmontese"
-
-	father = cisalpine0267
-
-	1130.1.1 = {
-		birth = yes
-	}
-	1198.7.15 = {
-		death = yes
-	}
-}
-
 cisalpine0269 = {
 	name = "Corrado" # Corrado di Occimano
 	dynasty_house = house_occimiano
@@ -20812,22 +21322,6 @@ cisalpine0274 = {
 		birth = yes
 	}
 	1272.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0274 = {
-	name = "Francesco" # Francesco da Verona
-	dynasty = 68
-	religion = "catholic"
-	culture = "lombard"
-
-	father = 31477
-
-	1266.1.1 = {
-		birth = yes
-	}
-	1276.1.1 = {
 		death = yes
 	}
 }
@@ -21914,23 +22408,6 @@ cisalpine0336 = {
 	}
 }
 
-cisalpine0334 = {
-	name = "Aimone" # Aimone di Ceva
-	dynasty_house = house_ceva
-	religion = "catholic"
-	culture = "lombard"
-	trait = education_diplomacy_1
-
-	father = cisalpine0318
-
-	1305.1.1 = {
-		birth = yes
-	}
-	1385.7.4 = {
-		death = yes
-	}
-}
-
 cisalpine0335 = {
 	name = "Zanono" # Giovanni di Ceva 'Zanono'
 	dynasty_house = house_ceva
@@ -21944,23 +22421,6 @@ cisalpine0335 = {
 		birth = yes
 	}
 	1385.7.4 = {
-		death = yes
-	}
-}
-
-cisalpine0336 = {
-	name = "Cristoforo" # Cristoforo di Ceva
-	dynasty_house = house_ceva
-	religion = "catholic"
-	culture = "lombard"
-	trait = education_martial_1
-
-	father = cisalpine0318
-
-	1309.1.1 = {
-		birth = yes
-	}
-	1401.6.8 = {
 		death = yes
 	}
 }
@@ -22001,22 +22461,6 @@ cisalpine0338 = {
 
 cisalpine0339 = {
 	name = "Galeazzo" # Galeazzo di Ceva
-	dynasty_house = house_ceva
-	religion = "catholic"
-	culture = "lombard"
-
-	father = cisalpine0338
-
-	1335.1.1 = {
-		birth = yes
-	}
-	1401.6.8 = {
-		death = yes
-	}
-}
-
-cisalpine0339 = {
-	name = "Oddone" # Oddone di Ceva
 	dynasty_house = house_ceva
 	religion = "catholic"
 	culture = "lombard"
@@ -22350,7 +22794,7 @@ cisalpine0357 = {
 
 cisalpine0358 = {
 	name = "Ottone" # Ottone di Bosco
-	dynasty_house = piedmontese
+	dynasty_house = house_bosco
 	religion = "catholic"
 	culture = "piedmontese"
 	trait = education_martial_3
@@ -23567,7 +24011,7 @@ cisalpine0428 = {
 		add_spouse = cisalpine0893
 	}
 	1300.1.1 = {
-		add_spouse = cisalpine0912
+		add_spouse = cisalpine0939
 	}
 	1313.7.1 = {
 		death = yes
@@ -24039,24 +24483,6 @@ cisalpine0457 = {
 		birth = yes
 	}
 	1190.4.8 = {
-		death = yes
-	}
-}
-
-cisalpine0457 = {
-	name = "Lanfranco" # Lanfranco di Biandrate
-	dynasty_house = house_biandrate
-	religion = "catholic"
-	culture = "piedmontese"
-	trait = education_martial_1
-
-	father = 71262
-	mother = 71261
-
-	1144.1.1 = {
-		birth = yes
-	}
-	1201.1.1 = {
 		death = yes
 	}
 }
@@ -26838,24 +27264,7 @@ cisalpine0620 = {
 }
 
 cisalpine0621 = {
-	name = "Beatrice" # Beatrice Visconti, spouse of Guido de Valperga
-	dynasty = 234
-	female = yes
-	religion = "catholic"
-	culture = "lombard"
-
-	father = cisalpine0620
-
-	1124.1.1 = {
-		birth = yes
-	}
-	1174.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0621 = {
-	name = "Berta" # Berta Visconti, spouse of Pagano della Torre
+	name = "Berta" # Berta Visconti, spouse of Jacopo della Torre
 	dynasty = 234
 	female = yes
 	religion = "catholic"
@@ -27866,7 +28275,7 @@ cisalpine0679 = {
 	}
 }
 
-cisalpine06801 = {
+cisalpine0680 = {
 	name = "Noradino" # Noradino, Bishop of Luni (1220-1223)
 	religion = "catholic"
 	culture = "ligurian"
@@ -28108,7 +28517,7 @@ cisalpine0693 = {
 cisalpine0694 = {
 	name = "Landone" # Landone, Bishop of Cremona (880-910)
 	religion = "catholic"
-	culture = "romanesque"
+	culture = "french"
 	trait = education_learning_2
 
 	856.1.1 = {
@@ -28126,7 +28535,7 @@ cisalpine0694 = {
 cisalpine0695 = {
 	name = "Gualberto" # Gualberto, Bishop of Cremona (913)
 	religion = "catholic"
-	culture = "romanesque"
+	culture = "french"
 	trait = education_learning_2
 
 	860.1.1 = {
@@ -28162,7 +28571,7 @@ cisalpine0696 = {
 cisalpine0697 = {
 	name = "Darimberto" # Darimberto, Bishop of Cremona (924-961)
 	religion = "catholic"
-	culture = "romanesque"
+	culture = "french"
 	trait = celibate
 	trait = theologian
 	trait = education_learning_4
@@ -28489,7 +28898,7 @@ cisalpine0716 = {
 	culture = "lombard"
 	trait = education_stewardship_2
 
-	father = cisalpine0716
+	father = cisalpine0715
 	mother = cisalpine0647
 
 	1316.1.1 = {
@@ -28567,13 +28976,13 @@ cisalpine0720 = {
 }
 
 cisalpine0721 = {
-	name = "Giovanni" # Giovanni di Vitanis, placeholder
+	name = "Giovanni" # Giovanni di Vitanis
 	dynasty = vitanis
 	religion = "catholic"
 	culture = "lombard"
 	trait = education_diplomacy_1
 
-	father = cisalpine0721
+	father = cisalpine0720
 
 	1183.1.1 = {
 		birth = yes
@@ -28616,11 +29025,29 @@ cisalpine0723 = {
 	}
 }
 
+cisalpine0724 = {
+	name = "Berta" # Berta Obertenghi, spouse of Oberto di Parma
+	dynasty_house = house_obertenghi
+	female = yes
+	religion = "catholic"
+	culture = "french"
+	trait = education_diplomacy_2
+
+	father = 261385
+
+	925.1.1 = {
+		birth = yes
+	}
+	975.1.1 = {
+		death = yes
+	}
+}
+
 cisalpine0725 = {
 	name = "Maginfredo" # Maginfredo di Lomello, Count of Lombardia (894-896)
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_stewardship_2
 
 	872.1.1 = {
@@ -28637,7 +29064,7 @@ cisalpine0726 = {
 	name = "Ugo" # Ugo di Lomello, Count of Lombardia (896-899)
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_diplomacy_1
 
 	father = cisalpine0725
@@ -28656,7 +29083,7 @@ cisalpine0727 = {
 	name = "Egelrico" # Egelrico di Lomello
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_stewardship_1
 
 	father = cisalpine0725
@@ -28673,7 +29100,7 @@ cisalpine0728 = {
 	name = "Milone" # Milone di Lomello, Bishop
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = celibate
 	trait = theologian
 	trait = education_learning_2
@@ -28694,7 +29121,7 @@ cisalpine0729 = {
 	name = "Manfredo" # Manfredo di Lomello, Count of Parma (948-967)
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_diplomacy_2
 
 	father = cisalpine0726
@@ -28713,7 +29140,7 @@ cisalpine0730 = {
 	name = "Ugo" # Ugo di Lomello
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_intrigue_1
 
 	father = cisalpine0729
@@ -28730,7 +29157,7 @@ cisalpine0731 = {
 	name = "Bernardo" # Bernardo (I) di Lomello, Count of Parma (967-992)
 	dynasty = lomello2
 	religion = "catholic"
-	culture = "lombard"
+	culture = "french"
 	trait = education_stewardship_1
 
 	father = cisalpine0729
@@ -29043,19 +29470,19 @@ cisalpine0748 = {
 		add_spouse = cisalpine0801
 	}
 	1308.1.1 = {
-		add_pressed_claim = c_parma
+		add_pressed_claim = title:c_parma
 	}
 	1308.6.1 = {
-		remove_claim = c_parma
+		remove_claim = title:c_parma
 	}
 	1311.1.1 = {
-		add_pressed_claim = c_parma
+		add_pressed_claim = title:c_parma
 	}
 	1311.12.1 = {
-		remove_claim = c_parma
+		remove_claim = title:c_parma
 	}
 	1316.1.1 = {
-		add_pressed_claim = c_parma
+		add_pressed_claim = title:c_parma
 	}
 	1321.7.25 = {
 		death = yes
@@ -29476,25 +29903,6 @@ cisalpine0773 = {
 		birth = yes
 	}
 	1340.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0773 = {
-	name = "Donella" # Donella da Correggio, spouse of Carlo Fieschi
-	dynasty = 13064
-	female = yes
-	religion = "catholic"
-	culture = "lombard"
-	trait = education_stewardship_1
-
-	father = cisalpine0748
-	mother = cisalpine0801
-
-	1305.1.1 = {
-		birth = yes
-	}
-	1370.1.1 = {
 		death = yes
 	}
 }
@@ -30668,7 +31076,7 @@ cisalpine0841 = {
 	culture = "ligurian"
 	trait = education_stewardship_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1248.1.1 = {
 		birth = yes
@@ -30685,7 +31093,7 @@ cisalpine0842 = {
 	culture = "ligurian"
 	trait = education_intrigue_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1249.1.1 = {
 		birth = yes
@@ -30702,7 +31110,7 @@ cisalpine0843 = {
 	culture = "ligurian"
 	trait = education_martial_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1251.1.1 = {
 		birth = yes
@@ -30719,7 +31127,7 @@ cisalpine0844 = {
 	culture = "ligurian"
 	trait = education_stewardship_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1252.1.1 = {
 		birth = yes
@@ -30736,7 +31144,7 @@ cisalpine0845 = {
 	culture = "ligurian"
 	trait = education_intrigue_2
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1254.1.1 = {
 		birth = yes
@@ -30753,7 +31161,7 @@ cisalpine0846 = {
 	culture = "ligurian"
 	trait = education_diplomacy_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1255.1.1 = {
 		birth = yes
@@ -30770,7 +31178,7 @@ cisalpine0847 = {
 	culture = "ligurian"
 	trait = education_diplomacy_2
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1257.1.1 = {
 		birth = yes
@@ -30788,7 +31196,7 @@ cisalpine0848 = {
 	culture = "ligurian"
 	trait = education_stewardship_1
 
-	father = cisalpine0841
+	father = cisalpine0840
 
 	1258.1.1 = {
 		birth = yes
@@ -31914,92 +32322,6 @@ cisalpine0912 = {
 }
 
 cisalpine0913 = {
-	name = "Giovanni" # Giovanni Fieschi
-	dynasty_house = house_fieschi
-	religion = "catholic"
-	culture = "ligurian"
-
-	father = cisalpine0912
-
-	1335.1.1 = {
-		birth = yes
-	}
-	1383.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0914 = {
-	name = "Carlo" # Carlo Fieschi
-	dynasty_house = house_fieschi
-	religion = "catholic"
-	culture = "ligurian"
-
-	father = cisalpine0912
-
-	1337.1.1 = {
-		birth = yes
-	}
-	1413.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0915 = {
-	name = "Antonio" # Antonio Fieschi, Cleric
-	dynasty_house = house_fieschi
-	religion = "catholic"
-	culture = "ligurian"
-	trait = celibate
-	trait = theologian
-	trait = education_learning_2
-
-	father = cisalpine0904
-
-	1281.1.1 = {
-		birth = yes
-	}
-	1305.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0916 = {
-	name = "Gabriele" # Gabriele Fieschi
-	dynasty_house = house_fieschi
-	religion = "catholic"
-	culture = "ligurian"
-	trait = education_stewardship_1
-
-	father = cisalpine0904
-
-	1282.1.1 = {
-		birth = yes
-	}
-	1305.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0912 = {
-	name = "Eliana" # Eliana Fieschi, spouse of Alberto del Carretto
-	dynasty_house = house_fieschi
-	female = yes
-	religion = "catholic"
-	culture = "ligurian"
-	trait = education_stewardship_1
-
-	father = cisalpine0904
-
-	1284.1.1 = {
-		birth = yes
-	}
-	1305.1.1 = {
-		death = yes
-	}
-}
-
-cisalpine0913 = {
 	name = "Teodolfo" # Teodolfo (I), Bishop of Genoa (958-968)
 	religion = "catholic"
 	culture = "ligurian"
@@ -32210,106 +32532,35 @@ cisalpine0925 = {
 	}
 }
 
-#From Cisalpine
-70655 = {
-	name = "Ezzelino" # Ezzelino (II) da Romano 'the Monk', Podestà of Treviso (1190-1192 and 1219-1223)
+cisalpine0926 = {
+	name = "Pietro" # Pietro da Romano
 	dynasty = 13025
-	martial = 8
-	diplomacy = 7
-	intrigue = 3
-	stewardship = 4
 	religion = "catholic"
 	culture = "venetian"
-	trait = diligent
-	trait = calm
-	trait = education_martial_3
 
-	father = cisalpine0208
+	father = 71036
+	trait = bastard
 
-	1150.1.1 = {
+	1222.1.1 = {
 		birth = yes
 	}
-	1191.1.1 = {
-		add_spouse = 223598
-	}
-	1192.1.1 = {
-		remove_spouse = 223598
-	}
-	1221.11.1 = {
-		trait = devoted
-		give_nickname = nick_the_monk
-	}
-	1235.2.16 = {
+	1248.1.1 = {
 		death = {
-			death_reason = death_old_age
+			death_reason = death_dungeon
 		}
 	}
 }
 
-70656 = {
-	name = "Palma" # Palma da Romano
+cisalpine0927 = {
+	name = "Griseida" # Griseida da Romano
 	dynasty = 13025
 	female = yes
-	martial = 3
-	diplomacy = 8
-	intrigue = 4
-	stewardship = 5
 	religion = "catholic"
 	culture = "venetian"
-	trait = chaste
-	trait = education_diplomacy_3
-
-	father = 70655
-	mother = 223598
-
-	1192.1.1 = {
-		birth = yes
-	}
-	1218.1.1 = {
-		death = yes
-	}
-}
-
-70663 = {
-	name = "Adelasia" # Adelasia da Romano, wife of Rinaldo d'Este
-	dynasty = 13025
-	female = yes
-	martial = 4
-	diplomacy = 6
-	intrigue = 3
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = temperate
-	trait = greedy
-	trait = education_diplomacy_1
 
 	father = 70664
 
-	1225.1.1 = {
-		birth = yes
-	}
-	1251.1.1 = {
-		death = yes
-	}
-}
-
-70664 = {
-	name = "Alberico" # Alberico da Romano, Podestà of Treviso (1240-1257)
-	dynasty = 13025
-	martial = 7
-	diplomacy = 4
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = lazy
-	trait = brave
-	trait = education_martial_2
-
-	father = 70655
-
-	1196.1.1 = {
+	1241.1.1 = {
 		birth = yes
 	}
 	1260.8.26 = {
@@ -32319,2289 +32570,295 @@ cisalpine0925 = {
 	}
 }
 
-71022 = {
-	name = "Enrico" # Enrico da Egna, Count of Verona (1240-1245 & 1246-1247)
-	dynasty = 8684
-	martial = 9
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 6
+cisalpine0928 = {
+	name = "Tornalasce" # Tornalasce da Romano
+	dynasty = 13025
+	female = yes
 	religion = "catholic"
 	culture = "venetian"
-	trait = education_martial_4
-	trait = zealous
 
-	father = cisalpine0186
-	mother = cisalpine0185
+	father = 70664
 
-	1215.1.1 = {
+	1243.1.1 = {
 		birth = yes
 	}
-	1231.1.1 = {
-		add_spouse = 71018
-	}
-	1247.2.1 = {
+	1260.8.26 = {
 		death = {
-			death_reason = death_beaten
+			death_reason = death_execution
 		}
 	}
 }
 
-71036 = {
-	name = "Ezzelino" # Ezzelino (III) da Romano 'the Tyrant', Duke of Verona (1225-1259), Count of Verona (1223-1229, 1236-1239 & 1253-1259), Treviso (1237-1240 & 1257-1259), Padua (1237-1256) & Brescia (1257-1259)
+cisalpine0929 = {
+	name = "Amabilia" # Amabilia da Romano
 	dynasty = 13025
-	martial = 6
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 7
+	female = yes
 	religion = "catholic"
 	culture = "venetian"
-	trait = sadistic
-	trait = lunatic_1
-	trait = education_martial_3
+
+	father = 70664
+
+	1245.1.1 = {
+		birth = yes
+	}
+	1260.8.26 = {
+		death = {
+			death_reason = death_execution
+		}
+	}
+}
+
+cisalpine0930 = {
+	name = "Ziramonte" # Ziramonte da Romano
+	dynasty = 13025
+	religion = "catholic"
+	culture = "venetian"
 
 	father = 70655
+	trait = bastard
 
-	1194.4.25 = {
+	1206.1.1 = {
 		birth = yes
 	}
-	1221.1.1 = {
-		add_spouse = cisalpine0200
-	}
-	1238.1.1 = {
-		remove_spouse = cisalpine0200
-	}
-	1238.5.23 = {
-		add_spouse = 30768
-	}
-	1247.1.1 = {
-		add_spouse = 71001
-	}
-	1254.1.1 = {
-		trait = excommunicated
-		give_nickname = nick_the_tyrant
-	}
-	1259.9.16 = {
-		death = {
-			death_reason = death_battle
-			killer = 70661
-		}
+	1255.1.1 = {
+		death = yes
 	}
 }
 
-#From Italian
-
-213023 = {
-	name = "Bartolomeo"
-	dynasty = 101702
-	martial = 4
-	diplomacy = 5
-	intrigue = 7
-	stewardship = 8
+cisalpine0931 = {
+	name = "Guglielmo" # Guglielmo di Occimano
+	dynasty_house = house_occimiano
 	religion = "catholic"
-	culture = "venetian"
-	trait = zealous
-	trait = education_learning_2
-	1166.1.1 = {
-		birth = "1166.1.1"
+	culture = "piedmontese"
+
+	father = cisalpine0267
+
+	1130.1.1 = {
+		birth = yes
 	}
-	1216.1.1 = {
-		death = "1216.1.1"
+	1198.7.15 = {
+		death = yes
 	}
 }
 
-213600 = {
-	name = "Orio"
-	dynasty = 13076
-	martial = 4
-	diplomacy = 8
-	intrigue = 5
-	stewardship = 8
+cisalpine0932 = {
+	name = "Francesco" # Francesco da Verona
+	dynasty = 68
 	religion = "catholic"
-	culture = "venetian"
-	trait = just
-	trait = education_diplomacy_2
-	1120.1.1 = {
-		birth = "1120.1.1"
-	}
-	1178.1.1 = {
-		capital = c_venezia
-	}
-	1192.1.1 = {
-		death = "1192.1.1"
-	}
-}
+	culture = "lombard"
 
-213601 = {
-	name = "Enrico"
-	dynasty = 13027
-	martial = 6
-	diplomacy = 6
-	intrigue = 8
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = cynical
-	trait = wrathful
-	trait = education_diplomacy_4
-	father = 170044
-	1107.1.2 = {
-		birth = "1107.1.2"
-	}
-	1150.1.2 = {
-		add_spouse = 170047 #Contessa Minotto
-	}
-	1176.10.1 = {
-		trait = blind
-	}
-	1202.6.1 = {
-		trait = faith_warrior
-	}
-	1205.6.21 = {
-		death = "1205.6.21"
-	}
-}
+	father = 31477
 
-412070 = {
-	name = "Alboino"
-	dynasty = 13032
-	martial = 7
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 8
-	religion = "catholic"
-	culture = "venetian"
-	trait = greedy
-	trait = zealous
-	trait = education_martial_2
-	father = 70798
-	mother = 70799
-	1284.1.1 = {
-		birth = "1284.1.1"
-	}
-	1298.1.1 = {
-		add_spouse = 412071
-	}
-	1305.1.1 = {
-		add_spouse = 412085
-	}
-	1311.10.28 = {
-		death = "1311.10.28"
-	}
-}
-
-412072 = {
-	name = "Alberto"
-	# AKA: Alboino
-	dynasty = 13032
-	martial = 6
-	diplomacy = 4
-	intrigue = 4
-	stewardship = 8
-	religion = "catholic"
-	culture = "venetian"
-	trait = just
-	trait = lustful
-	trait = greedy
-	trait = zealous
-	trait = education_martial_2
-	father = 412070
-	mother = 412085
-	1306.1.1 = {
-		birth = "1306.1.1"
-	}
-	1322.1.1 = {
-		add_spouse = 412073
-	}
-	1352.1.1 = {
-		death = "1352.1.1"
-	}
-}
-
-412078 = {
-	name = "Mastino"
-	dynasty = 13032
-	martial = 7
-	diplomacy = 7
-	intrigue = 6
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = lustful
-	trait = diligent
-	trait = education_stewardship_4
-	father = 412070
-	mother = 412085
-	1308.1.1 = {
-		birth = "1308.1.1"
-	}
-	1327.1.1 = {
-		add_spouse = 412079
-	}
-	1351.1.1 = {
-		death = "1351.1.1"
-	}
-}
-412080 = {
-	name = "Cangrande"
-	dynasty = 13032
-	martial = 4
-	diplomacy = 4
-	intrigue = 7
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = cynical
-	trait = greedy
-	trait = arbitrary
-	trait = education_stewardship_2
-	father = 412078
-	mother = 412079
-	1328.1.1 = {
-		birth = "1328.1.1"
-	}
-	1359.12.14 = {
-		death = "1359.12.14"
-	}
-}
-
-412081 = {
-	name = "Fregnano"
-	dynasty = 13032
-	martial = 7
-	diplomacy = 6
-	intrigue = 7
-	stewardship = 6
-	religion = "catholic"
-	culture = "venetian"
-	trait = bastard
-	trait = education_stewardship_2
-	father = 412078
-	1327.1.1 = {
-		birth = "1327.1.1"
-	}
-	1352.1.1 = {
-		death = "1352.1.1"
-	}
-}
-
-412082 = {
-	name = "Beatrice"
-	female = yes
-	dynasty = 13032
-	martial = 5
-	diplomacy = 4
-	intrigue = 5
-	stewardship = 6
-	religion = "catholic"
-	culture = "venetian"
-	trait = bastard
-	trait = education_stewardship_2
-	father = 412078
-	mother = 412079
-	1331.1.1 = {
-		birth = "1331.1.1"
-	}
-	1384.6.18 = {
-		death = "1384.6.18"
-	}
-}
-
-412083 = {
-	name = "Verde"
-	# AKA: Altaluna
-	female = yes
-	dynasty = 13032
-	martial = 5
-	diplomacy = 5
-	intrigue = 5
-	stewardship = 6
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_stewardship_2
-	father = 412078
-	mother = 412079
-	1333.1.1 = {
-		birth = "1333.1.1"
-	}
-	1393.1.1 = {
-		death = "1393.1.1"
-	}
-}
-
-412084 = {
-	name = "Cansignorio"
-	# AKA: Verde
-	dynasty = 13032
-	martial = 6
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = cynical
-	trait = calm
-	trait = education_stewardship_2
-	father = 412078
-	mother = 412079
-	1329.1.1 = {
-		birth = "1329.1.1"
-	}
-	1375.1.1 = {
-		death = "1375.1.1"
-	}
-}
-
-412086 = {
-	name = "Alboino"
-	# AKA: Omelia
-	dynasty = 13032
-	martial = 5
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = honest
-	trait = humble
-	trait = education_stewardship_2
-	father = 412078
-	mother = 412079
-	1330.1.1 = {
-		birth = "1330.1.1"
-	}
-	1375.1.1 = {
-		death = "1375.1.1"
-	}
-}
-
-463600 = {
-	name = "Francesco"
-	dynasty = 13027
-	martial = 5
-	diplomacy = 7
-	intrigue = 8
-	stewardship = 6
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_learning_2
-	father = 170078
-	1278.1.2 = {
-		birth = "1278.1.2"
-	}
-	1339.10.31 = {
-		death = "1339.10.31"
-	}
-}
-
-470005 = {
-	name = "Caterina"
-	female = yes
-	dynasty = 13027
-	martial = 5
-	diplomacy = 6
-	intrigue = 4
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = generous
-	trait = education_intrigue_2
-	father = 170083
-	1296.1.1 = {
-		birth = "1296.1.1"
-	}
-	1359.1.1 = {
-		death = "1359.1.1"
-	}
-}
-
-496 = {
-	name = "Oddone"
-	dynasty = 101562
-	martial = 4
-	diplomacy = 7
-	intrigue = 3
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = gluttonous
-	trait = lisping
-	trait = education_stewardship_3
-	father = 537
-	mother = 541
-	989.1.1 = {
-		birth = "989.1.1"
-	}
-	1004.1.1 = {
-		add_spouse = 495
-	}
-	1031.1.1 = {
-		death = "1031.1.1"
-	}
-}
-
-498 = {
-	name = "Friozza"
-	female = yes
-	dynasty = 101562
-	martial = 5
-	diplomacy = 3
-	intrigue = 6
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = humble
-	trait = education_learning_1
-	father = 496
-	mother = 495
-	1004.1.1 = {
-		birth = "1004.1.1"
-	}
-	1071.2.17 = {
-		death = "1071.2.17"
-	}
-}
-
-537 = {
-	name = "Pietro"
-	dynasty = 101562
-	martial = 6
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = wrathful
-	trait = greedy
-	trait = education_martial_3
-	father = 539
-	mother = 540
-	961.1.2 = {
-		birth = "961.1.2"
-	}
-	982.1.1 = {
-		add_spouse = 541
-	}
-	1008.1.2 = {
-		death = "1008.1.2"
-	}
-}
-
-539 = {
-	name = "Pietro"
-	dynasty = 101562
-	martial = 7
-	diplomacy = 8
-	intrigue = 6
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = just
-	trait = zealous
-	trait = education_diplomacy_3
-	father = 184066
-	mother = 184067
-	927.1.2 = {
-		birth = "927.1.2"
-	}
-	981.1.2 = {
-		death = "981.1.2"
-	}
-}
-
-541 = {
-	name = "Maria"
-	female = yes
-	martial = 4
-	diplomacy = 7
-	intrigue = 8
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = calm
-	trait = education_learning_2
-	963.1.2 = {
-		birth = "963.1.2"
-	}
-	1012.1.2 = {
-		death = "1012.1.2"
-	}
-}
-
-542 = {
-	name = "Vitale"
-	dynasty = 101562
-	martial = 6
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 8
-	religion = "catholic"
-	culture = "venetian"
-	trait = temperate
-	trait = humble
-	trait = education_learning_2
-	father = 537
-	mother = 541
-	995.1.2 = {
-		birth = "995.1.2"
-	}
-	1020.1.1 = {
-		add_spouse = 184072
-	}
-	1053.1.2 = {
-		death = "1053.1.2"
-	}
-}
-543 = {
-	name = "Orso"
-	dynasty = 101562
-	martial = 5
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = just
-	trait = craven
-	trait = education_learning_3
-	father = 537
-	mother = 541
-	985.1.2 = {
-		birth = "985.1.2"
-	}
-	1037.1.2 = {
-		death = "1037.1.2"
-	}
-}
-
-544 = {
-	name = "Giovanni"
-	dynasty = 101562
-	martial = 5
-	diplomacy = 5
-	intrigue = 7
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = arrogant
-	trait = arbitrary
-	trait = ill
-	trait = education_diplomacy_1
-	father = 537
-	mother = 541
-	983.1.2 = {
-		birth = "983.1.2"
-	}
-	1001.1.1 = {
-		add_spouse = 545
-	}
-	1005.1.2 = {
-		death = "1005.1.2"
-	}
-}
-
-546 = {
-	name = "Basilio"
-	dynasty = 101562
-	martial = 4
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = ill
-	father = 544
-	mother = 545
-	1004.1.2 = {
-		birth = "1004.1.2"
-	}
-	1005.1.2 = {
-		death = "1005.1.2"
-	}
-}
-
-70694 = {
-	name = "Caterina"
-	dynasty = 101702
-	female = yes
-	martial = 3
-	diplomacy = 5
-	intrigue = 4
-	stewardship = 6
-	religion = "catholic"
-	culture = "venetian"
-	trait = just
-	trait = ambitious
-	trait = education_stewardship_2
-
-	1320.1.1 = {
-		birth = "1320.1.1"
-	}
-	1341.1.1 = {
-		death = "1341.1.1"
-	}
-}
-
-70732 = {
-	name = "NiccolO_"
-	# AKA: Niccolo
-	dynasty = 8734
-	martial = 5
-	diplomacy = 6
-	intrigue = 7
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = calm
-	trait = deceitful
-	trait = education_diplomacy_2
-	1300.1.1 = {
-		birth = "1300.1.1"
-	}
-	1334.2.1 = {
-		add_spouse = 70729
-	}
-	1354.1.1 = {
-		death = "1354.1.1"
-	}
-}
-
-70733 = {
-	name = "Francesco"
-	dynasty = 8734
-	martial = 6
-	diplomacy = 5
-	intrigue = 4
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = arrogant
-	trait = brave
-	trait = education_stewardship_2
-	father = 70732
-	1328.1.1 = {
-		birth = "1328.1.1"
-	}
-	1388.1.1 = {
-		death = "1388.1.1"
-	}
-}
-
-
-
-70793 = {
-	name = "Federigo"
-	dynasty = 13032
-	martial = 6
-	diplomacy = 4
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = arbitrary
-	trait = brave
-	trait = education_martial_2
-
-	1190.1.1 = {
-		birth = "1190.1.1"
-	}
-	1190.1.1 = {
-	employer = 70655
-	}
-	1233.1.1 = {
-		death = "1233.1.1"
-	}
-}
-
-70794 = {
-	name = "Mastino"
-	dynasty = 13032
-	martial = 4
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = greedy
-	trait = diligent
-	trait = education_intrigue_1
-	father = 70793
-
-	1215.1.1 = {
-		birth = "1215.1.1"
-	}
-	1277.10.17 = {
-		death = "1277.10.17"
-	}
-}
-
-70795 = {
-	name = "NiccolO_"
-	# AKA: Niccolo
-	dynasty = 13032
-	martial = 6
-	diplomacy = 5
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = gregarious
-	trait = brave
-	trait = education_martial_2
-	father = 70794
-
-	1236.1.1 = {
-		birth = "1236.1.1"
+	1266.1.1 = {
+		birth = yes
 	}
 	1276.1.1 = {
-		death = "1276.1.1"
+		death = yes
 	}
 }
 
-70796 = {
-	name = "Bocho"
-	dynasty = 13032
-	martial = 4
-	diplomacy = 4
-	intrigue = 6
-	stewardship = 5
+cisalpine0933 = {
+	name = "Aimone" # Aimone di Ceva
+	dynasty_house = house_ceva
 	religion = "catholic"
-	culture = "venetian"
-	trait = greedy
-	trait = education_intrigue_2
-	father = 70793
+	culture = "lombard"
+	trait = education_diplomacy_1
 
-	1220.1.1 = {
-		birth = "1220.1.1"
-	}
-	1275.1.1 = {
-		death = "1275.1.1"
-	}
-}
+	father = cisalpine0318
 
-70797 = {
-	name = "Picardo"
-	dynasty = 13032
-	martial = 6
-	diplomacy = 5
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = blademaster_1
-	trait = brave
-	trait = education_intrigue_4
-	father = 70796
-
-	1246.1.1 = {
-		birth = "1246.1.1"
-	}
-	1300.1.1 = {
-		death = "1300.1.1"
-	}
-}
-
-70798 = {
-	name = "Alberto"
-	dynasty = 13032
-	martial = 5
-	diplomacy = 5
-	intrigue = 4
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = hunter_1
-	trait = education_stewardship_1
-	father = 70793
-
-	1230.1.1 = {
-		birth = "1230.1.1"
-	}
-	1269.1.1 = {
-		add_spouse = 70799
-	}
-	1301.1.1 = {
-		death = "1301.1.1"
-	}
-}
-
-70800 = {
-	name = "Constanza"
-	female = yes
-	dynasty = 13032
-	martial = 6
-	diplomacy = 4
-	intrigue = 5
-	stewardship = 7
-	religion = "catholic"
-	culture = "venetian"
-	trait = arrogant
-	trait = intellect_good_1
-	trait = education_stewardship_4
-	father = 70798
-	mother = 70799
-
-	1270.1.1 = {
-		birth = "1270.1.1"
-	}
-	1306.4.27 = {
-		death = "1306.4.27"
-	}
-}
-
-70802 = {
-	name = "Bartomoleo"
-	# AKA: Bartolomeo
-	dynasty = 13032
-	martial = 6
-	diplomacy = 3
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = brave
-	trait = education_martial_1
-	father = 70798
-	mother = 70799
-
-	1274.1.1 = {
-		birth = "1274.1.1"
-	}
-	1304.1.1 = {
-		death = "1304.1.1"
-	}
-}
-
-70803 = {
-	name = "Cecchino"
-	dynasty = 13032
-	martial = 5
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = arbitrary
-	trait = lazy
-	trait = education_diplomacy_2
-	father = 70802
-	1292.1.1 = {
-		birth = "1292.1.1"
-	}
-	1312.1.1 = {
-		add_spouse = 70792
-	}
-	1320.1.1 = {
-		add_spouse = 70804
-	}
-	1325.1.1 = {
-		death = "1325.1.1"
-	}
-}
-
-70805 = {
-	name = "Cangrande"
-	dynasty = 13032
-	martial = 4
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = deceitful
-	trait = cynical
-	trait = education_intrigue_2
-	father = 70798
-	mother = 70799
-
-	1285.1.1 = {
-		birth = "1285.1.1"
-	}
-	1329.7.22 = {
-		death = "1329.7.22"
-	}
-}
-
-7800 = {
-	name = "Domenico"
-	dynasty = 516
-	martial = 4
-	diplomacy = 7
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_diplomacy_3
-	father = 167594
-	1008.1.1 = {
-		birth = "1008.1.1"
-	}
-	1071.1.1 = {
-		death = "1071.1.1"
-	}
-}
-
-7802 = {
-	name = "Domenico"
-	dynasty = 515
-	martial = 8
-	diplomacy = 5
-	intrigue = 5
-	stewardship = 4
-	religion = "catholic"
-	culture = "venetian"
-	trait = humble
-	trait = education_martial_2
-	1028.1.2 = {
-		birth = "1028.1.2"
-	}
-	1074.1.1 = {
-		add_spouse = 9812
-	}
-	1087.1.2 = {
-		death = "1087.1.2"
-	}
-}
-
-7804 = {
-	name = "Vitale"
-	dynasty = 514
-	martial = 5
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	trait = humble
-	trait = education_stewardship_2
-	father = 167583
-	1038.1.1 = {
-		birth = "1038.1.1"
-	}
-	1095.1.2 = {
-		death = "1095.1.2"
-	}
-}
-
-7808 = {
-	name = "Ordelaffo"
-	dynasty = 514
-	martial = 5
-	diplomacy = 8
-	intrigue = 4
-	stewardship = 5
-	religion = "catholic"
-	culture = "venetian"
-	father = 7804
-	1060.1.1 = {
-		birth = "1060.1.1"
-	}
-	1117.1.1 = {
-		death = "1117.1.1"
-	}
-}
-
-32115 = {
-	name = "Domenico"
-	dynasty = 7235
-	religion = "catholic"
-	culture = "venetian"
-	father = 32133
-	1088.1.1 = {
-		birth = "1088.1.1"
-	}
-	1122.8.1 = {
-		trait = faith_warrior
-	}
-	1130.1.2 = {
-		death = "1130.1.2"
-	}
-}
-32116 = {
-	name = "Pietro"
-	dynasty = 7236
-	religion = "catholic"
-	culture = "venetian"
-	father = 170060
-	1093.1.2 = {
-		birth = "1093.1.2"
-	}
-	1122.8.1 = {
-		trait = faith_warrior
-	}
-	1125.1.2 = {
-		add_spouse = 170084
-	}
-	1147.1.2 = {
-		death = "1147.1.2"
-	}
-}
-
-32117 = {
-	name = "Domenico"
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182012
-	trait = education_diplomacy_3
-	1090.1.2 = {
-		birth = "1090.1.2"
-	}
-	1156.1.2 = {
-		death = "1156.1.2"
-	}
-}
-
-32118 = {
-	name = "Vitale"
-	dynasty = 7235
-	religion = "catholic"
-	culture = "venetian"
-	father = 32115
-	1105.1.2 = {
-		birth = "1105.1.2"
-	}
-	1172.3.28 = {
-		death = "1172.3.28"
-	}
-}
-
-32119 = {
-	name = "Sebastiano"
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182001
-	mother = 167660
-	1102.1.1 = {
-		birth = "1102.1.1"
-	}
-	1130.1.1 = {
-		add_spouse = 167661
-	}
-	1178.4.13 = {
-		death = "1178.4.13"
-	}
-}
-
-
-32120 = {
-	name = "Pietro"
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32119
-	mother = 167661
-	1142.1.1 = {
-		birth = "1142.1.1"
-	}
-	1175.1.1 = {
-		add_spouse = 167662
-	}
-	1202.1.1 = {
-		trait = faith_warrior
-	}
-	1213.1.1 = {
-		#second wife
-		add_spouse = 211515 #constance of sicily, daughter of TANCRED di Lecce King of Sicily.
-	}
-	1229.3.13 = {
-		death = "1229.3.13"
-	}
-}
-
-32121 = {
-	name = "Raniero"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 213601
-	mother = 170047 #Contessa Minotto
-	1152.1.2 = {
-		birth = "1152.1.2"
-	}
-	1208.1.2 = {
-		death = "1208.1.2"
-	}
-}
-32122 = {
-	name = "Anna"
-	female = yes
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 32121
-	1200.1.2 = {
-		birth = "1200.1.2"
-	}
-	1264.1.2 = {
-		death = "1264.1.2"
-	}
-}
-
-32123 = {
-	name = "Fantino" #bishop of Constantinople
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_learning_2
-	father = 213601
-	mother = 170047 #Contessa Minotto
-	1151.1.1 = {
+	1305.1.1 = {
 		birth = yes
 	}
-	1209.1.2 = {
-		death = "1209.1.2"
+	1385.7.4 = {
+		death = yes
 	}
 }
 
-32124 = {
-	name = "Iacopo"
-	dynasty = 13006
+cisalpine0934 = {
+	name = "Cristoforo" # Cristoforo di Ceva
+	dynasty_house = house_ceva
 	religion = "catholic"
-	culture = "venetian"
-	1170.1.2 = {
-		birth = "1170.1.2"
+	culture = "lombard"
+	trait = education_martial_1
+
+	father = cisalpine0318
+
+	1309.1.1 = {
+		birth = yes
 	}
-	1249.7.19 = {
-		death = "1249.7.19"
+	1401.6.8 = {
+		death = yes
 	}
 }
 
-32125 = {
-	name = "Marino"
-	dynasty = 13070
+cisalpine0935 = {
+	name = "Oddone" # Oddone di Ceva
+	dynasty_house = house_ceva
 	religion = "catholic"
-	culture = "venetian"
-	father = 182016
-	1181.1.2 = {
-		birth = "1181.1.2"
+	culture = "lombard"
+
+	father = cisalpine0338
+
+	1335.1.1 = {
+		birth = yes
 	}
-	1253.1.1 = {
-		death = "1253.1.1"
-	}
-}
-32126 = {
-	name = "Reniero"
-	dynasty = 7237
-	religion = "catholic"
-	culture = "venetian"
-	1200.1.2 = {
-		birth = "1200.1.2"
-	}
-	1268.7.7 = {
-		death = "1268.7.7"
+	1401.6.8 = {
+		death = yes
 	}
 }
 
-32127 = {
-	name = "Lorenzo"
-	dynasty = 13006
+cisalpine0936 = {
+	name = "Lanfranco" # Lanfranco di Biandrate
+	dynasty_house = house_biandrate
 	religion = "catholic"
-	culture = "venetian"
-	father = 32124
-	1198.1.2 = {
-		birth = "1198.1.2"
+	culture = "piedmontese"
+	trait = education_martial_1
+
+	father = 71262
+	mother = 71261
+
+	1144.1.1 = {
+		birth = yes
 	}
-	1230.1.1 = {
-		add_spouse = cisalpine0298
+	1201.1.1 = {
+		death = yes
 	}
-	1275.8.15 = {
-		death = "1275.8.15"
+}
+
+cisalpine0937 = {
+	name = "Beatrice" # Beatrice Visconti, spouse of Guido de Valperga
+	dynasty = 234
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	father = cisalpine0620
+
+	1124.1.1 = {
+		birth = yes
+	}
+	1174.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0938 = {
+	name = "Donella" # Donella da Correggio, spouse of Carlo Fieschi
+	dynasty = 13064
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_stewardship_1
+
+	father = cisalpine0748
+	mother = cisalpine0801
+
+	1305.1.1 = {
+		birth = yes
+	}
+	1370.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0939 = {
+	name = "Eliana" # Eliana Fieschi, spouse of Alberto del Carretto
+	dynasty_house = house_fieschi
+	female = yes
+	religion = "catholic"
+	culture = "ligurian"
+	trait = education_stewardship_1
+
+	father = cisalpine0904
+
+	1284.1.1 = {
+		birth = yes
+	}
+	1305.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0940 = {
+	name = "Giovanni" # Giovanni Fieschi
+	dynasty_house = house_fieschi
+	religion = "catholic"
+	culture = "ligurian"
+
+	father = cisalpine0912
+
+	1335.1.1 = {
+		birth = yes
+	}
+	1383.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0941 = {
+	name = "Carlo" # Carlo Fieschi
+	dynasty_house = house_fieschi
+	religion = "catholic"
+	culture = "ligurian"
+
+	father = cisalpine0912
+
+	1337.1.1 = {
+		birth = yes
+	}
+	1413.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0942 = {
+	name = "Antonio" # Antonio Fieschi, Cleric
+	dynasty_house = house_fieschi
+	religion = "catholic"
+	culture = "ligurian"
+	trait = celibate
+	trait = theologian
+	trait = education_learning_2
+
+	father = cisalpine0904
+
+	1281.1.1 = {
+		birth = yes
+	}
+	1305.1.1 = {
+		death = yes
+	}
+}
+
+cisalpine0943 = {
+	name = "Gabriele" # Gabriele Fieschi
+	dynasty_house = house_fieschi
+	religion = "catholic"
+	culture = "ligurian"
+	trait = education_stewardship_1
+
+	father = cisalpine0904
+
+	1282.1.1 = {
+		birth = yes
+	}
+	1305.1.1 = {
+		death = yes
 	}
 }
 
 32128 = {
 	name = "Iacopo"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167602
+
 	1194.1.1 = {
-		birth = "1194.1.1"
-	}
-	1280.3.6 = {
-		death = "1280.3.6"
-	}
-}
-
-32129 = {
-	name = "Giovanni"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170068
-	1205.1.2 = {
-		birth = "1205.1.2"
-	}
-	1289.11.2 = {
-		death = "1289.11.2"
-	}
-}
-
-32130 = {
-	name = "Pietro"
-	dynasty = 13007
-	religion = "catholic"
-	culture = "venetian"
-	1252.1.2 = {
-		birth = "1252.1.2"
-	}
-	1270.1.1 = {
-		add_spouse = 182022 #Tomasina Morosini
-	}
-	1311.8.13 = {
-		death = "1311.8.13"
-	}
-}
-32131 = {
-	name = "Marino"
-	dynasty = 8734
-	religion = "catholic"
-	culture = "venetian"
-	1231.1.2 = {
-		birth = "1231.1.2"
-	}
-	1312.7.3 = {
-		death = "1312.7.3"
-	}
-}
-
-32132 = {
-	name = "Giovanni"
-	dynasty = 7238
-	religion = "catholic"
-	culture = "venetian"
-	1240.1.2 = {
-		birth = "1240.1.2"
-	}
-	1328.12.31 = {
-		death = "1328.12.31"
-	}
-}
-
-32133 = {
-	name = "Vitale"
-	dynasty = 7235
-	religion = "catholic"
-	culture = "venetian"
-	1040.1.2 = {
-		birth = "1040.1.2"
-	}
-	1102.1.2 = {
-		death = "1102.1.2"
-	}
-}
-
-145062 = {
-	name = "Tomasso"
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_learning_2
-	father = 182015
-	1172.1.1 = {
-		birth = "1172.1.1"
-	}
-	1211.7.1 = {
-		death = "1211.7.1"
-	}
-}
-
-170040 = {
-	name = "Domenico"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	1023.1.2 = {
-		birth = "1023.1.2"
-	}
-	1060.1.2 = {
-		death = "1060.1.2"
-	}
-}
-
-170041 = {
-	name = "Bono"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170040
-	1045.1.2 = {
-		birth = "1045.1.2"
-	}
-	1112.1.2 = {
-		death = "1112.1.2"
-	}
-}
-
-170042 = {
-	name = "Domenico"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170041
-	1075.1.2 = {
-		birth = "1075.1.2"
-	}
-	1122.8.1 = {
-		trait = faith_warrior
-	}
-	1135.1.2 = {
-		death = "1135.1.2"
-	}
-}
-
-170043 = {
-	name = "Enrico" #Patriarch of Grado
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170042
-	1104.1.2 = {
-		birth = "1104.1.2"
-	}
-	1122.8.1 = {
-		trait = faith_warrior
-	}
-	1182.1.2 = {
-		death = "1182.1.2"
-	}
-}
-
-170044 = {
-	name = "Vitale"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170042
-	1091.1.2 = {
-		birth = "1091.1.2"
-	}
-	1122.8.1 = {
-		trait = faith_warrior
-	}
-	1174.1.2 = {
-		death = "1174.1.2"
-	}
-}
-
-170045 = {
-	name = "Pietro"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170042
-	1106.1.2 = {
-		birth = "1106.1.2"
-	}
-	1167.1.2 = {
-		death = "1167.1.2"
-	}
-}
-
-170046 = {
-	name = "Bono"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170042
-	1108.1.2 = {
-		birth = "1108.1.2"
-	}
-	1139.1.2 = {
-		death = "1139.1.2"
-	}
-}
-
-170047 = {
-	name = "Contessa" #Contessa Minotto
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1125.1.1 = {
-		birth = "1125.1.1"
-	}
-	1210.1.1 = {
-		death = "1210.1.1"
-	}
-}
-
-170048 = {
-	name = "Enrico"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 32121
-	1190.1.2 = {
-		birth = "1190.1.2"
-	}
-	1250.1.2 = {
-		death = "1250.1.2"
-	}
-}
-
-170049 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170048
-	1208.1.2 = {
-		birth = "1208.1.2"
-	}
-	1253.1.2 = {
-		death = "1253.1.2"
-	}
-}
-
-170050 = {
-	name = "Tomaso"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170048
-	1212.1.2 = {
-		birth = "1212.1.2"
-	}
-	1233.1.1 = {
-		add_spouse = 170051
-	}
-	1259.1.2 = {
-		death = "1259.1.2"
-	}
-}
-
-170051 = {
-	name = "Cecilia"
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1215.1.2 = {
-		birth = "1215.1.2"
-	}
-	1262.1.2 = {
-		death = "1262.1.2"
-	}
-}
-
-170052 = {
-	name = "Raniero"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170049
-	1228.1.2 = {
-		birth = "1228.1.2"
-	}
-	1288.1.2 = {
-		death = "1288.1.2"
-	}
-}
-
-170053 = {
-	name = "Tomassina"
-	female = yes
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170050
-	1232.1.2 = {
-		birth = "1232.1.2"
-	}
-	1300.1.2 = {
-		death = "1300.1.2"
-	}
-}
-
-170054 = {
-	name = "NicolO_"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170050
-	mother = 170051
-	1236.1.2 = {
-		birth = "1236.1.2"
-	}
-	1299.1.2 = {
-		death = "1299.1.2"
-	}
-}
-
-170055 = {
-	name = "Gabriele"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170050
-	mother = 170051
-	1241.1.2 = {
-		birth = "1241.1.2"
-	}
-	1306.1.2 = {
-		death = "1306.1.2"
-	}
-}
-
-170056 = {
-	name = "Giovanni"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170050
-	mother = 170051
-	1246.1.2 = {
-		birth = "1246.1.2"
-	}
-	1325.1.2 = {
-		death = "1325.1.2"
-	}
-}
-
-170057 = {
-	name = "Andrea"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170044
-	1112.1.2 = {
-		birth = "1112.1.2"
-	}
-	1151.1.2 = {
-		add_spouse = 170058 # Primera Polani
-	}
-	1184.1.2 = {
-		death = "1184.1.2"
-	}
-}
-
-170058 = {
-	name = "Primera" # Primera Polani
-	female = yes
-	dynasty = 7236
-	religion = "catholic"
-	culture = "venetian"
-	father = 170059
-	1130.1.2 = {
-		birth = "1130.1.2"
-	}
-	1169.1.2 = {
-		death = "1169.1.2"
-	}
-}
-
-170059 = {
-	name = "Giovanni"
-	dynasty = 7236
-	religion = "catholic"
-	culture = "venetian"
-	father = 170060
-	1096.1.2 = {
-		birth = "1096.1.2"
-	}
-	1151.1.2 = {
-		death = "1151.1.2"
-	}
-}
-
-170060 = {
-	name = "DomE_nico"
-	dynasty = 7236
-	religion = "catholic"
-	culture = "venetian"
-	1060.1.2 = {
-		birth = "1060.1.2"
-	}
-	1112.1.2 = {
-		death = "1112.1.2"
-	}
-}
-
-170061 = {
-	name = "Giovanni"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170057
-	mother = 170058
-	1157.1.2 = {
-		birth = "1157.1.2"
-	}
-	1209.1.2 = {
-		death = "1209.1.2"
-	}
-}
-
-170062 = {
-	name = "Pietro"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170061
-	1184.1.2 = {
-		birth = "1184.1.2"
-	}
-	1234.1.2 = {
-		death = "1234.1.2"
-	}
-}
-
-170063 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170062
-	1212.1.2 = {
-		birth = "1212.1.2"
-	}
-	1266.1.2 = {
-		death = "1266.1.2"
-	}
-}
-
-170064 = {
-	name = "Pietro"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170063
-	1247.1.2 = {
-		birth = "1247.1.2"
-	}
-	1304.1.2 = {
-		death = "1304.1.2"
-	}
-}
-
-170065 = {
-	name = "Marino" # Lord of Andros
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170057
-	mother = 170058
-	1159.1.2 = {
-		birth = "1159.1.2"
-	}
-	1233.1.2 = {
-		death = "1233.1.2" # assassinated
-	}
-}
-
-170066 = {
-	name = "Giovanni"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170044
-	1115.1.2 = {
-		birth = "1115.1.2"
-	}
-	1187.1.2 = {
-		death = "1187.1.2"
-	}
-}
-
-170067 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170045
-	1137.1.2 = {
-		birth = "1137.1.2"
-	}
-	1200.1.2 = {
-		death = "1200.1.2"
-	}
-}
-
-170068 = {
-	name = "Raniero" #The Red
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170067
-	1164.1.2 = {
-		birth = "1164.1.2"
-	}
-	1237.1.2 = {
-		death = "1237.1.2"
-	}
-}
-
-170069 = {
-	name = "Leonardo"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170068
-	1195.1.2 = {
-		birth = "1195.1.2"
-	}
-	1270.1.2 = {
-		death = "1270.1.2"
-	}
-}
-
-170070 = {
-	name = "Fantino"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170069
-	1240.1.2 = {
-		birth = "1240.1.2"
-	}
-	1332.1.2 = {
-		death = "1332.1.2"
-	}
-}
-
-170071 = {
-	name = "Andrea" # Doge of Venice
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170070
-	1306.1.2 = {
-		birth = "1306.1.2"
-	}
-	1333.1.2 = {
-		add_spouse = 170072
-	}
-	1354.9.7 = {
-		death = "1354.9.7"
-	}
-}
-
-170072 = {
-	name = "Francesca"
-	dynasty = 13070
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	father = 182029
-	1320.1.2 = {
-		birth = "1320.1.2"
-	}
-	1367.1.2 = {
-		death = "1367.1.2"
-	}
-}
-
-170073 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170070
-	1308.1.2 = {
-		birth = "1308.1.2"
-	}
-	1366.1.2 = {
-		death = "1366.1.2"
-	}
-}
-
-170074 = {
-	name = "Simone"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170070
-	1310.1.2 = {
-		birth = "1310.1.2"
-	}
-	1380.1.2 = {
-		death = "1380.1.2"
-	}
-}
-
-170075 = {
-	name = "Filippo"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170068
-	1197.1.2 = {
-		birth = "1197.1.2"
-	}
-	1258.1.2 = {
-		death = "1258.1.2"
-	}
-}
-
-170076 = {
-	name = "Enrico"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 32129
-	1240.1.2 = {
-		birth = "1240.1.2"
-	}
-	1304.1.2 = {
-		death = "1304.1.2"
-	}
-}
-
-170077 = {
-	name = "Giovanni"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170076
-	1280.1.2 = {
-		birth = "1280.1.2"
-	}
-	1353.1.2 = {
-		death = "1353.1.2"
-	}
-}
-
-170078 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 32129
-	1245.1.2 = {
-		birth = "1245.1.2"
-	}
-	1303.1.2 = {
-		death = "1303.1.2"
-	}
-}
-
-170079 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170078
-	1278.1.2 = {
 		birth = yes
 	}
-	1350.1.2 = {
+	1280.3.6 = {
 		death = yes
-	}
-}
-
-170080 = {
-	name = "Marino"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170068
-	1202.1.2 = {
-		birth = "1202.1.2"
-	}
-	1255.1.2 = {
-		death = "1255.1.2"
-	}
-}
-
-170081 = {
-	name = "Marco"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170068
-	1205.1.2 = {
-		birth = "1205.1.2"
-	}
-	1278.1.2 = {
-		death = "1278.1.2"
-	}
-}
-
-170082 = {
-	name = "Raniero"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170081
-	1258.1.2 = {
-		birth = "1258.1.2"
-	}
-	1340.1.2 = {
-		death = "1340.1.2"
-	}
-}
-
-170083 = {
-	name = "Bonifacio"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170081
-	1261.1.2 = {
-		birth = "1261.1.2"
-	}
-	1347.1.2 = {
-		death = "1347.1.2"
-	}
-}
-
-170084 = {
-	name = "Adelasa" #Adelasa Michele
-	female = yes
-	dynasty = 7235
-	religion = "catholic"
-	culture = "venetian"
-	father = 32115
-	1105.1.1 = {
-		birth = "1105.1.1"
-	}
-	1128.1.2 = {
-		death = "1128.1.2"
-	}
-}
-
-170085 = {
-	name = "Naimerio"
-	dynasty = 7236
-	religion = "catholic"
-	culture = "venetian"
-	father = 32116
-	1127.1.2 = {
-		birth = "1127.1.2"
-	}
-	1185.1.2 = {
-		death = "1185.1.2"
-	}
-}
-
-167571 = {
-	name = "Vitale"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 7808
-	1080.1.1 = {
-		birth = "1080.1.1"
-	}
-	1130.1.1 = {
-		death = "1130.1.1"
-	}
-}
-
-167572 = {
-	name = "Bonifacio"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 7808
-	1085.1.1 = {
-		birth = "1085.1.1"
-	}
-	1133.1.1 = {
-		death = "1133.1.1"
-	}
-}
-
-167573 = {
-	name = "Giovanni"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167571
-	1110.1.1 = {
-		birth = "1110.1.1"
-	}
-	1164.1.1 = {
-		death = "1164.1.1"
-	}
-}
-
-
-167574 = {
-	name = "Vitale"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167573
-	1140.1.1 = {
-		birth = "1140.1.1"
-	}
-	1200.1.1 = {
-		death = "1200.1.1"
-	}
-}
-
-167575 = {
-	name = "Benedetto"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167573
-	1160.1.1 = {
-		birth = "1160.1.1"
-	}
-	1207.1.1 = {
-		death = "1207.1.1"
-	}
-}
-
-167576 = {
-	name = "Marino"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167578
-	1285.1.1 = {
-		birth = "1285.1.1"
-	}
-	1355.4.17 = {
-		death = "1355.4.17"
-	}
-}
-
-167577 = {
-	name = "Francesco"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167576
-	1310.1.1 = {
-		birth = "1310.1.1"
-	}
-	1390.1.1 = {
-		death = "1390.1.1"
-	}
-}
-
-167578 = {
-	name = "Leonardo"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167579
-	1250.1.1 = {
-		birth = "1250.1.1"
-	}
-	1305.1.1 = {
-		death = "1305.1.1"
-	}
-}
-
-167579 = {
-	name = "Vitale"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167575
-	1200.1.1 = {
-		birth = "1200.1.1"
-	}
-	1260.1.1 = {
-		death = "1260.1.1"
-	}
-}
-
-167580 = {
-	name = "Michele"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 7804
-	1062.1.1 = {
-		birth = "1062.1.1"
-	}
-	1120.1.1 = {
-		death = "1120.1.1"
-	}
-}
-
-167581 = {
-	name = "Ordelaffo"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167580
-	1090.1.1 = {
-		birth = "1090.1.1"
-	}
-	1140.1.1 = {
-		death = "1140.1.1"
-	}
-}
-
-167582 = {
-	name = "DomE_nico"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167580
-	1095.1.1 = {
-		birth = "1095.1.1"
-	}
-	1150.1.1 = {
-		death = yes
-	}
-}
-
-167583 = {
-	name = "Ordelaffo"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	1015.1.1 = {
-		birth = "1015.1.1"
-	}
-	1065.1.1 = {
-		death = "1065.1.1"
-	}
-}
-
-167584 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167583
-	1040.1.1 = {
-		birth = "1040.1.1"
-	}
-	1090.1.1 = {
-		death = "1090.1.1"
-	}
-}
-
-167585 = {
-	name = "Ordelaffo"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167574
-	1165.1.1 = {
-		birth = "1165.1.1"
-	}
-	1220.1.1 = {
-		death = "1220.1.1"
-	}
-}
-
-167586 = {
-	name = "Jacopo"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167585
-	1185.1.1 = {
-		birth = "1185.1.1"
-	}
-	1240.1.1 = {
-		death = "1240.1.1"
-	}
-}
-
-167587 = {
-	name = "Bianca"
-	dynasty = 514
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	father = 167586
-	1210.1.1 = {
-		birth = "1210.1.1"
-	}
-	1260.1.1 = {
-		death = "1260.1.1"
-	}
-}
-
-167588 = {
-	name = "Marino"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167579
-	1240.1.1 = {
-		birth = "1240.1.1"
-	}
-	1290.1.1 = {
-		death = "1290.1.1"
-	}
-}
-
-167589 = {
-	name = "Vitale"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167576
-	1305.1.1 = {
-		birth = "1305.1.1"
-	}
-	1355.1.1 = {
-		death = "1355.1.1"
-	}
-}
-
-167590 = {
-	name = "Ipolitta"
-	dynasty = 514
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	father = 167576
-	1318.1.1 = {
-		birth = "1318.1.1"
-	}
-	1358.1.1 = {
-		death = "1358.1.1"
-	}
-}
-
-167591 = {
-	name = "DomE_nico"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167578
-	1290.1.1 = {
-		birth = "1290.1.1"
-	}
-	1340.1.1 = {
-		death = "1340.1.1"
-	}
-}
-
-167592 = {
-	name = "Pietro"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167578
-	1280.1.1 = {
-		birth = "1280.1.1"
-	}
-	1340.1.1 = {
-		death = "1340.1.1"
-	}
-}
-
-167593 = {
-	name = "Bonifacio"
-	dynasty = 514
-	religion = "catholic"
-	culture = "venetian"
-	father = 167592
-	1310.1.1 = {
-		birth = "1310.1.1"
-	}
-	1360.1.1 = {
-		death = "1360.1.1"
 	}
 }
 
@@ -34609,58 +32866,14 @@ cisalpine0925 = {
 	name = "Iacopo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
+
 	970.1.1 = {
-		birth = "970.1.1"
+		birth = yes
 	}
 	1030.1.1 = {
-		death = "1030.1.1"
-	}
-}
-
-167595 = {
-	name = "Iacopo"
-	#placeholder
-	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
-	father = 7800
-	1030.1.1 = {
-		birth = "1030.1.1"
-	}
-	1085.1.1 = {
-		death = "1085.1.1"
-	}
-}
-
-167596 = {
-	name = "Andrea"
-	#placeholder
-	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
-	father = 7800
-	1035.1.1 = {
-		birth = "1035.1.1"
-	}
-	1080.1.1 = {
-		death = "1080.1.1"
-	}
-}
-
-167597 = {
-	name = "Carlo"
-	#placeholder
-	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
-	father = 7800
-	1040.1.1 = {
-		birth = "1040.1.1"
-	}
-	1090.1.1 = {
-		death = "1090.1.1"
+		death = yes
 	}
 }
 
@@ -34668,14 +32881,15 @@ cisalpine0925 = {
 	name = "DomE_nico"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167595
+
 	1055.1.1 = {
-		birth = "1055.1.1"
+		birth = yes
 	}
 	1115.1.1 = {
-		death = "1115.1.1"
+		death = yes
 	}
 }
 
@@ -34683,14 +32897,14 @@ cisalpine0925 = {
 	name = "Ambrogio"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167598
 	1080.1.1 = {
-		birth = "1080.1.1"
+		birth = yes
 	}
 	1140.1.1 = {
-		death = "1140.1.1"
+		death = yes
 	}
 }
 
@@ -34698,14 +32912,15 @@ cisalpine0925 = {
 	name = "Giacomo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167599
+
 	1100.1.1 = {
-		birth = "1100.1.1"
+		birth = yes
 	}
 	1155.1.1 = {
-		death = "1155.1.1"
+		death = yes
 	}
 }
 
@@ -34713,28 +32928,30 @@ cisalpine0925 = {
 	name = "Iacopo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167600
+
 	1130.1.1 = {
-		birth = "1130.1.1"
+		birth = yes
 	}
 	1180.1.1 = {
-		death = "1180.1.1"
+		death = yes
 	}
 }
 
 167602 = {
 	name = "DomE_nico"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167601
+
 	1160.1.1 = {
-		birth = "1160.1.1"
+		birth = yes
 	}
 	1215.1.1 = {
-		death = "1215.1.1"
+		death = yes
 	}
 }
 
@@ -34742,14 +32959,15 @@ cisalpine0925 = {
 	name = "DomE_nico"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 32128
+
 	1225.1.1 = {
-		birth = "1225.1.1"
+		birth = yes
 	}
 	1290.1.1 = {
-		death = "1290.1.1"
+		death = yes
 	}
 }
 
@@ -34757,14 +32975,15 @@ cisalpine0925 = {
 	name = "Gaspare"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167603
+
 	1250.1.1 = {
-		birth = "1250.1.1"
+		birth = yes
 	}
 	1310.1.1 = {
-		death = "1310.1.1"
+		death = yes
 	}
 }
 
@@ -34772,42 +32991,45 @@ cisalpine0925 = {
 	name = "Andrea"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167603
+
 	1255.1.1 = {
-		birth = "1255.1.1"
+		birth = yes
 	}
 	1305.1.1 = {
-		death = "1305.1.1"
+		death = yes
 	}
 }
 
 167606 = {
 	name = "Nicola"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167605
+
 	1275.1.1 = {
-		birth = "1275.1.1"
+		birth = yes
 	}
 	1330.1.1 = {
-		death = "1330.1.1"
+		death = yes
 	}
 }
 
 167607 = {
 	name = "Andrea"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167606
+
 	1302.1.1 = {
-		birth = "1302.1.1"
+		birth = yes
 	}
 	1382.6.5 = {
-		death = "1382.6.5"
+		death = yes
 	}
 }
 
@@ -34815,14 +33037,15 @@ cisalpine0925 = {
 	name = "Abbondanzio"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167596
+
 	1055.1.1 = {
-		birth = "1055.1.1"
+		birth = yes
 	}
 	1100.1.1 = {
-		death = "1100.1.1"
+		death = yes
 	}
 }
 
@@ -34830,30 +33053,15 @@ cisalpine0925 = {
 	name = "Galeotto"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167597
+
 	1060.1.1 = {
-		birth = "1060.1.1"
+		birth = yes
 	}
 	1115.1.1 = {
-		death = "1115.1.1"
-	}
-}
-
-167610 = {
-	name = "Ricciarda"
-	#placeholder
-	female = yes
-	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
-	father = 7800
-	1040.1.1 = {
-		birth = "1040.1.1"
-	}
-	1090.1.1 = {
-		death = "1090.1.1"
+		death = yes
 	}
 }
 
@@ -34861,14 +33069,15 @@ cisalpine0925 = {
 	name = "Gaspare"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167595
+
 	1060.1.1 = {
-		birth = "1060.1.1"
+		birth = yes
 	}
 	1110.1.1 = {
-		death = "1110.1.1"
+		death = yes
 	}
 }
 
@@ -34876,14 +33085,15 @@ cisalpine0925 = {
 	name = "Giacomo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167598
+
 	1085.1.1 = {
-		birth = "1085.1.1"
+		birth = yes
 	}
 	1135.1.1 = {
-		death = "1135.1.1"
+		death = yes
 	}
 }
 
@@ -34891,14 +33101,15 @@ cisalpine0925 = {
 	name = "Abbondanzio"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167612
+
 	1110.1.1 = {
-		birth = "1110.1.1"
+		birth = yes
 	}
 	1170.1.1 = {
-		death = "1170.1.1"
+		death = yes
 	}
 }
 
@@ -34906,14 +33117,15 @@ cisalpine0925 = {
 	name = "Galeotto"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167613
+
 	1135.1.1 = {
-		birth = "1135.1.1"
+		birth = yes
 	}
 	1190.1.1 = {
-		death = "1190.1.1"
+		death = yes
 	}
 }
 
@@ -34921,14 +33133,15 @@ cisalpine0925 = {
 	name = "Giacomo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167614
+
 	1155.1.1 = {
-		birth = "1155.1.1"
+		birth = yes
 	}
 	1205.1.1 = {
-		death = "1205.1.1"
+		death = yes
 	}
 }
 
@@ -34937,14 +33150,15 @@ cisalpine0925 = {
 	female = yes
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167614
+
 	1160.1.1 = {
-		birth = "1160.1.1"
+		birth = yes
 	}
 	1210.1.1 = {
-		death = "1210.1.1"
+		death = yes
 	}
 }
 
@@ -34953,14 +33167,15 @@ cisalpine0925 = {
 	female = yes
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167614
+
 	1165.1.1 = {
-		birth = "1165.1.1"
+		birth = yes
 	}
 	1220.1.1 = {
-		death = "1220.1.1"
+		death = yes
 	}
 }
 
@@ -34968,14 +33183,15 @@ cisalpine0925 = {
 	name = "Simone"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167600
+
 	1135.1.1 = {
-		birth = "1135.1.1"
+		birth = yes
 	}
 	1190.1.1 = {
-		death = "1190.1.1"
+		death = yes
 	}
 }
 
@@ -34983,14 +33199,15 @@ cisalpine0925 = {
 	name = "Pietro"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167601
+
 	1163.1.1 = {
-		birth = "1163.1.1"
+		birth = yes
 	}
 	1210.1.1 = {
-		death = "1210.1.1"
+		death = yes
 	}
 }
 
@@ -34998,14 +33215,15 @@ cisalpine0925 = {
 	name = "Ghiberto"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167619
+
 	1185.1.1 = {
-		birth = "1185.1.1"
+		birth = yes
 	}
 	1240.1.1 = {
-		death = "1240.1.1"
+		death = yes
 	}
 }
 
@@ -35013,14 +33231,15 @@ cisalpine0925 = {
 	name = "Oberto"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 32128
+
 	1230.1.1 = {
-		birth = "1230.1.1"
+		birth = yes
 	}
 	1280.1.1 = {
-		death = "1280.1.1"
+		death = yes
 	}
 }
 
@@ -35029,14 +33248,15 @@ cisalpine0925 = {
 	#placeholder
 	female = yes
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 32128
+
 	1235.1.1 = {
-		birth = "1235.1.1"
+		birth = yes
 	}
 	1285.1.1 = {
-		death = "1285.1.1"
+		death = yes
 	}
 }
 
@@ -35044,28 +33264,30 @@ cisalpine0925 = {
 	name = "Abbondanzio"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167603
+
 	1258.1.1 = {
-		birth = "1258.1.1"
+		birth = yes
 	}
 	1310.1.1 = {
-		death = "1310.1.1"
+		death = yes
 	}
 }
 
 167624 = {
 	name = "DomE_nico"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167605
+
 	1280.1.1 = {
-		birth = "1280.1.1"
+		birth = yes
 	}
 	1315.1.1 = {
-		death = "1315.1.1"
+		death = yes
 	}
 }
 
@@ -35073,14 +33295,15 @@ cisalpine0925 = {
 	name = "Iacopo"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167606
+
 	1305.1.1 = {
-		birth = "1305.1.1"
+		birth = yes
 	}
 	1355.1.1 = {
-		death = "1355.1.1"
+		death = yes
 	}
 }
 
@@ -35088,14 +33311,15 @@ cisalpine0925 = {
 	name = "Domenico"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167606
+
 	1307.1.1 = {
-		birth = "1307.1.1"
+		birth = yes
 	}
 	1357.1.1 = {
-		death = "1357.1.1"
+		death = yes
 	}
 }
 
@@ -35104,14 +33328,15 @@ cisalpine0925 = {
 	#placeholder
 	female = yes
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167606
+
 	1310.1.1 = {
-		birth = "1310.1.1"
+		birth = yes
 	}
 	1360.1.1 = {
-		death = "1360.1.1"
+		death = yes
 	}
 }
 
@@ -35119,1199 +33344,121 @@ cisalpine0925 = {
 	name = "Gaspare"
 	#placeholder
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167606
+
 	1312.1.1 = {
-		birth = "1312.1.1"
+		birth = yes
 	}
 	1362.1.1 = {
-		death = "1362.1.1"
+		death = yes
 	}
 }
 
 167629 = {
 	name = "Oberto"
 	dynasty = 516
-	religion = "catholic"
-	culture = "venetian"
+	religion = catholic
+	culture = venetian
 	father = 167624
+
 	1300.1.1 = {
-		birth = "1300.1.1"
+		birth = yes
 	}
 	1350.1.1 = {
-		death = "1350.1.1"
+		death = yes
 	}
 }
 
-182001 = {
+### Doges of Venice
+# Contarini
+7800 = {
+	name = "Domenico"
+	dynasty = 516
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = catholic
+	culture = venetian
+	trait = education_diplomacy_3
+	father = 167594
+
+	1008.1.1 = {
+		birth = yes
+	}
+	1071.1.1 = {
+		death = yes
+	}
+}
+
+167595 = {
+	name = "Iacopo"
+	#placeholder
+	dynasty = 516
+	religion = catholic
+	culture = venetian
+	father = 7800
+
+	1030.1.1 = {
+		birth = yes
+	}
+	1085.1.1 = {
+		death = yes
+	}
+}
+
+167596 = {
 	name = "Andrea"
 	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182000
-	mother = 167659
-	1070.1.1 = {
-		birth = "1070.1.1"
+	dynasty = 516
+	religion = catholic
+	culture = venetian
+	father = 7800
+
+	1035.1.1 = {
+		birth = yes
 	}
-	1095.1.1 = {
-		add_spouse = 167660
-	}
-	1130.1.1 = {
-		death = "1130.1.1"
+	1080.1.1 = {
+		death = yes
 	}
 }
 
-182002 = {
-	name = "Giovanni"
+167597 = {
+	name = "Carlo"
 	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32120
-	mother = 167662
-	1180.1.1 = {
-		birth = "1180.1.1"
-	}
-	1205.1.1 = {
-		add_spouse = 167663
-	}
-	1250.1.1 = {
-		death = "1250.1.1"
-	}
-}
-182003 = {
-	name = "Andrea"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182002
-	mother = 167663
-	1210.1.1 = {
-		birth = "1210.1.1"
-	}
-	1238.1.1 = {
-		add_spouse = 167664
-	}
-	1280.1.1 = {
-		death = "1280.1.1"
-	}
-}
-182004 = {
-	name = "Lorenzo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182003
-	mother = 167664
-	1240.1.1 = {
-		birth = "1240.1.1"
-	}
-	1265.1.1 = {
-		add_spouse = 167665
-	}
-	1310.1.1 = {
-		death = "1310.1.1"
-	}
-}
-182005 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182004
-	mother = 167665
-	1270.1.1 = {
-		birth = "1270.1.1"
-	}
-	1295.1.1 = {
-		add_spouse = 167666
-	}
-	1340.1.1 = {
-		death = "1340.1.1"
-	}
-}
-182006 = {
-	name = "Domenico"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182005
-	mother = 167666
-	1300.1.1 = {
-		birth = "1300.1.1"
-	}
-	1325.1.1 = {
-		add_spouse = 167667
-	}
-	1370.1.1 = {
-		death = "1370.1.1"
-	}
-}
-182007 = {
-	name = "Sebastiano"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182006
-	mother = 167667
-	1326.1.1 = {
-		birth = "1326.1.1"
-	}
-	1376.1.1 = {
-		death = "1376.1.1"
-	}
-}
+	dynasty = 516
+	religion = catholic
+	culture = venetian
+	father = 7800
 
-182008 = {
-	name = "Giovanni"
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_learning_1
-	940.1.1 = {
-		birth = "940.1.1"
-	}
-	1012.1.1 = {
-		death = "1012.1.1"
-	}
-}
-182009 = {
-	name = "Lorenzo"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182008
-	970.1.1 = {
-		birth = "970.1.1"
-	}
-	1030.1.1 = {
-		death = "1030.1.1"
-	}
-}
-182010 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182009
-	1000.1.1 = {
-		birth = "1000.1.1"
-	}
-	1060.1.1 = {
-		death = "1060.1.1"
-	}
-}
-182011 = {
-	name = "Domenico"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182010
-	1030.1.1 = {
-		birth = "1030.1.1"
+	1040.1.1 = {
+		birth = yes
 	}
 	1090.1.1 = {
-		death = "1090.1.1"
-	}
-}
-182012 = {
-	name = "Francesco"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182011
-	#son is Domenico
-	1060.1.1 = {
-		birth = "1060.1.1"
-	}
-	1120.1.1 = {
-		death = "1120.1.1"
-	}
-}
-
-182013 = {
-	name = "Ruggiero"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 32117
-	1115.1.1 = {
-		birth = "1115.1.1"
-	}
-	1180.1.1 = {
-		death = "1180.1.1"
-	}
-}
-182014 = {
-	name = "Giacopo"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182013
-	#son is Marino
-	1135.1.1 = {
-		birth = "1135.1.1"
-	}
-	1210.1.1 = {
-		death = "1210.1.1"
-	}
-}
-182015 = {
-	name = "Sebastiano"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182013
-	#son is Tomasso
-	1145.1.1 = {
-		birth = "1145.1.1"
-	}
-	1217.1.1 = {
-		death = "1217.1.1"
-	}
-}
-
-182016 = {
-	name = "Domenico"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182014
-	1158.1.1 = {
-		birth = "1158.1.1"
-	}
-	1202.1.1 = {
-		death = "1202.1.1"
-	}
-}
-
-
-182017 = {
-	name = "Michele" #michele sbarra morosini
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182015
-	1178.1.1 = {
-		birth = "1178.1.1"
-	}
-	1253.1.1 = {
-		death = "1253.1.1"
-	}
-}
-182018 = {
-	name = "Tomasina"
-	#husband = 98006 "Stephan The Posthumous"
-	#son = 98007 "king andrew III of hungary"
-	female = yes
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182017
-	1240.1.1 = {
-		birth = "1240.1.1"
-	}
-	1300.1.1 = {
-		death = "1300.1.1"
-	}
-}
-182019 = {
-	name = "Constanza"
-	#husband = 34118 "Stephan Vladislav Nemanjic"
-	female = yes
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182023
-	1270.1.1 = {
-		birth = "1270.1.1"
-	}
-	1293.1.1 = {
-		death = "1293.1.1"
-	}
-}
-182020 = {
-	name = "Albertino"
-	#raised Andrew III(98007) in venice
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182017
-	1230.1.1 = {
-		birth = yes
-	}
-	1301.1.1 = {
 		death = yes
 	}
 }
-182021 = {
-	name = "Giovanni"
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182017
-	1203.1.1 = {
-		birth = "1203.1.1"
-	}
-	1274.1.1 = {
-		death = "1274.1.1"
-	}
-}
-182022 = {
-	name = "Tomasina"
-	#wife of Pietro Gradenigo
+
+167610 = {
+	name = "Ricciarda"
+	#placeholder
 	female = yes
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182021
-	1240.1.1 = {
-		birth = "1240.1.1"
-	}
-	1311.1.1 = {
-		death = "1311.1.1"
-	}
-}
-182023 = {
-	name = "Turco"
-	#served with andrew III in hungary
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182020
-	1248.1.1 =  {
+	dynasty = 516
+	religion = catholic
+	culture = venetian
+	father = 7800
+
+	1040.1.1 = {
 		birth = yes
 	}
-	1314.1.1 = {
+	1090.1.1 = {
 		death = yes
 	}
 }
-182024 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182016
-	1190.1.1 = {
-		birth = "1190.1.1"
-	}
-	1252.1.1 = {
-		death = "1252.1.1"
-	}
-}
-182025 = {
-	name = "Giacopo"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182024
-	1215.1.1 = {
-		birth = "1215.1.1"
-	}
-	1272.1.1 = {
-		death = "1272.1.1"
-	}
-}
-182026 = {
-	name = "Baldo"
-	#served with andrew III in hungary
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182025
-	1240.1.1 = {
-		birth = "1240.1.1"
-	}
-	1301.1.1 = {
-		death = "1301.1.1"
-	}
-}
-182027 = {
-	name = "Giovanni"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182025
-	1235.1.1 = {
-		birth = "1235.1.1"
-	}
-	1291.1.1 = {
-		death = "1291.1.1"
-	}
-}
-182028 = {
-	name = "Ruggiero"
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182027
-	trait = education_martial_3 #Admiral
-	1260.1.1 = {
-		birth = "1260.1.1"
-	}
-	1311.1.1 = {
-		death = "1311.1.1"
-	}
-}
-182029 = {
-	name = "Domenico"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182028
-	1283.1.1 = {
-		birth = "1283.1.1"
-	}
-	1341.1.1 = {
-		death = "1341.1.1"
-	}
-}
-182030 = {
-	name = "Michele"
-	#doge of venice
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182029
-	1308.1.1 = {
-		birth = yes
-	}
-	#doge from june to death
-	1382.10.16 = {
-		death = yes
-	}
-}
-182031 = {
-	name = "Tomasina"
-	female = yes
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182011
-	1061.1.1 = {
-		birth = "1061.1.1"
-	}
-	1120.1.1 = {
-		death = "1120.1.1"
-	}
-}
-182032 = {
-	name = "Marco"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182011
-	1062.1.1 = {
-		birth = "1062.1.1"
-	}
-	1101.1.1 = {
-		death = "1101.1.1"
-	}
-}
-182033 = {
-	name = "Marco"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182032
-	1085.1.1 = {
-		birth = "1085.1.1"
-	}
-	1131.1.1 = {
-		death = "1131.1.1"
-	}
-}
-182034 = {
-	name = "Livia"
-	female = yes
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182033
-	1112.1.1 = {
-		birth = "1112.1.1"
-	}
-	1171.1.1 = {
-		death = "1171.1.1"
-	}
-}
-182035 = {
-	name = "Valentina"
-	#placeholder
-	female = yes
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182012
-	1087.1.2 = {
-		birth = "1087.1.2"
-	}
-	1151.1.2 = {
-		death = "1151.1.2"
-	}
-}
-182036 = {
-	name = "Claudia"
-	#placeholder
-	female = yes
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 182016
-	1185.1.2 = {
-		birth = "1185.1.2"
-	}
-	1233.1.1 = {
-		death = "1233.1.1"
-	}
-}
-182037 = {
-	name = "Giovanni"
-	#placeholder
-	dynasty = 13070
-	religion = "catholic"
-	culture = "venetian"
-	father = 32117
-	1117.1.1 = {
-		birth = "1117.1.1"
-	}
-	1165.1.1 = {
-		death = "1165.1.1"
-	}
-}
-182038 = {
-	name = "Anna"
-	female = yes
-	dynasty = 13007
-	religion = "catholic"
-	culture = "venetian"
-	father = 32130
-	mother = 182022
-	1272.1.2 = {
-		birth = "1272.1.2"
-	}
-	1323.1.1 = {
-		death = "1323.1.1"
-	}
-}
-
-170109 = {
-	name = "Enrico"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170040
-	1047.1.2 = {
-		birth = "1047.1.2"
-	}
-	1115.1.2 = {
-		death = "1115.1.2"
-	}
-}
-
-170110 = {
-	name = "Vitale"
-	dynasty = 13027
-	religion = "catholic"
-	culture = "venetian"
-	father = 170040
-	1049.1.2 = {
-		birth = "1049.1.2"
-	}
-	1110.1.2 = {
-		death = "1110.1.2"
-	}
-}
-
-167666 = {
-	name = "Fausta"
-	#placeholder
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1275.1.1 = {
-		birth = "1275.1.1"
-	}
-
-	1340.1.1 = {
-		death = "1340.1.1"
-	}
-}
-
-
-
-167667 = {
-	name = "Delinda"
-	#placeholder
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1305.1.1 = {
-		birth = "1305.1.1"
-	}
-
-	1355.1.1 = {
-		death = "1355.1.1"
-	}
-}
-
-167672 = {
-	name = "Sebastiano"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182000
-	mother = 167659
-	1075.1.1 = {
-		birth = "1075.1.1"
-	}
-
-	1130.1.1 = {
-		death = "1130.1.1"
-	}
-}
-
-
-167673 = {
-	name = "Germano"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182000
-	mother = 167659
-	1080.1.1 = {
-		birth = "1080.1.1"
-	}
-	1100.1.1 = {
-		add_spouse = 167674
-	}
-	1135.1.1 = {
-		death = "1135.1.1"
-	}
-}
-
-167675 = {
-	name = "Laura"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167673
-	mother = 167674
-	1102.1.1 = {
-		birth = "1102.1.1"
-	}
-
-	1152.1.1 = {
-		death = "1152.1.1"
-	}
-}
-
-
-
-167676 = {
-	name = "Constanza"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167673
-	mother = 167674
-	1106.1.1 = {
-		birth = "1106.1.1"
-	}
-
-	1160.1.1 = {
-		death = "1160.1.1"
-	}
-}
-
-
-
-167677 = {
-	name = "Marino"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167673
-	mother = 167674
-	1110.1.1 = {
-		birth = "1110.1.1"
-	}
-
-	1170.1.1 = {
-		death = "1170.1.1"
-	}
-}
-
-
-
-167678 = {
-	name = "Bernabo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182001
-	mother = 167660
-	1108.1.1 = {
-		birth = "1108.1.1"
-	}
-
-	1170.1.1 = {
-		death = "1170.1.1"
-	}
-}
-
-
-
-167679 = {
-	name = "Giovanni"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32119
-	mother = 167661
-	1132.1.1 = {
-		birth = "1132.1.1"
-	}
-
-	1190.1.1 = {
-		death = "1190.1.1"
-	}
-}
-
-
-
-167680 = {
-	name = "Ugo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32119
-	mother = 167661
-	1135.1.1 = {
-		birth = "1135.1.1"
-	}
-
-	1188.1.1 = {
-		death = "1188.1.1"
-	}
-}
-
-
-
-167681 = {
-	name = "Cristoforo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32119
-	mother = 167661
-	1138.1.1 = {
-		birth = "1138.1.1"
-	}
-
-	1200.1.1 = {
-		death = "1200.1.1"
-	}
-}
-
-
-167682 = {
-	name = "Andrea"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32120
-	mother = 167662
-	1176.1.1 = {
-		birth = "1176.1.1"
-	}
-
-	1226.1.1 = {
-		death = "1226.1.1"
-	}
-}
-
-
-
-167683 = {
-	name = "Camilla"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 32120
-	mother = 167662
-	1178.1.1 = {
-		birth = "1178.1.1"
-	}
-
-	1230.1.1 = {
-		death = "1230.1.1"
-	}
-}
-
-167684 = {
-	name = "Giulio"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182002
-	mother = 167663
-	1206.1.1 = {
-		birth = "1206.1.1"
-	}
-	1226.1.1 = {
-		add_spouse = 167685
-	}
-	1260.1.1 = {
-		death = "1260.1.1"
-	}
-}
-
-
-
-167685 = {
-	name = "Marcella"
-	#placeholder
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1210.1.1 = {
-		birth = "1210.1.1"
-	}
-	1260.1.1 = {
-		death = "1260.1.1"
-	}
-}
-
-
-
-167686 = {
-	name = "Michele"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167684
-	mother = 167685
-	1230.1.1 = {
-		birth = "1230.1.1"
-	}
-	1275.1.1 = {
-		death = "1275.1.1"
-	}
-}
-
-
-
-
-167687 = {
-	name = "Enrico"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167684
-	mother = 167685
-	1235.1.1 = {
-		birth = "1235.1.1"
-	}
-	1290.1.1 = {
-		death = "1290.1.1"
-	}
-}
-
-167688 = {
-	name = "Andrea"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182003
-	mother = 167664
-	1244.1.1 = {
-		birth = "1244.1.1"
-	}
-
-	1300.1.1 = {
-		death = "1300.1.1"
-	}
-}
-
-
-
-167689 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182003
-	mother = 167664
-	1252.1.1 = {
-		birth = "1252.1.1"
-	}
-
-	1315.1.1 = {
-		death = "1315.1.1"
-	}
-}
-
-167690 = {
-	name = "Goffredo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182004
-	mother = 167665
-	1274.1.1 = {
-		birth = "1274.1.1"
-	}
-
-	1320.1.1 = {
-		death = "1320.1.1"
-	}
-}
-
-
-167691 = {
-	name = "Eugenia"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182004
-	mother = 167665
-	1280.1.1 = {
-		birth = "1280.1.1"
-	}
-
-	1330.1.1 = {
-		death = "1330.1.1"
-	}
-}
-
-167692 = {
-	name = "Adelmo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182005
-	mother = 167666
-	1303.1.1 = {
-		birth = "1303.1.1"
-	}
-	1325.1.1 = {
-		add_spouse = 167693
-	}
-	1353.1.1 = {
-		death = "1353.1.1"
-	}
-}
-
-
-167693 = {
-	name = "Stefania"
-	#placeholder
-	female = yes
-	religion = "catholic"
-	culture = "venetian"
-	1305.1.1 = {
-		birth = "1305.1.1"
-	}
-	1350.1.1 = {
-		death = "1350.1.1"
-	}
-}
-
-
-
-167694 = {
-	name = "Cornelia"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 167692
-	mother = 167693
-	1326.1.1 = {
-		birth = "1326.1.1"
-	}
-
-	1376.1.1 = {
-		death = "1376.1.1"
-	}
-}
-
-
-
-167695 = {
-	name = "Ferdinando"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	trait = twin
-	father = 167692
-	mother = 167693
-	1328.1.1 = {
-		birth = "1328.1.1"
-	}
-
-	1378.1.1 = {
-		death = "1378.1.1"
-	}
-}
-
-
-167696 = {
-	name = "Giovanni"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	trait = twin
-	father = 167692
-	mother = 167693
-	1328.1.1 = {
-		birth = "1328.1.1"
-	}
-
-	1380.1.1 = {
-		death = "1380.1.1"
-	}
-}
-
-167697 = {
-	name = "Chiaffredo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182006
-	mother = 167667
-	1327.1.1 = {
-		birth = "1327.1.1"
-	}
-	1377.1.1 = {
-		death = "1377.1.1"
-	}
-}
-
-
-167698 = {
-	name = "Enzo"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182006
-	mother = 167667
-	1329.1.1 = {
-		birth = "1329.1.1"
-	}
-	1379.1.1 = {
-		death = "1379.1.1"
-	}
-}
-
-167699 = {
-	name = "Maria"
-	#placeholder
-	female = yes
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182006
-	mother = 167667
-	1330.1.1 = {
-		birth = "1330.1.1"
-	}
-	1380.1.1 = {
-		death = "1380.1.1"
-	}
-}
-
-167700 = {
-	name = "Pietro"
-	#placeholder
-	dynasty = 13075
-	religion = "catholic"
-	culture = "venetian"
-	father = 182006
-	mother = 167667
-	1332.1.1 = {
-		birth = "1332.1.1"
-	}
-	1382.1.1 = {
-		death = "1382.1.1"
-	}
-}
-
-20380 = {
-	name = "Maria"
-	female = yes
-	dynasty = 13070
-	martial = 6
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 8
-	religion = "catholic"
-	culture = "venetian"
-	trait = education_stewardship_3
-	father = 182009 #probably
-	1000.1.1 = {
-		birth = "1000.1.1"
-	}
-	1066.1.1 = {
-		employer = 8622
-	}
-	1068.1.1 = {
-		death = "1068.1.1"
-	}
-}
-
+# End of Contarini
+# Start of Participazio
 184020 = {
 	name = "Agnello"
 	dynasty = 1042812
@@ -36569,7 +33716,150 @@ cisalpine0925 = {
 		death = 942.1.1
 	}
 }
-#1042813 Candiano
+145926 = {
+	name = "Giustiniano"
+	dynasty = 1042812
+	religion = catholic
+	culture = venetian
+
+	743.1.1 = {
+		birth = 743.1.1
+	}
+	808.1.1 = {
+		death = 808.1.1
+	}
+}
+
+145927 = {
+	name = "Giovanni"
+	dynasty = 1042812
+	religion = catholic
+	culture = venetian
+	father = 145926
+	767.1.1 = {
+		birth = 767.1.1
+	}
+	805.1.1 = {
+		death = 805.1.1
+	}
+}
+# End of Participazio
+# Start of Tradonico
+#Tradonico
+184052 = {
+	name = "Pietro"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	father = 184074
+	mother = 184075
+	800.1.1 = {
+		birth = 800.1.1
+	}
+	864.7.13 = { #assassinated by someone
+		death = 864.7.13
+	}
+}
+184074 = {
+	name = "Ubaldo"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	780.1.1 = {
+		birth = 780.1.1
+	}
+	799.1.1 = {
+		add_spouse = 184075
+	}
+	836.1.1 = {
+		death = 836.1.1
+	}
+}
+184075 = {
+	name = "Giorgia"
+	female = yes
+	religion = catholic
+	culture = venetian
+	780.1.1 = {
+		birth = 780.1.1
+	}
+	840.1.1 = {
+		death = 840.1.1
+	}
+}
+184076 = {
+	name = "Giacomo"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	father = 184074
+	mother = 184075
+	805.1.1 = {
+		birth = 805.1.1
+	}
+	825.1.1 = {
+		add_spouse = 184077
+	}
+	880.1.1 = {
+		death = 880.1.1
+	}
+}
+184077 = {
+	name = "Gerberga"
+	female = yes
+	religion = catholic
+	culture = venetian
+	806.1.1 = {
+		birth = 806.1.1
+	}
+	875.1.1 = {
+		death = 875.1.1
+	}
+}
+184078 = {
+	name = "Francesco"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	father = 184076
+	mother = 184077
+	826.1.1 = {
+		birth = 826.1.1
+	}
+	890.1.1 = {
+		death = 890.1.1
+	}
+}
+184079 = {
+	name = "Giovanni"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	father = 184076
+	mother = 184077
+	830.1.1 = {
+		birth = 830.1.1
+	}
+	885.1.1 = {
+		death = 885.1.1
+	}
+}
+184080 = {
+	name = "Marco"
+	dynasty = 1042809
+	religion = catholic
+	culture = venetian #istrian
+	father = 184076
+	mother = 184077
+	835.1.1 = {
+		birth = 835.1.1
+	}
+	875.1.1 = {
+		death = 875.1.1
+	}
+}
+# End of Tradonico
+# Start of Candiano
 184034 = {
 	name = "Pietro" #0
 	dynasty = 1042813
@@ -36840,7 +34130,8 @@ cisalpine0925 = {
 		death = 995.1.1
 	}
 }
-#Tribuno
+# End of Candiano
+# Start of Tribuno
 184053 = {
 	name = "Domenico"
 	dynasty = 1042810
@@ -36928,8 +34219,232 @@ cisalpine0925 = {
 		death = 925.1.1
 	}
 }
-#184059 is a Participazio
-#101562 Orseolo
+# End of Tribuno
+# Start of Orseolo
+496 = {
+	name = "Oddone"
+	dynasty = 101562
+	martial = 4
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = venetian
+	trait = gluttonous
+	trait = lisping
+	trait = education_stewardship_3
+	father = 537
+	mother = 541
+	989.1.1 = {
+		birth = "989.1.1"
+	}
+	1004.1.1 = {
+		add_spouse = 495
+	}
+	1031.1.1 = {
+		death = "1031.1.1"
+	}
+}
+
+498 = {
+	name = "Friozza"
+	female = yes
+	dynasty = 101562
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = humble
+	trait = education_learning_1
+	father = 496
+	mother = 495
+	1004.1.1 = {
+		birth = "1004.1.1"
+	}
+	1071.2.17 = {
+		death = "1071.2.17"
+	}
+}
+
+537 = {
+	name = "Pietro"
+	dynasty = 101562
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = venetian
+	trait = wrathful
+	trait = greedy
+	trait = education_martial_3
+	father = 539
+	mother = 540
+	961.1.2 = {
+		birth = "961.1.2"
+	}
+	982.1.1 = {
+		add_spouse = 541
+	}
+	1008.1.2 = {
+		death = "1008.1.2"
+	}
+}
+
+539 = {
+	name = "Pietro"
+	dynasty = 101562
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = just
+	trait = zealous
+	trait = education_diplomacy_3
+	father = 184066
+	mother = 184067
+	927.1.2 = {
+		birth = "927.1.2"
+	}
+	981.1.2 = {
+		death = "981.1.2"
+	}
+}
+
+540 = {
+	name = "Felicita"
+	female = yes
+	dynasty = 101831
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = lombard
+	trait = humble
+	trait = education_intrigue_1
+	941.1.2 = {
+		birth = "941.1.2"
+	}
+	990.1.2 = {
+		death = "990.1.2"
+	}
+}
+
+541 = {
+	name = "Maria"
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = venetian
+	trait = calm
+	trait = education_learning_2
+	963.1.2 = {
+		birth = "963.1.2"
+	}
+	1012.1.2 = {
+		death = "1012.1.2"
+	}
+}
+
+542 = {
+	name = "Vitale"
+	dynasty = 101562
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = venetian
+	trait = temperate
+	trait = humble
+	trait = education_learning_2
+	father = 537
+	mother = 541
+	995.1.2 = {
+		birth = "995.1.2"
+	}
+	1020.1.1 = {
+		add_spouse = 184072
+	}
+	1053.1.2 = {
+		death = "1053.1.2"
+	}
+}
+543 = {
+	name = "Orso"
+	dynasty = 101562
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = venetian
+	trait = just
+	trait = craven
+	trait = education_learning_3
+	father = 537
+	mother = 541
+	985.1.2 = {
+		birth = "985.1.2"
+	}
+	1037.1.2 = {
+		death = "1037.1.2"
+	}
+}
+
+544 = {
+	name = "Giovanni"
+	dynasty = 101562
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = arrogant
+	trait = arbitrary
+	trait = ill
+	trait = education_diplomacy_1
+	father = 537
+	mother = 541
+	983.1.2 = {
+		birth = "983.1.2"
+	}
+	1001.1.1 = {
+		add_spouse = 545
+	}
+	1005.1.2 = {
+		death = "1005.1.2"
+	}
+}
+
+546 = {
+	name = "Basilio"
+	dynasty = 101562
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = ill
+	father = 544
+	mother = 545
+	1004.1.2 = {
+		birth = "1004.1.2"
+	}
+	1005.1.2 = {
+		death = "1005.1.2"
+	}
+}
 184060 = {
 	name = "Jacopo"
 	dynasty = 101562
@@ -37071,7 +34586,8 @@ cisalpine0925 = {
 		death = "1065.1.1"
 	}
 }
-#1042811 Memmo
+# End of Orseolo
+# Start of Memmo
 184068 = {
 	name = "Tribuno"
 	dynasty = 1042811
@@ -37101,7 +34617,8 @@ cisalpine0925 = {
 		death = 1020.1.1
 	}
 }
-#Non-noble
+# End of Memmo
+# Start of non-noble
 184070 = {
 	name = "Pietro" #Barbolano
 	religion = catholic
@@ -37125,615 +34642,2680 @@ cisalpine0925 = {
 		death = 1043.1.1
 	}
 }
-#184072-3 Orseolo
-#Tradonico
-184052 = {
-	name = "Pietro"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	father = 184074
-	mother = 184075
-	800.1.1 = {
-		birth = 800.1.1
-	}
-	864.7.13 = { #assassinated by someone
-		death = 864.7.13
-	}
-}
-184074 = {
-	name = "Ubaldo"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	780.1.1 = {
-		birth = 780.1.1
-	}
-	799.1.1 = {
-		add_spouse = 184075
-	}
-	836.1.1 = {
-		death = 836.1.1
-	}
-}
-184075 = {
-	name = "Giorgia"
-	female = yes
-	religion = catholic
-	culture = venetian
-	780.1.1 = {
-		birth = 780.1.1
-	}
-	840.1.1 = {
-		death = 840.1.1
-	}
-}
-184076 = {
-	name = "Giacomo"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	father = 184074
-	mother = 184075
-	805.1.1 = {
-		birth = 805.1.1
-	}
-	825.1.1 = {
-		add_spouse = 184077
-	}
-	880.1.1 = {
-		death = 880.1.1
-	}
-}
-184077 = {
-	name = "Gerberga"
-	female = yes
-	religion = catholic
-	culture = venetian
-	806.1.1 = {
-		birth = 806.1.1
-	}
-	875.1.1 = {
-		death = 875.1.1
-	}
-}
-184078 = {
-	name = "Francesco"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	father = 184076
-	mother = 184077
-	826.1.1 = {
-		birth = 826.1.1
-	}
-	890.1.1 = {
-		death = 890.1.1
-	}
-}
-184079 = {
-	name = "Giovanni"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	father = 184076
-	mother = 184077
-	830.1.1 = {
-		birth = 830.1.1
-	}
-	885.1.1 = {
-		death = 885.1.1
-	}
-}
-184080 = {
-	name = "Marco"
-	dynasty = 1042809
-	religion = catholic
-	culture = venetian #istrian
-	father = 184076
-	mother = 184077
-	835.1.1 = {
-		birth = 835.1.1
-	}
-	875.1.1 = {
-		death = 875.1.1
-	}
-}
-
-145910 = {
-	name = "Orso"
-	dynasty = 101562
-	religion = "catholic"
-	culture = "venetian"
-
-	690.1.1 = {
-		birth = "690.1.1"
-	}
-	737.1.1 = {
-		death = "737.1.1"
-	}
-}
-
-145911 = {
-	name = "Teodato"
-	dynasty = 101562
-	religion = "catholic"
-	culture = "venetian"
-	father = 145910
-	715.1.1 = {
-		birth = "715.1.1"
-	}
-	755.1.1 = {
-		trait = blind
-	}
-	782.1.1 = {
-		death = "782.1.1"
-	}
-}
-
-145912 = {
-	name = "Pietro"
-	dynasty = 101562
-	religion = "catholic"
-	culture = "venetian"
-	father = 145911
-	740.1.1 = {
-		birth = "740.1.1"
-	}
-	797.1.1 = {
-		death = "797.1.1"
-	}
-}
-
-145913 = {
-	name = "Jacopo"
-	dynasty = 101562
-	religion = "catholic"
-	culture = "venetian"
-	father = 145912
-	762.1.1 = {
-		birth = "762.1.1"
-	}
-	821.1.1 = {
-		death = "821.1.1"
-	}
-}
-
-145914 = {
-	name = "Pietro"
-	dynasty = 101562
-	religion = "catholic"
-	culture = "venetian"
-	father = 145913
-	785.1.1 = {
-		birth = "785.1.1"
-	}
-	844.1.1 = {
-		death = "844.1.1"
-	}
-}
-
-145915 = {
-	name = "Galla"
-	dynasty = 1022325
-	religion = "catholic"
-	culture = "venetian"
-
-	722.1.1 = {
-		birth = "722.1.1"
-	}
-	756.1.1 = {
-		trait = blind
-	}
-	763.1.1 = {
-		death = "763.1.1"
-	}
-}
-
-145916 = {
+# End of non-noble
+# Start of Selvo
+7802 = {
 	name = "Domenico"
-	dynasty = 1022326
-	religion = "catholic"
-	culture = "venetian"
-
-	720.1.1 = {
-		birth = "720.1.1"
-	}
-	764.1.1 = {
-		trait = blind
-	}
-	772.1.1 = {
-		death = "772.1.1"
-	}
-}
-
-145917 = {
-	name = "Caesario"
-	dynasty = 1022326
-	religion = "catholic"
-	culture = "venetian"
-	father = 145916
-	739.1.1 = {
-		birth = "739.1.1"
-	}
-	801.1.1 = {
-		death = "801.1.1"
-	}
-}
-
-145918 = {
-	name = "Sergio"
-	dynasty = 1022326
-	religion = "catholic"
-	culture = "venetian"
-	father = 145916
-	746.1.1 = {
-		birth = "746.1.1"
-	}
-	811.1.1 = {
-		death = "811.1.1"
-	}
-}
-
-145919 = {
-	name = "Maurizio"
-	dynasty = 1022327
-	religion = "catholic"
-	culture = "venetian"
-	trait = gregarious
-	trait = diligent
-	trait = education_diplomacy_4
-
-	726.1.1 = {
-		birth = "726.1.1"
-	}
-	787.1.1 = {
-		death = "787.1.1"
-	}
-}
-
-145920 = {
-	name = "Giovanni"
-	dynasty = 1022327
-	religion = "catholic"
-	culture = "venetian"
-	father = 145919
-	trait = ambitious
-	748.1.1 = {
-		birth = "748.1.1"
-	}
-	813.1.1 = {
-		death = "813.1.1"
-	}
-}
-
-145921 = {
-	name = "Maurizio"
-	dynasty = 1022327
-	religion = "catholic"
-	culture = "venetian"
-	father = 145920
-	767.1.1 = {
-		birth = "767.1.1"
-	}
-	831.1.1 = {
-		death = "831.1.1"
-	}
-}
-
-145922 = {
-	name = "Encagilio"
-	dynasty = 1022328
-	religion = "catholic"
-	culture = "venetian"
-
-	727.1.1 = {
-		birth = "727.1.1"
-	}
-	792.1.1 = {
-		death = "792.1.1"
-	}
-}
-
-
-145923 = {
-	name = "Obelerio"
-	dynasty = 1022328
-	religion = "catholic"
-	culture = "venetian"
-	father = 145922
-	764.1.1 = {
-		birth = "764.1.1"
-	}
-	832.1.1 = {
-		death = "832.1.1"
-	}
-}
-
-145924 = {
-	name = "Beato"
-	dynasty = 1022328
-	religion = "catholic"
-	culture = "venetian"
-	father = 145922
-	766.1.1 = {
-		birth = "766.1.1"
-	}
-	833.1.1 = {
-		death = "833.1.1"
-	}
-}
-
-145925 = {
-	name = "Valentino"
-	dynasty = 1022328
-	religion = "catholic"
-	culture = "venetian"
-	father = 145922
-	768.1.1 = {
-		birth = "768.1.1"
-	}
-	835.1.1 = {
-		death = "835.1.1"
-	}
-}
-
-145926 = {
-	name = "Giustiniano"
-	dynasty = 1042812
-	religion = catholic
-	culture = venetian
-
-	743.1.1 = {
-		birth = 743.1.1
-	}
-	808.1.1 = {
-		death = 808.1.1
-	}
-}
-
-145927 = {
-	name = "Giovanni"
-	dynasty = 1042812
-	religion = catholic
-	culture = venetian
-	father = 145926
-	767.1.1 = {
-		birth = 767.1.1
-	}
-	805.1.1 = {
-		death = 805.1.1
-	}
-}
-
-#Polo family
-166623 = {
-	name = "Lorenzo" #father of Niccolo and Maffeo
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	1208.1.1 = {
-		birth = yes
-		employer = 32120
-	}
-	1259.1.1 = {
-		death = yes
-	}
-}
-166624 = {
-	name = "NiccolO_"
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166623
-	trait = intellect_good_1
-	trait = gregarious
-	trait = diplomat
-	trait = education_stewardship_3
-	trait = diligent
-	trait = calm
-	trait = ambitious
-	trait = adventurer
-	1230.1.1 = {
-		birth = yes
-		employer = 32124
-	}
-	1250.1.1 = {
-		add_spouse = 166626
-	}
-	1255.1.1 = {
-		employer = 91068
-	}#Traveled to the Latin Empire
-	1260.1.1 = {
-		employer = 125504
-	}#Traveled to the Golden Horde
-	1264.1.1 = {
-		employer = 478011
-	}#Traveled to the Ilkhanate
-	1266.1.1 = {
-		employer = 217266
-	}#First meeting with Kublai
-	1266.1.1 = {
-		employer = 217266
-		effect = { set_relation_friend = character:217266 }
-	}#Return to Kublai's Court
-	1269.1.1 = {
-		employer = 32127
-	}#Return to Venice
-	1295.1.1 = {
-		employer = 32130
-	}#Return to Venice
-	1296.1.1 = {
-		death = yes
-	}
-}
-166625 = {
-	name = "Maffeo"
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166623
-	trait = education_diplomacy_3
-	trait = intellect_good_1
-	trait = diplomat
-	trait = education_stewardship_3
-	trait = diligent
-	trait = calm
-	trait = ambitious
-	trait = adventurer
-	1232.1.1 = {
-		birth = yes
-		employer = 32124
-	}
-	1255.1.1 = {
-		employer = 91068
-	}#Traveled to the Latin Empire
-	1260.1.1 = {
-		employer = 125504
-	}#Traveled to the Golden Horde
-	1264.1.1 = {
-		employer = 478011
-	}#Traveled to the Ilkhanate
-	1266.1.1 = {
-		employer = 217266
-		effect = { set_relation_friend = character:217266 }
-	}#First meeting with Kublai
-	1269.1.1 = {
-		employer = 32127
-	}#Return to Venice
-	1295.1.1 = {
-		employer = 32130
-	}
-	1309.1.1 = {
-		death = yes
-	}
-}
-166626 = {
-	name = "Nicole_Anna" #mother of Marco Polo
-	female = yes
-	dynasty = 1040022
-	religion = "catholic"
-	culture = venetian"
-	1233.1.1 = {
-		birth = yes
-		employer = 32120
-	}
-	1260.1.1 = {
-		death = yes
-	}
-}
-166627 = {
-	name = "Marco"
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166624
-	mother = 166626
-	trait = education_diplomacy_4
-	trait = generous
-	trait = intellect_good_3
-	trait = gregarious
-	trait = diplomat
-	trait = diligent
-	trait = calm
-	trait = ambitious
-	trait = adventurer
-	1254.9.15 = {
-		birth = yes
-		employer = 32126
-	}
-	1266.1.1 = {
-		employer = 217266
-		effect = { set_relation_friend = character:217266 }
-	}#Journey to Kublai's Court
-	1295.1.1 = {
-		employer = 32130
-	}#Return to Venice
-	1300.1.1 = {
-		add_spouse = 166628
-	}
-	1324.1.9 = {
-		death = yes
-	}
-}
-166628 = {
-	name = "Donata" #wife of Marco Polo
-	female = yes
-	dynasty = 1040023
-	religion = "catholic"
-	culture = "venetian"
-	1273.1.1 = {
-		birth = yes
-		employer = 32127
-	}
-	1342.1.1 = {
-		death = yes
-	}
-}
-166629 = {
-	name = "Fantina"
-	female = yes
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166627
-	mother = 166628
-	1301.1.1 = {
-		birth = yes
-	}
-	1354.1.1 = {
-		death = yes
-	}
-}
-166630 = {
-	name = "Bellela"
-	female = yes
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166627
-	mother = 166628
-	1303.1.1 = {
-		birth = yes
-	}
-	1359.1.1 = {
-		death = yes
-	}
-}
-166631 = {
-	name = "Moreta"
-	female = yes
-	dynasty = 1040021
-	religion = "catholic"
-	culture = "venetian"
-	father = 166627
-	mother = 166628
-	1306.1.1 = {
-		birth = yes
-	}
-	1365.1.1 = {
-		death = yes
-	}
-}
-
-70828 = {
-	name = "Gerardo"
-	dynasty = 100358
-	martial = 4
-	diplomacy = 6
+	dynasty = 515
+	martial = 8
+	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
 	religion = "catholic"
 	culture = venetian
-	trait = craven
-	trait = shy
-	trait = education_learning_3
-	1064.1.1 = {
-		birth = "1064.1.1"
+	trait = humble
+	trait = education_martial_2
+	1028.1.2 = {
+		birth = "1028.1.2"
 	}
-	1128.1.1 = {
-		death = "1128.1.1"
+	1074.1.1 = {
+		add_spouse = 9812
+	}
+	1087.1.2 = {
+		death = "1087.1.2"
+	}
+}
+# End of Selvo
+# Start of Faliero
+7804 = {
+	name = "Vitale"
+	dynasty = 514
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = venetian
+	trait = humble
+	trait = education_stewardship_2
+	father = 167583
+	1038.1.1 = {
+		birth = "1038.1.1"
+	}
+	1095.1.2 = {
+		death = "1095.1.2"
 	}
 }
 
-### Doges of Venice from Res Publica
+7808 = {
+	name = "Ordelaffo"
+	dynasty = 514
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = venetian
+	father = 7804
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1117.1.1 = {
+		death = "1117.1.1"
+	}
+}
+
+167571 = {
+	name = "Vitale"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 7808
+	1080.1.1 = {
+		birth = "1080.1.1"
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+
+167572 = {
+	name = "Bonifacio"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 7808
+	1085.1.1 = {
+		birth = "1085.1.1"
+	}
+	1133.1.1 = {
+		death = "1133.1.1"
+	}
+}
+
+167573 = {
+	name = "Giovanni"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167571
+	1110.1.1 = {
+		birth = "1110.1.1"
+	}
+	1164.1.1 = {
+		death = "1164.1.1"
+	}
+}
+
+
+167574 = {
+	name = "Vitale"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167573
+	1140.1.1 = {
+		birth = "1140.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+167575 = {
+	name = "Benedetto"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167573
+	1160.1.1 = {
+		birth = "1160.1.1"
+	}
+	1207.1.1 = {
+		death = "1207.1.1"
+	}
+}
+
+167576 = {
+	name = "Marino"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167578
+	1285.1.1 = {
+		birth = "1285.1.1"
+	}
+	1355.4.17 = {
+		death = "1355.4.17"
+	}
+}
+
+167577 = {
+	name = "Francesco"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167576
+	1310.1.1 = {
+		birth = "1310.1.1"
+	}
+	1390.1.1 = {
+		death = "1390.1.1"
+	}
+}
+
+167578 = {
+	name = "Leonardo"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167579
+	1250.1.1 = {
+		birth = "1250.1.1"
+	}
+	1305.1.1 = {
+		death = "1305.1.1"
+	}
+}
+
+167579 = {
+	name = "Vitale"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167575
+	1200.1.1 = {
+		birth = "1200.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+167580 = {
+	name = "Michele"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 7804
+	1062.1.1 = {
+		birth = "1062.1.1"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+
+167581 = {
+	name = "Ordelaffo"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167580
+	1090.1.1 = {
+		birth = "1090.1.1"
+	}
+	1140.1.1 = {
+		death = "1140.1.1"
+	}
+}
+
+167582 = {
+	name = "DomE_nico"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167580
+	1095.1.1 = {
+		birth = "1095.1.1"
+	}
+	1150.1.1 = {
+		death = yes
+	}
+}
+
+167583 = {
+	name = "Ordelaffo"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	1015.1.1 = {
+		birth = "1015.1.1"
+	}
+	1065.1.1 = {
+		death = "1065.1.1"
+	}
+}
+
+167584 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167583
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1090.1.1 = {
+		death = "1090.1.1"
+	}
+}
+
+167585 = {
+	name = "Ordelaffo"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167574
+	1165.1.1 = {
+		birth = "1165.1.1"
+	}
+	1220.1.1 = {
+		death = "1220.1.1"
+	}
+}
+
+167586 = {
+	name = "Jacopo"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167585
+	1185.1.1 = {
+		birth = "1185.1.1"
+	}
+	1240.1.1 = {
+		death = "1240.1.1"
+	}
+}
+
+167587 = {
+	name = "Bianca"
+	dynasty = 514
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	father = 167586
+	1210.1.1 = {
+		birth = "1210.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+167588 = {
+	name = "Marino"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167579
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+167589 = {
+	name = "Vitale"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167576
+	1305.1.1 = {
+		birth = "1305.1.1"
+	}
+	1355.1.1 = {
+		death = "1355.1.1"
+	}
+}
+
+167590 = {
+	name = "Ipolitta"
+	dynasty = 514
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	father = 167576
+	1318.1.1 = {
+		birth = "1318.1.1"
+	}
+	1358.1.1 = {
+		death = "1358.1.1"
+	}
+}
+
+167591 = {
+	name = "DomE_nico"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167578
+	1290.1.1 = {
+		birth = "1290.1.1"
+	}
+	1340.1.1 = {
+		death = "1340.1.1"
+	}
+}
+
+167592 = {
+	name = "Pietro"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167578
+	1280.1.1 = {
+		birth = "1280.1.1"
+	}
+	1340.1.1 = {
+		death = "1340.1.1"
+	}
+}
+
+167593 = {
+	name = "Bonifacio"
+	dynasty = 514
+	religion = "catholic"
+	culture = venetian
+	father = 167592
+	1310.1.1 = {
+		birth = "1310.1.1"
+	}
+	1360.1.1 = {
+		death = "1360.1.1"
+	}
+}
+# End of Faliero
+# Start of Michele
+32133 = {
+	name = "Vitale"
+	dynasty = 7235
+	religion = "catholic"
+	culture = venetian
+	1040.1.2 = {
+		birth = "1040.1.2"
+	}
+	1102.1.2 = {
+		death = "1102.1.2"
+	}
+}
+170084 = {
+	name = "Adelasa" #Adelasa Michele
+	female = yes
+	dynasty = 7235
+	religion = "catholic"
+	culture = venetian
+	father = 32115
+	1105.1.1 = {
+		birth = "1105.1.1"
+	}
+	1128.1.2 = {
+		death = "1128.1.2"
+	}
+}
+32115 = {
+	name = "Domenico"
+	dynasty = 7235
+	religion = "catholic"
+	culture = venetian
+	father = 32133
+	1088.1.1 = {
+		birth = "1088.1.1"
+	}
+	1122.8.1 = {
+		trait = faith_warrior
+	}
+	1130.1.2 = {
+		death = "1130.1.2"
+	}
+}
+32118 = {
+	name = "Vitale"
+	dynasty = 7235
+	religion = "catholic"
+	culture = venetian
+	father = 32115
+	1105.1.2 = {
+		birth = "1105.1.2"
+	}
+	1172.3.28 = {
+		death = "1172.3.28"
+	}
+}
+# End of Michele
+# Start of Polani
+32116 = {
+	name = "Pietro"
+	dynasty = 7236
+	religion = "catholic"
+	culture = venetian
+	father = 170060
+	1093.1.2 = {
+		birth = "1093.1.2"
+	}
+	1122.8.1 = {
+		trait = faith_warrior
+	}
+	1125.1.2 = {
+		add_spouse = 170084
+	}
+	1147.1.2 = {
+		death = "1147.1.2"
+	}
+}
+170058 = {
+	name = "Primera" # Primera Polani
+	female = yes
+	dynasty = 7236
+	religion = "catholic"
+	culture = venetian
+	father = 170059
+	1130.1.2 = {
+		birth = "1130.1.2"
+	}
+	1169.1.2 = {
+		death = "1169.1.2"
+	}
+}
+
+170059 = {
+	name = "Giovanni"
+	dynasty = 7236
+	religion = "catholic"
+	culture = venetian
+	father = 170060
+	1096.1.2 = {
+		birth = "1096.1.2"
+	}
+	1151.1.2 = {
+		death = "1151.1.2"
+	}
+}
+
+170060 = {
+	name = "DomE_nico"
+	dynasty = 7236
+	religion = "catholic"
+	culture = venetian
+	1060.1.2 = {
+		birth = "1060.1.2"
+	}
+	1112.1.2 = {
+		death = "1112.1.2"
+	}
+}
+170085 = {
+	name = "Naimerio"
+	dynasty = 7236
+	religion = "catholic"
+	culture = venetian
+	father = 32116
+	1127.1.2 = {
+		birth = "1127.1.2"
+	}
+	1185.1.2 = {
+		death = "1185.1.2"
+	}
+}
+# End of Polani
+# Start of Morosini
+32117 = {
+	name = "Domenico"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182012
+	trait = education_diplomacy_3
+	1090.1.2 = {
+		birth = "1090.1.2"
+	}
+	1156.1.2 = {
+		death = "1156.1.2"
+	}
+}
+32125 = {
+	name = "Marino"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182016
+	1181.1.2 = {
+		birth = "1181.1.2"
+	}
+	1253.1.1 = {
+		death = "1253.1.1"
+	}
+}
+145062 = {
+	name = "Tomasso"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	trait = education_learning_2
+	father = 182015
+	1172.1.1 = {
+		birth = "1172.1.1"
+	}
+	1211.7.1 = {
+		death = "1211.7.1"
+	}
+}
+170072 = {
+	name = "Francesca"
+	dynasty = 13070
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	father = 182029
+	1320.1.2 = {
+		birth = "1320.1.2"
+	}
+	1367.1.2 = {
+		death = "1367.1.2"
+	}
+}
+182008 = {
+	name = "Giovanni"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	trait = education_learning_1
+	940.1.1 = {
+		birth = "940.1.1"
+	}
+	1012.1.1 = {
+		death = "1012.1.1"
+	}
+}
+182009 = {
+	name = "Lorenzo"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182008
+	970.1.1 = {
+		birth = "970.1.1"
+	}
+	1030.1.1 = {
+		death = "1030.1.1"
+	}
+}
+182010 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182009
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1060.1.1 = {
+		death = "1060.1.1"
+	}
+}
+182011 = {
+	name = "Domenico"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182010
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+	1090.1.1 = {
+		death = "1090.1.1"
+	}
+}
+182012 = {
+	name = "Francesco"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182011
+	#son is Domenico
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+
+182013 = {
+	name = "Ruggiero"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 32117
+	1115.1.1 = {
+		birth = "1115.1.1"
+	}
+	1180.1.1 = {
+		death = "1180.1.1"
+	}
+}
+182014 = {
+	name = "Giacopo"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182013
+	#son is Marino
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+182015 = {
+	name = "Sebastiano"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182013
+	#son is Tomasso
+	1145.1.1 = {
+		birth = "1145.1.1"
+	}
+	1217.1.1 = {
+		death = "1217.1.1"
+	}
+}
+
+182016 = {
+	name = "Domenico"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182014
+	1158.1.1 = {
+		birth = "1158.1.1"
+	}
+	1202.1.1 = {
+		death = "1202.1.1"
+	}
+}
+
+
+182017 = {
+	name = "Michele" #michele sbarra morosini
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182015
+	1178.1.1 = {
+		birth = "1178.1.1"
+	}
+	1253.1.1 = {
+		death = "1253.1.1"
+	}
+}
+182018 = {
+	name = "Tomasina"
+	#husband = 98006 "Stephan The Posthumous"
+	#son = 98007 "king andrew III of hungary"
+	female = yes
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182017
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	}
+}
+182019 = {
+	name = "Constanza"
+	#husband = 34118 "Stephan Vladislav Nemanjic"
+	female = yes
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182023
+	1270.1.1 = {
+		birth = "1270.1.1"
+	}
+	1293.1.1 = {
+		death = "1293.1.1"
+	}
+}
+182020 = {
+	name = "Albertino"
+	#raised Andrew III(98007) in venice
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182017
+	1230.1.1 = {
+		birth = yes
+	}
+	1301.1.1 = {
+		death = yes
+	}
+}
+182021 = {
+	name = "Giovanni"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182017
+	1203.1.1 = {
+		birth = "1203.1.1"
+	}
+	1274.1.1 = {
+		death = "1274.1.1"
+	}
+}
+182022 = {
+	name = "Tomasina"
+	#wife of Pietro Gradenigo
+	female = yes
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182021
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1311.1.1 = {
+		death = "1311.1.1"
+	}
+}
+182023 = {
+	name = "Turco"
+	#served with andrew III in hungary
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182020
+	1248.1.1 =  {
+		birth = yes
+	}
+	1314.1.1 = {
+		death = yes
+	}
+}
+182024 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182016
+	1190.1.1 = {
+		birth = "1190.1.1"
+	}
+	1252.1.1 = {
+		death = "1252.1.1"
+	}
+}
+182025 = {
+	name = "Giacopo"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182024
+	1215.1.1 = {
+		birth = "1215.1.1"
+	}
+	1272.1.1 = {
+		death = "1272.1.1"
+	}
+}
+182026 = {
+	name = "Baldo"
+	#served with andrew III in hungary
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182025
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1301.1.1 = {
+		death = "1301.1.1"
+	}
+}
+182027 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182025
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1291.1.1 = {
+		death = "1291.1.1"
+	}
+}
+182028 = {
+	name = "Ruggiero"
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182027
+	trait = education_martial_3 #Admiral
+	1260.1.1 = {
+		birth = "1260.1.1"
+	}
+	1311.1.1 = {
+		death = "1311.1.1"
+	}
+}
+182029 = {
+	name = "Domenico"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182028
+	1283.1.1 = {
+		birth = "1283.1.1"
+	}
+	1341.1.1 = {
+		death = "1341.1.1"
+	}
+}
+182030 = {
+	name = "Michele"
+	#doge of venice
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182029
+	1308.1.1 = {
+		birth = yes
+	}
+	#doge from june to death
+	1382.10.16 = {
+		death = yes
+	}
+}
+182031 = {
+	name = "Tomasina"
+	female = yes
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182011
+	1061.1.1 = {
+		birth = "1061.1.1"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+182032 = {
+	name = "Marco"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182011
+	1062.1.1 = {
+		birth = "1062.1.1"
+	}
+	1101.1.1 = {
+		death = "1101.1.1"
+	}
+}
+182033 = {
+	name = "Marco"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182032
+	1085.1.1 = {
+		birth = "1085.1.1"
+	}
+	1131.1.1 = {
+		death = "1131.1.1"
+	}
+}
+182034 = {
+	name = "Livia"
+	female = yes
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182033
+	1112.1.1 = {
+		birth = "1112.1.1"
+	}
+	1171.1.1 = {
+		death = "1171.1.1"
+	}
+}
+182035 = {
+	name = "Valentina"
+	#placeholder
+	female = yes
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182012
+	1087.1.2 = {
+		birth = "1087.1.2"
+	}
+	1151.1.2 = {
+		death = "1151.1.2"
+	}
+}
+182036 = {
+	name = "Claudia"
+	#placeholder
+	female = yes
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 182016
+	1185.1.2 = {
+		birth = "1185.1.2"
+	}
+	1233.1.1 = {
+		death = "1233.1.1"
+	}
+}
+182037 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13070
+	religion = "catholic"
+	culture = venetian
+	father = 32117
+	1117.1.1 = {
+		birth = "1117.1.1"
+	}
+	1165.1.1 = {
+		death = "1165.1.1"
+	}
+}
+20380 = {
+	name = "Maria"
+	female = yes
+	dynasty = 13070
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = venetian
+	trait = education_stewardship_3
+	father = 182009 #probably
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1066.1.1 = {
+		employer = 8622
+	}
+	1068.1.1 = {
+		death = "1068.1.1"
+	}
+}
+# End of Morosini
+# Start of Ziani
+32119 = {
+	name = "Sebastiano"
+	dynasty = 13075
+	religion = "catholic"
+	culture = cisalpine
+	father = 182001
+	mother = 167660
+	1102.1.1 = {
+		birth = "1102.1.1"
+	}
+	1130.1.1 = {
+		add_spouse = 167661
+	}
+	1178.4.13 = {
+		death = "1178.4.13"
+	}
+}
+
+
+32120 = {
+	name = "Pietro"
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32119
+	mother = 167661
+	1142.1.1 = {
+		birth = "1142.1.1"
+	}
+	1175.1.1 = {
+		add_spouse = 167662
+	}
+	1202.1.1 = {
+		trait = faith_warrior
+	}
+	1213.1.1 = {
+		#second wife
+		add_spouse = 211515 #constance of sicily, daughter of TANCRED di Lecce King of Sicily.
+	}
+	1229.3.13 = {
+		death = "1229.3.13"
+	}
+}
+182000 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = toscano
+	father = 167668
+	mother = 167669
+	1040.1.1 = {
+		birth = "1040.1.1"
+	}
+	1066.1.1 = {
+		add_spouse = 167659
+	}
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+182001 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182000
+	mother = 167659
+	1070.1.1 = {
+		birth = "1070.1.1"
+	}
+	1095.1.1 = {
+		add_spouse = 167660
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+
+182002 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32120
+	mother = 167662
+	1180.1.1 = {
+		birth = "1180.1.1"
+	}
+	1205.1.1 = {
+		add_spouse = 167663
+	}
+	1250.1.1 = {
+		death = "1250.1.1"
+	}
+}
+182003 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182002
+	mother = 167663
+	1210.1.1 = {
+		birth = "1210.1.1"
+	}
+	1238.1.1 = {
+		add_spouse = 167664
+	}
+	1280.1.1 = {
+		death = "1280.1.1"
+	}
+}
+182004 = {
+	name = "Lorenzo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182003
+	mother = 167664
+	1240.1.1 = {
+		birth = "1240.1.1"
+	}
+	1265.1.1 = {
+		add_spouse = 167665
+	}
+	1310.1.1 = {
+		death = "1310.1.1"
+	}
+}
+182005 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182004
+	mother = 167665
+	1270.1.1 = {
+		birth = "1270.1.1"
+	}
+	1295.1.1 = {
+		add_spouse = 167666
+	}
+	1340.1.1 = {
+		death = "1340.1.1"
+	}
+}
+182006 = {
+	name = "Domenico"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182005
+	mother = 167666
+	1300.1.1 = {
+		birth = "1300.1.1"
+	}
+	1325.1.1 = {
+		add_spouse = 167667
+	}
+	1370.1.1 = {
+		death = "1370.1.1"
+	}
+}
+182007 = {
+	name = "Sebastiano"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182006
+	mother = 167667
+	1326.1.1 = {
+		birth = "1326.1.1"
+	}
+	1376.1.1 = {
+		death = "1376.1.1"
+	}
+}
+167668 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = toscano
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1035.1.1 = {
+		add_spouse = 167669
+	}
+	1065.1.1 = {
+		death = "1065.1.1"
+	}
+}
+
+167669 = {
+	name = "Matilda"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = toscano
+	1015.1.1 = {
+		birth = "1015.1.1"
+	}
+	1060.1.1 = {
+		death = "1060.1.1"
+	}
+}
+
+167670 = {
+	name = "Corrado"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = toscano
+	father = 167668
+	mother = 167669
+	1045.1.1 = {
+		birth = "1045.1.1"
+	}
+	1095.1.1 = {
+		death = "1095.1.1"
+	}
+}
+
+167671 = {
+	name = "Mariana"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = toscano
+	father = 167668
+	mother = 167669
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+	1105.1.1 = {
+		death = "1105.1.1"
+	}
+}
+
+167672 = {
+	name = "Sebastiano"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182000
+	mother = 167659
+	1075.1.1 = {
+		birth = "1075.1.1"
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+
+167673 = {
+	name = "Germano"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182000
+	mother = 167659
+	1080.1.1 = {
+		birth = "1080.1.1"
+	}
+	1100.1.1 = {
+		add_spouse = 167674
+	}
+	1135.1.1 = {
+		death = "1135.1.1"
+	}
+}
+
+167674 = {
+	name = "Giulia"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = cisalpine
+	1080.1.1 = {
+		birth = "1080.1.1"
+	}
+	1130.1.1 = {
+		death = "1130.1.1"
+	}
+}
+
+167675 = {
+	name = "Laura"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167673
+	mother = 167674
+	1102.1.1 = {
+		birth = "1102.1.1"
+	}
+	1152.1.1 = {
+		death = "1152.1.1"
+	}
+}
+
+167676 = {
+	name = "Constanza"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167673
+	mother = 167674
+	1106.1.1 = {
+		birth = "1106.1.1"
+	}
+	1160.1.1 = {
+		death = "1160.1.1"
+	}
+}
+
+167677 = {
+	name = "Marino"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167673
+	mother = 167674
+	1110.1.1 = {
+		birth = "1110.1.1"
+	}
+	1170.1.1 = {
+		death = "1170.1.1"
+	}
+}
+
+167678 = {
+	name = "Bernabo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182001
+	mother = 167660
+	1108.1.1 = {
+		birth = "1108.1.1"
+	}
+	1170.1.1 = {
+		death = "1170.1.1"
+	}
+}
+
+167679 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32119
+	mother = 167661
+	1132.1.1 = {
+		birth = "1132.1.1"
+	}
+	1190.1.1 = {
+		death = "1190.1.1"
+	}
+}
+
+167680 = {
+	name = "Ugo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32119
+	mother = 167661
+	1135.1.1 = {
+		birth = "1135.1.1"
+	}
+	1188.1.1 = {
+		death = "1188.1.1"
+	}
+}
+
+167681 = {
+	name = "Cristoforo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32119
+	mother = 167661
+	1138.1.1 = {
+		birth = "1138.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+167682 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32120
+	mother = 167662
+	1176.1.1 = {
+		birth = "1176.1.1"
+	}
+	1226.1.1 = {
+		death = "1226.1.1"
+	}
+}
+
+167683 = {
+	name = "Camilla"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 32120
+	mother = 167662
+	1178.1.1 = {
+		birth = "1178.1.1"
+	}
+	1230.1.1 = {
+		death = "1230.1.1"
+	}
+}
+
+167684 = {
+	name = "Giulio"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182002
+	mother = 167663
+	1206.1.1 = {
+		birth = "1206.1.1"
+	}
+	1226.1.1 = {
+		add_spouse = 167685
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+167685 = {
+	name = "Marcella"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	1210.1.1 = {
+		birth = "1210.1.1"
+	}
+	1260.1.1 = {
+		death = "1260.1.1"
+	}
+}
+
+167686 = {
+	name = "Michele"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167684
+	mother = 167685
+	1230.1.1 = {
+		birth = "1230.1.1"
+	}
+	1275.1.1 = {
+		death = "1275.1.1"
+	}
+}
+
+167687 = {
+	name = "Enrico"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167684
+	mother = 167685
+	1235.1.1 = {
+		birth = "1235.1.1"
+	}
+	1290.1.1 = {
+		death = "1290.1.1"
+	}
+}
+
+167688 = {
+	name = "Andrea"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182003
+	mother = 167664
+	1244.1.1 = {
+		birth = "1244.1.1"
+	}
+	1300.1.1 = {
+		death = "1300.1.1"
+	}
+}
+
+167689 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182003
+	mother = 167664
+	1252.1.1 = {
+		birth = "1252.1.1"
+	}
+
+	1315.1.1 = {
+		death = "1315.1.1"
+	}
+}
+
+167690 = {
+	name = "Goffredo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182004
+	mother = 167665
+	1274.1.1 = {
+		birth = "1274.1.1"
+	}
+
+	1320.1.1 = {
+		death = "1320.1.1"
+	}
+}
+
+167691 = {
+	name = "Eugenia"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182004
+	mother = 167665
+	1280.1.1 = {
+		birth = "1280.1.1"
+	}
+
+	1330.1.1 = {
+		death = "1330.1.1"
+	}
+}
+
+167692 = {
+	name = "Adelmo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182005
+	mother = 167666
+	1303.1.1 = {
+		birth = "1303.1.1"
+	}
+	1325.1.1 = {
+		add_spouse = 167693
+	}
+	1353.1.1 = {
+		death = "1353.1.1"
+	}
+}
+
+167693 = {
+	name = "Stefania"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	1305.1.1 = {
+		birth = "1305.1.1"
+	}
+	1350.1.1 = {
+		death = "1350.1.1"
+	}
+}
+
+167694 = {
+	name = "Cornelia"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 167692
+	mother = 167693
+	1326.1.1 = {
+		birth = "1326.1.1"
+	}
+
+	1376.1.1 = {
+		death = "1376.1.1"
+	}
+}
+
+167695 = {
+	name = "Ferdinando"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	trait = twin
+	father = 167692
+	mother = 167693
+	1328.1.1 = {
+		birth = "1328.1.1"
+	}
+
+	1378.1.1 = {
+		death = "1378.1.1"
+	}
+}
+
+167696 = {
+	name = "Giovanni"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	trait = twin
+	father = 167692
+	mother = 167693
+	1328.1.1 = {
+		birth = "1328.1.1"
+	}
+
+	1380.1.1 = {
+		death = "1380.1.1"
+	}
+}
+
+167697 = {
+	name = "Chiaffredo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182006
+	mother = 167667
+	1327.1.1 = {
+		birth = "1327.1.1"
+	}
+	1377.1.1 = {
+		death = "1377.1.1"
+	}
+}
+
+167698 = {
+	name = "Enzo"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182006
+	mother = 167667
+	1329.1.1 = {
+		birth = "1329.1.1"
+	}
+	1379.1.1 = {
+		death = "1379.1.1"
+	}
+}
+
+167699 = {
+	name = "Maria"
+	#placeholder
+	female = yes
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182006
+	mother = 167667
+	1330.1.1 = {
+		birth = "1330.1.1"
+	}
+	1380.1.1 = {
+		death = "1380.1.1"
+	}
+}
+
+167700 = {
+	name = "Pietro"
+	#placeholder
+	dynasty = 13075
+	religion = "catholic"
+	culture = venetian
+	father = 182006
+	mother = 167667
+	1332.1.1 = {
+		birth = "1332.1.1"
+	}
+	1382.1.1 = {
+		death = "1382.1.1"
+	}
+}
+# End of Ziani
+# Start of Mastropiero
+213600 = {
+	name = "Orio"
+	dynasty = 13076
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = venetian
+	trait = just
+	trait = education_diplomacy_2
+	1120.1.1 = {
+		birth = "1120.1.1"
+	}
+	1178.1.1 = {
+		capital = c_venezia
+	}
+	1192.1.1 = {
+		death = "1192.1.1"
+	}
+}
+# End of Mastropiero
+# Start of Dandolo
+213601 = {
+	name = "Enrico"
+	dynasty = 13027
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = cynical
+	trait = wrathful
+	trait = education_diplomacy_4
+	father = 170044
+	1107.1.2 = {
+		birth = "1107.1.2"
+	}
+	1150.1.2 = {
+		add_spouse = 170047 #Contessa Minotto
+	}
+	1176.10.1 = {
+		trait = blind
+	}
+	1202.6.1 = {
+		trait = faith_warrior
+	}
+	1205.6.21 = {
+		death = "1205.6.21"
+	}
+}
+463600 = {
+	name = "Francesco"
+	dynasty = 13027
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = venetian
+	trait = education_learning_2
+	father = 170078
+	1278.1.2 = {
+		birth = "1278.1.2"
+	}
+	1339.10.31 = {
+		death = "1339.10.31"
+	}
+}
+
+470005 = {
+	name = "Caterina"
+	female = yes
+	dynasty = 13027
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = generous
+	trait = education_intrigue_2
+	father = 170083
+	1296.1.1 = {
+		birth = "1296.1.1"
+	}
+	1359.1.1 = {
+		death = "1359.1.1"
+	}
+}
+
+32121 = {
+	name = "Raniero"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 213601
+	mother = 170047 #Contessa Minotto
+	1152.1.2 = {
+		birth = "1152.1.2"
+	}
+	1208.1.2 = {
+		death = "1208.1.2"
+	}
+}
+32122 = {
+	name = "Anna"
+	female = yes
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 32121
+	1200.1.2 = {
+		birth = "1200.1.2"
+	}
+	1264.1.2 = {
+		death = "1264.1.2"
+	}
+}
+
+32123 = {
+	name = "Fantino" #bishop of Constantinople
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	trait = education_learning_2
+	father = 213601
+	mother = 170047 #Contessa Minotto
+	1151.1.1 = {
+		birth = yes
+	}
+	1209.1.2 = {
+		death = "1209.1.2"
+	}
+}
+
+32129 = {
+	name = "Giovanni"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170068
+	1205.1.2 = {
+		birth = "1205.1.2"
+	}
+	1289.11.2 = {
+		death = "1289.11.2"
+	}
+}
+
+170040 = {
+	name = "Domenico"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	1023.1.2 = {
+		birth = "1023.1.2"
+	}
+	1060.1.2 = {
+		death = "1060.1.2"
+	}
+}
+
+170041 = {
+	name = "Bono"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170040
+	1045.1.2 = {
+		birth = "1045.1.2"
+	}
+	1112.1.2 = {
+		death = "1112.1.2"
+	}
+}
+
+170042 = {
+	name = "Domenico"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170041
+	1075.1.2 = {
+		birth = "1075.1.2"
+	}
+	1122.8.1 = {
+		trait = faith_warrior
+	}
+	1135.1.2 = {
+		death = "1135.1.2"
+	}
+}
+
+170043 = {
+	name = "Enrico" #Patriarch of Grado
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170042
+	1104.1.2 = {
+		birth = "1104.1.2"
+	}
+	1122.8.1 = {
+		trait = faith_warrior
+	}
+	1182.1.2 = {
+		death = "1182.1.2"
+	}
+}
+
+170044 = {
+	name = "Vitale"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170042
+	1091.1.2 = {
+		birth = "1091.1.2"
+	}
+	1122.8.1 = {
+		trait = faith_warrior
+	}
+	1174.1.2 = {
+		death = "1174.1.2"
+	}
+}
+
+170045 = {
+	name = "Pietro"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170042
+	1106.1.2 = {
+		birth = "1106.1.2"
+	}
+	1167.1.2 = {
+		death = "1167.1.2"
+	}
+}
+
+170046 = {
+	name = "Bono"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170042
+	1108.1.2 = {
+		birth = "1108.1.2"
+	}
+	1139.1.2 = {
+		death = "1139.1.2"
+	}
+}
+
+170047 = {
+	name = "Contessa" #Contessa Minotto
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	1125.1.1 = {
+		birth = "1125.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+170048 = {
+	name = "Enrico"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 32121
+	1190.1.2 = {
+		birth = "1190.1.2"
+	}
+	1250.1.2 = {
+		death = "1250.1.2"
+	}
+}
+
+170049 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170048
+	1208.1.2 = {
+		birth = "1208.1.2"
+	}
+	1253.1.2 = {
+		death = "1253.1.2"
+	}
+}
+
+170050 = {
+	name = "Tomaso"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170048
+	1212.1.2 = {
+		birth = "1212.1.2"
+	}
+	1233.1.1 = {
+		add_spouse = 170051
+	}
+	1259.1.2 = {
+		death = "1259.1.2"
+	}
+}
+
+170051 = {
+	name = "Cecilia"
+	female = yes
+	religion = "catholic"
+	culture = venetian
+	1215.1.2 = {
+		birth = "1215.1.2"
+	}
+	1262.1.2 = {
+		death = "1262.1.2"
+	}
+}
+
+170052 = {
+	name = "Raniero"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170049
+	1228.1.2 = {
+		birth = "1228.1.2"
+	}
+	1288.1.2 = {
+		death = "1288.1.2"
+	}
+}
+
+170053 = {
+	name = "Tomassina"
+	female = yes
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170050
+	1232.1.2 = {
+		birth = "1232.1.2"
+	}
+	1300.1.2 = {
+		death = "1300.1.2"
+	}
+}
+
+170054 = {
+	name = "NicolO_"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170050
+	mother = 170051
+	1236.1.2 = {
+		birth = "1236.1.2"
+	}
+	1299.1.2 = {
+		death = "1299.1.2"
+	}
+}
+
+170055 = {
+	name = "Gabriele"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170050
+	mother = 170051
+	1241.1.2 = {
+		birth = "1241.1.2"
+	}
+	1306.1.2 = {
+		death = "1306.1.2"
+	}
+}
+
+170056 = {
+	name = "Giovanni"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170050
+	mother = 170051
+	1246.1.2 = {
+		birth = "1246.1.2"
+	}
+	1325.1.2 = {
+		death = "1325.1.2"
+	}
+}
+
+170057 = {
+	name = "Andrea"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170044
+	1112.1.2 = {
+		birth = "1112.1.2"
+	}
+	1151.1.2 = {
+		add_spouse = 170058 # Primera Polani
+	}
+	1184.1.2 = {
+		death = "1184.1.2"
+	}
+}
+
+170061 = {
+	name = "Giovanni"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170057
+	mother = 170058
+	1157.1.2 = {
+		birth = "1157.1.2"
+	}
+	1209.1.2 = {
+		death = "1209.1.2"
+	}
+}
+
+170062 = {
+	name = "Pietro"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170061
+	1184.1.2 = {
+		birth = "1184.1.2"
+	}
+	1234.1.2 = {
+		death = "1234.1.2"
+	}
+}
+
+170063 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170062
+	1212.1.2 = {
+		birth = "1212.1.2"
+	}
+	1266.1.2 = {
+		death = "1266.1.2"
+	}
+}
+
+170064 = {
+	name = "Pietro"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170063
+	1247.1.2 = {
+		birth = "1247.1.2"
+	}
+	1304.1.2 = {
+		death = "1304.1.2"
+	}
+}
+
+170065 = {
+	name = "Marino" # Lord of Andros
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170057
+	mother = 170058
+	1159.1.2 = {
+		birth = "1159.1.2"
+	}
+	1233.1.2 = {
+		death = "1233.1.2" # assassinated
+	}
+}
+
+170066 = {
+	name = "Giovanni"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170044
+	1115.1.2 = {
+		birth = "1115.1.2"
+	}
+	1187.1.2 = {
+		death = "1187.1.2"
+	}
+}
+
+170067 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170045
+	1137.1.2 = {
+		birth = "1137.1.2"
+	}
+	1200.1.2 = {
+		death = "1200.1.2"
+	}
+}
+
+170068 = {
+	name = "Raniero" #The Red
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170067
+	1164.1.2 = {
+		birth = "1164.1.2"
+	}
+	1237.1.2 = {
+		death = "1237.1.2"
+	}
+}
+
+170069 = {
+	name = "Leonardo"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170068
+	1195.1.2 = {
+		birth = "1195.1.2"
+	}
+	1270.1.2 = {
+		death = "1270.1.2"
+	}
+}
+
+170070 = {
+	name = "Fantino"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170069
+	1240.1.2 = {
+		birth = "1240.1.2"
+	}
+	1332.1.2 = {
+		death = "1332.1.2"
+	}
+}
+
+170071 = {
+	name = "Andrea" # Doge of Venice
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170070
+	1306.1.2 = {
+		birth = "1306.1.2"
+	}
+	1333.1.2 = {
+		add_spouse = 170072
+	}
+	1354.9.7 = {
+		death = "1354.9.7"
+	}
+}
+
+170073 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170070
+	1308.1.2 = {
+		birth = "1308.1.2"
+	}
+	1366.1.2 = {
+		death = "1366.1.2"
+	}
+}
+
+170074 = {
+	name = "Simone"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170070
+	1310.1.2 = {
+		birth = "1310.1.2"
+	}
+	1380.1.2 = {
+		death = "1380.1.2"
+	}
+}
+
+170075 = {
+	name = "Filippo"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170068
+	1197.1.2 = {
+		birth = "1197.1.2"
+	}
+	1258.1.2 = {
+		death = "1258.1.2"
+	}
+}
+
+170076 = {
+	name = "Enrico"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 32129
+	1240.1.2 = {
+		birth = "1240.1.2"
+	}
+	1304.1.2 = {
+		death = "1304.1.2"
+	}
+}
+
+170077 = {
+	name = "Giovanni"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170076
+	1280.1.2 = {
+		birth = "1280.1.2"
+	}
+	1353.1.2 = {
+		death = "1353.1.2"
+	}
+}
+
+170078 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 32129
+	1245.1.2 = {
+		birth = "1245.1.2"
+	}
+	1303.1.2 = {
+		death = "1303.1.2"
+	}
+}
+
+170079 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170078
+	1278.1.2 = {
+		birth = yes
+	}
+	1350.1.2 = {
+		death = yes
+	}
+}
+
+170080 = {
+	name = "Marino"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170068
+	1202.1.2 = {
+		birth = "1202.1.2"
+	}
+	1255.1.2 = {
+		death = "1255.1.2"
+	}
+}
+
+170081 = {
+	name = "Marco"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170068
+	1205.1.2 = {
+		birth = "1205.1.2"
+	}
+	1278.1.2 = {
+		death = "1278.1.2"
+	}
+}
+
+170082 = {
+	name = "Raniero"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170081
+	1258.1.2 = {
+		birth = "1258.1.2"
+	}
+	1340.1.2 = {
+		death = "1340.1.2"
+	}
+}
+
+170083 = {
+	name = "Bonifacio"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170081
+	1261.1.2 = {
+		birth = "1261.1.2"
+	}
+	1347.1.2 = {
+		death = "1347.1.2"
+	}
+}
+170109 = {
+	name = "Enrico"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170040
+	1047.1.2 = {
+		birth = "1047.1.2"
+	}
+	1115.1.2 = {
+		death = "1115.1.2"
+	}
+}
+
+170110 = {
+	name = "Vitale"
+	dynasty = 13027
+	religion = "catholic"
+	culture = venetian
+	father = 170040
+	1049.1.2 = {
+		birth = "1049.1.2"
+	}
+	1110.1.2 = {
+		death = "1110.1.2"
+	}
+}
+# End of Dandolo
+# Start of Tiepolo
+32124 = {
+	name = "Iacopo"
+	dynasty = 13006
+	religion = "catholic"
+	culture = venetian
+	1170.1.2 = {
+		birth = "1170.1.2"
+	}
+	1249.7.19 = {
+		death = "1249.7.19"
+	}
+}
+32127 = {
+	name = "Lorenzo"
+	dynasty = 13006
+	religion = "catholic"
+	culture = venetian
+	father = 32124
+	1198.1.2 = {
+		birth = "1198.1.2"
+	}
+	1230.1.1 = {
+		add_spouse = cisalpine0298
+	}
+	1275.8.15 = {
+		death = "1275.8.15"
+	}
+}
+# End of Tiepolo
+# Start of Zeno
+32126 = {
+	name = "Reniero"
+	dynasty = 7237
+	religion = "catholic"
+	culture = venetian
+	1200.1.2 = {
+		birth = "1200.1.2"
+	}
+	1268.7.7 = {
+		death = "1268.7.7"
+	}
+}
+# End of Zeno
+# Start of Gradenigo
+32130 = {
+	name = "Pietro"
+	dynasty = 13007
+	religion = "catholic"
+	culture = venetian
+	1252.1.2 = {
+		birth = "1252.1.2"
+	}
+	1270.1.1 = {
+		add_spouse = 182022 #Tomasina Morosini
+	}
+	1311.8.13 = {
+		death = "1311.8.13"
+	}
+}
+182038 = {
+	name = "Anna"
+	female = yes
+	dynasty = 13007
+	religion = "catholic"
+	culture = venetian
+	father = 32130
+	mother = 182022
+	1272.1.2 = {
+		birth = "1272.1.2"
+	}
+	1323.1.1 = {
+		death = "1323.1.1"
+	}
+}
+# End of Gradenigo
+# Start of Zorzi
+32131 = {
+	name = "Marino"
+	dynasty = 8734
+	religion = "catholic"
+	culture = venetian
+	1231.1.2 = {
+		birth = "1231.1.2"
+	}
+	1312.7.3 = {
+		death = "1312.7.3"
+	}
+}
+70732 = {
+	name = "NiccolO_"
+	# AKA: Niccolo
+	dynasty = 8734
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = venetian
+	trait = calm
+	trait = deceitful
+	trait = education_diplomacy_2
+	1300.1.1 = {
+		birth = "1300.1.1"
+	}
+	1334.2.1 = {
+		add_spouse = 70729
+	}
+	1354.1.1 = {
+		death = "1354.1.1"
+	}
+}
+70733 = {
+	name = "Francesco"
+	dynasty = 8734
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = venetian
+	trait = arrogant
+	trait = brave
+	trait = education_stewardship_2
+	father = 70732
+	1328.1.1 = {
+		birth = "1328.1.1"
+	}
+	1388.1.1 = {
+		death = "1388.1.1"
+	}
+}
+# End of Zorzi
+# Start of Soranza
+32132 = {
+	name = "Giovanni"
+	dynasty = 7238
+	religion = "catholic"
+	culture = venetian
+	1240.1.2 = {
+		birth = "1240.1.2"
+	}
+	1328.12.31 = {
+		death = "1328.12.31"
+	}
+}
+# End of Soranza
+
+### End of Doges of Venice

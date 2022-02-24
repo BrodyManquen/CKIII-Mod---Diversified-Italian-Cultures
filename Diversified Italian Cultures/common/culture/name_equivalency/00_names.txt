@@ -1,9 +1,14 @@
 ﻿aaron_male = { Aaron AarO_n Haroun Aronne }
+<<<<<<< Updated upstream
 aasa_female = { A_sa A_se Asa }
+=======
+aasa_female = { A_sa A_se Asa A__sa }
+>>>>>>> Stashed changes
 abahu_male = { Abahu Avda }
 abaya_male = { Abaya Abaye Abayi }
 abderrahman_male = { Abderrahman Abderahman }
 abdullah_male = { Abdullah Abdallah Abdulah }
+<<<<<<< Updated upstream
 acitto_male = { Acitto Açitto }
 abba_male = { Abba Aba }
 abel_male = { Abel AbE_l Habil }
@@ -49,10 +54,74 @@ albanus_male = { Albanus Albano}
 albert_male = { Albert E_thelberht Adalbert Adalberto Alberto Alibertu Alberigh Albrecht Albrikt Aldebert Altpert BE_la Erp VojtE_ch Wojciech Albertu }
 albertino_male = { Albertino Albertin }
 albertuccio_male = { Albertuccio Albertucio  }
+=======
+acitto_male = { Acitto AC_itto }
+abba_male = { Abba Aba }
+abel_male = { Abel AbE_l Habil }
+abelard_male = { Abelard Abelardo Abbilardu }
+abijah_male = { Abijah Abianos }
+abraham_male = { Abraham Abraam Avraaham Brahim Ebrahim Ibrahim YaravAm Bramm }
+abrelda_female = { Abrelda Abrella Afrella }
+achilles_male = { Achille Chiletto Chille }
+abundus_male = { Abondi }
+accipiter_male = { Astorgio Astorre }
+accursius_male = { Acursio Accorso }
+achalraja_male = { Achalraja Achalraj }
+adaloald_male = { Adaloald Adoald }
+adam_male = { Adam Adamo Adamu Aatso Adimun AdA_mu }
+adela_female = { Adela AdE_la AdE_le Addila Adelah Adele Adelia Alena }
+adelaide_female = { Adelaide AdalaI_da AdelaI_da Adelaida Adelheid Aleydis Elke AdalaI_de Delaida Adelaisa }
+adeltrudis_female = { Adeltrudis Altruda }
+ademar_male = { AdE_mar E_thelmE_r Ademar Ademariu Adimari Adhemar }
+aditya_male = { Aditya Atitta }
+adalasia_female = { Adalasia Adallasia Adelasia Alasia Adilasia }
+adolf_male = { Adolf E_thelwulf Alo Eadulf Eadwulf Edulf Indulf Ildulb Adolfu Dolfo }
+adrian_male = { Adrian Adran Adrianos Adrien Hadrian Adriano Adrianu AdriA_nu }
+adriana_female = { Adriana Adriane Hadriana }
+aegidios_male = { Aegidius Giles Gilio Zilio }
+aelflaeda_female = { E_lflE_da E_lfflE_d }
+aelwyd_female = { Aelwyd Aeluit }
+aeneus_male = { Enea }
+aethelfred_male = { Aethelfred Edylfred }
+aethelreda_female = { E_thelreda E_thelrE_da E_thelthryth }
+aethelwold_male = { E_thelwold E_thelweald }
+aetius_male = { Aetius Ezio Essio }
+afrasiyab_male = { Afrasiyab Efrasiyab }
+afshar_male = { Afshar EfS_er }
+agatha_female = { Agatha AgA_ta Agafya Agata Agathe Agace A_gata Agatta Agheta }
+agathos_male = { Agathos Agathon Agatho }
+agilulf_male = { Agilulf Agilof Aginulfo Aginulfys }
+agnellus_male = { Agnellus Agnello }
+agnes_female = { Agnes A_gnes A_ine AgnE_s Agne Agnese Agnieszka AinE_s Aines Annest Auni InEEs InE_s Nest Nesta Uunis Agnesa Agnesia }
+agapitus_male = { Agapitu Agapito Agabito }
+agapita_female = { Agabitta }
+azzo_male = { Azzo Atto AC_o }
+ahmad_male = { Ahmad Ehmed }
+agrippa_female = { Agrippa }
+agrippa_male = { Agrippa }
+agrippina_male = { Agrippina }
+ahha_male = { Ahha Ahai }
+ailred_male = { Ailred E_thelrE_d Edryd }
+aistolf_male = { Aistulf Astolfo }
+aiulf_male = { Aiulf Ajo Aiolfo }
+akbar_male = { Akbar Ekber }
+ake_male = { A_ke A__ke }
+alamanna_female = { Alamanna }
+alamannus_male = { Alamanno }
+alan_male = { Alan Alain Allan }
+alaric_male = { Alaric Alar Alarich Alaricho }
+alba_female = { Alba }
+albanus_male = { Albano Albanu }
+albert_male = { Albert E_thelberht Adalbert Adalberto Alberto Albrecht Albrikt Aldebert Altpert BE_la Erp VojtE_ch Wojciech Albertu Albertucio Albertaccio Albertin Albertino Albertinello Alibertu }
+albina_female = { Albina Albyna }
+albinus_male = { Albinus Albino Albin }
+albus_male = { Albu }
+>>>>>>> Stashed changes
 aldonza_female = { Aldonza AldonC_a Aldontza Eldonza }
 aldric_male = { Aldric Aldrich }
 aldroenus_male = { Aldroenus Aldrien Aldwr }
 alduara_female = { Alduara Aldara Elduara }
+<<<<<<< Updated upstream
 alebrand_male = { Alebrand Adalbrand Aliprando  }
 aldobrandino_male = { Aldobrandino Aldobrandin Aldrevandino }
 aldobrando_male = { Aldobrando Olobrando }
@@ -98,32 +167,111 @@ anselm_male = { Anselm Anselmo Selmo }
 antoninus_male = { Antonius Antoninus Annwn Antoni Antoine Anton Antoni Antonino Antonio Antonios Antoniu Antuninu Anthonio Antòni André }
 antonia_female = { Antonia Anthonia Antogna }
 anund_male = { Anund Anundr }
+=======
+alebrand_male = { Alebrand Adalbrand Aliprando }
+alexander_male = { Alexander Alastair Aleksander Aleksandr Aleksandre Ales Alessandro Alexandr Alexandros Alexandru Alisander Allisander Chaandy Eskander Iskander Iskinder SA_ndor Iskender Alixandre Allesander Alissandru SA_nder Sander Sandrin }
+alexandra_female = { Alexandra Saundra Lissandra Alessia Alessandra Alexandria Sandrina Sandra }
+alexis_male = { Alexis Alexei Alexios Lessi Alessiu Alesso Alessi Alessio Alexio Alexo }
+alf_male = { Alf Alfr Alv A_lfr Alferiu }
+alfgeir_male = { Alfgeir A_lfgeir}
+alfhild_female = { Alfhild Alfhildr A_lfrhildr }
+alfred_male = { Alfred E_lfrE_d Acfred Alured Fredo Affredu }
+alfridh_female = { Alfridh AlfriT_ AlfrI_D_r }
+ale_male = { Ale A_li }	# Nordic
+ali_male = { Ali ElI_ } # Arabic
+alice_female = { Alice AlaI_s Alausia AliC_ Alicia Alijse Alis Alisce Alisia Alitz Alix Allust Alys Anleta Aliss }
+allegra_female = { Allegra Alegrexa }
+allegrus_male = { Allegro }
+almodis_female = { Almodis Adalmode AlmO_dis }
+alphonse_male = { Alphonse Adelfonso Adfuns Afonso Alfons Alfonso Alfonsu Alfontso Alifonso Alonso AnfO_s Alfonzu Fons Fonsella Fonzo }
+alstan_male = { Alstan E_lfstan E_thelstan Elystan }
+alvor_female = { A_lvO_r AlvO_r }
+altus_male = { A_ud }
+alwin_male = { Alwin E_lfwine E_lle E_thelwine Aelle AilpI_n Alboin Algwyn Alpin Alwen Alwyn Audoin Ealdwine Elfin Elpin }
+amadeus_male = { Amedeo AmE_dE_e Amadeus Amadeo Amodeo Medeo }
+amalric_male = { Amalric Amalrich Amalaricho Amaury Manrike Manrique Amelrich }
+amarabhujanga_male = { Amarabhujanga Amarapuyankan }
+ambara_male = { Ambara Ambare }
+ambrosia_female = { Ambrosia AmbrOE_uxa }
+ambrosina_female = { Ambrosina Ambroxina }
+ambrosinus_male = { Ambrosin }
+ambrosius_male = { Ambrosius Ambroz Emrys Ambroise Ambroeus Ambbrogghiu Ambrogio AmbrOE_uxo Ambroso Ambruogio AmbrO_su Ambrosio }
+andallo_male = { Andalo Andallo }
+amelia_female = { Amelia AmA_lia Amalia Amalie Amelie Malia }
+ammangadevi_female = { Ammangadevi AmmankA_tE_vi }
+anangpala_male = { Anangpala Anangpal }
+anastasia_female = { Anastasia Anastazja Nanstasia Nastasia Nastagia }
+anastasius_male = { Anastasius Anastasios Atanasiu Anastasio }
+andrew_male = { Andrew Anders AndrA_s AndrE_ AndrE_s Andrea Andreas Andrei Andrija Androus Andrzej JE_drzej OndR_ej Andri Andria Annirea Andream Andreolo Andreuolo Andriolo Andreozzo Andreuccio }
+andrea_female = { Andrea Andrijana }
+andronicus_male = { Andronicus Andronik Andronikos Andronic }
+amphion_male = { Anfrione Aufrej }
+angel_male = { Angel Angelo Anghel A_ngilu Angelus AN_gelos Angello Angiol Agnolo Agniolo Anzolo Agnolino Angiolin }
+angela_female = { Angela A_nghela Agnola Angiola }
+angus_male = { Angus A_engus O_engus Ungust Unuist }
+anna_male = { Anah }
+anna_female = { Anna Ana Annamma Anne Annes Neta Annin Anah }
+annuntiata_female = { Nonziada Nunzia Ziada }
+anselm_male = { Anselm Anselme Anselmo Anselmu Selmo }
+anterus_male = { Anteru }
+anthimos_male = { Anthimos Anthinos }
+antioch_male = { Antiochos Antiogu }
+antonia_female = { Antonia Anthonia Antogna }
+antoninus_male = { Antoninu Antoninus Antonino Antuninu }
+antonius_male = { Antonius Annwn Antoine Anton Antoni Antonio Antonios Antoniu Anthonio AntO_ni Antogno Antonolo Antoniotto Anthoniolo }
+antontina_female = { Antonina }
+anund_male = { Anund Anundr O_nundr }
+>>>>>>> Stashed changes
 anupapala_male = { Anupapala Anuppal }
 anushirvan_male = { Anushirvan EnU_S_irwan }
 aparajita_male = { Aparajita AparA_cita }
 aparajitavarman_male = { Aparajitavarman AparA_citavarman }
+<<<<<<< Updated upstream
 appian_male = { Appian Appiano }
 apollonius_male = { Apollonius Apollonio Apollinaris }
 arcadius_male = { Arcadius Argad }
+=======
+apollonia_female = { Apollonia Apolonia Pollonia Polonia }
+apollonius_male = { Apollonios Apollonio }
+apollinaris_male = { Apollinaris }
+appian_male = { Appiano }
+aquila_female = { Aquila }
+aquila_male = { Aquila }
+arcadius_male = { Arcadius Argad }
+archangel_female = { Arcangela }
+archangel_male = { Arcangelo Arcagnolo }
+>>>>>>> Stashed changes
 archibald_male = { Archibald Archambaud Archambaut }
 ardahan_male = { Ardahan Erdehan }
 ardavan_male = { Ardavan Artivan Erdewan }
 ardeshir_male = { Ardeshir Artashir ErdeS_I_r }
+<<<<<<< Updated upstream
+=======
+ariadne_female = { Arianna }
+>>>>>>> Stashed changes
 arikesari_male = { Arikesari ArikE_cari }
 arinjaya_male = { Arinjaya AriN_caya }
 aristaces_male = { Aristaces Aristakes Aristarchos Aristarchus Aristarkh }
 arjuna_female = { Arjuna Arjune }
 arjunpala_male = { Arjunpala Arjunpal }
+<<<<<<< Updated upstream
 arne_male = { Arne Arni }
 arnold_male = { Arnold Arnald Arnalt Arnau Arnaud Arnault Arnaut Arnd Arnaldo }
 arnulf_male = { Arnulf Arnoul Arnolfo }
 arrigus_male = { Arrigus Arrigo Arricu }
+=======
+arne_male = { Arne Arni A_rni }
+arngrimr_male = { Arngrimr ArngrI_mr }
+arnold_male = { Arnold Arnald Arnalt Arnau Arnaud Arnault Arnaut Arnd Arnaldo }
+arnulf_male = { Arnulf Arnoul Arnolfo Arnolfino }
+>>>>>>> Stashed changes
 arsenda_female = { Arsenda Arsinde }
 arslan_male = { Arslan Arslam Araslan }
 artal_male = { Artal Artau }
 artemius_male = { Artemius Arthen }
 arthbodus_male = { Arthbodus Arthfoddw }
 arthur_male = { Arthur Achiuir ArtU_r Art Arthwr Artur Aarto Artorius Arthguiu Arthueu Arthuiu Arthwys }
+<<<<<<< Updated upstream
 ascanius_male = { Ascanius Ascanio Ascagn }
 asher_male = { Asher Ashur }
 ashoka_male = { Ashoka Asoke }
@@ -148,12 +296,49 @@ ayyub_male = { Ayyub Eyyub }
 bacchus_male = { Bacchus Baccio Baccu }
 babaeus_male = { Babaeus Babai Babowai Babwahi }
 babak_male = { Babak Babek }
+=======
+asbjorn_male = { AsbjO_rn A_sbjO_rn }
+ascanius_male = { Ascanio Ascagn Ascaniu Aschanio }
+asher_male = { Asher Ashur }
+ashoka_male = { Ashoka Asoke }
+ashot_male = { Ashot ES_ot }
+askell_male = { Eskild A_skell }
+aslaug_female = { Aslaug A_slaug }
+asig_male = { Asig Esiko }
+asta_female = { Asta A_sta A__sta }
+astrid_female = { Astrid Estrid A_strI_D_r }
+atenolf_male = { Atenolf Atenolfo Atenolfu }
+athanasius_male = { Athanasius Afanasiy Athanasios Atanasio }
+athirajendra_male = { Athirajendra AtirA_cE_ntira }
+atrnerseh_male = { Atrnerseh Adarnase }
+attilius_male = { Attilio Tilio }
+aubrey_male = { Aubrey Alberich Alberigh Albericus Alberico }
+august_male = { August Auust Awst Augustus Augusto Augustu Agustollo }
+augusta_female = { Augusta }
+augustina_female = { Augustina  Agostina Austina }
+augustine_male = { Augustine AugustI_n Augustin Augustino Agostino Agustin Agostin Awgustin Austinu Austu Austino }
+aurea_female = { Oria } 
+aurelia_female = { Aurelia Efrddyl Efyrddyl }
+aurelianus_male = { Aurelianus }
+aurelius_male = { Aurelius Aurelio Aureliu }
+aureus_male = { Aureo Orio }
+ausonius_male = { Ausone }
+avdima_male = { Avdima Avdimi }
+avelina_female = { Avelina Aveline }
+avery_male = { Averone }
+aymeric_male = { Aymeric Aimeric Aimery Aymar Emelrich Emmerich Aymerico Almerico Amerigo }
+ayyub_male = { Ayyub Eyyub }
+babaeus_male = { Babaeus Babai Babowai Babwahi }
+babak_male = { Babak Babek }
+bacchus_male = { Baccio Baccu }
+>>>>>>> Stashed changes
 baghpala_male = { Baghpala Baghpal }
 bagour_male = { Bagour Bakur }
 bahram_male = { Bahram Behram }
 bakhtiar_male = { Bakhtiar BextI_yar Pakhtiyar }
 balambar_male = { Balamber Balambar BalambA_r }
 balder_male = { Balder Baldr Baldur }
+<<<<<<< Updated upstream
 baldric_male = { Baldric Baldarich Baldrick }
 baldwin_male = { Baldwin Baldewin Baldoen Baldovino Balduin BaudoI_n Baudouin Boudewijn }
 baltasar_male = { Baltasar Balthasar Baldassarre }
@@ -174,10 +359,42 @@ benedict_male = { Benedict Benedett Benedit BeneS_ Benedek Benedetto Benedikt Be
 benedicta_female = { Benedicta Benedetta Benedikte Benita BenoI_te }
 benjamin_male = { Benjamin Binyamin }
 beorn_male = { Beorn BjO_rn BjOErn }
+=======
+baldo_male = { Baldo Baldu Baldino Balducio Bardo }
+baldric_male = { Baldric Baldarich Baldrick }
+baldwin_male = { Baldwin Baldewin Baldoen Baldovino Balduin BaudoI_n Baudouin Boudewijn Baldovinetto }
+baltasar_male = { Baltasar Balthasar Baldassarre Baldassare Baldasera Baldissere }
+barbara_female = { Barbara Barabal BA_rbara Barba Barbera Balbra }
+barid_male = { Barid BA_rD_r }
+birger_male = { Birger Birgir }
+barbus_male = { Barbus }
+barnaba_male = { Barnaba Bernabe BernabE_ Bernabas Bernabo }
+bartolomea_female = { Bartolomea Bartholomea Barthoa Bartola Bartolla Bartha }
+bartolomeus_male = { Bartholomew Bartolomeus BarthE_lE_mi Bartholomaios Bartol Bartolomeo Bartosz BartoumiE_u Talmai Tulmay Bertelemi Bartholomeo BartromE_ Bartolomee BertomE_ BartO_lu Bartolo Bortholo Bortolo Bartholo Bartollo Bertollo Bartolello Bartolone Bortol Bartolino Tromlin Bertino Bertaccio Bertucio Bertuccio Bartholino Berthollocto Bertolitto Bartolumeu }
+basil_male = { Basil Basileios Basilio Vasile Vasilii Vasiliy Basile Basiliu Basilius }
+basilia_female = { Basilia Vasilica Vasilka Vasilisa }
+bassus_male = { Basso Bassu }
+batalo_male = { Batalo }
+batic_male = { BatiC_ }
+battista_male = { Battista Batista Battesto }
+beatrice_female = { Beatrice BE_atrice BE_atrix Beathoc Beatrijs Beatritz Beatriu Beatrix Beatriz Beitris Bia Brethoc Brites Beatriss Biatrice Beatrisia Biatrici }
+beejpala_male = { Beejpala Beejpal }
+beladore_female = { Beladore Beladora }
+beli_male = { Beli Bili }
+belisarius_male = { Belisarius Belisarios Belisariu }
+bella_female = { Bella }
+bellus_male = { Bello }
+benedict_male = { Benedict BeneS_ Benedek Benedetto Benedikt Beneke Beneset Benet Bengt Benito BenoI_t Budoc Budic Budog Benoiet Benedett Benedit Venedico Benedecto Benedicto Beneito Beneitu Binidittu Bettino Betto Bettone Benetto Deto Beneritto }
+benedicta_female = { Benedicta Benedetta Benedikte Benita BenoI_te Beneoite Benetta Beneita Biniditta }
+benjamin_male = { Benjamin Binyamin }
+beorn_male = { Beorn BjO_rn BjOErn }
+berard_male = { Berard Berardo Verardo Berardu }
+>>>>>>> Stashed changes
 berengar_male = { Berengar BE_renger Berengario Berenger Berenguer BerenguiE_ Berenguel Berengariu BerengA_rio }
 berengaria_female = { Berengaria BerengA_ria Berenguela Berenguera }
 berhtwine_male = { Berhtwine Berthgwyn }
 berin_male = { Berin Birinus }
+<<<<<<< Updated upstream
 berard_male = { Berard Berardo Berardus Berardu }
 bernard_male = { Bernard BE_rard Barnaerd Benno BernA_t BernabO_ Bernaldu Bernardin Bernardo Bernart Bernat Bernd Bernead Bernhard Bennardo Benardo  }
 bertha_female = { Bertha Berta Berto Berthe Berthildis }
@@ -185,11 +402,20 @@ berthoald_male = { Berthoald Berthgualt Berthwallt }
 berthold_male = { Berthold Bertold Perctarit Bertaldo }
 bertrand_male = { Bertrand Beltram Bertram Bertran BertrA_n }
 bertuccio_male = { Bertuccio Bertucio }
+=======
+bernard_male = { Bernard BE_rard Barnaerd Benno BernA_t BernabO_ Bernaldu Bernardin Bernardo Bernart Bernat Bernd Bernead Bernhard Benardo Bernardu Birnardu Bardino Bardolone Barduccio Bardaccio Bernardetto Bernardino Bennardo }
+bernarda_female = { Benarda Bernarda }
+bertha_female = { Bertha Berta Berto Berthe Berthildis }
+berthoald_male = { Berthoald Berthgualt Berthwallt }
+berthold_male = { Berthold Bertold Perctarit Bertaldo Bertoldo }
+bertrand_male = { Bertrand Beltram Bertram Bertran BertrA_n Beltramo Beltrame }
+>>>>>>> Stashed changes
 bhima_male = { Bhima Bhimadeva }
 bhoja_male = { Bhoja Bhoj Bhojavarman }
 bhumpala_male = { Bhumpala Bhumpal }
 birpala_male = { Birpala Birpal }
 bishara_male = { Bishara Bishoi }
+<<<<<<< Updated upstream
 blaise_male = { Blaise BL_aZ_ej Blasi Blayve Blaz Blasio Blaxio }
 blanche_female = { Blanche Bianca Blanca Blanka Branca }
 bleddyn_male = { Bleddyn Blethin }
@@ -197,10 +423,22 @@ blasio_male = { Blasio Blaxio }
 bledrig_male = { Bledrig Bledric }
 bleiddud_male = { Bleiddud Blethiut }
 blodwen_female = { Blodwen Bleutuen }
+=======
+blaise_male = { Blaise BL_aZ_ej Blasi Blayve Blaz Biaggiu Biasio Blasio Blaxio Biagio Bias Biaso }
+blanche_female = { Blanche Bianca Blanca Blanka Branca Blancha }
+blancho_male = { Blancho Bianco }
+blasia_female = { Blasia Biagia Biagio }
+bleddyn_male = { Bleddyn Blethin }
+bledrig_male = { Bledrig Bledric }
+bleiddud_male = { Bleiddud Blethiut }
+blodwen_female = { Blodwen Bleutuen }
+bo_male = { Bo BU_i }
+>>>>>>> Stashed changes
 bogdan_male = { Bogdan Bohdan }
 bogisa_male = { BogiS_a }
 boguslaw_male = { BogusL_aw BogisL_aw Bogislav Bohuslav }
 bogut_male = { Bogut }
+<<<<<<< Updated upstream
 boleslav_male = { Boleslav BolesL_aw }
 bonifacius_male = { Bonifacius BoN_cza Bonifacio Boniface Bonifazzi Bonifazio Bonifatius }
 bonaventure_male = { Bonaventure Bonaventura Beonaventura }
@@ -209,6 +447,22 @@ boric_male = { BoriC_ }
 boris_male = { Boris Borisz }
 borivoj_male = { Borivoj Borzywoj BoR_ivoj }
 bothild_female = { Bothild Bothildr }
+=======
+bohemond_male = { Bohemond BoE_mond Boemunnu Boamundu }
+boleslav_male = { Boleslav BolesL_aw }
+bonaventura_female = { Bonaventura Bonavintura Benevenuta Benvenuta Benvegnuda Ventura }
+bonaventure_male = { Bonaventura Beonaventura Bonavintura Benvenuto Benvignuto Venturo Ventura Bonaventure }
+bonifacius_male = { Bonifacius BoN_cza Bonifacio Boniface Bonifazzi Bonifazio BonifA_tziu Bonifaziu Fazio Bonifatius }
+bonus_male = { Bonus Bono }
+bonne_female = { Bonne BO_na Bona }
+borkvard_male = { Borkvard BO_D_var }
+boric_male = { BoriC_ }
+boris_male = { Boris Borisz }
+borivoj_male = { Borivoj Borzywoj BoR_ivoj }
+boso_male = { Boso Bosone Buoso }
+bothild_female = { Bothild Bothildr BO_thildr }
+botulfr_male = { Botulfr BO_tO_lfr }
+>>>>>>> Stashed changes
 bouchard_male = { Bouchard Burchard Burgheard }
 brage_male = { Brage Bragi }
 brailo_male = { Brailo }
@@ -217,8 +471,12 @@ bran_male = { Bran BrA_n }
 branwaladr_male = { Branwaladr Brangualart }
 bretislaus_male = { Bretislaus BR_etislav Briachislav }
 brian_male = { Brian Brient }
+<<<<<<< Updated upstream
 brigid_female = { Brigid Berchet Birgitta Bregida Brigida Brizia BrI_gida }
 brigit_female = { Brigit Breaca Breage Bride Ffraid Bridei Brude Bruide }
+=======
+brigid_female = { Brigid Berchet Birgitta Bregida Brigida BrI_gida BrigI_D_a Brigit Breaca Breage Bride Ffraid Bridei Brude Bruide Brigide }
+>>>>>>> Stashed changes
 briog_male = { Briog Breoc Brioc }
 brogmaglus_male = { Brogmaglus Brochfael Brochuael }
 bronwen_female = { Bronwen Bronuen }
@@ -233,6 +491,7 @@ cadwaladr_male = { Cadwaladr Catgualart }
 cadwallon_male = { Cadwallon Catuallon }
 cadwared_male = { Cadwared Catguoret }
 cadwr_male = { Cadwr Cador }
+<<<<<<< Updated upstream
 cannes_male = { Cannes Çannes Çannis Çanes }
 cennes_male = { Cenne Çenne Çennes }
 cico_male = { Cico Cicho }
@@ -265,21 +524,90 @@ chilicho_male = { Chilicho Chilico }
 christian_male = { Christian Kersten Kristian Krystyn Cristiano }
 christina_female = { Christina Christine CrI_stina Cristen Cristin Cristina Kirstin KristY_na Kristiina Kristina Krisztina Krystyna }
 christopher_male = { Christopher Christoffer Christophoros Cristoforo CristO_furu Kristof Krystafer Krzysztof Risto }
+=======
+caecilius_male = { Caecilius Aksel Aksil }
+caedicius_male = { Caedicius Cedig }
+caelestis_female = { Celeste }
+caelestis_male = { Celeste }
+caesar_male = { Caesar Gesar Kaisarios CE_sari Cesare Ceser Cesari Caesarius }
+cagintria_female = { Cagintria Ceindrec Ceindrych }
+callistus_male = { Callistus Callisto Callistu Calisto }
+calogerus_male = { CalO_giru }
+calvinus_male = { Calvano }
+cambinus_male = { Cambino }
+camilla_female = { Camilla Kamilla Camila Camilo Mila }
+camillus_male = { Camillus Camillo Kamil }
+candida_female = { Candida }
+candidus_male = { Candidus }
+caninus_male = { C_anino C_annino }
+cannes_male = { Cannes C_annes C_annis C_anes }
+cara_female = { Cara Kara }
+caratacus_male = { Caratacus Caradec Ceredig Caradog Caradaig Caradoc Cerdic Cedric }
+carbrey_male = { Carbrey Cairbre }
+cardinalis_male = { Cardinale }
+cardo_male = { Cardo C_ardo Isinardo }
+carlinus_male = { Carlin C_arlino }
+carloman_male = { Carloman Karlmann Karloman }
+caroline_female = { Caroline Karlotte CarlO_ta Carulina }
+carus_male = { Carus Caro }
+casimir_male = { Casimir }
+caspar_male = { Caspar GA_spA_r Jaspar Kaspar }
+cassandra_female = { Cassandra Casandra }
+cassia_female = { Cassia }
+cassiana_female = { Cassiano }
+cassianus_male = { Cassiano Cassianino Cassianello }
+cassius_male = { Cassius Cassio }
+catherine_female = { Catherine CaitilI_n Caitrion Catalina Catarina Cateline Caterina CathE_rine CatrI_ona Catrin Catriona Ecatarina Ekaterina Kaarina Karin Katalin Katalina Katarina Katarzyna KateR_ina Katharina Kathrijne Katrien Katrine Ketevan Nienke Yekaterina Katranide Caterinin Cathalina Cathelina Catherina }
+cecco_male = { Cecco C_ecco Cecho Cech Checo }
+cecilia_female = { Cecilia CecI_lia CE_cile Cecilie Cecily Cicely CecilI_a Sessilia Cilia Cicilia }
+cecil_male = { Cecil Seisyll }
+celestinus_male = { Caelestinus CelestI_nu Cilistinu }
+cennes_male = { Cenne C_enne C_ennes }
+centule_male = { Centule Centolh Zentulo }
+centurio_male = { Centurione }
+chanin_male = { Chanin Chanina Chaninai Chinena Hanina Rachim Rahim }
+charles_male = { Charles Carles Carlus Cearl KA_roly Kaarle Karel Karl Karlo Karlos Karol Chiarion Carlu Carlo Carl Carolu Carule  CarolOE_ul }
+chayuta_female = { Chayuta Hayuta }
+chele_male = { Chele Chello }
+chiermontes_male = { Chiermontes Chiermontie Chimenti }
+chilicho_male = { Chilico }
+chozai_male = { Chozai Hozai }
+christian_male = { Christian Kersten Kristian Krystyn Chrestien Cristiano Crestiano }
+christina_female = { Christina Christine CrI_stina Cristen Cristin Cristina Kirstin KristY_na Kristiina Kristina Krisztina Krystyna Crestiana Cristiana Crestina ChE_rstin }
+christophana_female = { Cristofana Cristhofana }
+christopher_male = { Christopher Christoffer Christophoros Cristoforo Kristof Krystafer Krzysztof Risto Christophe Cristofo CristO_furu Cristofen Cristofano Cristoffa Cristolu Christofalo Cristofolo Ciofo Cristofero }
+>>>>>>> Stashed changes
 chrystanthos_male = { Chrystanthos Krisanthos }
 chunya_male = { Chunya Nechunya }
 ciaran_male = { Ciaran Piran }
 cicek_female = { C_iC_ek C_iC_A_k C_eC_ek }
+<<<<<<< Updated upstream
 clara_female = { Clara KlA_ra Klara Llear }
 claudia_female = { Claudia ClA_udiu Glades Gwladys Clàudia }
 claudius_male = { Claudius Claudio ClA_udiu Glywys Clàudi }
 clement_male = { Clement ClamenC_ Clemen Clemence Clemens Climenti Clemente Kliment }
 clementia_female = { Clementia Clemenza ClemE_ncia Clemencia Clemenza Klementia }
 clether_male = { Clether Cleder }
+=======
+cico_male = { Cico Cicho }
+clara_female = { Clara KlA_ra Klara Llear Chiara Ciara }
+clarus_male = { Clario }
+claudia_female = { Claudia Glades Gwladys ClA_udiu ClA_udia }
+claudius_male = { Claudius Glywys Claude Claudio ClA_udiu ClA_udi }
+clemens_female = { Clemens Clemente }
+clement_male = { Clement ClamenC_ Clemen Clemence Clemens Clemente Kliment Climent Climenti Mentin Cremente }
+clementia_female = { Clementia ClemE_ncia Clemencia Clemenza Klementia Climenza }
+clementina_female = { Clementina }
+clementius_male = { Clementius }
+clether_male = { Clether Cleder }
+cloelia_female = { Clelia }
+>>>>>>> Stashed changes
 clotaire_male = { Clotaire Chlothar }
 clotilde_female = { Clotilde Cloutilda Cothilda Clotilda }
 cobflaith_female = { Cobflaith Coblaith }
 conall_male = { Conall Canuall }
 conan_male = { Conan Canan ConA_n Cynan Kenan }
+<<<<<<< Updated upstream
 conn_male = { Conn Canu }
 constance_female = { Constance ConstA_ncia ConstanC_a Constansa Constanza Costanza Konstancia Konstancie Konstancja Konstantzia Konstanze }
 constans_male = { Constantius Constans Costanzo Konstantios Castant Custent Cysteint Konstas Custanzu }
@@ -291,6 +619,21 @@ cornelius_male = { Cornelius Cornelio Corneliu Kornel Curneliu }
 cosma_male = { Cosma Koz_ma }
 cosmas_male = { Cosmas Kosmas CO_simu Cosimo }
 creirwy_female = { Creirwy Cleirui }
+=======
+conn_male = { Conn Canu C_ano }
+constance_female = { Constance ConstA_ncia ConstanC_a Constansa Constanza Costanza Konstancia Konstancie Konstancja Konstantzia Konstanze Constantia Konstantia Costantza Custanza Gostanza }
+constantius_male = { Constantius Konstantios }
+constans_male = { Constans Castant Custent Cysteint Konstas Costanzo Custanzu Costantzu Constanzo }
+constantina_female = { Constantina Konstantine }
+constantine_male = { Constantine Castantin CausantI_n ConstantI_n Custennin Custentin Gosdantin Konstantin Konstantine Konstantinos Constantin Constantino Custanti Custantinu ConstantI_nu GosantI_nu Guantine Costantino Custantino }
+corentin_male = { Corentin Caurantin }
+cornelia_female = { Cornelia Curnelia }
+cornelius_male = { Cornelius Cornelio Corneliu Kornel Curneliu }
+corsus_male = { Corso Corsino Corsetto Corsello Corsellino }
+cosma_male = { Cosma Koz_ma Cosmas Kosmas Cosmo CO_simu Cosimo GO_samu Cosmaele }
+creirwy_female = { Creirwy Cleirui }
+crescentius_male = { Criscentio }
+>>>>>>> Stashed changes
 crundmael_male = { CrundmA_el CruinnmA_el }
 ctibor_male = { Ctibor CzcibO_r }
 culmin_male = { Culmin Cwlfyn }
@@ -305,6 +648,7 @@ cyngar_male = { Cyngar Congar }
 cyngen_male = { Cyngen Concen }
 cynog_male = { Cynog Canuac }
 cynwallon_male = { Cynwallon Conuallon }
+<<<<<<< Updated upstream
 cyprianus_male = { Cyprianus Cyprian }
 cyriacus_male = { Cyriacus Cwrig }
 cyril_male = { Cyril Kirill Kurillos Kyrillos }
@@ -327,17 +671,64 @@ deusdedit_male = { Deusdedit Deodato Diodato Deusdatus Diodatt }
 dhanga_male = { Dhanga Dhangadeva }
 dharma_male = { Dharma Tarma }
 diaco_male = { Diaco Diego Diegu Diago DI_dac Diogo }
+=======
+cyprianus_male = { Cyprianus Cyprian Kiprianu Cepriano Ziprian Cipriano }
+cypriana_female = { Cepriana Kipriana }
+cyril_male = { Cyril Kirill Kurillos Kyrillos Cyrille Zerill }
+cyrus_male = { Cyrus KU_ruS_E_ Kurian Kurush Ciro Ciru }
+dabisa_male = { DabiS_a }
+dag_male = { Dag Dago Dagr }
+damasus_male = { DA_masu }
+damian_male = { Damian Damiano Dwyfan Damianu Damianus }
+damiana_female = { Damiana }
+daniel_male = { Daniel Danail DaniE_l Daniil Danilo Daniyel Danyal Deiniol Deniel Taniel Danieli Daniello Daniele Danelu }
+daniela_female = { Daniela }
+dantivarman_male = { Dantivarman Tantivarman }
+danush_male = { Danush DanU_S_ }
+darius_male = { Darius Dariush DaryU_S_ Dario }
+dauferius_male = { Dauferiu }
+david_male = { David DA_vi Da_oud Da_ud DabI_d Dabuut Daevit Dafydd Daoud Daouda Dauid Davide Davit Davud Davyd Dawud Deui Dewi Tuokko Davi DA_vid Davizzo Davin }
+deborah_female = { DE_bora }
+decius_male = { Decius }
+decima_female = { Decima }
+decimus_male = { Decimus }
+delphinus_male = { Dolfin }
+demetrius_male = { Demetrius Demetre Demetrio Demetrios Dmitriy }
+denise_female = { Denise Denis }
+derilla_female = { Derilla Der-Ilei Durilia }
+derval_female = {  }
+deusdedit_male = { Deusdedit Diodato Deusdatus Diodatt }
+devorguilla_female = { Devorguilla Der-bForgaill Derborgaill Dervorgilla Derbforgaill Derbforgail }
+dhanga_male = { Dhanga Dhangadeva }
+dharma_male = { Dharma Tarma }
+diaco_male = { Diaco Diego Diegu Diago DI_dac Diogo }
+diamante_female = { Diamante Diamate Diamonte Dyamante Diamanta }
+diana_female = { Diana Diane }
+>>>>>>> Stashed changes
 dieter_male = { Dieter Theodo }
 dietmar_male = { Dietmar Detmar Thietmar Tymmeke }
 dikla_male = { Dikla Diklah }
 dikla_female = { Dikla Diklah Diklit }
 dilipapala_male = { Dilipapala Dilippal }
+<<<<<<< Updated upstream
 dionysus_male = { Dionysus DiO_nisios Dionisii Dioniso Dionysios }
 dominic_male = { Dominic Domenegh Demenico DomE_nico Dominik Domingu Domingo DumI_nicu Domenico Domenego Domnicus }
 donald_male = { Donald Domelch Domnall Donault Donual Dyfnwal }
 donatus_male = { Donatus Donato Dynod }
 doniert_male = { Doniert Donyarth Dungarth Dumnarth Dyfnarth }
 dorothy_female = { Dorothy Dorota Doroteja Dorothea Dorottya }
+=======
+dionysus_male = { Dionysus DiO_nisios Dionisii Dioniso Dionysios Danis Dinis Denys Dionisio Dionisi Dionigi Donizio Dioneo Dionisiu }
+dominic_male = { Dominic DomE_nico Dominik Domingu Domingo Domenegh Demenico DumI_nicu Domenico Domenego Dumini Dominigu Dominico Meco Dominicello Dominigello Dumminico Domnicus }
+dominica_female = { Dominica Domenica Dominiga }
+donadeus_male = { Donodeus }
+donald_male = { Donald Domelch Domnall Donault Donual Dyfnwal }
+donata_female = { Donata }
+donatus_male = { Donatus Donato Dynod DonA_ Dunate }
+doniert_male = { Doniert Donyarth Dungarth Dumnarth Dyfnarth }
+dorotheos_male = { Dorotheos Doroteo }
+dorothy_female = { Dorothy Dorota Doroteja Dorothea Dorottya DorothE_e Dorotea Doratea Dorata }
+>>>>>>> Stashed changes
 douce_female = { Douce DolC_a Dulce Duce Endulcia Dulzis }
 douglas_male = { Douglas Dubhglais }
 dragonja_male = { Dragonja }
@@ -347,6 +738,7 @@ duff_male = { Duff Dubh Duib }
 dugald_male = { Dugald Dubhghall }
 duncan_male = { Duncan DU_nchad Donnchad Donncuan DonnucA_n }
 dyfnwallon_male = { Dyfnwallon Donuallon }
+<<<<<<< Updated upstream
 dywel_male = { Dywel Domuel }
 edgar_male = { Edgar Adgar Eadgar }
 edith_female = { Edith Eadgyth Ealdgyth Edit }
@@ -366,21 +758,55 @@ elias_male = { Elias HE_lias Elia }
 elidius_male = { Elidius Elid Lide }
 elijah_male = { Elijah Ilyas }
 elisabeth_female = { Elisabeth Beileag Isabetta Bet Lisabëtta EisabE_u ElZ_bieta Elisa ElisabE_ta Elisabet Elisabeta Elisabetta Elisaveta Elise Elizabeta Elizabeth Elspeth ErzsE_bet Isabela IsabE_la IsabE_u Isabeau Isabel Isabella Isabelle Isobel Lillias Lise Lisebet Lys Yelizaveta Aaleyaamma Elesbed Elisaued Uusbail Ysbail Zabel AlZ_bEE_ta Sabela }
+=======
+dyre_male = { Dyre DY_ri }
+dywel_male = { Dywel Domuel }
+edgar_male = { Edgar Adgar Eadgar }
+edla_female = { Edla ED_la }
+edith_female = { Edith Eadgyth Ealdgyth Edit }
+edmund_male = { Edmund E_amonn Eadmund Edmunno }
+ednyfed_male = { Ednyfed Iudnimet }
+edward_male = { Edward E_douard Edouart Eduard Eduardo Edvard Jedvard JA_tvarD_r Eduardu Edorard Odoardo Doard Etuardo }
+edwin_male = { Edwin Eadwine Edwyn Edwis }
+egbert_male = { Egbert Ekbert }
+egidius_male = { Egidius Egidio Gil Gilles Chil Xil }
+egil_male = { Egil Egill Eigil }
+elifalet_male = { Elifalet Elifelet }
+eilif_male = { Eilif EilI_fr }
+einar_male = { Einar Einarr }
+eithne_female = { Eithne Edna }
+ekkehard_male = { Ekkehard Eggerd Acciardu }
+elaine_female = { Elaine Eleina }
+eleanor_female = { Eleanor E_lE_onore AliE_nor AlienO_r Alienora Alionor Eilionoir Eilionora Eleonora Eleonorka Elinor Elionor Ellijnore Ellinor Leonor Leonore Lleonor EleonO_ra Eleunora Lionora Elianora Leonora Leonoria Norin }
+elias_male = { Elias HE_lias Helias Alias Helyes HE_lie Elia }
+elidius_male = { Elidius Elid Lide }
+elijah_male = { Elijah Ilyas }
+elisabeth_female = { Elisabeth Beileag Bet EisabE_u ElZ_bieta Elisa ElisabE_ta Elisabet Elisabeta Elisabetta Elisaveta Elise Elizabeta Elizabeth Elspeth ErzsE_bet Isabela IsabE_la IsabE_u Isabeau Isabel Isabella Isabelle Isobel Lillias Lise Lisebet Lys Yelizaveta Aaleyaamma Elesbed Elisaued Uusbail Ysbail Zabel AlZ_bEE_ta Sabela ElI_sabet E_lizabeth Ysabel Isabetta LisabE_tta Lisabetta Ysabella Ysabeta Ysabetta Lisabetha Isabeta Betin Betta Elsa Lisa }
+>>>>>>> Stashed changes
 eloise_female = { Eloise Eliz Eliza HE_loise Heloise }
 elod_male = { ElO_d ElO__d }
 elvira_female = { Elvira Elbira Albira }
 emer_female = { Emer Eimhir }
 emoke_female = { EmO_ke EmO__ke }
+<<<<<<< Updated upstream
 emil_male = { Emil Yemelyan Amelio Emilio Aemilius }
 emily_female = { Emily Emili Emilia Emilie Emilija Emiliya Milia MI_lia }
 emma_female = { Emma AI_na Hemma Imma }
 emmanuel_male = { Emmanuel Emmanouel }
+=======
+emil_male = { Emil Yemelyan Amelio Aemilius Emilio Milio }
+emilian_male = { Aemilian Emilianus }
+emily_female = { Emily Emili Emilia Emilie Emilija Emiliya Milia MI_lia }
+emma_female = { Emma AI_na Hemma Imma Emmeline }
+emund_male = { Emund Emundr }
+>>>>>>> Stashed changes
 endellion_female = { Endellion Endelient Endellienta }
 enfidaig_male = { Enfidaig Ainftech Enuidaig }
 engelbrecht_male = { Engelbrecht Ingalbert }
 enoch_male = { Enoch EnO_ch }
 enoder_male = { Enoder Wenheden }
 eochaid_male = { Eochaid Oucydd Uuochu }
+<<<<<<< Updated upstream
 eric_male = { Eric Erc Erth Herygh Uuirp Erik Eirik Eirikr Erich Erkki }
 ermengarde_female = { Ermengarde Ermegardis Ermengard Ermengarda Ermengardis Ermingarde Irmgard }
 ermengaud_male = { Ermengaud Ermengol Ermengar Armengol }
@@ -407,6 +833,47 @@ fabian_male = { Fabian Fabiano }
 fabiana_female = { Fabiana Fabbiana }
 fadl_male = { Fadl Fezl }
 fadlun_male = { Fadlun Fezlun }
+=======
+erasmus_male = { Erasmo }
+eric_male = { Eric Erc Erth Herygh Uuirp Erik Eirik Eirikr Erich Erkki EirI_kr }
+ermengarde_female = { Ermengarde Ermegardis Ermengard Ermengarda Ermengardis Ermingarde Irmgard Hermengarde }
+ermengaud_male = { Ermengaud Ermengol Ermengar Armengol }
+ermesinda_female = { Ermesinda Ermenisinda Ermessenda Ermessentz Ermessinde Ermesenda Ermisenda Hermesinda Hermessent }
+ernest_male = { Ernest ArnoS_t Ernst }
+ernrichetta_female = { EnrichE_tta }
+esau_male = { Esau Isau }
+esclarmunda_female = { Esclarmunda Clarmonda Esclarmonda Esclarmonde Esclaramunda }
+esfandiar_male = { Esfandiar Esfendiyar }
+esmeralda_female = { Ismeralda Smeralda }
+esmeraldo_male = { Smeraldo Smeraldino }
+eternus_male = { Eternus Edern }
+ethelfrith_male = { Ethelfrith E_thelfrith }
+eudocia_female = { Eudocia Eudokia Yevdokia Eudoxia Eudosia Eudissia }
+eugene_male = { Eugene E_ogan EO_ganA_n EO_gan Egenio Eguen Eugenio Even Ewan Owain Uuen Owen EugE_ne Yawan Euggeniu Eugeni Genio Ugeni Eugenes }
+eugenia_female = { Eugenia Euginia Owena Uuena }
+euny_male = { Euny Uny }
+euphemia_female = { Euphemia Affraic Aufrica EufE_mie Eufemia Yefimia EuphE_mie Femia Eufimia }
+euphemius_male = { Euphemios Eufemiu }
+euphrasia_female = { Euphrasia Effros }
+euphrosyne_female = { Euphrosyne Eufrosina Eufroysina Euphrosine Yefrosinia }
+eusebia_female = { Eusebia }
+eusebius_male = { Eusebius Eusebi Eusebio EusE_biu }
+eustace_male = { Eustace Eustache Eustachy Eustathios Eusthaices }
+eustorgios_male = { Ustorgg }
+eva_female = { Eva E_ua E_va AibilI_n Ava Efa Eua Eve Eba }
+evangelista_female = { Vangelista }
+evangelista_male = { Vangelista }
+everard_male = { Everard Eberhard Everd Evrard Evrart Everardo Averardo }
+eysteinn_male = { Eysteinn O_sten O_ysteinn O_ystein Eystein Uisdean }
+fabia_female = { Fabia }
+fabian_male = { Fabianus Fabiano }
+fabiana_female = { Fabiana Fabbiana }
+fabius_male = { Fabius Fabio }
+fabricius_male = { Fabrizio Fabriss Fabrissi Fabritziu Fabrizziu }
+fadl_male = { Fadl Fezl }
+fadlun_male = { Fadlun Fezlun }
+falco_male = { Falco Falcone Fulcone Falconetto }
+>>>>>>> Stashed changes
 faramarz_male = { Faramarz Feramez }
 faramond_male = { Faramond Pharamond }
 faraz_male = { Faraz Feraz }
@@ -420,13 +887,26 @@ farquhar_male = { Farquhar Fearchar }
 farroukh_male = { Farroukh Ferux }
 farrukhzad_male = { Farrukhzad Feruxzad }
 farzad_male = { Farzad Ferzad }
+<<<<<<< Updated upstream
 felix_male = { Felix Felec Filici Felice SzczE_sny }
 feradach_male = { Feradach Uuredach }
 ferdinand_male = { Ferdinand Ferant Ferdinando FernA_o FernA_n Fernando Fernandu Firdinannu Ferran Ferrand Ferrando Friedenando Friednand }
+=======
+faste_male = { Faste Fasti }
+fausta_female = { Fausta }
+faust_male = { Faustus }
+festus_male = { Festus }
+felicia_female = { Felicia }
+felicity_female = { Felicita }
+felix_male = { Felix Felec Felice SzczE_sny Filici Felictu Felizzin }
+feradach_male = { Feradach Uuredach }
+ferdinand_male = { Ferdinand Ferant Ferdinando FernA_o FernA_n Fernando Fernandu Ferran Ferrand Ferrando Friedenando Friednand Fernand Firdinannu Ferdinandu Nando }
+>>>>>>> Stashed changes
 ferdows_male = { Ferdows Firdews }
 fergus_male = { Fergus Fearghus Gurcant Gurguist Gurguistl Gwrgant Urguist }
 feridun_male = { Feridun FerI_dun Fereedun }
 ffernfael_male = { Ffernfael Farinmael }
+<<<<<<< Updated upstream
 fidel_male = { Fidel Fedele }
 findlay_male = { Findlay Finnlagh FindlaI_ch }
 finn_male = { Finn Fingal Gwyn Fionnghall }
@@ -468,11 +948,103 @@ gerontius_male = { Gerontius Ganant Geraint Gereint }
 gertrude_female = { Gertrude Geretrudis Gertrud Gertruda Gheertrude Gjertrud }
 ghoncheh_female = { Ghoncheh XonC_e }
 gilbert_male = { Gilbert GilbE_rt Gilberto Giberto Ghiberto Gilbride Gilla-BrI_gte Giselbert Guislabert }
+=======
+fidel_male = { Fedele Fidelis }
+fides_female = { Fides Fede }
+fides_male = { Fides Fede }
+findlay_male = { Findlay Finnlagh FindlaI_ch }
+finn_male = { Finn Fingal Gwyn Fionnghall }
+finnguala_female = { Finnguala Fenella Fingola Nuala Fenni }
+flavia_female = { Flavia }
+flavius_male = { Flavius Flavio }
+flora_female = { Flora Fflur Flor FlO_ra Floarea Fiora }
+flordalisa_female = { Flordelisia Fiordelisia Fiordelise }
+flordalisus_male = { Fiordelise }
+florentia_female = { Florentia Florence Fiorenza }
+floriana_female = { Floriana }
+florina_female = { Fiorina }
+florinus_male = { Florino }
+folke_male = { Folke Folco Folki Folquet Foulques Fulk Fouques Foucher FO_lki Fulcho }
+fortunata_female = { Fortunata Furtunata }
+fortunatus_male = { Fortunatus Fortunato Furtunatu }
+fracan_male = { Fracan Fragan }
+fraisenda_female = { Fraisenda Fraisinda }
+franca_female = { Franca }
+francesca_female = { Francesca Francesa Francescha Fransesca Franceschina Francisca Frantzisca Franciscina FranC_esca }
+francis_male = { Francis Ferenc FranC_ois FrancE_s Francesco Frang Franjo Frans Fransaz FrantiS_ek Franz Proinsias Fransis Ffransis Francesc Fransesch Franzesch FranC_esco Francescho Francisco Franciscu Frantziscu Francescino Cesch }
+franco_male = { Franco Francho Franch Franku }
+frareau_male = { Frateddu }
+frederick_male = { Frederick BedR_ich Fadrique Federigo FrE_dE_ric Frederi Frederic Frederico Frederik Fredrik Friedrich Rieti FriT_rI_kr Federigh Federich Fidiricu Federico Fechiello }
+frederique_female = { Frederique Frederikke Friedrica Federica Federiga }
+frej_male = { Frej Freyr }
+freja_female = { Freja Freyja }
+frirek_male = { Frirek FrIrekr }
+friog_male = { Friog Ffriog Frioc }
+frode_male = { Frode FroT_i FrO_T_i }
+froila_male = { Froila Fruela Fruella }
+fronilde_female = { Fronilde Fronilda Fruilhe }
+frontus_female = { Fronte }
+frontus_male = { Fronte }
+fuscus_male = { Fuschillo }
+fulvia_female = { Fulvia }
+gabriel_male = { Gabriel GA_briel Gabri_el Gabrieli Gavriil Gavril Gavrilo Kapriel Kauro Gabriello Gabriele Grabielle Crabiele Cabbrieli Gabbriello Cabriel }
+gabriela_female = { Gabriela }
+gaetana_female = { Gaetana Gaitana }
+gaetano_male = { Gaetano Gaitanu GaetA_nu Gaitan Gaietano }
+gagik_male = { Gagik Gagiki }
+gaius_male = { Gaius Cai Caiu }
+galeazzo_male = { Galeazzo Galaxio }
+galeotto_male = { Galeotto Galotto Galeoto GaleaC_C_o Galeazz }
+galilaia_female = { }
+galilaios_male = { Galileo }
+galindo_male = { Galindo Galind Galindas }
+galla_female = { Galla }
+gallus_male = { Gallus GaweL_ Havel Gallu }
+gandalfr_male = { Gandalfr GandA_lfr }
+gandarditya_male = { Gandarditya KantarA_titta }
+gandolf_male = { Gandolf Gamdulffo Gandolfo Gandolfino }
+garcia_male = { Garcia GarC_i GarcI_a Garsiya Gartzia Garsias }
+gaston_male = { Gaston Gastone }
+gavin_male = { Gavin Gwalchmai Gavino Gabinu Gabrino Gavini Galgano }
+gaya_male = { Gaya Gaye Gaia }
+gebhard_male = { Gebhard Gevert Girardu Girardo Girardino Girardello Girarducio }
+geminianus_male = { Geminiano  Gimignano }
+gennadius_male = { Gennadius Gennatios }
+gentilis_female = { Gentilla }
+gentilis_male = { Gentile Gentille }
+george_male = { George Djordje GeO_rgios Georg Georgios Georgy Gevorg Gheorghe Giorgi Giorgio GyO_rgy Juraj JU_rgen Jerzy JiR_I_ Jord Jorge Sior Varughese YrjO_ Yuriy Giwargis GiO_rs Zorzi Zorzo Georgius }
+georgia_female = { Georgia GyO_rgyi GiO_rsa Zorza Giorgia Jorgia Giorga }
+gerald_male = { Gerald GE_raud Garalt Garibald Geraldo Gerallt Geralt Geraud Gerbald Gerold Gierolt Guerau Guiraud Gerard GE_rard Gehrke Gerardo Gerhard Ghert Girard Guiral Guitart Xerardu Girart Giraldo Gherardo Guirardo Gherardino Gherardozzo Garipald }
+gerberga_female = { Gerberga GerbE_rga Gerberge Gerburgis Gerperga }
+germana_female = { Germana }
+german_male = { German Garmon Germanus Germanos Germano }
+gerontius_male = { Gerontius Ganant Geraint Gereint }
+gertrude_female = { Gertrude Geretrudis Gertrud Gertruda Gheertrude Gjertrud }
+gervasius_male = { Gervasio Girvasiu }
+ghoncheh_female = { Ghoncheh XonC_e }
+gloriosus_male = { Gloriosus Groliusu }
+gloth_female = { GlO_D_ GloT_ }
+gianangelo_male = { Giovaniglio Gianagnolo Gianvangeli }
+gianantonio_male = { Gianantonio ZuanAntonio }
+gianbattista_male = { Gianbattista Giovanbattista Giovanbatista Giobatta }
+giangiacomo_male = { Gian_Jacom Zuangiacomo }
+gianluigi_male = { Gianluigi Gianlodovico }
+giansimone_male = { Giansimone Giovansimone }
+gilbert_male = { Gilbert GilbE_rt Gilberto Gilbride Gilla-BrI_gte Giselbert Guislabert Giberto Ghiberto }
+>>>>>>> Stashed changes
 gilchrist_male = { Gilchrist Gilla-CrI_st }
 gilpatrick_male = { Gilpatrick Gilla-PA_traic }
 gilroy_male = { Gilroy Gilla-Ruad }
 gisela_female = { Gisela GisE_le Giselle Giseltrude Gisla Gizella Guisla }
+<<<<<<< Updated upstream
 godfrey_male = { Godfrey GO_dke Gausfred Geoffrey Geoffroy Geofroi Godafres Godefroi Godefroy Gottifredi Giofrèj Godfried Goffredo Gofraid Gotfred Gottfried GuT_friT_ Guthfrith JaufrE_ Jaufret JofrE_ SE_afra Sieffre SiothrU_n }
+=======
+gnupa_male = { Gnupa GnU_pa }
+gisolf_male = { Gisulf Gisulfu }
+giswalda_female = { Gesualda }
+godfrey_male = { Godfrey GO_dke Gausfred Geoffrey Geoffroy Geofroi Godafres Godefroi Godefroy Godfried Goffredo Gofraid Gotfred Gottfried GuT_friT_ Guthfrith JaufrE_ Jaufret JofrE_ SE_afra Sieffre SiothrU_n Gottifredi GiofrE_j Gotofredo Gotiffredo Goffredu Guffredu Ioffredo }
+godfreya_female = {  }
+>>>>>>> Stashed changes
 godwin_male = { Godwin Godwyn }
 gojslav_male = { Gojslav }
 gojslava_female = { Gojslava }
@@ -483,21 +1055,35 @@ gonzalo_male = { Gonzalo GonC_al GonC_alo Gontzal Gonzalu }
 gopala_male = { Gopala Gopal }
 gopendraraja_male = { Gopendraraja Gopendraka }
 gorandukht_female = { Gorandukht Gorandoukht Guranduht }
+<<<<<<< Updated upstream
 gorm_male = { Gorm Guttorm }
+=======
+gorm_male = { Gorm Guttorm Gormr }
+>>>>>>> Stashed changes
 gormflaith_female = { Gormflaith Gormelia Gormlaith Gormuil }
 goshtasb_male = { Goshtasb GoS_tasp }
 gotruda_female = { Gotruda Gonterote Gontroda Gontrode }
 gottschalk_male = { Gottschalk Godescalc Gosschalk }
 govindaraja_male = { Govindaraja Govinda Govindapala Govindraj Guvaka }
+<<<<<<< Updated upstream
 gratian_male = { Gratian Graziano }
 gregory_male = { Gregory Grigoriu Gigurum Giric Greger Gregers Gregor Gregoras Gregorio Gregori Gregorios Grigoli Grigor Grigore Grigorii Grgur Grigoriy Grygor Grzegorz Jerjer Grwgari Gregorius }
 grim_male = { Grim Grimr }
+=======
+grace_female = { Grazia }
+gratian_male = { Gratian Gratiano Graziano Grazzianu }
+gregoria_female = { Gregoria }
+gregory_male = { Gregory Gigurum Giric Greger Gregers Gregor Gregoras Gregorio Gregorios Grigoli Grigor Grigore Grigorii Grgur Grigoriy Grygor Grzegorz Jerjer Grwgari Grigoriu Gregori GrigO_riu Grigorio Gorio Geragio Griguori Gregorius }
+grim_male = { Grim Grimr GrI_mr }
+grima_female = { Grima GrI_ma }
+>>>>>>> Stashed changes
 gruba_female = { Gruba }
 guaifer_male = { Guaifer Waifar }
 guaimar_male = { Guaimar Waimar Guaimariu }
 guaram_male = { Guaram Guram }
 gudmund_male = { Gudmund GuT_mundr Guthmund }
 gudrod_male = { GudrO_d GuT_rO_T_r GudrOEd }
+<<<<<<< Updated upstream
 gudrun_female = { Gudrun GuT_run Guntrud }
 gulcicak_female = { GulC_iC_A_k GulC_iC_ek GulC_eC_ek }
 gundoald_male = { Gundoald Gundo }
@@ -505,11 +1091,23 @@ gunhild_female = { Gunhild Gunhilda Guinidilda Gunnhild Gunnhildr Winidilda }
 gunnar_male = { Gunnar Gunnarr }
 gunther_male = { GU_nther Gunzelin }
 guy_male = { Guy Gui Guido Guidu Guidone Guigues Guij VI_tek Wicho Wido Wit }
+=======
+gudrun_female = { Gudrun GuT_run Guntrud GuD_rU_n }
+guiscard_male = { Guiscard Viscardo }
+gulcicak_female = { GulC_iC_A_k GulC_iC_ek GulC_eC_ek }
+gundoald_male = { Gundoald Gundo }
+gunhild_female = { Gunhild Gunhilda Guinidilda Gunnhild Gunnhildr Winidilda }
+gunnar_male = { Gunnar Gunnarr Gunnare }
+gunther_male = { GU_nther Gunzelin Gonario GonA_riu }
+gustav_male = { Gustav Tavo Custaviello }
+guy_male = { Guy Gui Guido Guidu Guidone Guigues Guij VI_tek Wicho Wido Wit Guidetto Guidotto Guiduccio Guiducio Guidoncio Guidaccio Guidono Guiduto }
+>>>>>>> Stashed changes
 gwen_female = { Gwen Gwenn Uen Wenn Wenna }
 gwerfyl_female = { Gwerfyl Gueruel }
 gwrfawr_male = { Gwrfawr Gouremor }
 gwrgeneu_male = { Gwrgeneu Gurceneu }
 gwrgi_male = { Gwrgi Gurci }
+<<<<<<< Updated upstream
 gytha_female = { Gytha GyT_a Gyda }
 hakon_male = { Hakon HA_kan HA_kon Hacon }
 hamelin_male = { Hamelin Hammelin }
@@ -517,12 +1115,28 @@ hannibal_male = { Hannibal Annibale }
 harold_male = { Harold Ariald Harald Haraldr Herold }
 harsa_male = { Harsa Harshapala }
 harduin_male = { Harduin Arduinu Ardoino Arduino }
+=======
+gyla_female = { Gyla GrY_la }
+gytha_female = { Gytha GyT_a Gyda }
+gyrith_female = { GyrI_D_r GyriT_ }
+hardeknud_male = { Hardeknud Hordaknutr }
+hakon_male = { Hakon HA_kan HA_kon Hacon HA__kon }
+hafrid_female = { HafrI_D_r Hafrid }
+halfdan_male = { Halfdan HalfdA_n }
+halsten_male = { Hallsteinn Halsten }
+hamelin_male = { Hamelin Hammelin }
+hannibal_male = { Annibal Annibale }
+harduin_male = { Harduin Arduinu Ardoino Arduino }
+harold_male = { Harold Ariald Harald Haraldr Herold AirA_ud }
+harsa_male = { Harsa Harshapala }
+>>>>>>> Stashed changes
 harvey_male = { Harvey Huiarnviu }
 hasan_male = { Hasan Abdul-Hasan Hassan Hesen }
 hawise_female = { Hawise Hawis Hawys }
 hazarasp_male = { Hazarasp Hezarhesp }
 hector_male = { Hector Ettore }
 hedwig_female = { Hedwig Hadwig }
+<<<<<<< Updated upstream
 helen_female = { Helen Aileen Elen Elena Elene Helena Helene Hellene Ilona Jelena Liekko Olena }
 helge_male = { Helge Helgi Oleg }
 helias_male = { Helias Alias }
@@ -535,10 +1149,29 @@ herman_male = { Herman Hermann Ermannu Ormanno }
 herori_male = { Herori Haeloubri }
 hilarius_male = { Hilarius Ilario Ilariu Illario }
 hilaria_female = { Hilaria Illaria Eleri }
+=======
+helen_female = { Helen Aileen Elen Elena Elene Helena Helene Hellene Ilona Jelena Liekko Olena HE_lE_ne Nene }
+helge_male = { Helge Helgi Oleg }
+hemming_male = { Hemingr Hemming }
+henry_male = { Haimirich Henry E_nri Enric Enrico Enrique Hanri Harri Heinrich Hendrik Henri Henrik Henrike Henrique Henryk Herri Hinrik Hynek JindR_ich Ezzo Heymeri Enricho Arrigo Rigo Rico Richo Righi Rigi Erricuccio Ricu Arricu }
+henrike_female = { Errica }
+heracles_male = { Heracles Erclwf Erekle Herakleios Herculius HE_raclius Hercule Eracliu Ercole }
+herbert_male = { Herbert Aribert Aripert Herberd Hereberht Heribert }
+hereweald_male = { Hereweald Herewallt }
+herlinda_female = { Herlinda Hermelinda }
+herman_male = { Herman Hermann Ermannu Ormanno Armand Armando Armannu }
+hermolaos_male = { Ermolao Almoro }
+herori_male = { Herori Haeloubri }
+haesteinn_male = { HE_steinn HA_steinn }
+hilaria_female = { Hilaria Eleri }
+hilaria_female = { Hilaria Illaria Eleri Ilaria }
+hilarius_male = { Ilario Ilariu Illario }
+>>>>>>> Stashed changes
 hildebrand_male = { Hildebrand Hildeprand Ildebrando Aldobrando }
 hildegard_female = { Hildegard IldE_garde }
 hildegarde_female = { Hildegarde Ildegarda }
 hina_female = { Hina China }
+<<<<<<< Updated upstream
 hirapala_male = { Hirapala Hirapal }
 hippolytos_male = { Hippolytos Ippolito }
 honorius_male = { Honorius Ynyr Onoriu Onorato }
@@ -556,22 +1189,74 @@ hussein_male = { Hussein HisE_n }
 hyacinth_male = { Hyacinth Jacek Jacenty }
 hywel_male = { Hywel HoE_l Huwal }
 hval_male = { Hval }
+=======
+hippolyta_female = { Hippolita Ippolita Polita }
+hippolytos_male = { Hippolytos Hippolytus Ippolito Hipolito Pollito Polito PO_litu }
+hirapala_male = { Hirapala Hirapal }
+hjalmar_male = { Hjalmar HjA_lmar }
+holmfrid_female = { HO_lmfrI_D_r Holmfrid }
+holmger_male = { Holmger HO_lmgeirr }
+honestus_male = { Onesto }
+honoria_female = { Honoria }
+honorius_male = { Honorius Ynyr Onoriu Onorato }
+hooshyar_male = { Hooshyar XuS_yar }
+horace_male = { Orazzu }
+hormazd_male = { Hormazd Hurmiz }
+hortensus_female = { Hortensa Hortensia }
+hossein_male = { Hossein Hosen }
+hran_male = { Hran Hrana }
+hrane_male = { Hrane Hrani }	# Nordic
+hran_male = { Hran Hrana }	# Balkan Slavic
+hrothgar_male = { HroT_gar HrO_T_geirr }
+hrvoje_male = { Hrvoje }
+hubert_male = { Hubert Hugbert Uberto Oberto Ubertu Ubertino Ubertello }
+hugh_male = { Hugh A_edA_n A_ed Aedan Aeddan Aethon Hucpert Hug Hugo Hugues Huw Uc Ugo Ugues Ugu Ugone Gon }
+humbert_male = { Humbert Ubert Umberto Umbertu Umbert }
+humphrey_male = { Humphrey Honfroi Hunfroi Humfroy Onfroi Unfredu Umfridu }
+hussein_male = { Hussein HisE_n }
+hyacinth_male = { Hyacinth Jacek Jacenty }
+hysing_male = { Hysing HY_singr }
+hywel_male = { Hywel HoE_l Huwal Howell }
+hval_male = { Hval }
+hyacinth_female = { Hyacinth Giacinta }
+hyacinth_male = { Hyacinth Jacek Jacenty Giacinto Giazint }
+hyginus_male = { Hyginus Iginu }
+hywel_male = { Hywel HoE_l Huwal }
+ianuarius_male = { Ianuarius Zennaru Gennaro Genario Gennaio }
+>>>>>>> Stashed changes
 ida_female = { Ida Ide Yda }
 idnerth_male = { Idnerth Iudnerth }
 idwal_male = { Idwal Idual Iudual }
 idwallon_male = { Idwallon Iduallon Iuduallon }
+<<<<<<< Updated upstream
 ignatius_male = { Ignatius Z_egota Ignatios Ignazio Ignatziu Gnazziu Ignass Ignassi }
+=======
+ignatius_male = { Ignatius Z_egota Ignatios Ignazio Ignatziu Gnazziu Ignass Ignassi Gnazzi Gnaziu }
+>>>>>>> Stashed changes
 illick_male = { Illick Dilic }
 indra_male = { Indra Indre }
 indrapala_male = { Indrapala Indrapal }
 inge_female = { Inge Inga Inka }
 ingeborg_female = { Ingeborg IngebjO_rg IngibjO_rg }
 ingegerd_female = { Ingegerd IngjerT_r Ingjerd }
+<<<<<<< Updated upstream
 ingolf_male = { Ingolf IngO_lfr Inge }
 ingvar_male = { Ingvar InwE_r Yngvar }
 inigo_male = { Inigo Eneco Eneko Wannaqo }
 innocentius_male = { Innocentius Innocenzo }
 irene_female = { Irene Eirene IrE_n Irina }
+=======
+ingemar_male = { Ingemar Ingimar }
+ingfrid_female = { IngfrI_D_r Ingfrid }
+ingjald_male = { Ingjald Ingjaldr }
+ingolf_male = { Ingolf IngO_lfr Inge }
+ingrid_female = { IngirI_D_r Ingrid }
+ingvar_male = { Ingvar InwE_r Yngvar }
+inigo_male = { Inigo Eneco Eneko Wannaqo }
+innocentius_male = { Innocentius Innocenzo Nnuccenzu Nocent }
+irene_female = { Irene Eirene IrE_n Irina Irena }
+irmhild_female = { Imelda Imeldina }
+>>>>>>> Stashed changes
 isaac_male = { Isaac Ishaq Ittac Sahag Sahak }
 isaiah_male = { Isaiah Zaia Isaia }
 ishkhan_male = { Ishkhan Ishkhanik }
@@ -579,8 +1264,14 @@ isidoros_male = { Isidoros Isidor }
 ismail_male = { Ismail I_smaI_l Esma_il Is_mail Isma_il }
 isolde_female = { Isolde Iseult Isode Isotta Isoude Izolda Essyllt }
 ithel_male = { Ithel Iudhael }
+<<<<<<< Updated upstream
 ivar_male = { Ivar I_omhar Evander Ibor Ifor Ivor }
 jacob_male = { Jacob Chaacko Hamish Iacob Iago Iakobos Iacobo Iacopo JA_picu Iakov JA_kob Jaakoppi Jacco Jacme Jacopo Iacobus Jacopu Giacoppo Jacques Jakob Jaksa Jakub Jakusz James Jaume KO_pke SE_amas Ya_qub Yaqub Jaime Chaime Jakue Ya_qob }
+=======
+ivar_male = { Ivar I_omhar Evander Ibor Ifor Ivor I_var }
+jacob_male = { Jacob Chaacko Hamish Iacob Iago Iakobos Iakov JA_kob Jaakoppi Jacco Jacme Jacopo Jacques Jakob Jaksa Jakub Jakusz James Jaume KO_pke SE_amas Ya_qub Yaqub Jaime Chaime Jakue Ya_qob Jaques Yaakov Jacopu Giacoppo Iacobo Iacopo JA_picu Giacomino Giacomo Giacoma Giaco GiOE_umo Jagu Jacobo Jacomo Iacomo Jacom Coppo Iacobino Jacobino Iacobello Jacobello Iacopozzo Iacobucio Iacobus }
+jacoba_female = { Iacoba Iacopa Iacoma Giacoma GiOE_uma }
+>>>>>>> Stashed changes
 jaganpala_male = { Jaganpala Jaganpal }
 jagatpala_male = { Jagatpala Jagatpal }
 jagdeva_male = { Jagdeva Jagdev }
@@ -593,11 +1284,16 @@ jarnegon_male = { Jarnegon Iarnegon }
 jaromir_male = { Jaromir JaromI_r Jaromar }
 jaroslav_male = { Jaroslav JarosL_aw Yaroslav }
 jasapala_male = { Jasapala Jaspal }
+<<<<<<< Updated upstream
+=======
+jasper_male = { Casper CA_sper Gasper Gaspare Gasparre Gasparo Gasparro Gaspao Gasparru }
+>>>>>>> Stashed changes
 jatanpala_male = { Jatanpala Jatanpal }
 javeed_male = { Javeed Cevid }
 jayantavarman_male = { Jayantavarman Cayantavarman }
 jayaraja_male = { Jayaraja Ajairaja }
 jayasimha_male = { Jayasimha Jay-Singh Jayat-Singh }
+<<<<<<< Updated upstream
 jeremiah_male = { Jeremiah Ieremias Geremia Germias Jeremias }
 galeotto_male = { Galeotto Galotto Galeoto Galeaçço Galeazz }
 galeazzo_male = { Galeazzo Galaxio }
@@ -625,6 +1321,39 @@ justin_male = { Justin Gestin Iestan Iestyn Ioustinos Giustinu Giustino }
 justina_female = { Justina Ioustina }
 justinanius_male = { Justinanius Stinian }
 justinian_male = { Justinian Ioustinianos Giustinu }
+=======
+jeremiah_male = { Jeremiah Ieremias Jeremias Geremia Germias }
+jeroma_female = { Ieronyma Ieronima Geronima Girolama Girolima }
+jerome_male = { Hieronymus Hieronimo Jeronimo Geronimo ZirO_nimu Girolamo Girolom }
+jesse_male = { Jesse Hoase Hoasse Hoassi }
+jesus_male = { Jesus Eisow IE_sous Yiswe }
+jhetpala_male = { Jhetpala Jhetpal }
+joakim_male = { Joakim Jochim Joachim Giuacchinu }
+joan_female = { Joan Eonnecte Iannia Ioanna Iouenna Janed Jean Jeanne Joana Joanna Johanna Juana Seonaid Sheena Shona SiA_n SiobA_n Sioned Siunod Xuana Xoana Chuana Jehanne Giana Gioana Gianna Zuanna Giovanna Giuvanna Giuanna Juanna Iohanna }
+job_male = { Job Iyob Joab }
+john_male = { John HanuS_ Hovhannes IO_annE_s Iain Iehan Ieuan Ioan Ioane Ioann Ioannes Iuan Ivan IvaniS_ JA_nos Jan JanisL_aw Janis Janko Janos Janusz Jean JoA_o Joan Joanes Joannes Johan Johann Johannes Jon Jovan Juan Juvven SeA_n SeoA_n Yahya Yohannaan Yohannan Youkhanna Yunanis Xuan Chuan Jehan Iovanni Giovann Gioann Giovanni Giuvanni Zuan Gian Ivano Juanne Giuanne Giano Zane Zuane Zuanne Gianni Zanino Vanello Vanitto Vanni Zanotto Zanetto Giannazzo Iohannes Iovannello Iovannitto Vannino Vannozzo Vannuccio Giovannino Iohannis }
+jonas_male = { Jonas Ionas Jonah IO_annou }
+jonathan_male = { Jonathan }
+june_female = { Junia Iunia }
+june_male = { Junius }
+jordan_male = { Jordanes Iordanes Jordan Jourdain Giordanu Jordano Zordan Jurdanu }
+jordana_female = { Jordana Iordana Giordana }
+joscelin_male = { Joscelin Gaucelin Gautselin Iocilin Josselin }
+joseph_male = { Joseph Hovsep Iosep Ioseph JO_zef JO_zsef Josif Josip Iosephus Giuseff Giuseppi Gioxeppe Giusep Giuseppe Jozef Yosef Yosip Yousef Youssef Yusuf Zuseppe Iseppo Isepp Gepe Geppo }
+josepha_female = { Giuseppa Gioxeppa Iosephea Iseppa Zuseppa Zuseppe Beppa }
+joshua_male = { Joshua Kossy Yeshua }
+judicael_male = { Judicael Iudicael }
+judith_female = { Judith Judhael Judit Judita Judyta Jutta Iudith Giuditta }
+julia_female = { Giulia Iulia JU_lia Julia Ioulia }
+julian_male = { Julian Ioulianos Julien Silin Sulgen Sulian Sulien Tysilio Iulianus Giulianu Giuliano Juliano }
+juliana_female = { Juliana Iouliana Julienne Iyana Iuliana Giuliana }
+julius_male = { Julius Juw Iulius Juliusz Giulio Giuliu Julio Iulio Giuli }
+justa_female = { Justa Giusta }
+justin_male = { Justin Gestin Iestan Iestyn Ioustinos Giustinu Giustino Gostin Justino Gostino Gustinell }
+justina_female = { Justina Iustina Ioustina Giustina Gustina }
+justinanius_male = { Justinanius Stinian Justinian Ioustinianos Giustiniano }
+justus_male = { Justus Justu Giustu Giusto Zusto }
+>>>>>>> Stashed changes
 kailaspala_male = { Kailaspala Kailaspal }
 kakhopala_male = { Kakhopala Kakhopal }
 kallinikios_male = { Kallinikios Kalinikos }
@@ -636,6 +1365,12 @@ kavoos_male = { Kavoos KA_vus }
 kea_male = { Kea Ke }
 kenneth_male = { Kenneth CinA_ed Ciniod }
 kentigern_male = { Kentigern CennE_tig Cyndeyrn Guentigirn }
+<<<<<<< Updated upstream
+=======
+kettil_male = { Kettil Ketill }
+kettilmund_male = { Kettilmund Ketilmundr }
+kephas_male = { Cephas Cephus }
+>>>>>>> Stashed changes
 keykhosrau_male = { Keykhosrau Kaikhosro Keyxusrew }
 keykhosrow_male = { Keykhosrow Xeykhosrow }
 khafif_male = { Khafif Hafif }
@@ -650,11 +1385,22 @@ khurshid_male = { Khurshid XurS_I_d }
 kieran_male = { Kieran Peran Pyran }
 kiratpala_male = { Kiratpala Kiratpal }
 kirtivarman_male = { Kirtivarman Keerti-Verma }
+<<<<<<< Updated upstream
 knut_male = { Knut Knud Kuuti }
 kolbein_male = { Kolbein Colban }
 koloman_male = { Koloman Kolman }
 konrad_male = { Konrad CenrE_d Cord Corrado Curradu Koenraad KonrA_d Kuno Conrad Conrado Corradu Corado }
 kopperunchinga_male = { Kopperunchinga KO_pperuN_cimman }
+=======
+knut_male = { Knut Knud Kuuti KnU_tr }
+kol_male = { Kol Kollr }
+kolbein_male = { Kolbein Colban }
+koloman_male = { Koloman Kolman }
+kometes_male = { Comita Gomita }
+konrad_male = { Konrad CenrE_d Cord Corrado Koenraad KonrA_d Kuno Currado Curradu Conrad Conrado Corado CorrA_du }
+kopperunchinga_male = { Kopperunchinga KO_pperuN_cimman }
+kraka_female = { KrA_ka Kraka }
+>>>>>>> Stashed changes
 kresimir_male = { KreS_imir Krsmir Uskrsimir }
 kujava_female = { Kujava }
 kulasekhara_male = { Kulasekhara KulacE_kara }
@@ -664,6 +1410,7 @@ kulothunga_male = { Kulothunga KulO_ttunka }
 kunigunde_female = { Kunigunde Cunigunda Kunigunda }
 kunwar_male = { Kunwar Kunwarpal }
 kyriake_female = { Kyriake Kurake }
+<<<<<<< Updated upstream
 kyriakos_male = { Kyriakos Kuriakos }
 laila_female = { Laila Layla Leyla Leila}
 lakshmanadeva_male = { Lakshmanadeva Lakshmana }
@@ -694,18 +1441,82 @@ madron_male = { Madron Madrun Madryn Materiana Modron Matrona Madru }
 maelgwn_male = { Maelgwn Maelcon Melgwn }
 magdalena_female = { Magdalena Madalena Maddalena Magda Magdalene Magdolna }
 magnus_male = { Magnus Megistos Magne }
+=======
+kyriakos_male = { Kyriakos Kuriakos Cyriacus Cwrig Ciriaco }
+laila_female = { Laila Layla Leyla Leila }
+lakshmanadeva_male = { Lakshmanadeva Lakshmana }
+lambert_male = { Lambert Lamberto Lembert Lambertu Lambertino }
+lancelot_male = { Lancelot Lancellotto Lancillotto Lanciottu LanC_alotto }
+landolf_male = { Landolf Landulf Landolfo Landolfu }
+latinus_male = { Latino }
+laura_female = { Laura LA_ura }
+laurence_male = { Laurence Lars LaurE_nC_ Laurentios Laurentiu Laurentz Lauri Lorens LourenC_o Lourenzo Lorenzo LloriA_n Wawrzyniec Lorenz Lurenzu Laurentius Laurencio LoenC_o Laurentu Rens Renzo Laurencino Larienzu }
+laurentia_female = { Laurentia Laurence Lorenza }
+laurus_male = { Lauro }
+lazarus_male = { Lazarus Lazaros Laszio Lazare Lazaro Lazzaro Lazarz Lazer Lazzao Zarin Lazarino }
+lennon_male = { Lennon LennA_n }
+leo_male = { Leo Leon Leone Lev Levan Levon Llew Lugh Livon Liuni Lion }
+leonarda_female = { Leonarda Lonarda }
+leonard_male = { Leonardo Leonardu LE_onard Lonardo Lionardo Lundardo Lenuzo Linardu }
+leontius_male = { Leontius Leontios }
+leopold_male = { Leopold Liutbald Liutpold Lupuald }
+lepidus_male = { Lepido }
+liber_male = { Liber Liberius Liberio Libberiu }
+libera_female = { Libera }
+licinia_female = { Licinia }
+licinius_male = { Licinius }
+liutward_male = { Liutward Liudward }
+livy_male = { Livio }
+livia_female = { Livia }
+llywarch_male = { Llywarch Loumarch }
+longinus_male = { Longinus Longino }
+loreta_female = { Laureta }
+lothair_male = { Lothair Hlothere Lot Lothaire Lothar Luder Lottieri }
+louis_male = { Louis Alois Clydog Lajos Lluis LoI_s Lodewijk LouI_s Loui LudvI_k Ludvig Ludwig Luis Loys Aloysius Aloisio AlA_is Aluysio Aloysi Luigi Lodovigo Lois Luduvicu Luiggi Ludvigh Lodovicho Ludovico Lodovigh Loysio Luysio Lodovico Alvise Alvisio Visio }
+louise_female = { Louise LoI_sa Luisa Luigia Ludovica Alovigia Alovisa Aloysa Aloysia Lodevica Lodovicha Ludovicha Lodovica Lodoviga Luiggia Vichin Lutuvico }
+louisette_female = { Luisotta Luisett Soletta }
+lucia_female = { Lucia Luzzia L_ucja LU_cia Lleuca Lucija LlU_cia Lucie LussI_a }
+luciana_female = { Luciana Lucianin }
+lucianus_male = { Lucian Luciano Lucjan }
+lucina_female = { Lucina Luchina }
+lucretia_female = { Lucretia Lucrezia Lucrezzia Lugrezia Lucrexia }
+lucretius_male = { Lucrezio }
+ludolf_male = { Ludolf Liudolf Liudulf Lutolf }
+lucius_male = { Lucius Lles Lucio Luki Luss Luciu Leuccio }
+luke_male = { Luke Lukose Lucas L_ukasz Luca Luch Lucco Luchas Lucca Lucha }
+lupo_male = { Lupo Gurgen Liuppo Lop Lope Lopo Loup Lubb Lupus Vuk Llope Llop Liupolt Lupu }
+lutbert_male = { Lutbert Liutbert Liutpert }
+luxorius_male = { Lussurgiu }
+lysander_male = { Lissander Lissandru LissA_nder Lisandru }
+macabee_male = { Macabee Maccabee }
+macbeth_male = { Macbethad Macbeth }
+madonna_female = { Madonna }
+madron_male = { Madron Madrun Madryn Materiana Modron Matrona Madru }
+maelgwn_male = { Maelgwn Maelcon Melgwn }
+maer_female = { Maer ME_r }
+maga_female = { Maga Magia }
+magdalena_female = { Magdalena Madalena Maddalena Magda Magdalene Magdolna MagdelE_ne Magdaleine Madlena }
+magnus_male = { Magnus Megistos Magne MagnU_s Magno }
+magnolf_male = { Maginulf Magnolfi }
+magos_male = { Mago }
+>>>>>>> Stashed changes
 magya_female = { Magya Magyal }
 mahalia_female = { Mahalia Mahalie Mehalia }
 mahendrapala_male = { Mahendrapala Mahendra Mahendrapal }
 mahendravarman_male = { Mahendravarman MakE_ntiravarman }
 mahipala_male = { Mahipala Mahipal }
 mahmud_male = { Mahmud Mahamud MehmU_d }
+<<<<<<< Updated upstream
+=======
+mainard_male = { Mainard Mainardo Maynardo }
+>>>>>>> Stashed changes
 makarius_male = { Makarius Makarios }
 malcolm_male = { Malcolm MA_el-Coluim Maelchon Maelcwn }
 maldoven_male = { Maldoven MA_el-Dubh }
 maldred_male = { Maldred MA_el-Doraid }
 malise_male = { Malise MA_el-I_osa }
 malkhas_male = { Malkhas Malkhazi }
+<<<<<<< Updated upstream
 malmfrid_female = { Malmfrid MalmfriT_ }
 malmure_female = { Malmure MA_el-Muire Maelmurie }
 malsnectan_female = { Malsnectan MA_elSnechtai }
@@ -734,11 +1545,45 @@ martha_female = { Martha MA_rta MAErta Marta Marthe Marfa Marte Marti Martita Mo
 martellus_male = { Martellus Martello }
 martin_male = { Martin Martinu MA_rton Maertijn Marcin MartI_n Marthin Martim Martino MartiN_o Martinho Merten Myrddin }
 marsilius_male = { Marsilius Marsilio }
+=======
+malmfrid_female = { Malmfrid MalmfriT_ MA_lmfrI_D_r }
+malmure_female = { Malmure MA_el-Muire Maelmurie }
+malsnectan_female = { Malsnectan MA_elSnechtai }
+manasseh_male = { Manasseh ManassE_s Menassier }
+manfred_male = { Manfred Matfre Menfrid Manfredi Manfredo Manfredu }
+mansur_male = { Mansur MensU_r Mansone Manso }
+manuchihr_male = { Manuchihr MenU_C_ihr }
+manuel_male = { Manuel EmmanuE_l Manel Manuele Emmanuel Emmanouel Emmanuele Emanuele Manuell }
+manuela_female = { Emmanuela Emanuela }
+manushihr_male = { Manushihr MenU_S_ihr }
+maravarman_male = { Maravarman MA_ravarman }
+marcella_female = { Marcella Marchell }
+marcellus_male = { Marcellus Markellos Marcello Markellu }
+marcia_female = { Marcia Markia Marca }
+marcianus_male = { Marcianus Meirchion Marcian }
+marcus_male = { Marcus MA_rk Marcas March Marchell Marco Marek Margh Margos Mark Marko Markos Markose Markus Morcar Marcu Marku }
+margaret_female = { Margaret MA_irgred Maisie Marared Margalida MargarE_ta Margareta Margarete Margarid Margarida Margarita Margherita Margred Margrete Margrethe Margrud Marguarite Marguerite Peigi Margrita Margheritin Marguerita Margaritu Magherita Marghirita Malgarita Marcherita }
+maria_female = { Maria MA_ire MA_ria Maike Mair MarI_a Mareike Mari Mariam Marie Marija Mary Mara Maura Mariami Mariyam Miryem Mairi Mor MO_r Morag }
+mariamma_female = { MariMA_tE_vatikal Mariamma }
+mariana_female = { Mariana Marianin Marianna }
+marianus_male = { Marianus Marianos Meirion Marianu Mariano Marian Marin }
+marine_female = { Marine Marina Marinha Rina Mariin }
+marinus_male = { Marinus Marinos Marino Marinu }
+marius_male = { Marius Mario Marios Mariu Mariolin Mariotto Muriu }
+marjory_female = { Marjory Marthoc }
+markward_male = { Markward Marquard Markwart }
+marquise_female = { Marquise Marquesa }
+marsilius_male = { Marsilio }
+martellus_male = { Martello Martellino }
+martha_female = { Martha MA_rta MAErta Marta Marthe Marfa Marte Marti Martita Morta Marfie }
+martin_male = { Martin MA_rton Maertijn Marcin MartI_n Marthin Martim Martino MartiN_o Martinho Merten Myrddin Martinu Martinus }
+>>>>>>> Stashed changes
 marwan_male = { Marwan Merwan }
 marzuban_male = { Marzuban Merzuban }
 mascarosa_female = { Mascarosa MascarO_sa Mascarose }
 masud_male = { Masud MesU_d }
 matad_male = { Matad Madog Matoc }
+<<<<<<< Updated upstream
 matilda_female = { Matilda Mathelda Mathildis Mafalda Mahaut Mathilde Matild Matylda Maud Mauda Mautild Mawd Mechthild Mathilda Mahalta Matilde }
 matthew_male = { Matthew Mattê Matheo Matteu MA_tyA_s MaC_ko Maciej Mads Matej Mateusz Matfei Math Mathias Mathieu Maththias Matias Matija Matiya MatouS_ Mats Matta Matteo Matthaios Matthias Matti Mateu Matheo }
 mattea_female = { Mateja }
@@ -749,12 +1594,29 @@ maximus_male = { Maximus Maximos Macsen Massimu Massimo }
 mayor_female = { Mayor Maior }
 mainard_male = { Mainard Mainardo Maynardo }
 mellitus = { Mellitus Melitus }
+=======
+matilda_female = { Matilda Mafalda Mahaut Mathilde Matild Matylda Maud Mauda Mautild Mawd Mechthild Mathilda Mahalta Matilde Mathelda Tilda Macalda }
+matthew_male = { Matthew MA_tyA_s MaC_ko Maciej Mads Matej Mateusz Matfei Math Mathias Mathieu Maththias Matias Matija Matiya MatouS_ Mats Matta Matteo Matthaios Matthias Matti Mateu Matheo Mahuis Mattanyahu Mattithyahu Mattityahu MattE_ Matteu MatE_ Mattia Maffeo Mafeo Mapheo Feo Mazzeo Mazzetto Mazzuolo Mathiolo }
+mattea_female = { Mateja Mattea Mathea Mattia Maffia Matthia Mathia }
+matej_ninoslav_male = { Matej_Ninoslav }
+maurice_male = { Maurice Mauric Meurig Mauricius Maurikios Mauritio MA_uru Maurizio Maurisio Mauriss Maurissi }
+maurus_male = { Maurus Mauros Mauro Mauru Maver MO_ Moro }
+mawgan_male = { Mawgan Meigant Meugan }
+maximinus_male = { Maximinus Massiminu }
+maximus_male = { Maximus Maximos Macsen Massimu Massimo }
+maximian_male = { Maximian Maximianus }
+may_male = { Maggio Maio }
+mayor_female = { Mayor Maior }
+mellitus_male = { Mellitus Melitus }
+megalos_male = { Migali }
+>>>>>>> Stashed changes
 meirona_female = { Meirona Meiriona }
 melisende_female = { Melisende ME_lisande ME_lisende MelisE_nda Melisant Melissa }
 melor_male = { Melor Meglar Mylor }
 menas_male = { Menas Mina }
 mencia_female = { Mencia MencI_a Mentzia ME_cia }
 mendo_male = { Mendo Mem Menendo Melendu }
+<<<<<<< Updated upstream
 mercurius_male = { Mercurius Merkourios }
 merfyn_male = { Merfyn Mermin }
 meriadoc_male = { Meriadoc Meiriadog Meriasek }
@@ -765,16 +1627,40 @@ milisa_female = { Milisa }
 milosz_male = { Milosz Milos }
 milovan_male = { Milovan }
 minver_male = { Minver Menefreda Minefrida Mynfreda }
+=======
+mercurius_male = { Mercurius Merkourios Merchurio Mercuriu }
+merfyn_male = { Merfyn Mermin Merlin }
+meriadoc_male = { Meriadoc Meiriadog Meriasek }
+merryn_male = { Merryn Maruan }
+metellus_male = { Metello }
+michael_male = { Michael MichaE_l Michel Michele MihA_ly Mihail Mihajlo Mihangel Mikail Mikayel Mikhael Mikhail Mikheil Mikkel Mikko Miquel Mikha_il Michiel Micheli Mighele Mikelli Michaele Michaleto Michelozzo Michellucio }
+michaela_female = { Michaela MichaE_liko Michiele Michele Michela Mighele Mikelli Miclina MichE_ina }
+michaelangelo_male = { Michelangelo Michelagnolo }
+milisa_female = { Milisa }
+milosz_male = { Milosz Milos Milo }
+milovan_male = { Milovan }
+minver_male = { Minver Menefreda Minefrida Mynfreda }
+mirabilis_female = { Mirabillis Mirabile }
+mirandus_male = { Mirandulu }
+>>>>>>> Stashed changes
 miroslav_male = { Miroslav MirosL_aw }
 miroslava_female = { Miroslava }
 mirza_male = { Mirza MI_rza }
 mithridates_male = { Mithridates Mihrdat }
 mona_female = { Mona Moyna Muadhnait }
+<<<<<<< Updated upstream
+=======
+monica_female = { Monica MO_nica MO_na }
+>>>>>>> Stashed changes
 morad_male = { Morad Murad }
 mordred_male = { Mordred Medrod Modred }
 morfarch_male = { Morfarch Mormarch }
 morgan_male = { Morgan Morcant Morgen Morien Muirgein }
+<<<<<<< Updated upstream
 morganna_female = { Morganna Morganne }
+=======
+morganna_female = { Morganna Morganne Morgana Morgante }
+>>>>>>> Stashed changes
 morna_female = { Morna Muirne }
 moses_male = { Moses Mouses Musa }
 mstislav_male = { Mstislav ML_cisL_aw MS_cisL_aw }
@@ -782,7 +1668,11 @@ muhammad_male = { Muhammad Mahammad Mamlan Mihemed Mohammed Muhammed Mahamed }
 mungo_male = { Mungo Mwyn }
 munia_female = { Munia Monnia Munya Moninha MU_nia }
 munio_male = { Munio Monio Monnio Muniu Muno }
+<<<<<<< Updated upstream
 murdoch_male = { Murdoch Maredudd Muiredach Murethach }
+=======
+murdoch_male = { Murdoch Maredudd Muiredach Murethach Meredith }
+>>>>>>> Stashed changes
 muriel_female = { Muriel Muirgel }
 murron_female = { Murron Mirren Morien Moruen Muirenn }
 mustafa_male = { Mustafa Mistefa }
@@ -790,43 +1680,85 @@ nahir_male = { Nahir Nahor Nahur Nehor }
 nanaydvar_male = { Nanaydvar Nanaithvar }
 nanda_female = { Nanda Nande }
 nandivarman_male = { Nandivarman Nantivarman }
+<<<<<<< Updated upstream
 napoleone_male = { Napoleone Napuliuni }
+=======
+napoleone_male = { Napoleone Napuliuni Napuleone }
+>>>>>>> Stashed changes
 narasimhavarman_male = { Narasimhavarman Naracimmavarman }
 naravarman_male = { Naravarman Nar-Verma Naravarmandeva }
 narses_male = { Narses Nerse Nerseh Nerses }
 nasr_male = { Nasr Nesr }
 natalia_female = { Natalia NatA_lia }
+<<<<<<< Updated upstream
 nathan_male = { Nathan Naiton Nechtan Neithon }
+=======
+natalius_male = { Natal }
+nathan_male = { Nathan Naiton Nechtan Neithon Natan }
+>>>>>>> Stashed changes
 nawshirwan_male = { Nawshirwan NoS_I_rwan }
 nazgol_female = { Nazgol Nazgul }
 nazir_male = { Nazir Nesir }
 nechirwan_male = { Nechirwan NE_C_I_rvan }
+<<<<<<< Updated upstream
 neulenna_female = { Neulenna Neulina Newlyna }
 nicholas_male = { Nicholas Nicolò Niccolo Nicolo Nicolao Nichiozo Nicolaus Cailean Calum Claes Claus Colin Nicola ColmA_n Columb MikoL_aj MikolA_S_ MikulA_S_ Nicholaus Niclaes Nicolas Niels Niklas Nikola Nikolaos Nikolaus Nikolitza Nikoloz Nils }
 nicola_female = { Nicola Nicolesa Nikolena Nika Nichola }
 nicodemus_male = { Nicodemus Nikodim Nicudemu }
 nigel_male = { Nigel Neil Niall }
+=======
+nepos_male = { Nepo }
+neulenna_female = { Neulenna Neulina Newlyna }
+nicephorus_male = { Nikephoros NicE_phore Nicefuru }
+nicetas_male = { Niketas NicE_tas }
+nicholas_male = { Nicholas Cailean Calum Claes Claus Colin ColmA_n Columb MikoL_aj MikolA_S_ MikulA_S_ Nicholaus Niclaes Nicolas Niels Niklas Nikola Nikolaos Nikolaus Nikolitza Nikoloz Nils NicolO_ Niccolo Nicolo Nicolao Nichiozo Nicolaus Nicola Nicolau Nigola Nicoleto Nicolino Nicholucio Nicholitto Nicholino Niccolino Niccoloso Niccoluccio Niccoletto }
+nicola_female = { Nicola Nicolesa Nikolena Nika Nicole Nichola Nicolau Nigola Niccola Micola }
+nicodemus_male = { Nicodemus Nikodim Nicudemu Nikodemos Nicodemo }
+nigel_male = { Nigel Neil Niall NjA_ll }
+>>>>>>> Stashed changes
 ninoslav_male = { Ninoslav }
 nirupatonkavarman_male = { Nirupatonkavarman Nirupatunkavarman }
 nonna_female = { Nonna Non Nonne }
 norbert_male = { Norbert Nordepert }
 nowy_male = { Nowy Nougui }
+<<<<<<< Updated upstream
+=======
+numeria_female = { Numeria }
+>>>>>>> Stashed changes
 nuno_male = { Nuno NuN_o Nunno NunO_ NuN_u }
 nura_female = { Nura Nahara }
 nuria_female = { Nuria NU_ria }
 obeko_male = { Obeko Oveco }
+<<<<<<< Updated upstream
 octavius_male = { Octavius Eudaf Ottavian Ottaviu Ottaviano }
 odd_male = { Odd Oddr }
 odalric_male = { Odrigh Odalric Odalrico Uderico Odalricus Oldrado }
 olaf_male = { Olaf AmlaI_b Anlaff Aulay Olafr Olav Olavi Oluf Onlaf }
 oliver_male = { Oliver A_lbar A_lvar A_lvaro A_lvaru Alvar Oliuer Olivier Olivieri Ulivieri Auliverio }
 olwen_female = { Olwen Uluen }
+=======
+octavia_female = { Octavia Ottavia }
+octaviana_female = { Octaviana Ottaviana }
+octavianus_male = { Octavianus Octaviano Ottavian Ottaviano }
+octavius_male = { Octavius Eudaf Octave Ottaviu }
+odalric_male = { Odrigh Odalric Odalrico Uderico Oldrado }
+odd_male = { Odd Oddr }
+ofeig_male = { Ofeig O_feigr }
+odysseus_male = { Ulizes }
+olaf_male = { Olaf AmlaI_b Anlaff Aulay Olafr Olav Olavi Oluf Onlaf O_lafr }
+oliver_male = { Oliver A_lbar A_lvar A_lvaro A_lvaru Alvar Oliuer Olivier Olivieri Ulivieri Auliverio Alaverru Oliverio Ulivo }
+olivia_female = { Olivia Oliva Uliva }
+olwen_female = { Olwen Uluen }
+olympia_female = { Olimpia }
+olympius_male = { Olimpiu }
+>>>>>>> Stashed changes
 oneka_female = { Oneka Onecca Oneca Onega }
 ordono_male = { Ordono OrdoN_o OrdoN_u Ordonho Ordonno }
 orm_male = { Orm Ormr }
 orvar_male = { Orvar O_rvar }
 ostoja_male = { Ostoja }
 osulf_male = { Osulf Oswulf }
+<<<<<<< Updated upstream
 oswald_male = { Oswald Oswallt Usuullt }
 ottar_male = { Ottar Authari Ottarr }
 otto_male = { Otto O_dO_n Ebles Eudes Eudon Luder-Udo Odo Oddo Odon Ota Othon Ott Otton Ottone Udo Uttuni }
@@ -835,6 +1767,22 @@ pandolf_male = { Pandolf Pandolfo Pandolfu }
 panza_male = { Panza Pancia }
 pagan_male = { Pagan Payen Pagano }
 pandaram_male = { Pandaram PantA_ram }
+=======
+oswald_male = { Oswald Oswallt Usuullt Ansaldo }
+ottar_male = { Ottar Authari Ottarr O_ttar }
+otto_male = { Otto O_dO_n Ebles Eudes Eudon Luder-Udo Odo Odon Ota Othon Ott Otton Ottone Udo Oddet Oddo Uttuni }
+otwin_male = { Otwin Odoin }
+pacificus_male = { Pacifico }
+pagan_male = { Pagan Payen Pagano Paganello Paganucio Paganu }
+palatinus_male = { Palladino }
+pandaram_male = { Pandaram PantA_ram }
+pandolf_male = { Pandolf Pandolfo Pandolfu }
+pankratios_male = { Pankratios Pancrazio Pancratziu Pangratio }
+pantaleon_male = { Pantaleon Pantaleone Pantalione Pantaleu }
+panza_male = { Panza Pancia }
+paradeisos_male = { Paradiso }
+paregorios_male = { Paregorio }
+>>>>>>> Stashed changes
 parakrama_male = { Parakrama ParA_kkirama }
 parameswaravarman_male = { Parameswaravarman ParamE_svaravarman }
 paranirupasingham_male = { Paranirupasingham Paranirupacinkam }
@@ -842,11 +1790,16 @@ parankusan_male = { Parankusan ParA_nkucan }
 parantaka_male = { Parantaka ParA_ntaka }
 pararajasekharan_male = { Pararajasekharan PararA_cacE_karan }
 parvaneh_female = { Parvaneh Perwane }
+<<<<<<< Updated upstream
 pascal_male = { Pascal Pasquale }
+=======
+pascal_male = { Pascal Pasquale Pascale Paschal Paschalis }
+>>>>>>> Stashed changes
 pascentius_male = { Pascentius Pasgen }
 pashang_male = { Pashang PE_S_eng }
 pasquitan_male = { Pasquitan Pascueten }
 paternus_male = { Paternus Padarn Patern Pidarnoin }
+<<<<<<< Updated upstream
 patricia_female = { Patricia Patrikia Patrizia }
 patrick_male = { Patrick PA_traic Padric Padrig Patrikios Patrizio Patryk Pedric Petroc Patricius }
 paul_male = { Paul PA_ulu Boghos PA_l PAAl PO_l Paavo Pàul Paolo Poro Pòul Paol Paulos Paulose Paulus Pavel Pavlos PaweL_ Pawl Pol Pavle }
@@ -875,17 +1828,84 @@ procopius_male = { Procopius Prokop Prokopios }
 ptolemy_male = { Ptolemy Ptolemee Tolomeo }
 puviraja_male = { Puviraja PuvirA_ca }
 rachel_female = { Rachel Raahelamma }
+=======
+patricia_female = { Patricia Patrikia Patrizia Patriziu }
+patrick_male = { Patrick PA_traic Padric Padrig Patrikios Patrizio Patryk Pedric Petroc Patriziu Patritio Patricio }
+paul_male = { Paul Boghos PA_l PAAl PO_l Paavo Paol Paulos Paulose Paulus Pavel Pavlos PaweL_ Pawl Pol Pavle PA_ulu PA_ul Paolo Poro Paulo Paulucio Pauloccio }
+paula_female = { Paula Paola PA_ula PO_ula }
+paulina_female = { Paulina Pavlina Paolina }
+pavica_female = { Pavica }
+pax_female = { Pax Paxe Pace Pacino }
+pax_male = { Pax Paxe Pace Pacino }
+pelagius_male = { Pelagius Paio Pelagio Pelagios Pelaio Pelayo Pelayu PE_lage }
+percival_male = { Percivalle }
+peregrina_female = { Peregrina Pelegrina Pellegrina }
+peregrinus_male = { Peregrinus Pelegrino Pellegrino Pellegrinu Parigino }
+peronella_female = { Peronella PE_ronelle Peironela PeironE_la Pernelle Pernilla }
+peroz_male = { Peroz PI_roz }
+peter_male = { Peter Bedros Boutros PE_ire PE_ter PE_r Pathrose Peder Pedr Pedro Pedru Pedur Pere Pero Petair Petar Petr Petre Petri Petro Petros Petrus Piarres Pierre Pieter Pietro Piotr Perrot Petru Piero Pedrin Pieraccio Pieruccio Pierozzo Pieruzzo Petrino PetriC_olo Pietru }
+petronilla_female = { Petronilla Petronilha Pieternelle Petra }
+philibert_male = { Flibert }
+philip_male = { Philip Felip Felipe Ffilip Filip Filipe Filippo Filips FulO_p Philipp Philippe Philippos Pilib Piyliypaos Phillip Phelippe Filippu Felipp Feipo Philippo Flip Filipu Phylipo Pippo Filippozzo Philipino Lippo Lippaccio Lippozzo Filippone }
+philippa_female = { Philippa Filipa Filippa Phillippa Philipa Feipa Pippa }
+phoibos_male = { Phoebus Febo }
+pia_female = { Pia Pea }
+picard_male = { Piccardo }
+pierantonio_male = { Pierantonio Pietrantonio }
+pierantonio_male = { Pierantonio Pietrantonio }
+pius_male = { Pius Pio Peo Piu }
+plaisance_female = { Plaisance Plazentzia }
+polyxena_female = { Polixena Polizena Polissensa }
+pompeius_male = { Pompeius Pompeo }
+pomponius_male = { Pomponio }
+pons_male = { Pons PO_ncio PonC_ Ponce Ponz }
+pontius_male = { Pontius Ponzio }
+pourandokht_female = { Pourandokht Burandoxt }
+pravara_male = { Pravara Pravare }
+premysl_male = { PR_emysl PrzemysL_ PrzemysL_aw Premysl }
+pretiosa_male = { Pretiosa Preciosa Pretziosa Preziosa }
+priam_male = { Priamo }
+priboje_male = { Priboje }
+prijezda_male = { Prijezda }
+priscilla_female = { Prisca Priscilla Prisisilla }
+pritampala_male = { Pritampala Pritampal }
+prithviraja_male = { Prithviraja Prithivipala Prithvipal Prithviraj Prithvi }
+procopius_male = { Procopius Prokop Prokopios }
+prosperus_male = { Prospeo Prospero Prosperu }
+prudentia_male = { Prudentia Prudensia Prudenza }
+prudentius_male = { Prudencio }
+ptolemy_male = { Ptolemy Ptolemee PtolE_mE_e Tolomeo }
+pulchra_female = { Pulchera Pulcheria }
+puviraja_male = { Puviraja PuvirA_ca }
+quintilius_male = { Quintilio }
+quirikos_male = { Quirico }
+rachel_female = { Rachel Raahelamma Rachele Rafaela Rachela RaffE_ Raclin }
+>>>>>>> Stashed changes
 radgis_male = { Radgis Ratchis }
 radic_male = { RadiC_ }
 radislav_male = { Radislav }
 radislava_female = { Radislava }
 radivoj_male = { Radivoj }
+<<<<<<< Updated upstream
 ragnar_male = { Ragnar Ragnarr }
 ragnfrid_female = { Ragnfrid RO_gnfriT_ }
 ragnhild_female = { Ragnhild RO_gnhildr Ragnell Ronalda }
 ragnvald_male = { Ragnvald RO_gnvaldr Ragnald Ronald }
 radogost_male = { Radogost }
 rahula_male = { Rahula Rahule }
+=======
+ragimbert_male = { Raginpert Rignipert }
+ragnar_male = { Ragnar Ragnarr }
+ragnfrid_female = { Ragnfrid RO_gnfriT_ RO_gnfrI_D_r }
+ragnhild_female = { Ragnhild RO_gnhildr Ragnell Ronalda Ragnhildr }
+ragnvald_male = { Ragnvald RO_gnvaldr Ragnald Ronald }
+radogost_male = { Radogost }
+ragnar_male = { Ragnar Ragnarr Rayner Reinier Ranieri Rinieri Reynerio Rainier Raynerio Raynucio }
+ragnfrid_female = { Ragnfrid RO_gnfriT_ }
+ragnhild_female = { Ragnhild RO_gnhildr Ragnell Ronalda }
+rahula_male = { Rahula Rahule }
+rainolf_male = { Rainulf Rainulfo Rainulfu }
+>>>>>>> Stashed changes
 rajadhiraja_male = { Rajadhiraja IrA_cA_tirA_ca }
 rajaditya_male = { Rajaditya IrA_cA_titta }
 rajaraja_male = { Rajaraja IrA_carA_ca }
@@ -893,12 +1913,17 @@ rajasekhara_male = { Rajasekhara IrA_cA_cekara }
 rajasingan_male = { Rajasingan IrA_cacimman }
 rajendra_male = { Rajendra IrA_cE_ntira }
 raka_male = { Raca }
+<<<<<<< Updated upstream
 ralph_male = { Ralph RE_dwulf Radke Radolf Radulf Radulfo Ralf Randolf Randolph Raolf Raoul Rodolf Rudolf Rodolfo Ridolfo }
+=======
+ralph_male = { Ralph RE_dwulf Radke Radolf Radulf Radulfo Ralf Randolf Randolph Raolf Raoul Rodolf Rudolf Rodolfo Ridolfo Rudolfu Rodulfo Rodulfu Redolf Rof Pandulf Pandenulf Rao }
+>>>>>>> Stashed changes
 ramiro_male = { Ramiro Ramir Ramiru Ranimiro Remiro }
 rampala_male = { Rampala Rampal }
 ranadhiran_male = { Ranadhiran RanatI_ran }
 ranaditya_male = { Ranaditya Ranatitta }
 rangraja_male = { Rangraja Rangraj }
+<<<<<<< Updated upstream
 raphael_male = { Raphael Raziel Raffaello Rafael Rafaell }
 rawwad_male = { Rawwad Revend }
 raymond-Berengar_male = { Raymond-Berengar Raimond-BerenguiE_ Ramon-Berenguer }
@@ -961,15 +1986,123 @@ sanko_male = { Sanko }
 sarah_female = { Sarah SA_ra Sara Saramma }
 satinik_female = { Satinik Satenik }
 sebastian_male = { Sebastian Bastian SebastiA_n Sebastiaen Sebastiano Sebastianos SebastiA_o Sebastianu }
+=======
+raphael_male = { Raphael Raziel RafaEl Raffaello Rafael RafE_ Rafaell Felle }
+rawwad_male = { Rawwad Revend }
+raymond-Berengar_male = { Raymond-Berengar Raimond-BerenguiE_ Ramon-Berenguer }
+raymond_male = { Raymond Erramun Raimond Raimondo Raimundo Rajmund Ramon RamO_n RemO_n Ramuni Ramundu Arrammundu Ramunnu }
+rebecca_female = { Rebecca Accamma }
+refil_male = { Refil Refill }
+redditus_male = { Reddito }
+regina_female = { Regina Rhiainfelt Rioantguellt }
+reginald_male = { Reginald RE_genweald Rainald Ranald Reginhard Reinhold Rheinallt Rainaut Raynaud Raynold Reinoud Renaud Rinaldo Reignarz Reynold Rinaldu Raynaldo }
+reinbern_male = { Reinbern Reginbern }
+renard_male = { Renard Reineke Reinhard Renhard }
+renata_female = { Renata Renatin }
+renatus_male = { Renatus Renato Rinatu }
+resa_female = { Resa }
+reuben_male = { Reuben Roupen Rupin }
+rhiannon_female = { Rhiannon Rioanon }
+rhiwallon_male = { Rhiwallon Riuallon }
+riacet_male = { Riacet Riaged }
+ricarda_female = { Ricarda Ricciarda RichE_nda Richara Richardis Richenda Richent Richeut RI_kiza Rikissa }
+ricenus_male = { Ricenus Rhigeneu Riceneu }
+richard_male = { Richard Reccared Rekkaredo Rhicert Ricard Ricardo Ricart Riccardo Riku Ryszard Richart Rizardo Riccardu RiC_ardo }
+rikulfr_male = { Rikulfr RI_kU_lfr }
+rioantdrec_female = { Rioantdrec Rhiaindrech }
+riso_male = { Riso } #Germanic
+riwal_male = { Riwal Rhiwal }
+robert_male = { Robert Hrodberht Rhobert RobE_rt Roberto Robrecht Roparth Rubert Ruprecht Rohart Ruberto Rubbertu Robertu Rubertu }
+roberta_female = { Roberta Bertin }
+roch_male = { Rocch Rocco }
+roderick_male = { Roderick Rhodri Rhydderch Roi Roderic Rodericho Rodric Rodrigo Rodrigu Rory RuaidrI_ Ruatirch Rudri Rui Ruairi }
+rodgand_male = { Rodgand Hrodgaud }
+rodwald_male = { Rodwald Rodoald }
+roger_male = { Roger Rogier Rudigar Rutger Ruggeru Ruggieri Ruzzeri }
+roland_male = { Roland Lachlan Rolland Orlando Orlannu Rolando Orlandu Orlandino Orlanducio Orlanduccio Rolandino }
+rolf_male = { Rolf Hrolfr HrO_lfr HrO_D_O_lfr }
+romana_female = { Romana }
+roman_male = { Roman RomA_n Rhufon Romanos Romanus Rumon Romano Romanucio Romanu }
+romulus_male = { Romulus Romolo }
+ronan_male = { Ronan RO_nA_n Ruman }
+ros_female = { Ros RO_is }
+rosa_female = { Rosa RO_zsa Rose }
+rosalia_female = { Rosalia }
+rosalina_female = { Rosslin Rosslina }
+rostam_male = { Rostam Rostan Rustam }
+roy_male = { Roy Ruah }
+rubeus_male = { Rubeo }
+rucenus_male = { Rucenus Rhun Roucen Ru }
+ruffinus_male = { Ruffinus Grifiud Gruffydd Griffith Ruffredu }
+rufinus_male = { Rufinus Roffino Rufino }
+rufus_male = { Ruffo }
+rurik_male = { Rurik HrO_rekr RO_rek RO_rik HrE_rekr }
+russus_male = { Rosso Rossello Ruscio Russo }
+rusticus_male = { Rusticus Rustico Rustichello }
+rutilius_male = { Rutilius }
+saba_male = { Saba Sabah Sabba_e Sava }
+saba_female = { Saba Sabah Sava }
+sabbatinus_male = { Sabbatino Sabatino }
+sabina_female = { Sabina Savina }
+sabinus_male = { Sabine }
+sabrisho_male = { Sabrisho Sabr_Ishu }
+saccus_male = { Sacco }
+sadayavarman_male = { Sadayavarman Cataiyavarman }
+sadmarkar_female = { Sadmarkar Semarkar }
+saga_female = { Saga SA_ga }
+saladinus_male = { Saladino Saldino }
+sallust_male = { Sallusto Salustio }
+salutius_male = { SalU_siu }
+salvator_male = { Salvator Salvador Salvatore Salvari Salvadeo Sarvaturi Bobore Salvadore }
+salvinus_male = { Salvino Salvin }
+salvus_male = { Salvi }
+samanta_male = { Samanta Samant-Singh Samantasimha }
+samarasimha_male = { Samarasimha Samar-Singh }
+samaritana_female = { Samaritana }
+samaritanus_male = { Samaritanu }
+sami_female = { Sami Sameah Samee Sameea Samiya Samiyah Samiyya Samya }
+sami_male = { Sami Samiy }
+samuel_male = { Samuel SA_muel Samoeli Sawyl Samueli SamuE_li }
+samund_male = { SA_mund SE_mundr }
+sancha_female = { Sancha Antsa SanC_a }
+sancho_male = { Sancho Antso SanC_ Sanchu Sans Sante Sanyo Sanciu C_anC_o }
+sancta_female = { Sancta Santa }
+sanctus_male = { Sanctus Sandde Santi Sancto Santo Sancti San Santino Santolo Sanctucio }
+sandalj_male = { Sandalj }
+sanko_male = { Sanko }
+sapientia_female = { Sapienza }
+saracenus_male = { Sarazano Saracino Saraceno Saraginu }
+sarah_female = { Sarah SA_ra Sara Saramma }
+satinik_female = { Satinik Satenik }
+saturninus_male = { Saturninus Sadurru }
+saul_male = { Saul Saulo }
+scipio_male = { Scipio Scipion Scipione }
+sebastian_male = { Sebastian Bastian SebastiA_n Sebastiaen Sebastiano Sebastianos SebastiA_o Sebastianu Sebastinano Sebustianu Bastiano Sibastianu }
+sebastiana_female = { Bastiana }
+>>>>>>> Stashed changes
 seervallabha_male = { Seervallabha CI_vallapa }
 seervallabhan_male = { Seervallabhan CI_vallapan }
 segarajasekaran_male = { Segarajasekaran CekarA_cacE_karan }
 senara_female = { Senara Zennor }
+<<<<<<< Updated upstream
 sergius_male = { Sergius Sarkis Sergios Serigi Sergiu }
 serhilda_female = { Serhilda Serenahilt }
 severin_male = { Severin Seferus Severinu }
 sevilay_female = { Savilay Sevilay }
 sevindik_female = { Savintik Sevindik }
+=======
+seraphina_female = { Seraphina Serafina }
+seraphin_male = { Serafino Serafinu Seraphin Seraphino }
+sergia_female = { Sergia }
+sergius_male = { Sergius Sarkis Sergios Serigi Sergiu Sergi SE_rgiu Sergio }
+serhilda_female = { Serhilda Serenahilt }
+severin_male = { Severin Seferus Severinu Severino }
+severina_female = { Severina }
+severus_male = { Severus }
+sevilay_female = { Savilay Sevilay }
+sevindik_female = { Savintik Sevindik }
+sextus_male = { Sextus Sixto }
+>>>>>>> Stashed changes
 shadhi_male = { Shadhi S_adI_ }
 shahab_male = { Shahab S_ahab }
 shahanshah_male = { Shahanshah S_ahenS_ah Shanshe }
@@ -988,6 +2121,7 @@ shayan_male = { Shayan S_ayan }
 sheraga_male = { Sheraga Shraga }
 shirkuh_male = { Shirkuh S_I_rkU_h }
 sibislav_male = { Sibislav }
+<<<<<<< Updated upstream
 sibylla_female = { Sibylla Sibila Sibilia Sibilla Sibyl Sybilla Sybille Sibel }
 sicco_male = { Sicco Sico Sikke }
 siddhartha_male = { Siddhartha Siddharthe }
@@ -1019,6 +2153,51 @@ stephania_female = { Stephania EstefanI_a Estefania EstefA_nia Estevainha StE_ph
 stephen_male = { Stephen Stefano StE_fanu E_tienne Eappen EstE_banu Esteban EstE_ve Estevo EstE_vA_o Estienne Isteban IstvA_n Stefan Stefano Stefen Steffen Stepan Stjepan Stepanos Stepanoz Stephan Stephanos Steven Szczepan }
 suero_male = { Suero Soeiro Sueiro Sueru }
 sukhinpala_male = { Sukhinpala Sukhinpal }
+=======
+sibylla_female = { Sibylla Sibila Sibilia Sibilla Sibyl Sybilla Sybille Sibel Sibylle }
+sicco_male = { Sicco Sico Sikke }
+siddhartha_male = { Siddhartha Siddharthe }
+siegfried_male = { Siegfried Sigfrid }
+sieghart_male = { Sieghart Sieghard }
+sigbjorn_male = { SigbjO_rn SigrbjO_rn }
+sigisbert_male = { Sigisbert Sigbert }
+sigmund_male = { Sigmund Siegmund Sigismond Sigismund Zikmund Zsigmond Zygmunt Sigismondo }
+sigurd_male = { Sigurd SigurT_r Sigward Sikard Siward Siweard Sjoerd Sigeriu }
+sigrid_female = { SigrI_D_r Sigrid }
+silvanus_male = { Silvanus Silvano }
+silvester_male = { Silvester Szilveszter Silvestru Silvestro Salvestro Scilvestro Salvester }
+silvia_female = { Silvia }
+silvius_male = { Silvius Silvio }
+simhavishnu_male = { Simhavishnu Cimmavisnu }
+simon_male = { Simon Jimeno Simeon Simeoni Simion Simone Symeon Shem_on Ximeno Shimon Shimshon Simuni Symon Scimon Simione Symone Simono Simoneto Simonetto Simune }
+simona_female = { Simona Symona Scimona Simuna }
+simplicus_male = { Simplitziu }
+singhabahu_male = { Singhabahu CinkapA_ku }
+sisupala_male = { Sisupala Sisupal }
+skule_male = { Skule Scule Skuli SkU_li }
+slaine_female = { Slaine SlA_I_ne }
+slyvestra_female = { Salvestra Scilvestra }
+smbat_male = { Smbat Sumbat }
+sobeslaus_male = { Sobeslaus SobE_slav Sobieslav }
+solomon_male = { Solomon Salman Salomon Selevan Selyf SolomO_n Sulayman Suleyman Salemon Salamone }
+solve_male = { SO_lve SO_lvi }
+somerled_male = { Somerled Somhairle SumarliT_i }
+sonia_female = { Sonia SO_nia }
+sonpala_male = { Sonpala Sonpal }
+sophia_female = { Sophia Z_ofie Sofia Sofie Sofija Sophie Zofia ZsO_fia Sohvi SofI_a }
+sorkver_male = { SO_rkver SO_rkvir }
+stanislav_male = { Stanislav StanisL_aw }
+stana_female = { Stana }
+stanislav_male = { Stanislav StanisL_aw Stanislao }
+starkad_male = { Starkad StarkaT_r }
+sten_male = { Sten Steinn Steyn }
+stephania_female = { Stephania EstefanI_a Estefania EstefA_nia Estevainha StE_phanie Stefana Stefania Stephanie EstE_fE_nie Estienette Ester Stefano Stea }
+stephen_male = { Stephen E_tienne Eappen EstE_banu Esteban EstE_ve Estevo EstE_vA_o Estienne Isteban IstvA_n Stefan Stefano Stefen Steffen Stepan Stjepan Stepanos Stepanoz Stephan Stephanos Steven Szczepan Estiennot StE_fanu Stephano Steo IstE_vene Steffano Stefanus }
+styrkar_male = { Styrkar StyrkA_r }
+suero_male = { Suero Soeiro Sueiro Sueru }
+sukhinpala_male = { Sukhinpala Sukhinpal }
+sulpicius_male = { Sulpizio }
+>>>>>>> Stashed changes
 sultanpala_male = { Sultanpala Sultanpal }
 sundara_male = { Sundara Cuntara }
 sune_male = { Sune Suni }
@@ -1026,6 +2205,7 @@ sunyer_male = { Sunyer Suneario }
 surajpala_male = { Surajpala Surajpal }
 surkhab_male = { Surkhab Surxap }
 susan_female = { Susan Sosamma }
+<<<<<<< Updated upstream
 susana_female = { Susana Susanna Suzana Susanne }
 svanhild_female = { Svanhild Svanhildr }
 svatopluk_male = { Svatopluk S_wiE_topeL_k Sviatopolk }
@@ -1034,6 +2214,16 @@ sviatoslav_male = { Sviatoslav S_wiE_tosL_aw Svietoslav }
 swanahild_female = { Swanahild Suanhilde }
 sweeny_male = { Sweeny Suibne }
 symmachus_male = { Symmachus Symmachos }
+=======
+susana_female = { Susana Susanna Suzana Susanne Susanin }
+svanhild_female = { Svanhild Svanhildr }
+svatopluk_male = { Svatopluk S_wiE_topeL_k Sviatopolk }
+sven_male = { Sven Soini Svein Sveinn Svend Swegn Sweeny Suibne Sweeney }
+sviatoslav_male = { Sviatoslav S_wiE_tosL_aw Svietoslav }
+swanahild_female = { Swanahild Suanhilde }
+sigtyrgg_male = { Sigtrygg Sigtryggr }
+symmachus_male = { Symmachus Symmachos Simachu }
+>>>>>>> Stashed changes
 tabitha_female = { Tabitha Tabatha Tabby Tabetha }
 tadg_male = { Tadg Tadhg Tarla Tegwyd Taig Teague }
 tahmasb_male = { Tahmasb Tahmasp }
@@ -1043,7 +2233,14 @@ talore_male = { Talore Talorc Telurg }
 tamar_female = { Tamar Tamari }
 tancostyla_female = { Tancostyla Tanguistl Tangwystl }
 tancredi_male = { Tancredi Tancred }
+<<<<<<< Updated upstream
 taran_male = { Taran Tuireann }
+=======
+tantalus_male = { TA_ntalu }
+taran_male = { Taran Tuireann }
+tarquinius_male = { Tarquinio }
+tatius_male = { Tazio }
+>>>>>>> Stashed changes
 tavi_male = { Tavi Tavish }
 teath_female = { Teath Etha Itha Tecla Tetha }
 teber_male = { TA_bA_r Teber }
@@ -1051,6 +2248,7 @@ teimuraz_male = { Teimuraz Taymuraz }
 tejasimha_male = { Tejasimha Tej-Singh }
 tejpal_male = { Tejpal Tejapala }
 telesinus_male = { Telesinus Taliesin TelE_sfuru }
+<<<<<<< Updated upstream
 teresa_female = { Teresa Taresa Talesa Tarexia TerE_sa Tereza Terezia Thresiamma }
 thaddeus_male = { Thaddeus Taddai Thadeosi Thiaddi Addai }
 thecla_female = { Thecla Tegla Tekla }
@@ -1071,11 +2269,38 @@ thora_female = { Thora T_ora Tora }
 thordis_female = { Thordis T_ordis }
 thorolf_male = { Thorolf T_orolfr Torolf }
 thyra_female = { Thyra T_yra }
+=======
+teresa_female = { Teresa Taresa Talesa Tarexia TerE_sa Tereza Terezia Thresiamma Teresia Tiresa Teresin TeresO_t }
+thaddea_female = { Thaddea Tadea Taddea }
+thaddeus_male = { Thaddeus Taddai Thadeosi Thiaddi Addai Thadeo Tadeo Taddeo Daddeiu }
+thecla_female = { Thecla Tegla Tekla }
+theobald_male = { Theobald Teobald Teobaldo Tetbald ThiE_baut Thiadbold Thibault Tibaldo Tibalt Tibaud Tibault Tybalt Tybaut Tiboldo Tebaldino Thebaldello }
+theodat_male = { Theodat BoZ_ydar Bozidar Dat Deodat Fedot Theodote Theodotos }
+theoderic_male = { Theoderic Theoderich Theoderico }
+theodora_female = { Theodora Feodora Teodora ThE_odora Tedora Teudora }
+theodore_male = { Theodore Feodor Tadeusz Tadros Teodor Teudar Teudur Tewdwr TheodO_ros Theodoros Thoros ThE_tore Tiudoru Teodoro Tedou Tedore Theodoro Theodorus }
+theodoric_male = { Theodoric Teudaric Teudric Tewdrig Theodoricho Thierry DE_tR_ich Diederick Diederik Dietrich Dirk Dytryk Theodorich TiE_rri Tudor ThE_odoric Tiuduricu Teodorico }
+theodosia_female = { Theodosia Feodosia }
+theodosius_male = { Theodosius Tewdos Theodosios Teodosiu Teodisio }
+theofred_male = { Chiaffredo CiafrE_j }
+theophanus_male = { Theophanus Tifan }
+theophania_female = { Theophano ThE_ophanie }
+teutpert_male = { Theotpert Teutpertulo }
+thomas_male = { Thomas TamA_s Thoma Tohmas TomA_s Tomas Tomasz Tomo Tomos Touma Toumas Tovmas Tam Tam_as Ta_mhas Th_amhais TomA_ Thomasio Tomasio Tomaxo Tomasso Tumasi Tommasu Tomaso Tomasino Thomasino Tomassu }
+thomasa_female = { Thomasa Tam Tamasin Tami Tammy Tamsin Tamsyn Tamzin Tomaxa }
+thomasina_female = { Thomasina Tomasina }
+thor_male = { Thor Donar }
+thora_female = { Thora T_ora Tora T_O_ra }
+thordis_female = { Thordis T_ordis T_O_rdI_s }
+thorolf_male = { Thorolf T_orolfr Torolf T_O_rO_lfr }
+thyra_female = { Thyra T_yra T_yri }
+>>>>>>> Stashed changes
 tiberius_male = { Tiberius Tiberios Tiberio }
 tiburge_female = { Tiburge Thetburga Tiborg Tibourge }
 timothy_male = { Timothy Dimetheos Thimo }
 timur_male = { TimE_r Timur }
 tisemir_male = { TI_semir Tihomir }
+<<<<<<< Updated upstream
 titus_male = { Titus Tito Titu }
 toghrul_male = { ToghrI_l Toghrul }
 torbjorn_male = { TorbjO_rn T_orbjO_rn TorbjOErn }
@@ -1088,10 +2313,31 @@ torsten_male = { Torsten T_orsteinn Torstein }
 toste_male = { Toste Tostig }
 trajan_male = { Trajan Traianos }
 tristan_male = { Tristan Drosten Drystan }
+=======
+tjudmund_male = { Tjudmund T_iO_D_mundr }
+titus_male = { Titus Tito }
+tobias_male = { Tobias Tobbia }
+toghrul_male = { ToghrI_l Toghrul }
+toke_male = { Toke TO_ki }
+torbjorn_male = { TorbjO_rn T_orbjO_rn TorbjOErn TorbE_nu }
+torbrand_male = { Torbrand T_orbrandr }
+torchitor_male = { Torchitorio Torchitoriu Torchitor }
+tord_male = { Tord T_ordr T_orD_r }
+torfinn_male = { Torfinn T_orfinn T_orfinnr }
+torkel_male = { Torkel T_orgil Thurcytel Torgil Torgils Torquil T_orgils Turgisiu }
+tornik_male = { Tornik Tornike }
+torsten_male = { Torsten T_orsteinn Torstein }
+totil_male = { Totil T_jO_stO_lfr }
+toste_male = { Toste Tostig TO_sti }
+trajan_male = { Trajan Traianos }
+tristan_male = { Tristan Drosten Drystan }
+tryggve_male = { Tryggve Tryggvi }
+>>>>>>> Stashed changes
 tvrtko_male = { Tvrtko }
 tuathal_male = { Tuathal TU_athal Tudwal Tugdual }
 tudwallon_male = { Tudwallon Tuduallon }
 tudy_male = { Tudy Tudi }
+<<<<<<< Updated upstream
 udaya_male = { Udaya Utaiya }
 uffe_male = { Uffe Offa }
 uhtred_male = { Uhtred UhtrE_d }
@@ -1104,14 +2350,41 @@ urban_male = { Urban Erb Erbin Erpin Irb Urbien Urbano Urbanus }
 urbgenius_male = { Urbgenius Urbcen Urien }
 urraca_female = { Urraca Urraka }
 ursus_male = { Ursus Orson Orso }
+=======
+tuscus_male = { Tuscus Tusco Tosco }
+udaya_male = { Udaya Utaiya }
+uffe_male = { Uffe Offa }
+uhtred_male = { Uhtred UhtrE_d }
+ulf_male = { Ulf Ulfo Ulfr Ulv Wulf Wulff Welf U_lfr }
+ulfhild_female = { Ulfhild Wulfhild Wulfhilde U_lfhildr }
+ulrich_male = { Ulrich OldR_ich Udalrich Ulric }
+ulvhilde_female = { Ulvhilde Ulfhildr }
+una_female = { Una U_na }
+urban_male = { Urban Erb Erbin Erpin Irb Urbien Urbain Urbano Urbanus }
+urbana_female = { Urbana }
+urbgenius_male = { Urbgenius Urbcen Urien }
+urraca_female = { Urraca Urraka }
+ursa_female = { Ursa Orsa }
+ursina_female = { Ursina Orsina }
+ursinus_male = { Orsino }
+ursus_male = { Ursus Orson Ursion Urso Orso Urzo }
+>>>>>>> Stashed changes
 ute_female = { Ute Oda Uta }
 vaclav_2_male = { VA_clav VE_nceslav WaN_ko WacL_aw }
 vaclav_male = { Vaclav Vencel Wenzel }
 vairisimha_male = { Vairisimha Vairsingh }
 vakhtank_male = { Vakhtank Vakhtang }
 vakpati_male = { Vakpati Vakapati Vakpatiraja }
+<<<<<<< Updated upstream
 valentin_male = { Valentin Valenti Valintinu Ualan Valentino Walan Walenty }
 valerius_male = { Valerius Valerios Valirianu Valerio }
+=======
+valentin_male = { Valentin Ualan Valentino Walan Walenty Valenti Valintinu }
+valentina_female = { Valentiana Valentina Valintina Tina }
+valeria_female = { Valeria }
+valerian_male = { Valerian Valeriano Valoriano Valorino }
+valerius_male = { Valerius Valerios Valirianu Valerio Valore }
+>>>>>>> Stashed changes
 valhanadeva_male = { Valhanadeva Valhana }
 varagunan_male = { Varagunan Varakunan }
 varagunavarman_male = { Varagunavarman Varakunavarman }
@@ -1119,17 +2392,35 @@ varshapala_male = { Varshapala Varshpal }
 varshasb_male = { Varshasb VarS_asp }
 vasco_male = { Vasco Balashk Belasko Blasco Velasco Velascu }
 veep_female = { Veep Vepa }
+<<<<<<< Updated upstream
 veronica_female = { Veronica Verònica }
 vespasianus_male = { Vespasianus Vespasiano }
 vermudo_male = { Vermudo Bermond Bermudo Bermudu Veremondo Veremundo }
 victor_male = { Victor Vettor Biktor Uther Uthyr Viktor Wecta Vittoriu Vittorio Vitor Vitòrio }
 vidurathpala_male = { Vidurathpala Vidurathpal }
+=======
+vergilius_male = { Vergilio Virgilio }
+verginia_female = { Virginia Virginna }
+vermudo_male = { Vermudo Bermond Bermudo Bermudu Veremondo Veremundo }
+veronica_female = { Veronica VerO_nica }
+vespasianus_male = { Vespasian Vespasiano }
+victor_male = { Victor Biktor Uther Uthyr Viktor Wecta Vettor Vittoriu Vittorio Vitor VitO_rio TO_jo Vittore }
+victoria_female = { Victoria Vittoria Vettoria Vittore }
+vidurathpala_male = { Vidurathpala Vidurathpal }
+vigdis_female = { Vigdis VigdI_s VigdI__s }
+vienna_female = { Vienna Viena }
+>>>>>>> Stashed changes
 vigraharaja_male = { Vigraharaja Vigrharaja }
 vijayaditya_male = { Vijayaditya VicayA_titta }
 vijayalaya_male = { Vijayalaya VicayA_laya }
 vijayaraga_male = { Vijayaraga VicayA_raka }
 vikramaditya_male = { Vikramaditya VikramA_tittA_ }
+<<<<<<< Updated upstream
 vincent_male = { Vincent Vincenz Vicenzu Vicenzo C_enE_k VicenC_ Vicente Viçenço Vincenne Vincenzo Wincenty Vincens }
+=======
+vincent_male = { Vincent C_enE_k VicenC_ Vicente Vincenne Vincenzo Wincenty Vincenz Vicenzu Vicenzo ViC_enC_o Vincens Vincentio Vissente Pizente Cens }
+vincentia_female = { Vincesa Vissente Vincenza }
+>>>>>>> Stashed changes
 virabhadra_male = { Virabhadra Kwirapabhadra }
 virakhesari_male = { Virakhesari VI_rakE_cari }
 virarajendra_male = { Virarajendra VI_rarA_cE_ntira }
@@ -1138,9 +2429,18 @@ viriathius_male = { Viriathius Guriant Gwriad }
 virodaya_male = { Virodaya VI_rO_taya }
 vishtasb_male = { Vishtasb VI_S_tap }
 vitaca_female = { VitaC_a }
+<<<<<<< Updated upstream
 vitus_male = { Vitus Vito Vitu }
 vitalinus_male = { Vitalinus Gwydolin }
 vitalis_male = { Vitalis Guitol Gwydol }
+=======
+vitalianus_male = { Vitalianus Vitaliano }
+vitalinus_male = { Vitalinus Gwydolin }
+vitalis_male = { Vitalis Guitol Gwydol Vitale }
+vitus_male = { Vito Vitu Vitti }
+viviana_female = { Viviana }
+vivianus_male = { Vivian Viviano Vivianu }
+>>>>>>> Stashed changes
 vladimir_male = { Vladimir Valdemar VladimI_r Waldemar }
 vladislav_male = { Vladislav WL_adysL_aw WL_odzisL_aw }
 vlatko_male = { Vlatko }
@@ -1151,21 +2451,39 @@ vortimer_male = { Vortimer Gwerthefyr }
 vratislav_male = { Vratislav Wertislav WratysL_aw }
 vsebor_male = { VS_ebor WszebO_r Vsebor }
 vukac_male = { Vukac }
+<<<<<<< Updated upstream
 vukasin_male = {VukaS_in }
 vukmir_male = { Vukmir }
 wahustan_male = { Wahustan Vahusdan }
 walter_male = { Walter BhA_tair Gauthier Gautier Gualter Gualtieri Guterre Gutierre Guttier Ualtar Valteri Walthari Walther Wolter }
+=======
+vukasin_male = { VukaS_in }
+vukmir_male = { Vukmir }
+wahustan_male = { Wahustan Vahusdan }
+walter_male = { Walter BhA_tair Gauthier Gautier Gualter Guterre Gutierre Guttier Ualtar Valteri Walthari Walther Wolter Wautier Gualtieri }
+>>>>>>> Stashed changes
 waltheof_male = { Waltheof Waldeve }
 weickhard_male = { Weickhard Weichart }
 werestan_male = { Werestan Gwerstan }
 werner_male = { Werner Irnerius Warin Werneke }
+<<<<<<< Updated upstream
 wilfred_male = { Wilfred GuifrE_ Wifredo }
 william_male = { William Ghielm Gilen Guilelmo Vielm Ghigermo GuilhE_m Guilhem Gugghiermu Guillelmo Guglielmo Guilherm GuillE_n Guillerme Guillaume Guillem Guillermo Gwilym Liam Uilliam VilE_m Vilhelm Wilhelm Willem }
 williamette_female = { Williamette Ghielma Guillaumette Guillelma Guillemecte }
+=======
+wilfred_male = { Wilfred GuifrE_ Wifredo VaufrE_j }
+wilhelma_female = { Ghielma Guillelma Guglielma }
+william_male = { William Gilen GuilhE_m Guilhem Guilherm GuillE_n Guillerme Guillaume Guillem Guillermo Gwilym Liam Uilliam VilE_m Vilhelm Wilhelm Willem Guillelme Ghielm Guilelmo Vielm Ghigermo Gugghiermu Guillelmo Guglielmo Guglielmu Guglielmino Guillelmucio Gugliermo }
+williamette_female = { Williamette Guillaumette Guillemecte }
+>>>>>>> Stashed changes
 winaloe_male = { Winaloe Guinol }
 winifred_female = { Winifred Gwenfrewi }
 withred_male = { Withred WihtrE_d }
 wolfram_male = { Wolfram Vulframn }
+<<<<<<< Updated upstream
+=======
+xavier_male = { Saverio }
+>>>>>>> Stashed changes
 xemraja_male = { Xemraja Kshemraja }
 ximena_female = { Ximena Jimena }
 yazid_male = { Yazid YezI_d }
@@ -1174,6 +2492,7 @@ yolanda_female = { Yolanda Ioulanda Jolanta Valence Viola Violant Violante Viole
 yuddamalla_male = { Yuddamalla Yuddhamalla }
 yves_male = { Yves Erouan }
 yvonne_female = { Yvonne Erouana Yvon }
+<<<<<<< Updated upstream
 zachariah_male = { Zachariah Zacharria Zaccaria }
 zachary_male = { Zachary Zacharias Zakariyah}
 zartosht_male = { Zartosht ZerdeS_t }
@@ -1182,3 +2501,16 @@ zosimus_male = { Zosimus Zosima ZO_simu }
 zeta_female = { Zeta Zeita }
 zeya_male = { Zeya Zeyar }
 zubeyr_male = { Zubeyr Zuber }
+=======
+zachary_male = { Zachary Zacharias Zakariyah Zachariah Zacharria Zacarie Zack Zaccaria Zacharia }
+zartosht_male = { Zartosht ZerdeS_t }
+zbynek_male = { ZbynE_k Zbigniew Zbyszko Zbynek }
+zenobia_female = { Zenobia Zanobia }
+zenobius_male = { Zenobios Zanobio Zanobi }
+zenon_male = { Zenon Zeno }
+zosimus_male = { Zosimus Zosima }
+zeta_female = { Zeta Zeita }
+zeya_male = { Zeya Zeyar }
+zosimus_male = { Zosimus Zosima ZO_simu }
+zubeyr_male = { Zubeyr Zuber }
+>>>>>>> Stashed changes

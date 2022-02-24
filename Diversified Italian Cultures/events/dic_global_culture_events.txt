@@ -1,0 +1,586 @@
+﻿namespace = global_culture
+
+# Character triggered culture shifts
+#	3013 - 3014: Spread of Pugliese
+#	3015 - 3017: Romanesque into regional Italian cultures
+
+#########################################################################
+# Converting Greek, Baranis, Lombard and Italian to Pugliese 			#
+# by Brody Manquen w/ Original Template by Petter Vilberg				#
+# global_culture.3013-14												#
+#########################################################################
+################################
+# Pugliese Spreads in Southern Italy
+# by Brody Manquen # Original Template by Petter Vilberg
+# Updated by Henrik Lohmander for 1.5
+################################
+scripted_trigger global_culture_3013_valid_for_pugliese_culture_trigger = {
+	tier = tier_county
+	exists = holder
+	NOT = { exists = var:had_pugliese_county_conversion }
+	title_province = {
+		geographical_region = special_pugliese_culture_region
+	}
+	NOT = { culture = holder.culture }
+	culture = {
+		NOR = {
+			this = culture:pugliese
+			any_parent_culture_or_above = {
+				this = culture:pugliese
+			}
+		}
+		OR = {
+			has_cultural_pillar = heritage_latin
+			has_cultural_pillar = heritage_berber
+			has_cultural_pillar = heritage_byzantine
+			has_cultural_pillar = heritage_frankish
+		}
+	}
+}
+
+global_culture.3013 = {
+	type = character_event
+	title = global_culture.3013.t
+	desc = global_culture.3013.desc
+	theme = culture_change
+	left_portrait = root
+	
+	trigger = {
+		culture = {
+			NOT = { this = culture:pugliese }
+			OR = {
+				has_cultural_pillar = heritage_latin
+				has_cultural_pillar = heritage_berber
+				has_cultural_pillar = heritage_byzantine
+				has_cultural_pillar = heritage_frankish
+			}
+		}
+		any_held_title = {
+			global_culture_3013_valid_for_pugliese_culture_trigger = yes
+		}		
+	}
+
+	weight_multiplier = {
+		base = 1
+		modifier = {
+			add = 2
+			culture = culture:norman
+		}
+	}
+
+	immediate = {
+		random_held_title = {
+			limit = {
+				global_culture_3013_valid_for_pugliese_culture_trigger = yes
+			}
+			weight = { # Try to approximate organic spread
+				base = 1
+				modifier = {
+					add = 4
+					any_neighboring_county = {
+						culture = culture:pugliese
+					}
+				}
+			}
+			save_scope_as = county_to_change
+			culture = {
+				save_scope_as = old_culture
+			}
+			set_variable = {
+				name = had_pugliese_county_conversion
+				value = yes
+			}
+		}
+		culture:pugliese = {
+			save_scope_as = pugliese # For loc
+		}
+		debug_log = "Converted a province to Pugliese from global_culture.3013"
+	}
+
+	option = {
+		name = global_culture.3013.a
+		scope:county_to_change = {
+			set_county_culture = culture:pugliese
+		}
+	}
+}
+
+
+################################
+# Organic Spread of Pugliese for Pugliese Rulers
+# by Petter Vilberg
+# Updated for 1.5 by Henrik Lohmander
+################################
+scripted_trigger global_culture_3014_valid_for_pugliese_culture_trigger = {
+	tier = tier_county
+	exists = holder
+	title_province = {
+		geographical_region = special_pugliese_culture_region
+	}
+	NOT = { exists = var:had_pugliese_county_conversion }
+	NOT = { culture = holder.culture } # No conversion for counties who match their holder's culture
+	culture = {
+		NOR = {
+			this = culture:pugliese
+			any_parent_culture_or_above = {
+				this = culture:pugliese
+			}
+		}
+		OR = {
+			has_cultural_pillar = heritage_latin
+			has_cultural_pillar = heritage_berber
+			has_cultural_pillar = heritage_byzantine
+			has_cultural_pillar = heritage_frankish
+		}
+	}
+	any_neighboring_county = {
+		culture = culture:pugliese
+	}
+}
+
+global_culture.3014 = {
+	type = character_event
+	title = global_culture.3013.t
+	desc = global_culture.3013.desc
+	theme = culture_change
+	left_portrait = root
+	
+	trigger = {
+		culture = culture:pugliese
+		any_held_title = {
+			global_culture_3014_valid_for_pugliese_culture_trigger = yes
+		}
+	}
+
+	immediate = {
+		random_held_title = {
+			limit = { global_culture_3014_valid_for_pugliese_culture_trigger = yes }
+			save_scope_as = county_to_change
+			culture = {
+				save_scope_as = old_culture
+			}
+			set_variable = {
+				name = had_pugliese_county_conversion
+				value = yes
+			}
+		}
+		culture:pugliese = {
+			save_scope_as = pugliese # For loc
+		}
+		debug_log = "Converted a province to Pugliese from global_culture.3014"
+	}
+
+	option = {
+		name = global_culture.3014.a
+		scope:county_to_change = {
+			set_county_culture = culture:pugliese
+		}
+	}
+}
+
+#########################################################################################
+# Splitting Romanesque in to Regional Italian Cultures									#
+# by Sean Hughes																		#
+# global_culture.3015-3017																#
+#########################################################################################
+
+global_culture.3015 = {
+	type = empty
+	hidden = yes
+	
+	immediate = {
+		# Save scopes for player notification events.
+		culture:romanesque = { save_scope_as = romanesque }
+		culture:toscano = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+
+			# Save scope for player notification events.
+			save_scope_as = toscano
+		}
+		culture:mediano = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+
+			# Save scope for player notification events.
+			save_scope_as = mediano
+		}
+		culture:emilian = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:langobard
+
+			# Save scope for player notification events.
+			save_scope_as = emilian
+		}
+		culture:romagnol = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:langobard
+
+			# Save scope for player notification events.
+			save_scope_as = romagnol
+		}
+		culture:lombard = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:langobard
+
+			# Save scope for player notification events.
+			save_scope_as = lombard
+		}
+		culture:piedmontese = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:french
+
+			# Save scope for player notification events.
+			save_scope_as = piedmontese
+		}
+		culture:ligurian = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:occitan
+
+			# Save scope for player notification events.
+			save_scope_as = ligurian
+		}
+		culture:venetian = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+
+			# Save scope for player notification events.
+			save_scope_as = venetian
+		}
+		culture:pugliese = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:langobard
+
+			# Save scope for player notification events.
+			save_scope_as = pugliese
+		}
+		culture:sicilian = {
+			# 'Diverge' this culture by copying innovations. Leave traditions as defined in the database.
+			reset_culture_creation_date = yes
+			get_all_innovations_from = culture:romanesque
+			get_all_innovations_from = culture:greek
+
+			# Save scope for player notification events.
+			save_scope_as = sicilian
+		}
+
+
+		every_county = {
+			limit = {
+				# All Romanesque counties in Italy will convert to the appropriate culture.
+				culture = culture:romanesque
+				title_province = {	
+					geographical_region = special_italy_culture_region	
+				}
+			}
+			add_to_list = romanesque_counties
+		}
+
+		# Convert the Romanesque counties to the new culture.
+		every_in_list = {
+			list = romanesque_counties
+			limit = {
+				# Same-culture players get an event informing them of their county's conversion *before* it happens (for their provinces only).
+				NOT = {
+					holder = {
+						OR = {
+							AND = {
+								is_ai = no
+								culture = culture:romanesque
+							}
+							any_liege_or_above = {
+								is_ai = no
+								culture = culture:romanesque
+							}
+						}
+					}
+				}
+			}
+			
+			# All Romanesque counties/rulers in Tuscany become Toscano
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:toscano
+				REGION = special_toscano_culture_region
+			}
+
+			# Any Romanesque counties/rulers in central Italy become Mediano
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:mediano
+				REGION = special_mediano_culture_region
+			}
+
+			# All Romanesque counties/rulers in Emilia become Emilian
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:emilian
+				REGION = special_emilian_culture_region
+			}
+
+			# All Romanesque counties/rulers in Romagna become Romagnol
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:romagnol
+				REGION = special_romagnol_culture_region
+			}
+
+			# All Romanesque counties/rulers in Lombardy become Lombard
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:lombard
+				REGION = special_lombard_culture_region
+			}
+
+			# All Romanesque counties/rulers in Piedmont become Piedmontese
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:piedmontese
+				REGION = special_piedmontese_culture_region
+			}
+
+			# All Romanesque counties/rulers in Liguria become Ligurian
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:ligurian
+				REGION = special_ligurian_culture_region
+			}
+
+			# All Romanesque counties/rulers in Veneto become Venetian
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:venetian
+				REGION = special_venetian_culture_region
+			}
+
+			# All Romanesque counties/rulers in southern Italy become Pugliese
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:pugliese
+				REGION = special_pugliese_culture_region
+			}
+
+			# All Romanesque counties/rulers in Sicily become Sicilian
+			convert_county_and_holder_if_in_region_effect = {
+				OLD_CULTURE = culture:romanesque
+				NEW_CULTURE = culture:sicilian
+				REGION = special_sicilian_culture_region
+			}
+		}
+
+		# Send the appropriate notification event to each player.
+		every_player = {
+			if = {
+				limit = {
+					culture = culture:romanesque
+					any_sub_realm_county = {
+						culture = culture:romanesque
+						title_province = {
+							geographical_region = special_italy_culture_region
+						}
+					}
+				}
+				if = {
+					limit = {
+						NOT = {
+							any_liege_or_above = {
+								is_ai = no
+							}
+						}
+					}
+					trigger_event = global_culture.3016
+				}
+			}
+			else = {
+				if = {
+					limit = {
+						is_ai = no
+						save_temporary_scope_as = player
+						any_in_list = {
+							list = romanesque_counties
+							holder = {
+								is_within_diplo_range = { CHARACTER = scope:player }
+							}
+						}
+					}
+					trigger_event = global_culture.3017
+				}
+			}
+		}
+	}
+}
+
+# If a player is strong enough, they can resist the culture flip for their sub-realm only.
+global_culture.3016 = {
+	type = character_event
+	title = global_culture.3016.t
+	desc = global_culture.3016.desc
+	theme = culture_change
+	left_portrait = root
+
+	immediate = {
+		# Determine what the player's target culture is (based off of religion and capital region)
+		if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_toscano_culture_region
+				}
+			}
+			culture:toscano = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+				geographical_region = special_mediano_culture_region
+				}
+			}
+			culture:mediano = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_emilian_culture_region
+				}
+			}
+			culture:emilian = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_romagnol_culture_region
+				}
+			}
+			culture:romagnol = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_lombard_culture_region
+				}
+			}
+			culture:lombard = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_piedmontese_culture_region
+				}
+			}
+			culture:piedmontese = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_ligurian_culture_region
+				}
+			}
+			culture:ligurian = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_venetian_culture_region
+				}
+			}
+			culture:venetian = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_pugliese_culture_region
+				}
+			}
+			culture:pugliese = { save_scope_as = my_new_culture }
+		}
+		else_if = {
+			limit = {
+				capital_province = {
+					geographical_region = special_sicilian_culture_region
+				}
+			}
+			culture:sicilian = { save_scope_as = my_new_culture }
+		}
+		culture = { save_scope_as = old_culture }
+	}
+
+	# Option 1 (Almost always the only option): Accept the culture conversion.
+	option = {
+		name = global_culture.3016.a
+		convert_player_realm_from_old_culture_to_new_effect = {
+			OLD_CULTURE = culture:romanesque
+			NEW_CULTURE = scope:my_new_culture
+		}
+	}
+
+	# Option 2: I am strong enough to keep our old culture intact!
+	option = {
+		name = global_culture.3016.b
+
+		trigger = {
+			custom_description = {
+				text = controls_enough_culture_counties
+				any_in_list = {
+					list = romanesque_counties
+					percent >= 0.8
+
+					OR = {
+						holder = root
+						holder = {
+							any_liege_or_above = {
+								this = root
+							}
+						}
+					}
+				}
+			}
+		}
+
+		show_as_unavailable = {
+			custom_description = {
+				text = controls_enough_culture_counties	
+				any_in_list = {
+					list = romanesque_counties
+					percent < 0.8
+
+					OR = {
+						holder = root
+						holder = {
+							any_liege_or_above = {
+								this = root
+							}
+						}
+					}
+				}
+			}
+		}
+
+		custom_tooltip = global_culture.custom.keep_culture
+	}
+}
+
+# As this is purely an informative event for players, it doesn't actually have any gameplay effects.
+global_culture.3017 = {
+	type = character_event
+	title = global_culture.3017.t
+	desc = global_culture.3017.desc
+	theme = culture_change
+
+	option = {
+		name = global_culture.3017.a
+	}
+}

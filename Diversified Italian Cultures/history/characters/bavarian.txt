@@ -312,29 +312,9 @@
 	}
 }
 ##Start of dynasty von Wittelsbach
-11060 = {
-	name = "Otto"
-	dynasty = 217
-	martial = 5
-	diplomacy = 7
-	intrigue = 6
-	stewardship = 7
-	religion = "catholic"
-	culture = bavarian
-	trait = education_stewardship_2
-	father = 20257
-	mother = 4257
-	1056.1.1 = {
-		birth = "1056.1.1"
-	}
-	1108.1.1 = {
-		death = "1108.1.1"
-	}
-}
-
 20257 = {
-	name = "Otto"
-	dynasty = 217
+	name = "Otto" #Otto I
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	martial = 6
 	diplomacy = 5
 	intrigue = 6
@@ -345,13 +325,33 @@
 	trait = education_martial_3
 	father = 11061
 	1032.1.1 = {
-		birth = "1032.1.1"
+		birth = yes
 	}
 	1055.1.1 = {
 		add_spouse = 4257
 	}
 	1072.12.4 = {
-		death = "1072.12.4"
+		death = yes
+	}
+}
+
+11060 = {
+	name = "Otto" #Otto II
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 20257
+	mother = 4257
+	1056.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
 	}
 }
 
@@ -359,7 +359,7 @@
 	name = "Hedwig"
 	# AKA: Hedwig
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 7
 	intrigue = 5
@@ -381,7 +381,7 @@
 
 212950 = {
 	name = "Ludwig"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 8
 	diplomacy = 7
 	intrigue = 6
@@ -406,7 +406,7 @@
 212951 = {
 	name = "Sophie"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 4
 	diplomacy = 7
 	intrigue = 8
@@ -428,7 +428,7 @@
 212952 = {
 	name = "Heilika"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 4
 	diplomacy = 7
 	intrigue = 6
@@ -450,7 +450,7 @@
 212953 = {
 	name = "Agnes"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 4
 	diplomacy = 6
 	intrigue = 4
@@ -473,7 +473,7 @@
 212954 = {
 	name = "Heilika"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 4
 	intrigue = 6
@@ -496,7 +496,7 @@
 212955 = {
 	name = "Richardis"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 6
 	intrigue = 7
@@ -517,7 +517,7 @@
 212956 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -538,7 +538,7 @@
 212957 = {
 	name = "Mechtilde"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 6
 	intrigue = 8
@@ -559,7 +559,7 @@
 
 212960 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 4
 	intrigue = 8
@@ -584,7 +584,7 @@
 
 212962 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	martial = 7
 	diplomacy = 8
 	intrigue = 6
@@ -608,7 +608,7 @@
 30099 = {
 	name = "Willibirg"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	father = 33466
@@ -622,7 +622,7 @@
 
 40714 = {
 	name = "Ekkehard"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	martial = 5
 	diplomacy = 7
 	intrigue = 6
@@ -645,7 +645,7 @@
 
 40715 = {
 	name = "Bernhard"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	martial = 7
 	diplomacy = 6
 	intrigue = 7
@@ -666,7 +666,7 @@
 462036 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	trait = lazy
@@ -684,7 +684,7 @@
 462712 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 8
 	intrigue = 7
@@ -704,7 +704,7 @@
 
 462730 = {
 	name = "Stefan"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 7
 	intrigue = 8
@@ -725,7 +725,7 @@
 
 462731 = {
 	name = "Ludwig"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 7
 	intrigue = 5
@@ -750,7 +750,7 @@
 462732 = {
 	name = "Mathilde"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 4
 	intrigue = 5
@@ -772,7 +772,7 @@
 462733 = {
 	name = "Margarete"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 4
 	intrigue = 5
@@ -793,7 +793,7 @@
 462734 = {
 	name = "Anna"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 4
 	intrigue = 5
@@ -814,7 +814,7 @@
 462735 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 4
 	intrigue = 5
@@ -834,7 +834,7 @@
 
 462736 = {
 	name = "Rudolf"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 8
 	diplomacy = 6
 	intrigue = 6
@@ -858,7 +858,7 @@
 
 462737 = {
 	name = "Adolf"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 6
 	intrigue = 6
@@ -882,7 +882,7 @@
 
 462739 = {
 	name = "Ruprecht"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 6
 	intrigue = 6
@@ -902,7 +902,7 @@
 
 462740 = {
 	name = "Ludwig"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 5
@@ -931,7 +931,7 @@
 
 462744 = {
 	name = "Ludwig"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 5
 	intrigue = 4
@@ -953,7 +953,7 @@
 
 462745 = {
 	name = "Wilhelm"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 6
 	intrigue = 8
@@ -977,7 +977,7 @@
 
 462746 = {
 	name = "Albrecht"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 4
 	intrigue = 4
@@ -996,7 +996,7 @@
 
 462747 = {
 	name = "Adolf"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 5
 	intrigue = 6
@@ -1016,7 +1016,7 @@
 
 462748 = {
 	name = "Friedrich"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 8
 	diplomacy = 5
 	intrigue = 6
@@ -1036,7 +1036,7 @@
 
 462749 = {
 	name = "Rudolf"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 8
 	diplomacy = 5
 	intrigue = 6
@@ -1060,7 +1060,7 @@
 
 462750 = {
 	name = "Ludwig"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 5
 	intrigue = 7
@@ -1084,7 +1084,7 @@
 462752 = {
 	name = "Anna"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 5
 	diplomacy = 8
 	intrigue = 5
@@ -1105,7 +1105,7 @@
 
 462753 = {
 	name = "Rudolf"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 6
@@ -1127,7 +1127,7 @@
 462754 = {
 	name = "Mathilde"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 6
@@ -1150,7 +1150,7 @@
 462755 = {
 	name = "Mechthild"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 8
 	diplomacy = 6
 	intrigue = 6
@@ -1172,7 +1172,7 @@
 
 462756 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 6
@@ -1193,7 +1193,7 @@
 
 462757 = {
 	name = "Heinrich"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 7
@@ -1216,7 +1216,7 @@
 
 462758 = {
 	name = "Stefan"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	trait = generous
@@ -1236,7 +1236,7 @@
 
 462760 = {
 	name = "Heinrich"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	trait = gluttonous
@@ -1256,7 +1256,7 @@
 
 462761 = {
 	name = "Johann"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 7
 	diplomacy = 5
 	intrigue = 7
@@ -1277,7 +1277,7 @@
 
 462762 = {
 	name = "Eberhard"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 4
 	diplomacy = 7
 	intrigue = 7
@@ -1297,7 +1297,7 @@
 462763 = {
 	name = "Beatrix"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	trait = lazy
@@ -1314,7 +1314,7 @@
 
 7557 = {
 	name = "Konrad"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	father = 212962
@@ -1330,7 +1330,7 @@
 7559 = {
 	name = "Agnes"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	father = 462750
@@ -1345,7 +1345,7 @@
 
 98009 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	martial = 6
 	diplomacy = 4
 	intrigue = 7
@@ -1370,7 +1370,7 @@
 
 33465 = {
 	name = "Arnold"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	religion = "catholic"
 	culture = bavarian
 	father = 20257
@@ -1385,7 +1385,7 @@
 
 33466 = {
 	name = "Konrad"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	religion = "catholic"
 	culture = bavarian
 	father = 33465
@@ -1399,7 +1399,7 @@
 
 33467 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
 	religion = "catholic"
 	culture = bavarian
 	father = 33465
@@ -1414,7 +1414,7 @@
 33468 = {
 	name = "Adelheid"
 	female = yes
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	father = 33467
@@ -1428,7 +1428,7 @@
 
 170035 = {
 	name = "Otto"
-	dynasty = 217
+	dynasty_house = house_wittelsbach
 	religion = "catholic"
 	culture = bavarian
 	father = 462758
@@ -4366,7 +4366,7 @@
 ## Start of von Otakeren
 1615 = {
 	name = "Otakar" #VII count of Styria
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	martial = 5
 	diplomacy = 5
 	intrigue = 6
@@ -4388,7 +4388,7 @@
 
 1620 = {
 	name = "Otakar" #VI count of Styria
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	martial = 8
 	diplomacy = 5
 	intrigue = 7
@@ -4411,7 +4411,7 @@
 
 40719 = {
 	name = "Adalbero" #count of Styria
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	martial = 4
 	diplomacy = 4
 	intrigue = 7
@@ -4431,7 +4431,7 @@
 
 7677 = {
 	name = "Leopold" #count of Styria
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 1615
@@ -4449,7 +4449,7 @@
 
 7678 = {
 	name = "Otakar" #VIII count of Styia
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7677
@@ -4481,7 +4481,7 @@
 
 7680 = {
 	name = "Otakar" #IX count of Styria
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7678
@@ -4496,7 +4496,7 @@
 
 32001 = {
 	name = "Otakar" #II
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 32000
@@ -4511,7 +4511,7 @@
 
 32002 = {
 	name = "Otakar" #III
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 32001
@@ -4525,7 +4525,7 @@
 
 32003 = {
 	name = "Otakar" #IV
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 32002
@@ -4539,7 +4539,7 @@
 
 32005 = {
 	name = "Otakar" #V
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 32003
@@ -4554,7 +4554,7 @@
 32006 = {
 	name = "Willibirg"
 	female = yes
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 1615
@@ -4570,7 +4570,7 @@
 32007 = {
 	name = "Kunigunde"
 	female = yes
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 1615
@@ -4588,7 +4588,7 @@
 32008 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7677
@@ -4604,7 +4604,7 @@
 32009 = {
 	name = "Margaretha"
 	female = yes
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7677
@@ -4620,7 +4620,7 @@
 32010 = {
 	name = "Kunigunde"
 	female = yes
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7677
@@ -4635,7 +4635,7 @@
 
 32011 = {
 	name = "Leopold"
-	dynasty = 101605
+	dynasty_house = house_otakeren
 	religion = "catholic"
 	culture = bavarian
 	father = 7677
@@ -5289,7 +5289,7 @@
 		birth = "1023.1.1"
 	}
 	1061.1.1 = {
-		add_pressed_claim = d_carinthia
+		add_pressed_claim = title:d_carinthia
 	}
 	1076.6.16 = {
 		death = "1076.6.16"
@@ -5312,7 +5312,7 @@
 		birth = "1048.1.1"
 	}
 	1076.6.16 = {
-		add_pressed_claim = d_carinthia
+		add_pressed_claim = title:d_carinthia
 	}
 	1090.5.12 = {
 		death = "1090.5.12"
@@ -5703,6 +5703,9 @@
 	1039.1.1 = {
 		birth = "1039.1.1"
 	}
+	1061.1.1 = {
+		set_primary_title_to = title:c_frontenhausen
+	}
 	1108.1.1 = {
 		death = "1108.1.1"
 	}
@@ -5810,7 +5813,7 @@
 ## Start of von Andechs
 11062 = {
 	name = "Friedrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 6
 	intrigue = 7
@@ -5831,7 +5834,7 @@
 
 11066 = {
 	name = "Friedrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 6
 	intrigue = 7
@@ -5853,7 +5856,7 @@
 
 144249 = {
 	name = "Heinrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212932
@@ -5868,7 +5871,7 @@
 
 212930 = {
 	name = "Berthold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 6
 	intrigue = 5
@@ -5894,7 +5897,7 @@
 
 212932 = {
 	name = "Berthold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 7
 	diplomacy = 7
 	intrigue = 6
@@ -5918,7 +5921,7 @@
 212933 = {
 	name = "Sophie"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 4
 	intrigue = 6
@@ -5941,7 +5944,7 @@
 212934 = {
 	name = "Kunigunde"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 5
 	intrigue = 6
@@ -5962,7 +5965,7 @@
 
 212935 = {
 	name = "Berthold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 7
 	intrigue = 8
@@ -5986,7 +5989,7 @@
 	name = "Hedwig"
 	# AKA: Hedwig
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 6
 	intrigue = 4
@@ -6007,7 +6010,7 @@
 212944 = {
 	name = "Agnes"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 5
 	intrigue = 6
@@ -6030,7 +6033,7 @@
 
 212945 = {
 	name = "Otto"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 7
 	intrigue = 4
@@ -6055,7 +6058,7 @@
 212946 = {
 	name = "Gertrud"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 4
 	intrigue = 4
@@ -6075,7 +6078,7 @@
 }
 212964 = {
 	name = "Dietrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 7
 	intrigue = 4
@@ -6098,7 +6101,7 @@
 
 212966 = {
 	name = "Engelbert"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 7
 	diplomacy = 7
 	intrigue = 5
@@ -6123,7 +6126,7 @@
 231050 = {
 	name = "Mathilde"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 5
 	diplomacy = 5
 	intrigue = 6
@@ -6145,7 +6148,7 @@
 
 231051 = {
 	name = "Poppo"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 7
 	diplomacy = 5
 	intrigue = 6
@@ -6168,7 +6171,7 @@
 231052 = {
 	name = "Berta"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 5
 	intrigue = 6
@@ -6192,7 +6195,7 @@
 	name = "Adelheid"
 	# AKA: Berta
 	female = yes
-	dynasty = 218 #von Andechs
+	dynasty_house = house_andechs #von Andechs
 	martial = 2
 	diplomacy = 3
 	intrigue = 7
@@ -6211,7 +6214,7 @@
 
 40716 = {
 	name = "Berthold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 7
 	intrigue = 9
@@ -6230,7 +6233,7 @@
 
 40717 = {
 	name = "Berthold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 6
 	intrigue = 7
@@ -6252,7 +6255,7 @@
 
 40718 = {
 	name = "Otto"
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 8
 	diplomacy = 6
 	intrigue = 8
@@ -6275,7 +6278,7 @@
 4257 = {
 	name = "Haziga"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 6
 	intrigue = 7
@@ -6294,7 +6297,7 @@
 
 70834 = {
 	name = "Berthold"  
-	dynasty = 218
+	dynasty_house = house_andechs
 	martial = 4
 	diplomacy = 5
 	intrigue = 5
@@ -6317,7 +6320,7 @@
 7653 = {
 	name = "Adelaide"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212945
@@ -6333,7 +6336,7 @@
 7670 = {
 	name = "Adelheid"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	trait = education_martial_2
@@ -6349,7 +6352,7 @@
 
 7684 = {
 	name = "Otto"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212945
@@ -6368,7 +6371,7 @@
 33416 = {
 	name = "Beatrix"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212945
@@ -6383,7 +6386,7 @@
 
 33511 = {
 	name = "Arnold"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 11062
@@ -6397,7 +6400,7 @@
 
 33512 = {
 	name = "Friedrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 33511
@@ -6411,7 +6414,7 @@
 
 33513 = {
 	name = "Gebhard"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 33511
@@ -6425,7 +6428,7 @@
 
 33514 = {
 	name = "Dietrich"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 33511
@@ -6439,7 +6442,7 @@
 
 33515 = {
 	name = "Otto"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 33511
@@ -6453,7 +6456,7 @@
 
 33516 = {
 	name = "Gebhard"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212966
@@ -6469,7 +6472,7 @@
 33517 = {
 	name = "Kunigunde"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212966
@@ -6484,7 +6487,7 @@
 
 33526 = {
 	name = "Otto"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212964
@@ -6499,7 +6502,7 @@
 
 33527 = {
 	name = "Konrad"
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212964
@@ -6518,7 +6521,7 @@
 33528 = {
 	name = "Hedwig"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212964
@@ -6534,7 +6537,7 @@
 161702 = {
 	name = "Agnes"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212945
@@ -6550,7 +6553,7 @@
 161703 = {
 	name = "Elisabeth"
 	female = yes
-	dynasty = 218
+	dynasty_house = house_andechs
 	religion = "catholic"
 	culture = bavarian
 	father = 212945
@@ -6760,7 +6763,7 @@
 }
 30248 = {
 	name = "Dietrich"
-	dynasty = 7105
+	dynasty_house = house_katlenburg
 	martial = 6
 	diplomacy = 4
 	intrigue = 6
@@ -6779,7 +6782,7 @@
 
 30249 = {
 	name = "Dietrich"
-	dynasty = 7105
+	dynasty_house = house_katlenburg
 	martial = 6
 	diplomacy = 4
 	intrigue = 6
@@ -7304,7 +7307,25 @@
 		death = "1195.1.1"
 	}
 }
-
+70828 = {
+	name = "Gerardo"
+	dynasty = 100358
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = venetian
+	trait = craven
+	trait = shy
+	trait = education_learning_3
+	1064.1.1 = {
+		birth = "1064.1.1"
+	}
+	1128.1.1 = {
+		death = "1128.1.1"
+	}
+}
 70831 = {
 	name = "Gottfried"
 	dynasty = 100358
@@ -9934,90 +9955,6 @@ bavarian0001 = {
 		birth = yes
 	}
 	1055.2.25 = {
-		death = yes
-	}
-}
-
-#Bavarians in Italy
-
-70825 = {
-	name = "Sighard"
-	dynasty = 521
-	martial = 6
-	diplomacy = 3
-	intrigue = 5
-	stewardship = 3
-	religion = "catholic"
-	culture = bavarian
-	trait = intellect_good_1
-	trait = wrathful
-	trait = education_learning_1
-	1025.1.1 = {
-		birth = "1025.1.1"
-	}
-	1077.1.1 = {
-		death = "1077.1.1"
-	}
-}
-
-
-73534 = {
-	name = "Gualtiero"
-	religion = "catholic"
-	culture = "bavarian"
-	trait = education_learning_1
-	1070.1.1 = {
-		birth = "1070.1.1"
-	}
-	1144.1.1 = {
-		death = "1144.1.1"
-	}
-}
-235007 = {
-   name = "Adalbert"
-   dynasty = 803
-   religion = "catholic"
-   culture = "bavarian"
-   737.1.1 = {
-     birth = yes
-   }
-   776.1.1 = {
-     death = yes
-   }
-}
-
-70826 = {
-	name = "Heinrich"
-	dynasty = 100358
-	martial = 4
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 6
-	religion = "catholic"
-	culture = "bavarian"
-	trait = mystic_1
-	trait = education_learning_3
-
-	1030.1.1 = {
-		birth = "1030.1.1"
-	}
-	1084.1.1 = {
-		death = "1084.1.1"
-	}
-}
-
-167896 = {
-	name = "Bonifacio" # Bonifacio (I) Bonifazi 'the Bavarian', Duke of Toscana (812-823) and Count of Lucca (800-823)
-	dynasty = 803
-	religion = "catholic"
-	culture = "bavarian"
-
-	father = 235007
-
-	760.1.1 = {
-		birth = yes
-	}
-	823.10.5 = {
 		death = yes
 	}
 }

@@ -1,6 +1,5 @@
-### Diversified Italian Cultures Western Rome
+﻿### Diversified Italian Cultures Western Rome
 create_western_roman_empire_scripted_effect = {
-	add_trait = augustus
 	#Create Western Roman Empire, shift dejure/history/laws, destroy e_italy.
 	hidden_effect = {
 		every_held_title = { #Should shift all dejure of all Empires owned at the time.
@@ -26,10 +25,7 @@ create_western_roman_empire_scripted_effect = {
 			holder = root
 			change = scope:change
 		}
-		set_variable = {
-			name = variable_western_roman_empire #Used for flavor later.
-			value = yes
-		}
+		copy_title_history = root.primary_title
 	}
 	resolve_title_and_vassal_change = scope:change
 	hidden_effect = { set_primary_title_to = title:e_western_roman_empire }

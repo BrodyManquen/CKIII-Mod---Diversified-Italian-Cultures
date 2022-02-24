@@ -1,0 +1,11 @@
+﻿l_english:
+ ###Diversified Italian Cultures Event localization
+ global_culture.3014.t:0 "Spread of [pugliese.GetNameNoTooltip] Culture"
+ global_culture.3014.desc:0 "The eclectic mix of peoples in Campania and Apulia has given rise a unique culture, affected by the myriad influences.\n\nNow it is clear that the people in the [county_to_change.GetName] no longer see themselves as [old_culture.GetName], but as native [pugliese.GetCollectiveNoun]!"
+ global_culture.3014.a:0 "An interesting development..."
+
+ global_culture.3013.a:0 "Wonderful!"
+
+ global_culture.3016.t:0 "The Splintering of Italian Peoples"
+ global_culture.3016.desc:0 "Up until the expansion of the Roman Republic in the 4th and 3rd centuries before Christ, the Italian peoples lived in communities separated by distinct geographies, languages, and cultures. Out of the Latins, the Etruscans, the Magna Grecians, the Samnites, the Cisalpine Gauls, and many others, the Roman Republic and Empire slowly forged a Roman Italian identity, albiet one still rooted in parochial communalism.\n\nSince the fall of the Western Empire and the failure of the East to hold Italy, and with the invasions of Langobards, Franks, and Saracens, the fragmented peninsula has reverted into parochial identities.\n\nNow, the unique mix of influences in each part of Italy has led elite circles to recognize that the people they govern are no longer just ex-Romans, but instead are diverse peoples with unique customs, histories, and languages. While a fierce pride in Roman roots remains, it is time to recognize what makes each region of Italy unique."
+ global_culture.3016.a:0 "Times are changing..."

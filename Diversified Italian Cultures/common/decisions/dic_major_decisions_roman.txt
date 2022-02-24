@@ -1,0 +1,376 @@
+﻿#Restoring the Poser Roman Empire (as Italia)
+restore_roman_empire_italian_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = restore_roman_empire_italian_decision_desc
+	selection_tooltip = restore_roman_empire_decision_tooltip
+	major = yes
+
+	ai_check_interval = 120
+
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+		has_title = title:e_western_roman_empire
+		NOT = { has_title = title:e_byzantium } #Prioritize the real one.
+		NOT = { has_title = title:e_hre } #And the second fiddle.
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_roman_empire
+			}
+		}
+		culture = {
+			OR = {
+				has_cultural_pillar = heritage_latin
+				has_cultural_pillar = heritage_iberian
+				has_cultural_pillar = heritage_frankish
+				has_cultural_pillar = heritage_south_slavic
+				this = culture:baranis
+				any_parent_culture_or_above = {
+					OR = {
+						has_cultural_pillar = heritage_latin
+						has_cultural_pillar = heritage_iberian
+						has_cultural_pillar = heritage_frankish
+						has_cultural_pillar = heritage_south_slavic
+						this = culture:baranis
+					}
+				}
+			}
+		}
+		#is_target_in_global_variable_list = { #Only available after unifying Italy.
+			#name = unavailable_unique_decisions
+			#target = flag:flag_unified_italian_empire
+		#}
+		OR = {
+			has_government = feudal_government
+			has_government = republic_government
+			has_government = clan_government
+		}
+	}
+
+	is_valid = {
+		prestige_level >= max_prestige_level
+
+		custom_description = {
+			text = restore_roman_empire_decision_tt
+			OR = {
+				religion = religion:christianity_religion
+				religion = religion:hellenism_religion
+				religion = religion:islam_religion
+				culture = culture:roman
+			}
+		}
+		
+		completely_controls = title:d_latium
+		completely_controls = title:d_venice
+		completely_controls = title:d_romagna
+		completely_controls = title:d_sicily
+		completely_controls = title:d_genoa
+		completely_controls = title:d_capua
+		completely_controls = title:d_apulia
+		completely_controls = title:d_thrace
+		completely_controls = title:d_antioch
+		completely_controls = title:d_palestine
+		completely_controls = title:d_alexandria
+		completely_controls = title:d_athens
+		completely_controls = title:d_tunis
+		completely_controls = title:d_croatia
+		completely_controls = title:d_thessalonika
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+	}
+
+	effect = {
+		custom_tooltip = restore_roman_empire_decision_effect_tooltip
+		show_as_tooltip = {
+			create_roman_empire_italy_scripted_effect = yes
+		}
+		trigger_event = {
+			id = roman_restoration.0150
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_roman_empire
+			}
+			set_global_variable = {
+				name = flag_restored_roman_empire
+				value = root
+			}
+		}
+	}
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+#Uniting Italy
+unify_italian_empire_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = unify_italian_empire_decision_desc
+	selection_tooltip = unify_italian_empire_decision_tooltip
+	major = yes
+
+	ai_check_interval = 120
+
+	is_shown = {
+		culture = { has_cultural_pillar = heritage_latin }
+		is_ruler = yes
+		is_landed = yes
+		highest_held_title_tier > 2 #Dukes and above
+		capital_province = { geographical_region = world_europe_south_italy }
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_unified_italian_empire
+			}
+		}
+		NOT = {  #Too late.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_roman_empire
+			}
+		}
+		NOT = {  #Too late.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_western_roman_empire
+			}
+		}
+		NOT = {  #Too late.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_reformed_carolingian_empire
+			}
+		}
+	}
+
+	is_valid = {
+		prestige_level >= very_high_prestige_level
+		has_title = title:e_italy
+		#All the Peninsula
+		completely_controls_region = world_europe_south_italy
+		#And Illyria
+		completely_controls_region = custom_roman_illyricum
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+		is_at_war = no
+	}
+
+	effect = {
+		custom_tooltip = unify_italian_empire_decision_effect_tooltip
+		trigger_event = {
+			id = roman_restoration.0140
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_unified_italian_empire
+			}
+			set_global_variable = {
+				name = flag_unified_italian_empire
+				value = root
+			}
+		}
+	}
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+### Diversified Italian Cultures -- Restore Western Empire
+restore_western_roman_empire_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = restore_western_roman_empire_decision_desc
+	selection_tooltip = restore_western_roman_empire_decision_tooltip
+	major = yes
+
+	ai_check_interval = 120
+
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+		highest_held_title_tier > 2 #Dukes and above
+		capital_province = {
+			OR = {
+				geographical_region = world_europe_south_italy
+				geographical_region = custom_roman_illyricum
+			}
+		}
+		NOT = { has_title = title:e_byzantium } #Prioritize the real one.
+		NOT = { has_title = title:e_hre } #And the second fiddle.
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_western_roman_empire
+			}
+		}
+		culture = {
+			OR = {
+				has_cultural_pillar = heritage_latin
+				has_cultural_pillar = heritage_iberian
+				has_cultural_pillar = heritage_frankish
+				has_cultural_pillar = heritage_south_slavic
+				this = culture:baranis
+				any_parent_culture_or_above = {
+					OR = {
+						has_cultural_pillar = heritage_latin
+						has_cultural_pillar = heritage_iberian
+						has_cultural_pillar = heritage_frankish
+						has_cultural_pillar = heritage_south_slavic
+						this = culture:baranis
+					}
+				}
+			}
+		}
+		OR = {
+			has_government = feudal_government
+			has_government = republic_government
+			has_government = clan_government
+		}
+	}
+
+	is_valid = {
+		prestige_level >= max_prestige_level
+		highest_held_title_tier > 4 #Only Emperors
+
+		custom_description = {
+			text = restore_roman_empire_decision_tt
+			OR = {
+				religion = religion:christianity_religion
+				religion = religion:hellenism_religion
+				religion = religion:islam_religion
+				culture = culture:roman
+			}
+		}
+		
+		completely_controls = title:d_latium
+		completely_controls = title:d_venice
+		completely_controls = title:d_romagna
+		completely_controls = title:d_sicily
+		completely_controls = title:d_genoa
+		completely_controls = title:d_capua
+		completely_controls = title:d_apulia
+		completely_controls = title:d_dauphine
+		completely_controls = title:d_provence
+		completely_controls = title:d_sevilla
+		completely_controls = title:d_valois
+		completely_controls = title:d_aquitaine
+		completely_controls = title:d_tunis
+		completely_controls = title:d_croatia
+		completely_controls = title:d_murcia
+		completely_controls = title:d_barcelona
+		completely_controls = title:d_alger
+		completely_controls = title:d_rif
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+	}
+
+	effect = {
+		custom_tooltip = restore_western_roman_empire_decision_effect_tooltip
+		show_as_tooltip = {
+			create_western_roman_empire_scripted_effect = yes
+		}
+		trigger_event = {
+			id = roman_restoration.0180
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_western_roman_empire
+			}
+		}
+	}
+
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+set_capital_rome_as_western_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds"
+
+	desc = set_capital_rome_decision_desc
+	selection_tooltip = set_capital_rome_decision_tooltip
+	major = yes
+
+	ai_check_interval = 12
+
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+		has_title = title:e_western_roman_empire
+		NOT = { capital_county = { this = title:c_roma } }
+		OR = {
+			title:c_roma.holder = { 	
+				any_liege_or_above = { this = root }
+			}
+			title:c_roma.holder = { this = root }
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+	}
+
+	effect = {
+		if = { #Usurp if not held personally.
+			limit = {
+				NOT = { title:c_roma.holder = { this = root } }
+			}
+			create_title_and_vassal_change = {
+				type = returned
+				save_scope_as = change
+				add_claim_on_loss = no
+			}
+			title:c_roma = {
+				change_title_holder = {
+					holder = root
+					change = scope:change
+				}
+			}
+			resolve_title_and_vassal_change = scope:change
+
+		}
+		set_realm_capital = title:c_roma
+	}
+	
+	ai_potential = {
+		has_title = title:e_western_roman_empire
+	}
+
+	ai_will_do = { #Do it always, for coherence.
+		base = 100
+	}
+}

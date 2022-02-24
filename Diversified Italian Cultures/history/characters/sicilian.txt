@@ -2963,7 +2963,7 @@ sicilian0008 = {
 	intrigue = 5
 	stewardship = 4
 	religion = "catholic"
-	culture = "cisalpine"
+	culture = "sicilian"
 	trait = temperate
 	trait = education_learning_2
 

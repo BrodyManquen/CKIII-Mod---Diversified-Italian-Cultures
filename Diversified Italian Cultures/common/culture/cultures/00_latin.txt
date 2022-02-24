@@ -1,11 +1,19 @@
 ﻿toscano = {
 
 	color = { 0.6 0.6 0.28 }
+<<<<<<< Updated upstream
 	
 	parents = { romanesque }
 	
 	created = 950.1.1
 	
+=======
+
+	parents = { romanesque }
+
+	created = 950.1.1
+
+>>>>>>> Stashed changes
 	ethos = ethos_communal
 	heritage = heritage_latin
 	language = language_italian
@@ -15,6 +23,7 @@
 		tradition_republican_legacy
 		tradition_city_keepers
 		tradition_poetry
+<<<<<<< Updated upstream
 	}
 	
 	name_list = name_list_toscano
@@ -50,10 +59,17 @@ mediano = {
 	
 	name_list = name_list_mediano
 	
+=======
+	}
+
+	name_list = name_list_toscano
+
+>>>>>>> Stashed changes
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
+<<<<<<< Updated upstream
 	
 	ethnicities = {
 		10 = mediterranean_central
@@ -80,10 +96,70 @@ pugliese = {
 	
 	name_list = name_list_pugliese
 	
+=======
+
+	ethnicities = {
+	10 = mediterranean_central
+	}
+
+}
+mediano = {
+
+	color = { 0.99 0.97 1.0 }
+
+	parents = { romanesque }
+
+	created = 950.1.1
+
+	ethos = ethos_spiritual
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_republican_legacy
+		tradition_city_keepers
+		tradition_monastic_communities
+	}
+
+	name_list = name_list_mediano
+
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+	10 = mediterranean_central
+	}
+
+}
+pugliese = {
+
+	color = { 0.75 0.75 0.3 }
+
+	parents = { romanesque langobard } #greek
+
+	created = 950.1.1
+
+	ethos = ethos_courtly
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_republican_legacy
+		tradition_culture_blending
+	}
+
+	name_list = name_list_pugliese
+
+>>>>>>> Stashed changes
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+<<<<<<< Updated upstream
 	
 	ethnicities = {
 		10 = mediterranean_southern
@@ -151,6 +227,76 @@ romanesque = {
 	color = { 0.75 0.15 0.15 }
 	
 	created = 476.11.4
+=======
+
+	ethnicities = {
+		10 = mediterranean_southern
+	}
+
+}
+italian = {
+	color = italian
+
+	parents = { roman }
+
+	created = 476.11.4
+
+	ethos = ethos_spiritual
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_republican_legacy
+		tradition_poetry
+	}
+
+	name_list = name_list_italian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = mediterranean_central
+	}
+}
+
+roman = {
+	color = { 0.8 0.1 0.1 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_latin
+	language = language_latin
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_roman_legacy
+		tradition_poetry
+		tradition_hereditary_hierarchy
+	}
+
+	name_list = name_list_roman
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_central
+	}
+}
+romanesque = {
+
+	color = { 0.75 0.15 0.15 }
+
+	parent = { roman }
+	
+	created = 476.11.4
 
 	ethos = ethos_communal
 	heritage = heritage_latin
@@ -159,13 +305,126 @@ romanesque = {
 	traditions = {
 		tradition_formation_fighting
 		tradition_legalistic
+		tradition_parochialism
+		tradition_fervent_temple_builders
+	}
+
+	name_list = name_list_romanesque
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_central
+	}
+
+}
+cisalpine = {
+
+	color = { 0.95 0.95 0.55 }
+
+	created = 800.1.1
+
+	parents = { romanesque langobard } #french
+
+	ethos = ethos_communal
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_republican_legacy
+		tradition_mountain_homes
+		tradition_maritime_mercantilism
+	}
+
+	name_list = name_list_cisalpine
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		10 = mediterranean_northern
+
+}
+}
+emilian = {
+
+	color = { 1.0 0.90 0.90 }
+
+	parents = { romanesque langobard }
+
+	created = 950.1.1
+
+	ethos = ethos_communal
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_republican_legacy
+		tradition_city_keepers
+		tradition_poetry
+	}
+
+	name_list = name_list_emilian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_central
+	}
+
+}
+
+romagnol = {
+
+	color = { 0.95 0.80 0.80 }
+
+	parents = { romanesque langobard }
+
+	created = 950.1.1
+>>>>>>> Stashed changes
+
+	ethos = ethos_communal
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+<<<<<<< Updated upstream
+		tradition_legalistic
 		tradition_roman_legacy
 		tradition_parochialism
 		tradition_hereditary_hierarchy	
+=======
+		tradition_republican_legacy
+		tradition_city_keepers
+		tradition_poetry
+	}
+
+	name_list = name_list_romagnol
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_central
+>>>>>>> Stashed changes
 	}
 	
 	name_list = name_list_romanesque
 
+<<<<<<< Updated upstream
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
@@ -174,8 +433,39 @@ romanesque = {
 
 	ethnicities = {
 		10 = mediterranean_central
+=======
+}
+
+sardinian = {
+	color = sardinian
+
+	parents = { roman }
+
+	created = 100.1.1
+
+	ethos = ethos_stoic
+	heritage = heritage_latin
+	language = language_sardinian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_isolationist
 	}
 
+	name_list = name_list_sardinian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_southern
+>>>>>>> Stashed changes
+	}
+}
+
+<<<<<<< Updated upstream
 }
 cisalpine = {
 
@@ -186,10 +476,21 @@ cisalpine = {
 	parents = { frankish langobard romanesque }
 	
 	ethos = ethos_communal
+=======
+sicilian = {
+	color = { 0.65 0.65 0.2 }
+
+	parents = { romanesque greek } 
+
+	created = 700.1.1
+
+	ethos = ethos_courtly
+>>>>>>> Stashed changes
 	heritage = heritage_latin
 	language = language_italian
 	martial_custom = martial_custom_male_only
 	traditions = {
+<<<<<<< Updated upstream
 		tradition_republican_legacy
 		tradition_mountain_homes
 		tradition_maritime_mercantilism
@@ -197,10 +498,52 @@ cisalpine = {
 	
 	name_list = name_list_cisalpine
 	
+=======
+		tradition_xenophilic
+		tradition_swords_for_hire
+		tradition_ruling_caste
+		tradition_poetry
+		tradition_republican_legacy
+	}
+
+	name_list = name_list_sicilian
+
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_southern
+	}
+}
+
+piedmontese = {
+
+ color = { 0.89 0.66 0.41 }
+
+	parents = { romanesque french} 
+
+	created = 950.1.1
+
+	ethos = ethos_communal
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_republican_legacy
+		tradition_mountain_homes
+		tradition_formation_fighting
+	}
+
+	name_list = name_list_piedmontese
+
+>>>>>>> Stashed changes
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+<<<<<<< Updated upstream
 	
 	ethnicities = {
 		10 = mediterranean_northern
@@ -476,6 +819,139 @@ langobard = {
 	
 	ethnicities = {
 		10 = mediterranean_northern
+=======
+
+ ethnicities = {
+			10 = mediterranean_northern
+ }
+
+}
+
+lombard = {
+
+ color = { 0.95 0.95 0.75 }
+
+	parents = { romanesque langobard } #french
+
+	created = 950.1.1
+
+	ethos = ethos_communal
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_republican_legacy
+		tradition_city_keepers
+		tradition_mountain_homes
+		tradition_formation_fighting
+	}
+
+	name_list = name_list_lombard
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+ ethnicities = {
+			10 = mediterranean_northern
+ }
+
+}
+
+ligurian = {
+
+ color = { 0.91 0.78 0.65 }
+ 
+ parents = { romanesque }
+
+ created = 950.1.1
+
+ ethos = ethos_communal
+ heritage = heritage_latin
+ language = language_italian
+ martial_custom = martial_custom_male_only
+ traditions = {
+	 tradition_republican_legacy
+	 tradition_formation_fighting
+	 tradition_maritime_mercantilism
+	 tradition_hill_dwellers
+ }
+
+ name_list = name_list_ligurian
+
+ coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+ building_gfx = { mediterranean_building_gfx }
+ clothing_gfx = { western_clothing_gfx }
+ unit_gfx = { western_unit_gfx }
+
+ ethnicities = {
+			10 = mediterranean_northern
+ }
+
+}
+
+venetian = {
+
+ color = { 0.90 0.90 0.98 }
+ 
+ parents = { romanesque }
+
+ created = 950.1.1
+
+ ethos = ethos_communal
+ heritage = heritage_latin
+ language = language_italian
+ martial_custom = martial_custom_male_only
+ traditions = {
+	 tradition_republican_legacy
+	 tradition_formation_fighting
+	 tradition_maritime_mercantilism
+	 tradition_mountain_homes
+ }
+
+ name_list = name_list_venetian
+
+ coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+ building_gfx = { mediterranean_building_gfx }
+ clothing_gfx = { western_clothing_gfx }
+ unit_gfx = { western_unit_gfx }
+
+ ethnicities = {
+			10 = mediterranean_northern
+ }
+
+}
+
+langobard = {
+
+	color = langobard
+
+	ethos = ethos_stoic
+	heritage = heritage_central_germanic
+	language = language_central_germanic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+		tradition_martial_admiration
+		tradition_stand_and_fight
+	}
+
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+
+	name_list = name_list_langobard
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+			10 = mediterranean_northern
+>>>>>>> Stashed changes
 	}
 
 }
