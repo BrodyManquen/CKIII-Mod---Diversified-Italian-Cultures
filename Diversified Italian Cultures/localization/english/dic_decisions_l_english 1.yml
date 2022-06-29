@@ -1,0 +1,11 @@
+﻿l_english:
+ restore_western_roman_empire_decision:0 "Restore the Western Roman Empire"
+ restore_western_roman_empire_decision_confirm:0 "I will restore the Western Empire"
+ restore_western_roman_empire_decision_tooltip:0 "The Western Roman Empire will be restored"
+ restore_western_roman_empire_decision_desc:0 "If Rome and other key territories in the Western half of the old empire could be reclaimed, the uniting state would win recognition in the eyes of the Germans and of the East alike as the true and rightful continuation of the Western Roman State."
+ restore_western_roman_empire_decision_effect_tooltip:0 "The Western Roman Empire will be restored and acquire the [de_jure|E] of all currently held Empires."
+ 
+ reformed_western_roman_empire_opinion:0 "Reformed the $e_western_roman_empire$"
+
+ set_capital_rome_as_western_decision:0 "Reclaim Rome"
+ set_capital_rome_as_western_decision_confirm:0 "Restore the true seat of the Empire!"

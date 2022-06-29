@@ -1,0 +1,61 @@
+﻿namespace = middle_europe_decisions
+
+middle_europe_decisions.0016 = {
+	type = character_event
+	title = middle_europe_decisions.0015.t
+	desc = middle_europe_decisions.0016.desc
+	theme = realm
+	left_portrait =	{
+		character = scope:founder
+		animation = personality_bold
+	}
+
+	immediate = {
+		#Other emperors are not happy about this.
+		if = {
+			limit = { highest_held_title_tier = tier_empire }
+			play_music_cue = "mx_cue_combat_2"
+		}
+	}
+
+	#Well, that happened.
+	option = {
+		name = {	#Other emperors are threatened.
+			trigger = {
+				highest_held_title_tier = tier_empire
+				NOR = {
+					has_title = title:e_byzantium
+					has_title = title:e_western_roman_empire
+				}
+			}
+			text = middle_europe_decisions.0016.a
+		}
+		name = {	#The other Roman emperors is a tad pissed off.
+			trigger = {
+				OR = {
+					has_title = title:e_byzantium
+					has_title = title:e_western_roman_empire
+				}
+			}
+			text = middle_europe_decisions.0016.b
+		}
+		name = {	#All other rulers fear Roman invasion.
+			trigger = {
+				NOR = {
+					highest_held_title_tier = tier_empire
+					any_liege_or_above = { this = scope:founder }
+				}
+			}
+			text = middle_europe_decisions.0016.c
+		}
+		name = {
+			trigger = {
+				any_liege_or_above = { this = scope:founder }
+			}
+			text = middle_europe_decisions.0016.d
+		}
+		ai_chance = {	#Solo option.
+			base = 100
+		}
+	}
+}

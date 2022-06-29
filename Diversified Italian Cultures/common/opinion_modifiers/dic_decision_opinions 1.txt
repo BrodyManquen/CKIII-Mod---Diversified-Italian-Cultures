@@ -1,0 +1,5 @@
+﻿reformed_western_roman_empire_opinion = {
+	opinion = 50
+	years = 30
+	decaying = yes
+}
